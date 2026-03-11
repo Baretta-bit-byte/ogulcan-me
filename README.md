@@ -1,6 +1,6 @@
 # ogulcan.me — Digital Garden & Portfolio
 
-> A seamless fusion of a personal Digital Garden and a professional showcase, built for 2026 Summer Software Dev Internships.
+>A personal Digital Garden and a professional showcase built in 2026 Spring.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
