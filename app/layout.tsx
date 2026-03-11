@@ -8,6 +8,7 @@ import LeftSidebar from "@/components/LeftSidebar";
 import SidebarSkeleton from "@/components/SidebarSkeleton";
 import RightPanel from "@/components/RightPanel";
 import { RightPanelProvider } from "@/lib/rightPanelContext";
+import Footer from "@/components/Footer";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -61,7 +62,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
               {/* Center: scrollable main content */}
               <main className="flex-1 overflow-y-auto px-10 py-12 lg:px-16">
-                <div className="mx-auto max-w-2xl">{children}</div>
+                <div className="mx-auto max-w-2xl">
+                  {children}
+                  <Footer />
+                </div>
               </main>
 
               {/* Right: graph + TOC */}
