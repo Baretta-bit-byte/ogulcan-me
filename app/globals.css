@@ -22,10 +22,10 @@ code, kbd, samp, pre, .mono {
   font-family: var(--font-mono);
 }
 
-/* Smooth theme transition */
-*, *::before, *::after {
+/* Smooth theme transition — only active AFTER first paint (prevents FOUC flash) */
+.theme-ready *, .theme-ready *::before, .theme-ready *::after {
   transition-property: background-color, border-color, color;
-  transition-duration: 200ms;
+  transition-duration: 150ms;
   transition-timing-function: ease;
 }
 
