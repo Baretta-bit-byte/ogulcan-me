@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
+import { Suspense } from "react";
 import "./globals.css";
 import ThemeProvider from "@/components/ThemeProvider";
+import ThemeReadyGate from "@/components/ThemeReadyGate";
 import LeftSidebar from "@/components/LeftSidebar";
+import SidebarSkeleton from "@/components/SidebarSkeleton";
 import RightPanel from "@/components/RightPanel";
 import { RightPanelProvider } from "@/lib/rightPanelContext";
 
@@ -31,12 +34,30 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       className={`${inter.variable} ${jetbrainsMono.variable}`}
       suppressHydrationWarning
     >
-      <body className="bg-slate-50 text-slate-900 transition-colors duration-200 dark:bg-slate-900 dark:text-slate-200">
+      <head>
+        {/*
+          Blocking inline script — runs synchronously before first paint.
+          Reads localStorage and applies the 'dark' class immediately,
+          so the browser paints in the correct theme from frame 1.
+          Defaults to dark if no preference is stored.
+        */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem('theme');document.documentElement.classList.toggle('dark',t?t==='dark':true)}catch(e){}})()`,
+          }}
+        />
+      </head>
+      <body className="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-200">
+        {/* Enables color transitions only after first paint */}
+        <ThemeReadyGate />
+
         <ThemeProvider>
           <RightPanelProvider>
             <div className="flex h-screen overflow-hidden">
-              {/* Left: sticky sidebar */}
-              <LeftSidebar />
+              {/* Left: sidebar with skeleton fallback during hydration */}
+              <Suspense fallback={<SidebarSkeleton />}>
+                <LeftSidebar />
+              </Suspense>
 
               {/* Center: scrollable main content */}
               <main className="flex-1 overflow-y-auto px-10 py-12 lg:px-16">
