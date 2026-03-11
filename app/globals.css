@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Enable class-based dark mode for Tailwind v4 */
+@variant dark (&:where(.dark, .dark *));
+
+:root {
+  --font-inter: var(--font-inter, "Inter", sans-serif);
+  --font-mono: var(--font-mono, "JetBrains Mono", monospace);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-inter);
+  -webkit-font-smoothing: antialiased;
+}
+
+code, kbd, samp, pre, .mono {
+  font-family: var(--font-mono);
+}
+
+/* Smooth theme transition */
+*, *::before, *::after {
+  transition-property: background-color, border-color, color;
+  transition-duration: 200ms;
+  transition-timing-function: ease;
+}
+
+/* Thin custom scrollbar — dark mode */
+.dark ::-webkit-scrollbar { width: 4px; height: 4px; }
+.dark ::-webkit-scrollbar-track { background: transparent; }
+.dark ::-webkit-scrollbar-thumb { background: #334155; border-radius: 2px; }
+
+/* Thin custom scrollbar — light mode */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 2px; }

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export PATH=\"$PATH:/c/Program Files/nodejs\" && cd \"C:/Users/OĞULCAN/Desktop/MEWebsite\" && npm install next-themes lucide-react 2>&1)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/nodejs\" && cd \"C:/Users/OĞULCAN/Desktop/MEWebsite\" && npm run dev 2>&1)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/nodejs\" && cd \"C:/Users/OĞULCAN/Desktop/MEWebsite\" && npm install @tailwindcss/typography 2>&1)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/nodejs\" && cd \"C:/Users/OĞULCAN/Desktop/MEWebsite\" && npm run build 2>&1)"
+    ]
+  }
+}
