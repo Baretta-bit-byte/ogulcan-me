@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
@@ -24,11 +25,10 @@ const NAV_ITEMS = [
   { href: "/github",    label: "GitHub",      icon: Github     },
   { href: "/spotify",   label: "Spotify",     icon: Music2     },
   { href: "/books",     label: "Books",       icon: BookOpen   },
+  { href: "/vinyl",     label: "Vinyl",       icon: Disc3      },
 ];
 
-const SOON_ITEMS = [
-  { label: "Vinyl", icon: Disc3 },
-];
+const SOON_ITEMS: { label: string; icon: React.ComponentType<{ size?: number; strokeWidth?: number; className?: string }> }[] = [];
 
 function isActive(href: string, pathname: string): boolean {
   if (href === "/") return pathname === "/";

@@ -1,0 +1,76 @@
+{
+  "records": [
+    {
+      "id":     1,
+      "title":  "Kind of Blue",
+      "artist": "Miles Davis",
+      "year":   1959,
+      "genre":  "Jazz",
+      "image":  null,
+      "url":    "https://www.discogs.com/Miles-Davis-Kind-Of-Blue/master/26688"
+    },
+    {
+      "id":     2,
+      "title":  "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "year":   1973,
+      "genre":  "Rock",
+      "image":  null,
+      "url":    "https://www.discogs.com/Pink-Floyd-The-Dark-Side-Of-The-Moon/master/10362"
+    },
+    {
+      "id":     3,
+      "title":  "OK Computer",
+      "artist": "Radiohead",
+      "year":   1997,
+      "genre":  "Alternative",
+      "image":  null,
+      "url":    "https://www.discogs.com/Radiohead-OK-Computer/master/21926"
+    },
+    {
+      "id":     4,
+      "title":  "Homework",
+      "artist": "Daft Punk",
+      "year":   1997,
+      "genre":  "Electronic",
+      "image":  null,
+      "url":    "https://www.discogs.com/Daft-Punk-Homework/master/9954"
+    },
+    {
+      "id":     5,
+      "title":  "Mezzanine",
+      "artist": "Massive Attack",
+      "year":   1998,
+      "genre":  "Trip-Hop",
+      "image":  null,
+      "url":    "https://www.discogs.com/Massive-Attack-Mezzanine/master/11759"
+    },
+    {
+      "id":     6,
+      "title":  "Music Has the Right to Children",
+      "artist": "Boards of Canada",
+      "year":   1998,
+      "genre":  "Electronic",
+      "image":  null,
+      "url":    "https://www.discogs.com/Boards-Of-Canada-Music-Has-The-Right-To-Children/master/14322"
+    },
+    {
+      "id":     7,
+      "title":  "In Rainbows",
+      "artist": "Radiohead",
+      "year":   2007,
+      "genre":  "Alternative",
+      "image":  null,
+      "url":    "https://www.discogs.com/Radiohead-In-Rainbows/master/117799"
+    },
+    {
+      "id":     8,
+      "title":  "Random Access Memories",
+      "artist": "Daft Punk",
+      "year":   2013,
+      "genre":  "Electronic",
+      "image":  null,
+      "url":    "https://www.discogs.com/Daft-Punk-Random-Access-Memories/master/540588"
+    }
+  ]
+}
