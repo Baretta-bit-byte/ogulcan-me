@@ -1,6 +1,6 @@
 # ogulcan.me — Digital Garden & Portfolio
 
->A personal Digital Garden and a professional showcase built in 2026 Spring.
+> A personal Digital Garden and professional showcase built in 2026 Spring.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
@@ -11,10 +11,9 @@
 
 ## What This Is
 
-This is not a standard portfolio. It is an interconnected, explorable knowledge graph where every page — project, mathematics note, community activity — is a **node** you can navigate visually.
+Not a standard portfolio. Every page — project, math note, community activity, GitHub dashboard, Spotify, books, vinyl — is a **node** in an interactive knowledge graph you can explore visually.
 
-**Design inspirations:** Anthony Fu (animated signature, minimalism) · Theo Winter (3-column layout, interactive graph) · Brian Ton (content hierarchy)
-https://antfu.me/ | https://theowinter.ch/ | https://www.brianton.me/
+**Design inspirations:** Anthony Fu · Theo Winter · Brian Ton · chrisvogt.me
 
 ---
 
@@ -22,10 +21,20 @@ https://antfu.me/ | https://theowinter.ch/ | https://www.brianton.me/
 
 ```
 3-Column Layout
-├── Left Sidebar   — Sticky: animated SVG signature, nav links, light/dark toggle
-├── Center Column  — Scrollable: all content (bio, projects, math, community)
+├── Left Sidebar   — Sticky: animated SVG signature (OT cursive, draw-erase loop)
+│                    nav links (all live), light/dark organic toggle
+├── Center Column  — Scrollable: all content + footer
 └── Right Panel    — Sticky: interactive knowledge graph + table of contents
 ```
+
+### Infrastructure
+
+| | |
+|---|---|
+| **Domain** | `ogulcantokmak.me` |
+| **Hosting** | GitHub Pages (static export — `output: "export"`) |
+| **CDN** | Cloudflare (proxied DNS, DDoS protection, Full SSL/TLS) |
+| **CI/CD** | GitHub Actions: `main` push → prebuild scripts → `next build` → deploy |
 
 ### Tech Stack
 
@@ -34,57 +43,128 @@ https://antfu.me/ | https://theowinter.ch/ | https://www.brianton.me/
 | Framework | Next.js 16 (App Router) |
 | Language | TypeScript 5 |
 | Styling | Tailwind CSS v4 |
-| Animations | Framer Motion |
+| Animations | Framer Motion v12 |
 | Graph | react-force-graph-2d |
 | Tooltips | Radix UI HoverCard |
-| Theming | next-themes (light/dark) |
+| Theming | next-themes + View Transitions API |
 | Icons | Lucide React |
 
 ---
 
 ## Pages
 
-| Route | Description |
-|---|---|
-| `/` | Home — bio, project previews, math highlights |
-| `/projects` | Projects index |
-| `/projects/secureexam-generator` | SecureExam-Generator article |
-| `/projects/notepadio` | NotePadNeo article |
-| `/math` | Mathematics index |
-| `/math/game-theory` | Game Theory — Ali Nesin Mathematics Village |
-| `/math/izmir-festival` | Izmir Mathematics Festival |
-| `/community` | Community index |
-| `/community/tba` | Turkish Informatics Association |
-| `/community/volunteering` | AFAD & LÖSEV Volunteering |
+| Route | Description | Data Source |
+|---|---|---|
+| `/` | Home — bio, project previews, math highlights | Static |
+| `/projects` | Projects index | Static |
+| `/projects/secureexam-generator` | SecureExam-Generator article | Static |
+| `/projects/notepadio` | NotePadIo article | Static |
+| `/math` | Mathematics index | Static |
+| `/math/game-theory` | Game Theory — Ali Nesin Mathematics Village | Static |
+| `/math/izmir-festival` | Izmir Mathematics Festival | Static |
+| `/community` | Community index | Static |
+| `/community/tba` | Turkish Informatics Association | Static |
+| `/community/volunteering` | AFAD & LÖSEV Volunteering | Static |
+| `/github` | GitHub dashboard — repos, last PR, contribution heatmap | GitHub REST API (client-side) |
+| `/spotify` | Spotify top 12 tracks (last 4 weeks) | Build-time fetch → `public/spotify-data.json` |
+| `/books` | Reading log — 12 finished books | Manual `public/books-data.json` + Open Library covers |
+| `/vinyl` | Vinyl collection — spinning circular records | Manual `public/vinyl-data.json` + optional Discogs API |
 
 ---
 
 ## Key Features
 
-- **Animated SVG signature** — Draws on load using Framer Motion path animation
-- **Interactive knowledge graph** — Local neighborhood view per page; click to navigate
-- **Full graph overlay** — Expand icon opens the complete site map
-- **Hover tooltips** — Internal links show contextual preview cards without navigating
-- **Light / Dark mode** — Seamless toggle (Slate-900 ↔ Slate-50)
-- **Table of Contents** — Auto-injected per article page, smooth scroll anchors
-- **Breadcrumb navigation** — Deep-link aware trail on every sub-page
+- **Animated SVG signature** — Cursive "OT" draws left-to-right then erases, loops forever
+- **Organic theme toggle** — View Transitions API circular spotlight reveal from click origin
+- **Interactive knowledge graph** — Local neighborhood per page; click to navigate
+- **Full graph overlay** — Expand opens complete site map with color legend
+- **Hover tooltip cards** — Internal links preview content without navigating
+- **GitHub Dashboard** — Live repos, last PR, contribution heatmap (client-side GitHub API)
+- **Spotify Top Tracks** — 4-column album art grid, 30s audio preview on hover
+- **Books Reading Log** — 6-column cover grid (Open Library), hover reveals rating + date
+- **Vinyl Collection** — Circular records with CSS grooves, spin on hover, SVG arc text
+- **Table of Contents** — Auto-injected per article page
+- **Footer easter eggs** — `~` tooltip + Konami code `↑↑↓↓←→←→BA`
+- **`cd ../` terminal nav** — Footer always links back to parent path
 
 ---
 
 ## Getting Started
 
 ```bash
-# Install dependencies
 npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
+npm run dev         # localhost:3000 (Spotify/Discogs data will be empty without secrets)
+npm run build       # runs prebuild scripts first, then next build
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+---
+
+## Live Data Setup
+
+### Spotify (top tracks)
+
+The build script runs automatically — you just need three GitHub Actions secrets:
+
+1. Go to [developer.spotify.com/dashboard](https://developer.spotify.com/dashboard) → Create App
+2. Set redirect URI: `http://localhost:8888/callback`
+3. Authorize and get a `refresh_token` with scope `user-top-read user-read-private playlist-read-private`
+4. Add secrets to GitHub Actions → Repo Settings → Secrets → Actions:
+   - `SPOTIFY_CLIENT_ID`
+   - `SPOTIFY_CLIENT_SECRET`
+   - `SPOTIFY_REFRESH_TOKEN`
+
+### Discogs (vinyl collection)
+
+1. Go to [discogs.com/settings/developers](https://www.discogs.com/settings/developers) → Generate Personal Access Token
+2. Add secrets:
+   - `DISCOGS_USERNAME`
+   - `DISCOGS_USER_TOKEN`
+
+> Without these secrets the build still completes — Spotify falls back to empty JSON, Discogs keeps the existing `vinyl-data.json`.
+
+### Books (reading log)
+
+No secrets needed. Edit `public/books-data.json` directly:
+
+```json
+{
+  "isbn":     "9780374533557",
+  "title":    "Book Title",
+  "author":   "Author Name",
+  "finished": "2026-03-12",
+  "rating":   5,
+  "url":      "https://openlibrary.org/isbn/..."
+}
+```
+
+Cover art is fetched automatically from Open Library using the ISBN.
+
+---
+
+## Roadmap
+
+### ✅ Completed
+
+- [x] 3-column layout skeleton (sidebar, main, right panel)
+- [x] Animated SVG signature — cursive OT, draw-and-erase loop
+- [x] Organic Theme Toggle — View Transitions API circular reveal
+- [x] Interactive knowledge graph (local + full modal)
+- [x] Hover tooltip cards (LinkedTerm + HoverTooltip)
+- [x] All content pages (projects, math, community)
+- [x] Floating pill sidebar with Framer Motion active state
+- [x] Footer — social icons, cd../ nav, easter eggs (~ button + Konami code)
+- [x] GitHub Dashboard — repos, last PR, contribution heatmap
+- [x] Spotify Top Tracks — build-time fetch, audio preview
+- [x] Books Reading Log — Open Library covers, star rating, hover overlay
+- [x] Vinyl Collection — circular records, CSS grooves, spinning hover, arc text
+- [x] Graph: all new pages wired as nodes (github, spotify, books, vinyl)
+
+### 🔲 Pending
+
+- [ ] **2.5D Signature** — depth/shadow revamp of the SVG OT signature
+- [ ] **Latest Posts / Blog** — MDX-based writing section
+- [ ] **Flickr / Photography** — optional photo grid integration
+- [ ] **Steam** — optional gaming activity widget
 
 ---
 
@@ -92,51 +172,19 @@ Open [http://localhost:3000](http://localhost:3000).
 
 | Version | Description |
 |---|---|
-| **v2 (current)** | Footer added |
-| **v2** | Next.js 16 + Tailwind + Framer Motion + react-force-graph-2d |
+| **v2.3 (current)** | GitHub, Spotify, Books, Vinyl pages + organic theme toggle |
+| **v2.2** | Footer redesign, easter eggs, sidebar floating pill |
+| **v2.1** | Graph interactivity, hover cards, all content pages, signature animation |
+| **v2.0** | Next.js 16 + Tailwind + Framer Motion + react-force-graph-2d |
 | **[v1](./v1/)** | Original plain HTML/CSS portfolio (April 2025) |
 
-The original HTML portfolio is preserved in [`./v1/`](./v1/) as a snapshot of where this started.
-
 ---
-## Upcoming Features
-🎨 UI, UX & Animations
 
-2.5D Signature Animation: Revamp the SVG signature drawing animation on the hero section with a 2.5D effect to mimic a highly realistic, hand-drawn aesthetic.
-
-Organic Theme Toggle: Upgrade the Light/Dark mode switch. Instead of an instant color swap, implement an ultra-smooth, organic transition that mimics a physical light switch illuminating the background fluidly.
-
-Interactive Vinyl Records: Enhance the "Vinyl Collection" section with interactive CD/record UI elements that respond to user interactions (spinning/hover effects).
-
-📡 Live Data Integrations (The Digital Garden)
-
-Dynamic Sidebar Navigation: Implement a sleek, interactive left-sidebar menu for seamless routing between different life/hobby aspects (Home, Posts, GitHub, Goodreads, Spotify, etc.).
-
-GitHub Dashboard: Integrate live GitHub data to display the latest contribution graph and pinned repositories directly on the site.
-
-Spotify Top Tracks: Fetch and display a dynamic grid of the 12 most-played tracks over the last 4 weeks.
-
-Reading Log (Goodreads): Showcase a visual grid of the latest finished books to reflect continuous learning and personal interests.
-
-🐛 Bug Fixes & Refinements
-
-Layout Shift Resolution: Fix the UI jumping/shifting issues during the initial page load to ensure a stable 3-column structure.
-
-Tooltip Content Review: Correct minor typos and inaccurate data within the interactive hover boxes and info cards.
-
-Global Routing Fix: Update the ogulcan.me brand link in the bottom-left corner to consistently redirect users back to the homepage.
-
-🥚 Easter Eggs & Footer
-
-Personalized Footer: Build a comprehensive "Connect with me" footer featuring social icons, source code links, and a signature sign-off.
-
-Hidden Shortcuts: Embed playful easter eggs and sweet personal shortcuts within the footer area, connecting different parts of the site interactively.
----
 ## Author
 
 **Oğulcan Tokmak** — [@Baretta-bit-byte](https://github.com/Baretta-bit-byte)
 
-- Türkiye Bilişim Derneği (TBD) (active member)
+- Turkish Informatics Association (TBD) — active member
 - AFAD & LÖSEV Volunteer (March 2026–present)
 - Izmir Mathematics Festival
 - Game Theory — Ali Nesin Mathematics Village

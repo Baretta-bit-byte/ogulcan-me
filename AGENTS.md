@@ -1,6 +1,6 @@
 # AGENTS.md — Guide for AI Agents & LLMs
 
-This file provides structured context for any AI agent, LLM, or automated tool working inside this repository.
+This file provides structured context for any AI agent, LLM, or automated tool working inside this repository. Read this before making any changes.
 
 ---
 
@@ -8,8 +8,37 @@ This file provides structured context for any AI agent, LLM, or automated tool w
 
 - **Name:** ogulcan.me
 - **Type:** Personal Digital Garden + Portfolio Website
-- **Owner:** Ogulcan (GitHub: Baretta-bit-byte)
-- **Stack:** Next.js 16 (App Router) · TypeScript · Tailwind CSS v4 · Framer Motion · react-force-graph-2d
+- **Owner:** Ogulcan Tokmak (GitHub: Baretta-bit-byte)
+- **Live URL:** https://ogulcantokmak.me
+- **Stack:** Next.js 16 (App Router) · TypeScript 5 · Tailwind CSS v4 · Framer Motion v12 · react-force-graph-2d
+- **Deploy:** GitHub Pages, static export (`output: "export"`), CI via GitHub Actions
+
+---
+
+## Current State (2026-03-12)
+
+All core features and live-data integrations are **complete and deployed**. Do not rebuild any of the following:
+
+| Feature | File(s) | Status |
+|---|---|---|
+| 3-column layout | `app/layout.tsx` | ✅ Done |
+| SVG signature animation | `components/Header.tsx` | ✅ Done |
+| Organic theme toggle (View Transitions) | `components/ThemeToggle.tsx`, `app/globals.css` | ✅ Done |
+| Knowledge graph — local + modal | `components/GraphNav.tsx`, `components/GraphModal.tsx` | ✅ Done |
+| Hover tooltip system | `components/LinkedTerm.tsx`, `components/HoverTooltip.tsx` | ✅ Done |
+| All content pages | `app/projects/`, `app/math/`, `app/community/` | ✅ Done |
+| Footer + easter eggs | `components/Footer.tsx` | ✅ Done |
+| Floating pill sidebar | `components/LeftSidebar.tsx` | ✅ Done |
+| GitHub Dashboard | `app/github/page.tsx` | ✅ Done |
+| Spotify Top Tracks | `app/spotify/page.tsx`, `scripts/fetch-spotify.mjs` | ✅ Done |
+| Books Reading Log | `app/books/page.tsx`, `public/books-data.json` | ✅ Done |
+| Vinyl Collection | `app/vinyl/page.tsx`, `scripts/fetch-vinyl.mjs`, `public/vinyl-data.json` | ✅ Done |
+
+### Pending (next session)
+- [ ] **2.5D Signature** — depth/shadow revamp of `components/Header.tsx` SVG paths
+- [ ] **Blog / Posts** — new `/posts` route with MDX
+- [ ] **Flickr** — optional photo integration
+- [ ] **Steam** — optional gaming widget
 
 ---
 
@@ -17,50 +46,72 @@ This file provides structured context for any AI agent, LLM, or automated tool w
 
 ```
 MEWebsite/
-├── app/                          # Next.js App Router pages
-│   ├── layout.tsx                # Root layout: ThemeProvider + 3-column shell
-│   ├── page.tsx                  # Home page
-│   ├── globals.css               # Tailwind v4 + dark mode variant
+├── app/
+│   ├── layout.tsx                   # Root layout: 3-column shell + theme providers
+│   ├── page.tsx                     # Home: bio, courses, project previews, math highlights
+│   ├── globals.css                  # Tailwind v4 + dark variant + View Transitions keyframes
+│   ├── github/
+│   │   └── page.tsx                 # GitHub dashboard (client-side GitHub REST API)
+│   ├── spotify/
+│   │   └── page.tsx                 # Spotify top tracks (reads /spotify-data.json)
+│   ├── books/
+│   │   └── page.tsx                 # Reading log (reads /books-data.json + Open Library)
+│   ├── vinyl/
+│   │   └── page.tsx                 # Vinyl collection (reads /vinyl-data.json)
 │   ├── projects/
-│   │   ├── page.tsx              # Projects index
-│   │   ├── secureexam-generator/ # Article page
-│   │   └── notepadio/            # Article page
+│   │   ├── page.tsx                 # Projects index
+│   │   ├── secureexam-generator/    # Article: SecureExam-Generator (Python, PDF+QR)
+│   │   └── notepadio/               # Article: NotePadIo (low-code collab notes)
 │   ├── math/
-│   │   ├── page.tsx              # Math index
-│   │   ├── game-theory/          # Article page
-│   │   └── izmir-festival/       # Article page
+│   │   ├── page.tsx                 # Math index
+│   │   ├── game-theory/             # Article: Game Theory — Ali Nesin
+│   │   └── izmir-festival/          # Article: Izmir Mathematics Festival
 │   └── community/
-│       ├── page.tsx              # Community index
-│       ├── tba/                  # Article page
-│       └── volunteering/         # Article page
+│       ├── page.tsx                 # Community index
+│       ├── tba/                     # Article: Turkish Informatics Association
+│       └── volunteering/            # Article: AFAD & LÖSEV
 │
 ├── components/
-│   ├── Header.tsx                # Animated SVG signature (Framer Motion)
-│   ├── LeftSidebar.tsx           # Sticky left column: signature + nav + theme toggle
-│   ├── RightPanel.tsx            # Sticky right column: GraphNav + TOC + expand button
-│   ├── GraphNav.tsx              # Local knowledge graph (react-force-graph-2d, SSR-disabled)
-│   ├── GraphModal.tsx            # Full-screen graph overlay (all nodes)
-│   ├── HoverTooltip.tsx          # Radix HoverCard tooltip (standalone, no navigation)
-│   ├── LinkedTerm.tsx            # HoverCard + next/link (hover preview + click navigate)
-│   ├── ArticlePage.tsx           # Shared article layout (breadcrumb, title, tags, TOC)
-│   ├── Breadcrumb.tsx            # Breadcrumb nav component
-│   ├── TableOfContents.tsx       # TOC with smooth-scroll anchors
-│   ├── ThemeProvider.tsx         # next-themes wrapper (class-based, default dark)
-│   └── ThemeToggle.tsx           # Sun/moon animated toggle button
+│   ├── Header.tsx                   # Animated SVG "OT" cursive signature (draw-erase loop)
+│   ├── LeftSidebar.tsx              # Left column: signature + floating pill nav + theme toggle
+│   ├── RightPanel.tsx               # Right column: GraphNav + TOC + expand button
+│   ├── GraphNav.tsx                 # Local knowledge graph (react-force-graph-2d, ssr:false)
+│   ├── GraphModal.tsx               # Full-screen graph overlay (all nodes + color legend)
+│   ├── Footer.tsx                   # Social icons, cd../ nav, ~ easter egg, Konami code
+│   ├── HoverTooltip.tsx             # Standalone hover card (no navigation)
+│   ├── LinkedTerm.tsx               # Hover card + next/link (preview + navigate)
+│   ├── ArticlePage.tsx              # Shared article layout (breadcrumb, title, tags, TOC)
+│   ├── Breadcrumb.tsx               # Path breadcrumb component
+│   ├── TableOfContents.tsx          # TOC with smooth-scroll anchors
+│   ├── ThemeProvider.tsx            # next-themes wrapper (class-based, default dark)
+│   ├── ThemeReadyGate.tsx           # Adds `theme-ready` class after first paint (prevents FOUC)
+│   └── ThemeToggle.tsx              # Sun/moon toggle — uses View Transitions API for reveal
 │
 ├── lib/
-│   ├── graphData.ts              # Node + link definitions for the knowledge graph
-│   └── rightPanelContext.tsx     # React context: lets pages register TOC items
+│   ├── graphData.ts                 # All graph nodes + links — MUST be updated for every new page
+│   └── rightPanelContext.tsx        # React context: pages register TOC items here
 │
-├── v1/                           # Legacy HTML portfolio (April 2025) — DO NOT MODIFY
-│   ├── index.html
-│   ├── public/
-│   └── assets/
+├── scripts/
+│   ├── fetch-spotify.mjs            # Prebuild: exchanges refresh token, writes /public/spotify-data.json
+│   └── fetch-vinyl.mjs              # Prebuild: fetches Discogs collection, writes /public/vinyl-data.json
 │
-├── CLAUDE.md                     # Project spec for Claude Code
-├── AGENTS.md                     # This file
-├── README.md                     # Human-readable documentation
-└── LICENSE                       # MIT License
+├── public/
+│   ├── books-data.json              # Manually maintained — edit to add/update books
+│   ├── vinyl-data.json              # Manually maintained OR overwritten by fetch-vinyl.mjs
+│   ├── spotify-data.json            # Generated at build time — gitignored
+│   └── CNAME                        # ogulcantokmak.me
+│
+├── .github/
+│   └── workflows/
+│       └── deploy.yml               # CI: prebuild scripts → next build → GitHub Pages deploy
+│                                    # Exposes: SPOTIFY_CLIENT_ID/SECRET/REFRESH_TOKEN,
+│                                    #          DISCOGS_USERNAME, DISCOGS_USER_TOKEN
+│
+├── v1/                              # Legacy HTML portfolio (April 2025) — READ-ONLY, DO NOT MODIFY
+├── CLAUDE.md                        # Project spec for Claude Code (owner can edit)
+├── AGENTS.md                        # This file — AI agent context
+├── README.md                        # Human-readable documentation
+└── LICENSE                          # MIT
 ```
 
 ---
@@ -68,19 +119,25 @@ MEWebsite/
 ## Critical Rules for Agents
 
 ### NEVER modify
-- `v1/` — This is the preserved legacy portfolio. It is read-only history.
-- `CLAUDE.md` — Project specification file; only edit if the human owner explicitly requests it.
+- `v1/` — preserved legacy portfolio, read-only history
+- `public/spotify-data.json` — generated file, gitignored, overwritten every build
 
-### Always check before editing
-- `lib/graphData.ts` — Adding a new page requires adding a node + link here too, otherwise the graph won't reflect it.
-- `app/layout.tsx` — Central layout file; changes affect all pages.
+### Always update together
+- Adding a new page → **must** also update `lib/graphData.ts` (node + link) AND `components/LeftSidebar.tsx` (nav item)
+- Changing theme behavior → check both `ThemeToggle.tsx` and `ThemeProvider.tsx` and `app/globals.css`
 
-### When adding a new page
-1. Create the route under `app/`
-2. Wrap content in `<ArticlePage>` for article-style pages
+### Checklist: adding a new page
+1. Create the route under `app/{section}/page.tsx`
+2. Wrap article content in `<ArticlePage>` for consistent layout
 3. Add a node to `graphNodes` in `lib/graphData.ts`
-4. Add a link to `graphLinks` connecting it to its parent section
-5. Add a `LinkedTerm` reference from the parent section page
+4. Add a link to `graphLinks` connecting it to its parent (`home` or a section)
+5. Add a nav item to `NAV_ITEMS` in `components/LeftSidebar.tsx`
+6. If it was in `SOON_ITEMS`, remove it from there
+7. Optionally add a `LinkedTerm` reference from the parent section's index page
+
+### TypeScript
+- Run `npx tsc --noEmit` before finalizing. Zero errors required.
+- Framer Motion easing arrays must be typed as `Easing[]` (import from `framer-motion`)
 
 ---
 
@@ -89,52 +146,73 @@ MEWebsite/
 ### Color tokens
 | Name | Dark Mode | Light Mode | Usage |
 |---|---|---|---|
-| Background | `#0F172A` (slate-900) | `#F8FAFC` (slate-50) | Page background |
+| Background | `#0F172A` slate-900 | `#F8FAFC` slate-50 | Page background |
 | Body text | slate-200 | slate-900 | Primary text |
-| Tech accent | `#38BDF8` (sky-400) | sky-500 | Projects, code, tech |
-| Math accent | `#A78BFA` (violet-400) | violet-500 | Mathematics |
+| Tech accent | sky-400 `#38BDF8` | sky-500 | Projects, GitHub, code |
+| Math accent | violet-400 `#A78BFA` | violet-500 | Mathematics |
+| Music accent | emerald-400 `#34D399` | emerald-500 | Spotify |
+| Star rating | amber-400 `#FBBF24` | amber-400 | Books |
 | Muted | slate-400 | slate-500 | Secondary text |
 
 ### Typography
-- **Body:** `Inter` (via `next/font/google`)
-- **Code / Technical terms:** `JetBrains Mono` (via `next/font/google`)
+- **Body:** `Inter` via CSS variable `--font-inter`
+- **Code / mono:** `JetBrains Mono` via CSS variable `--font-mono`
 
 ### Variant system
-`LinkedTerm` and `HoverTooltip` both accept a `variant` prop:
-- `"tech"` → sky-400 accent
+`LinkedTerm` and `HoverTooltip` accept a `variant` prop:
+- `"tech"` → sky-400 accent bar + dot
 - `"math"` → violet-400 accent
 - `"default"` → neutral slate
+
+### Reusable patterns
+```tsx
+// Skeleton loader
+<div className="animate-pulse rounded bg-slate-100 dark:bg-slate-800 h-4 w-32" />
+
+// Card with left accent border
+<div className="group relative overflow-hidden rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-sky-400/40">
+  <div className="absolute inset-y-0 left-0 w-0.5 bg-sky-400/50 group-hover:bg-sky-400 transition-all" />
+  ...
+</div>
+
+// timeAgo helper (copy from app/github/page.tsx)
+```
 
 ---
 
 ## Graph System
 
-The knowledge graph (`lib/graphData.ts`) defines:
-- `graphNodes: GraphNode[]` — Each node has `id`, `label`, `type`, `url`, `description`
-- `graphLinks: GraphLink[]` — Directed edges `{ source: id, target: id }`
+`lib/graphData.ts` defines:
+- `graphNodes: GraphNode[]` — `{ id, label, type, url, description }`
+- `graphLinks: GraphLink[]` — `{ source: id, target: id }`
 
-`GraphNav` renders a **local graph** (current page + 1-hop neighbors) using `usePathname()`.
-`GraphModal` renders the **full graph** (all nodes) in a fullscreen overlay.
+Node types: `"root"` | `"tech"` | `"math"` | `"personal"`
 
-Node sizing: `radius = base + degree × scale` where degree = number of edges in the full graph.
+`GraphNav` = local graph (current page + 1-hop neighbors)
+`GraphModal` = full graph in fullscreen overlay
+
+Cross-links (non-tree edges) make this a real graph — always add at least one cross-link when a page relates to another non-parent node.
 
 ---
 
-## Content Owner Notes
+## Live Data Architecture
 
-- **Projects:** SecureExam-Generator (Python, PDF+QR), NotePadNeo (low-code collab notes)
-- **Mathematics:** Game Theory (Ali Nesin Mathematics Village), Izmir Mathematics Festival
-- **Community:** Turkish Informatics Association (active member), AFAD + LÖSEV volunteering (March 2026+)
-- **Academics:** DSA (C++), Advanced C, Probability & Stats (Python), Data Mining, Numerical Analysis
+| Integration | Fetch timing | Secret(s) needed | Fallback |
+|---|---|---|---|
+| GitHub | Client-side (useEffect) | None | Error message shown |
+| Spotify | Build-time (`prebuild`) | `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN` | Empty JSON → "set up secrets" UI |
+| Books | Client-side (reads static JSON) | None | Edit `public/books-data.json` |
+| Vinyl | Client-side (reads static JSON) | `DISCOGS_USERNAME`, `DISCOGS_USER_TOKEN` (optional, enriches data) | Existing `public/vinyl-data.json` |
 
 ---
 
 ## Development Commands
 
 ```bash
-npm run dev      # Start dev server at localhost:3000
-npm run build    # Production build (must pass before committing)
-npm run lint     # ESLint
+npm run dev         # Dev server at localhost:3000
+npm run build       # Runs prebuild (fetch-spotify + fetch-vinyl), then next build
+npx tsc --noEmit    # Type-check only — run before committing
+npm run lint        # ESLint
 ```
 
-Always run `npm run build` before finalizing changes — TypeScript errors will be caught here.
+The `prebuild` scripts gracefully no-op if their required env vars are missing, so local `npm run build` always works without secrets.
