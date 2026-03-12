@@ -22,10 +22,10 @@ const NAV_ITEMS = [
   { href: "/math",      label: "Mathematics", icon: Calculator },
   { href: "/community", label: "Community",   icon: Users      },
   { href: "/github",    label: "GitHub",      icon: Github     },
+  { href: "/spotify",   label: "Spotify",     icon: Music2     },
 ];
 
 const SOON_ITEMS = [
-  { label: "Spotify", icon: Music2   },
   { label: "Books",   icon: BookOpen },
   { label: "Vinyl",   icon: Disc3    },
 ];

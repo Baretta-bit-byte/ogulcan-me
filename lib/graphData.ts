@@ -24,7 +24,8 @@ export const graphNodes: GraphNode[] = [
   { id: "community", label: "Community", type: "personal", url: "/community" },
   { id: "tba", label: "TBA", type: "personal", url: "/community/tba", description: "Turkish Informatics Association" },
   { id: "volunteering", label: "Volunteering", type: "personal", url: "/community/volunteering", description: "AFAD & LÖSEV" },
-  { id: "github", label: "GitHub", type: "tech", url: "/github", description: "Repos, contributions, and pull requests" },
+  { id: "github",  label: "GitHub",  type: "tech", url: "/github",  description: "Repos, contributions, and pull requests" },
+  { id: "spotify", label: "Spotify", type: "personal", url: "/spotify", description: "Top tracks over the last 4 weeks" },
 ];
 
 export const graphLinks: GraphLink[] = [
@@ -39,6 +40,7 @@ export const graphLinks: GraphLink[] = [
   { source: "community", target: "tba" },
   { source: "community", target: "volunteering" },
   { source: "home", target: "github" },
+  { source: "home", target: "spotify" },
   // Cross-links — what makes this a graph, not a tree
   { source: "secureexam", target: "notepadio" },   // sibling projects
   { source: "gametheory", target: "izmir" },        // both math events

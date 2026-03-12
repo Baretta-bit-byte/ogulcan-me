@@ -26,3 +26,6 @@ next-env.d.ts
 
 # References (local screenshots, not needed in repo)
 references/
+
+# Build-time generated data (written fresh by prebuild script)
+public/spotify-data.json
