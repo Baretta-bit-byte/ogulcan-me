@@ -23,11 +23,11 @@ const NAV_ITEMS = [
   { href: "/community", label: "Community",   icon: Users      },
   { href: "/github",    label: "GitHub",      icon: Github     },
   { href: "/spotify",   label: "Spotify",     icon: Music2     },
+  { href: "/books",     label: "Books",       icon: BookOpen   },
 ];
 
 const SOON_ITEMS = [
-  { label: "Books",   icon: BookOpen },
-  { label: "Vinyl",   icon: Disc3    },
+  { label: "Vinyl", icon: Disc3 },
 ];
 
 function isActive(href: string, pathname: string): boolean {

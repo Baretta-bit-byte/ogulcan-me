@@ -1,0 +1,98 @@
+[
+  {
+    "isbn":     "9780465026562",
+    "title":    "Gödel, Escher, Bach",
+    "author":   "Douglas Hofstadter",
+    "finished": "2026-01-10",
+    "rating":   5,
+    "url":      "https://openlibrary.org/isbn/9780465026562"
+  },
+  {
+    "isbn":     "9781848000698",
+    "title":    "The Algorithm Design Manual",
+    "author":   "Steven Skiena",
+    "finished": "2025-12-20",
+    "rating":   5,
+    "url":      "https://openlibrary.org/isbn/9781848000698"
+  },
+  {
+    "isbn":     "9780132350884",
+    "title":    "Clean Code",
+    "author":   "Robert C. Martin",
+    "finished": "2025-11-15",
+    "rating":   4,
+    "url":      "https://openlibrary.org/isbn/9780132350884"
+  },
+  {
+    "isbn":     "9780262046305",
+    "title":    "Introduction to Algorithms",
+    "author":   "Cormen, Leiserson, Rivest, Stein",
+    "finished": "2025-10-30",
+    "rating":   5,
+    "url":      "https://openlibrary.org/isbn/9780262046305"
+  },
+  {
+    "isbn":     "9780691129082",
+    "title":    "Game Theory: An Introduction",
+    "author":   "Steven Tadelis",
+    "finished": "2025-09-18",
+    "rating":   4,
+    "url":      "https://openlibrary.org/isbn/9780691129082"
+  },
+  {
+    "isbn":     "9780135957059",
+    "title":    "The Pragmatic Programmer",
+    "author":   "Hunt & Thomas",
+    "finished": "2025-08-05",
+    "rating":   5,
+    "url":      "https://openlibrary.org/isbn/9780135957059"
+  },
+  {
+    "isbn":     "9780262033848",
+    "title":    "Concrete Mathematics",
+    "author":   "Graham, Knuth, Patashnik",
+    "finished": "2025-07-12",
+    "rating":   4,
+    "url":      "https://openlibrary.org/isbn/9780262033848"
+  },
+  {
+    "isbn":     "9780387984032",
+    "title":    "Algebraic Graph Theory",
+    "author":   "Chris Godsil & Gordon Royle",
+    "finished": "2025-06-01",
+    "rating":   4,
+    "url":      "https://openlibrary.org/isbn/9780387984032"
+  },
+  {
+    "isbn":     "9781491910399",
+    "title":    "Python Data Science Handbook",
+    "author":   "Jake VanderPlas",
+    "finished": "2025-05-20",
+    "rating":   4,
+    "url":      "https://openlibrary.org/isbn/9781491910399"
+  },
+  {
+    "isbn":     "9780679720201",
+    "title":    "The Stranger",
+    "author":   "Albert Camus",
+    "finished": "2025-04-14",
+    "rating":   5,
+    "url":      "https://openlibrary.org/isbn/9780679720201"
+  },
+  {
+    "isbn":     "9780062316097",
+    "title":    "Sapiens",
+    "author":   "Yuval Noah Harari",
+    "finished": "2025-03-08",
+    "rating":   4,
+    "url":      "https://openlibrary.org/isbn/9780062316097"
+  },
+  {
+    "isbn":     "9780374533557",
+    "title":    "Thinking, Fast and Slow",
+    "author":   "Daniel Kahneman",
+    "finished": "2025-02-01",
+    "rating":   5,
+    "url":      "https://openlibrary.org/isbn/9780374533557"
+  }
+]
