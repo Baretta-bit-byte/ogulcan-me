@@ -69,6 +69,11 @@ Not a standard portfolio. Every page — project, math note, community activity,
 | `/spotify` | Spotify top 12 tracks (last 4 weeks) | Build-time fetch → `public/spotify-data.json` |
 | `/books` | Reading log — 12 finished books | Manual `public/books-data.json` + Open Library covers |
 | `/vinyl` | Vinyl collection — spinning circular records | Manual `public/vinyl-data.json` + optional Discogs API |
+| `/topics` | Maps of Content — graph nodes grouped by type | Static (`lib/graphData.ts`) |
+| `/uses` | Developer environment, editor, stack & hardware | Static |
+| `/posts` | Writing & essays — MDX pipeline (stub) | Static |
+| `/flickr` | Photography grid (stub) | Static |
+| `/steam` | Steam gaming activity (stub) | Static |
 
 ---
 
@@ -83,6 +88,9 @@ Not a standard portfolio. Every page — project, math note, community activity,
 - **Spotify Top Tracks** — 4-column album art grid, 30s audio preview on hover
 - **Books Reading Log** — 6-column cover grid (Open Library), hover reveals rating + date
 - **Vinyl Collection** — Circular records with CSS grooves, spin on hover, SVG arc text
+- **Maps of Content** — `/topics` directory groups all graph nodes by type (tech / math / personal)
+- **`/uses` page** — Living document of editor, terminal, stack, and hardware setup
+- **Maturity badges in hover cards** — `LinkedTerm` now reads `nodeId` from `graphData` and shows 🌱/🪴/🌳 badge inline
 - **Table of Contents** — Auto-injected per article page
 - **Footer easter eggs** — `~` tooltip + Konami code `↑↑↓↓←→←→BA`
 - **`cd ../` terminal nav** — Footer always links back to parent path
@@ -158,13 +166,20 @@ Cover art is fetched automatically from Open Library using the ISBN.
 - [x] Books Reading Log — Open Library covers, star rating, hover overlay
 - [x] Vinyl Collection — circular records, CSS grooves, spinning hover, arc text
 - [x] Graph: all new pages wired as nodes (github, spotify, books, vinyl)
+- [x] `/topics` — Maps of Content: Wikipedia-style directory of all graph nodes
+- [x] `/uses` — Developer environment & stack showcase (ArticlePage with maturity badge)
+- [x] `/posts` stub — Writing section placeholder (MDX pipeline pending)
+- [x] `/flickr` stub — Photography grid placeholder
+- [x] `/steam` stub — Steam activity placeholder
+- [x] `LinkedTerm` enriched — `nodeId` prop shows maturity badge (🌱/🪴/🌳) + graph description in hover card
+- [x] `graphData.ts` — 5 new nodes + 5 new links from home
 
 ### 🔲 Pending
 
 - [ ] **2.5D Signature** — depth/shadow revamp of the SVG OT signature
-- [ ] **Latest Posts / Blog** — MDX-based writing section
-- [ ] **Flickr / Photography** — optional photo grid integration
-- [ ] **Steam** — optional gaming activity widget
+- [ ] **Latest Posts / Blog** — MDX pipeline via `next-mdx-remote` (stub page exists at `/posts`)
+- [ ] **Flickr / Photography** — Flickr API integration (stub page exists at `/flickr`)
+- [ ] **Steam** — Steam Web API integration (stub page exists at `/steam`)
 
 ---
 
@@ -172,7 +187,8 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 | Version | Description |
 |---|---|
-| **v2.3 (current)** | GitHub, Spotify, Books, Vinyl pages + organic theme toggle |
+| **v2.4 (current)** | /topics, /uses, /posts, /flickr, /steam pages + LinkedTerm maturity badges |
+| **v2.3** | GitHub, Spotify, Books, Vinyl pages + organic theme toggle |
 | **v2.2** | Footer redesign, easter eggs, sidebar floating pill |
 | **v2.1** | Graph interactivity, hover cards, all content pages, signature animation |
 | **v2.0** | Next.js 16 + Tailwind + Framer Motion + react-force-graph-2d |

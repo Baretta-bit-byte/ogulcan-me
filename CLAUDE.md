@@ -3,7 +3,7 @@
 ## Architectural Vision and Concept
 This project is a seamless fusion of a personal "Digital Garden" and a professional showcase, specifically designed to demonstrate technical depth and UI/UX sensibility for 2026 Summer Software Dev Internships. Instead of traditional page transitions, the goal is to create an interconnected, explorable knowledge graph that links concepts contextually.
 
-## Current State (as of 2026-03-12)
+## Current State (as of 2026-03-13)
 
 All core infrastructure and live-data integrations are **complete**. The site is live at `ogulcantokmak.me`.
 
@@ -20,12 +20,18 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - `/spotify` — build-time fetch via `scripts/fetch-spotify.mjs`, `public/spotify-data.json`
 - `/books` — manual JSON + Open Library cover art
 - `/vinyl` — circular CSS groove records, spin hover, Discogs fetch script
+- `/topics` — Maps of Content, groups all `graphNodes` by type into card grid
+- `/uses` — living dev environment doc, uses `ArticlePage` with `nodeId="uses"`
+- `/posts` — stub page, MDX pipeline planned
+- `/flickr` — stub page, Flickr API integration planned
+- `/steam` — stub page, Steam Web API integration planned
+- `LinkedTerm` — enriched with optional `nodeId` prop: auto-reads description + maturity badge (🌱/🪴/🌳) from `graphData`
 
 ### 🔲 Pending — next session priorities
 1. **2.5D Signature** — revamp `Header.tsx` SVG with depth/shadow/parallax effect
-2. **Blog / Latest Posts** — MDX-based writing section at `/posts`
-3. **Flickr / Photography** — optional photo grid
-4. **Steam** — optional gaming activity widget
+2. **Blog / Latest Posts** — wire `next-mdx-remote` into the existing `/posts` stub
+3. **Flickr / Photography** — Flickr API integration into existing `/flickr` stub
+4. **Steam** — Steam Web API integration into existing `/steam` stub
 
 ---
 

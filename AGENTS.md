@@ -15,7 +15,7 @@ This file provides structured context for any AI agent, LLM, or automated tool w
 
 ---
 
-## Current State (2026-03-12)
+## Current State (2026-03-13)
 
 All core features and live-data integrations are **complete and deployed**. Do not rebuild any of the following:
 
@@ -33,12 +33,18 @@ All core features and live-data integrations are **complete and deployed**. Do n
 | Spotify Top Tracks | `app/spotify/page.tsx`, `scripts/fetch-spotify.mjs` | ✅ Done |
 | Books Reading Log | `app/books/page.tsx`, `public/books-data.json` | ✅ Done |
 | Vinyl Collection | `app/vinyl/page.tsx`, `scripts/fetch-vinyl.mjs`, `public/vinyl-data.json` | ✅ Done |
+| Maps of Content | `app/topics/page.tsx` | ✅ Done |
+| /uses page | `app/uses/page.tsx` | ✅ Done |
+| /posts stub | `app/posts/page.tsx` | ✅ Done |
+| /flickr stub | `app/flickr/page.tsx` | ✅ Done |
+| /steam stub | `app/steam/page.tsx` | ✅ Done |
+| LinkedTerm maturity badges | `components/LinkedTerm.tsx` (`nodeId` prop) | ✅ Done |
 
 ### Pending (next session)
 - [ ] **2.5D Signature** — depth/shadow revamp of `components/Header.tsx` SVG paths
-- [ ] **Blog / Posts** — new `/posts` route with MDX
-- [ ] **Flickr** — optional photo integration
-- [ ] **Steam** — optional gaming widget
+- [ ] **Blog / Posts** — wire `next-mdx-remote` into existing `/posts` stub
+- [ ] **Flickr** — Flickr API integration into existing `/flickr` stub
+- [ ] **Steam** — Steam Web API integration into existing `/steam` stub
 
 ---
 
@@ -58,6 +64,16 @@ MEWebsite/
 │   │   └── page.tsx                 # Reading log (reads /books-data.json + Open Library)
 │   ├── vinyl/
 │   │   └── page.tsx                 # Vinyl collection (reads /vinyl-data.json)
+│   ├── topics/
+│   │   └── page.tsx                 # Maps of Content — graph nodes grouped by type
+│   ├── uses/
+│   │   └── page.tsx                 # Developer environment & stack (ArticlePage)
+│   ├── posts/
+│   │   └── page.tsx                 # Writing/blog stub (MDX pipeline pending)
+│   ├── flickr/
+│   │   └── page.tsx                 # Photography grid stub (Flickr API pending)
+│   ├── steam/
+│   │   └── page.tsx                 # Steam activity stub (Steam Web API pending)
 │   ├── projects/
 │   │   ├── page.tsx                 # Projects index
 │   │   ├── secureexam-generator/    # Article: SecureExam-Generator (Python, PDF+QR)
@@ -79,7 +95,7 @@ MEWebsite/
 │   ├── GraphModal.tsx               # Full-screen graph overlay (all nodes + color legend)
 │   ├── Footer.tsx                   # Social icons, cd../ nav, ~ easter egg, Konami code
 │   ├── HoverTooltip.tsx             # Standalone hover card (no navigation)
-│   ├── LinkedTerm.tsx               # Hover card + next/link (preview + navigate)
+│   ├── LinkedTerm.tsx               # Hover card + next/link; nodeId prop adds maturity badge from graphData
 │   ├── ArticlePage.tsx              # Shared article layout (breadcrumb, title, tags, TOC)
 │   ├── Breadcrumb.tsx               # Path breadcrumb component
 │   ├── TableOfContents.tsx          # TOC with smooth-scroll anchors
@@ -183,7 +199,7 @@ MEWebsite/
 ## Graph System
 
 `lib/graphData.ts` defines:
-- `graphNodes: GraphNode[]` — `{ id, label, type, url, description }`
+- `graphNodes: GraphNode[]` — `{ id, label, type, url, description, maturity? }`
 - `graphLinks: GraphLink[]` — `{ source: id, target: id }`
 
 Node types: `"root"` | `"tech"` | `"math"` | `"personal"`
