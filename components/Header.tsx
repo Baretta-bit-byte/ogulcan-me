@@ -1,73 +1,120 @@
 "use client";
 
-import { motion, type Variants } from "framer-motion";
+import { motion } from "framer-motion";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 
-const SIGNATURE_PATHS = [
-  // O
-  "M 20 30 C 20 18, 36 18, 36 30 C 36 42, 20 42, 20 30",
-  // g
-  "M 42 26 C 42 20, 54 20, 54 26 L 54 42 C 54 48, 42 48, 42 44",
-  // u
-  "M 60 20 L 60 34 C 60 40, 72 40, 72 34 L 72 20",
-  // l
-  "M 78 14 L 78 40",
-  // c
-  "M 92 22 C 84 22, 82 28, 82 32 C 82 36, 84 40, 92 40",
-  // a
-  "M 104 40 C 104 22, 96 22, 96 32 C 96 40, 104 40, 104 40 L 104 32",
-  // n
-  "M 110 26 L 110 40 M 110 30 C 114 22, 126 22, 126 30 L 126 40",
-];
+// ─── SVG path data ────────────────────────────────────────────────────────────
+//
+// PATH_MAIN traces one continuous pen stroke:
+//   entry at upper-left of O
+//   → sweep counter-clockwise around the O oval
+//   → close near the entry, creating the characteristic cursive crossing
+//   → exit stroke through the O heading right
+//   → gentle connector to T
+//   → T upstroke (curves up)
+//   → T downstroke (straight down)
+//
+// viewBox: 0 0 140 70
+//
+const PATH_MAIN =
+  "M 18,24 " +
+  "C 12,32 14,46 26,52 " +    // lower-left arc of O
+  "C 38,58 54,52 56,40 " +    // lower-right arc of O
+  "C 58,28 52,14 40,12 " +    // upper-right arc of O
+  "C 28,10 14,16 16,28 " +    // close upper-left (crossing back over entry)
+  "C 18,34 30,32 56,34 " +    // exit through the O, going right
+  "C 65,34 72,30 72,20 " +    // connector + T upstroke (curves up)
+  "L 72,56";                  // T downstroke
 
-const draw: Variants = {
-  hidden: { pathLength: 0, opacity: 0 },
-  visible: (i: number) => ({
-    pathLength: 1,
-    opacity: 1,
-    transition: {
-      pathLength: {
-        delay: i * 0.12,
-        type: "spring" as const,
-        duration: 0.8,
-        bounce: 0,
-      },
-      opacity: { delay: i * 0.12, duration: 0.01 },
-    },
-  }),
-};
+// PATH_CROSS: the T crossbar — a gentle arc, drawn after the T body
+const PATH_CROSS =
+  "M 58,27 C 63,23 80,23 90,27";
 
+// ─── Cycle timing ─────────────────────────────────────────────────────────────
+// Both paths share CYCLE duration so they loop in sync forever.
+//
+//  Main path timeline  (5 s total):
+//    0.00 → 0.28   draw  (0 → 1)    easeOut — pen flows naturally
+//    0.28 → 0.40   hold  (at 1)
+//    0.40 → 0.64   erase (1 → 0)    easeIn  — pen lifts and retreats
+//    0.64 → 1.00   pause (at 0)     — rest before next cycle
+//
+//  Crossbar timeline (same 5 s, delay baked in):
+//    0.00 → 0.22   wait  (at 0)
+//    0.22 → 0.30   draw  (0 → 1)    easeOut
+//    0.30 → 0.42   hold  (at 1)
+//    0.42 → 0.52   erase (1 → 0)    easeIn
+//    0.52 → 1.00   pause (at 0)
+//
+const CYCLE = 5;
+
+const MAIN_KF    = [0, 1, 1, 0, 0];
+const MAIN_TIMES = [0, 0.28, 0.40, 0.64, 1];
+const MAIN_EASE  = ["easeOut", "linear", "easeIn", "linear"];
+
+const CROSS_KF    = [0, 0, 1, 1, 0, 0];
+const CROSS_TIMES = [0, 0.22, 0.30, 0.42, 0.52, 1];
+const CROSS_EASE  = ["linear", "easeOut", "linear", "easeIn", "linear"];
+
+// ─── Component ────────────────────────────────────────────────────────────────
 export default function Header() {
   const { theme } = useTheme();
   const [mounted, setMounted] = useState(false);
   useEffect(() => setMounted(true), []);
 
-  const stroke = mounted && theme === "light" ? "#1e293b" : "#e2e8f0";
+  // Avoid flash: before mount, render invisible paths (same DOM structure)
+  const stroke = mounted
+    ? theme === "light"
+      ? "#334155"   // slate-700 — slightly softer than pure black
+      : "#cbd5e1"   // slate-300 — warm against dark background
+    : "transparent";
+
+  const sharedPathProps = {
+    fill: "none" as const,
+    stroke,
+    strokeWidth: 1.7,
+    strokeLinecap: "round" as const,
+    strokeLinejoin: "round" as const,
+  };
 
   return (
-    <motion.svg
-      width="136"
-      height="56"
-      viewBox="0 0 150 60"
-      initial="hidden"
-      animate="visible"
-      aria-label="Ogulcan signature"
-      className="overflow-visible"
+    <svg
+      width="128"
+      height="64"
+      viewBox="0 0 140 70"
+      aria-label="Ogulcan Tokmak signature"
+      className="overflow-visible select-none"
     >
-      {SIGNATURE_PATHS.map((d, i) => (
-        <motion.path
-          key={i}
-          d={d}
-          fill="none"
-          stroke={stroke}
-          strokeWidth="1.8"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          custom={i}
-          variants={draw}
-        />
-      ))}
-    </motion.svg>
+      {/* O loop + connector + T body */}
+      <motion.path
+        d={PATH_MAIN}
+        {...sharedPathProps}
+        animate={{ pathLength: MAIN_KF }}
+        transition={{
+          pathLength: {
+            duration: CYCLE,
+            times: MAIN_TIMES,
+            ease: MAIN_EASE,
+            repeat: Infinity,
+          },
+        }}
+      />
+
+      {/* T crossbar — drawn after T body exists */}
+      <motion.path
+        d={PATH_CROSS}
+        {...sharedPathProps}
+        animate={{ pathLength: CROSS_KF }}
+        transition={{
+          pathLength: {
+            duration: CYCLE,
+            times: CROSS_TIMES,
+            ease: CROSS_EASE,
+            repeat: Infinity,
+          },
+        }}
+      />
+    </svg>
   );
 }

@@ -1,11 +1,9 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
-import { Suspense } from "react";
 import "./globals.css";
 import ThemeProvider from "@/components/ThemeProvider";
 import ThemeReadyGate from "@/components/ThemeReadyGate";
 import LeftSidebar from "@/components/LeftSidebar";
-import SidebarSkeleton from "@/components/SidebarSkeleton";
 import RightPanel from "@/components/RightPanel";
 import { RightPanelProvider } from "@/lib/rightPanelContext";
 import Footer from "@/components/Footer";
@@ -55,10 +53,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <ThemeProvider>
           <RightPanelProvider>
             <div className="flex h-screen overflow-hidden">
-              {/* Left: sidebar with skeleton fallback during hydration */}
-              <Suspense fallback={<SidebarSkeleton />}>
-                <LeftSidebar />
-              </Suspense>
+              {/* Left: sidebar */}
+              <LeftSidebar />
 
               {/* Center: scrollable main content */}
               <main className="flex-1 overflow-y-auto px-10 py-12 lg:px-16">

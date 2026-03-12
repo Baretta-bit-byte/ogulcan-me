@@ -1,7 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import { useRouter } from "next/navigation";
+import { useRouter, usePathname } from "next/navigation";
 import { useCallback, useRef, useEffect, useState } from "react";
 import { useTheme } from "next-themes";
 import { motion, AnimatePresence } from "framer-motion";
@@ -23,10 +23,23 @@ graphLinks.forEach((l) => {
   degreeMap.set(l.target, (degreeMap.get(l.target) ?? 0) + 1);
 });
 
+function nodeRadius(id: string, isActive: boolean): number {
+  const deg = degreeMap.get(id) ?? 1;
+  if (isActive) return 5 + deg * 0.6;
+  return 3 + deg * 0.5;
+}
+
 const fullGraphData = {
   nodes: graphNodes.map((n) => ({ ...n })),
   links: graphLinks.map((l) => ({ ...l })),
 };
+
+function pathnameToId(pathname: string): string | null {
+  const match = graphNodes.find(
+    (n) => n.url === pathname || (pathname === "/" && n.id === "home")
+  );
+  return match?.id ?? null;
+}
 
 interface GraphModalProps {
   open: boolean;
@@ -34,10 +47,16 @@ interface GraphModalProps {
 }
 
 export default function GraphModal({ open, onClose }: GraphModalProps) {
-  const router = useRouter();
+  const router    = useRouter();
+  const pathname  = usePathname();
   const { theme } = useTheme();
   const containerRef = useRef<HTMLDivElement>(null);
-  const [dims, setDims] = useState({ width: 0, height: 0 });
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const fgRef        = useRef<any>(null);
+  const [dims, setDims]           = useState({ width: 0, height: 0 });
+  const [hoveredId, setHoveredId] = useState<string | null>(null);
+
+  const currentId = pathnameToId(pathname);
 
   useEffect(() => {
     const el = containerRef.current;
@@ -58,9 +77,11 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
     return () => window.removeEventListener("keydown", handler);
   }, [open, onClose]);
 
-  const isDark = theme !== "light";
-  const labelColor = isDark ? "#64748b" : "#94a3b8";
-  const linkStroke = isDark ? "#1e293b" : "#e2e8f0";
+  const isDark      = theme !== "light";
+  const labelColor  = isDark ? "#475569" : "#94a3b8";
+  const activeLabel = isDark ? "#e2e8f0" : "#0f172a";
+  const hoverLabel  = isDark ? "#94a3b8" : "#475569";
+  const linkStroke  = isDark ? "#1e293b" : "#e2e8f0";
 
   const paintNode = useCallback(
     (
@@ -68,27 +89,50 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
       ctx: CanvasRenderingContext2D,
       globalScale: number
     ) => {
-      const deg   = degreeMap.get(node.id) ?? 1;
-      const r     = 2.5 + deg * 0.8;
-      const color = NODE_COLORS[node.type] ?? "#94a3b8";
-      const x     = node.x ?? 0;
-      const y     = node.y ?? 0;
+      const isActive  = node.id === currentId;
+      const isHovered = node.id === hoveredId;
+      const r         = nodeRadius(node.id, isActive);
+      const color     = NODE_COLORS[node.type] ?? "#94a3b8";
+      const x         = node.x ?? 0;
+      const y         = node.y ?? 0;
 
+      // Glow ring
+      if (isActive || isHovered) {
+        ctx.beginPath();
+        ctx.arc(x, y, r + 4, 0, 2 * Math.PI);
+        ctx.fillStyle = color + (isActive ? "30" : "18");
+        ctx.fill();
+      }
+
+      // Node dot
       ctx.beginPath();
       ctx.arc(x, y, r, 0, 2 * Math.PI);
-      ctx.fillStyle = color + "cc";
+      ctx.fillStyle = isActive ? color : isHovered ? color + "dd" : color + "88";
       ctx.fill();
 
-      // Label only when zoomed in enough
-      if (globalScale > 1.2) {
-        const fontSize = 10 / globalScale;
-        ctx.font      = `${fontSize}px Inter, sans-serif`;
-        ctx.fillStyle = labelColor;
-        ctx.textAlign = "center";
-        ctx.fillText(node.label, x, y + r + fontSize + 1);
-      }
+      // Labels — always visible
+      const fontSize = Math.max(9, (isActive ? 12 : 10) / globalScale);
+      ctx.font       = `${isActive ? "600" : "400"} ${fontSize}px Inter, sans-serif`;
+      ctx.fillStyle  = isActive ? activeLabel : isHovered ? hoverLabel : labelColor;
+      ctx.textAlign  = "center";
+      ctx.fillText(node.label, x, y + r + fontSize + 2);
     },
-    [labelColor]
+    [currentId, hoveredId, labelColor, activeLabel, hoverLabel]
+  );
+
+  const paintPointerArea = useCallback(
+    (
+      node: GraphNode & { x?: number; y?: number },
+      color: string,
+      ctx: CanvasRenderingContext2D
+    ) => {
+      const r = nodeRadius(node.id, node.id === currentId) + 8;
+      ctx.beginPath();
+      ctx.arc(node.x ?? 0, node.y ?? 0, r, 0, 2 * Math.PI);
+      ctx.fillStyle = color;
+      ctx.fill();
+    },
+    [currentId]
   );
 
   const handleNodeClick = useCallback(
@@ -97,6 +141,15 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
     },
     [router, onClose]
   );
+
+  const handleNodeHover = useCallback(
+    (node: GraphNode | null) => { setHoveredId(node?.id ?? null); },
+    []
+  );
+
+  const handleEngineStop = useCallback(() => {
+    fgRef.current?.zoomToFit(400, 40);
+  }, []);
 
   return (
     <AnimatePresence>
@@ -131,10 +184,28 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
               </button>
             </div>
 
+            {/* Legend */}
+            <div className="absolute bottom-4 left-5 flex items-center gap-4 z-10">
+              {(["tech", "math", "personal", "root"] as const).map((t) => (
+                <span key={t} className="flex items-center gap-1.5">
+                  <span
+                    className="inline-block h-2 w-2 rounded-full"
+                    style={{ background: NODE_COLORS[t] }}
+                  />
+                  <span className="font-mono text-[10px] text-slate-500 capitalize">{t}</span>
+                </span>
+              ))}
+            </div>
+
             {/* Canvas */}
-            <div ref={containerRef} className="h-[calc(100%-44px)] w-full">
+            <div
+              ref={containerRef}
+              className="h-[calc(100%-44px)] w-full"
+              style={{ cursor: hoveredId ? "pointer" : "default" }}
+            >
               {dims.width > 0 && dims.height > 0 && (
                 <ForceGraph2D
+                  ref={fgRef}
                   graphData={fullGraphData as never}
                   width={dims.width}
                   height={dims.height}
@@ -143,7 +214,9 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
                   linkWidth={1}
                   nodeCanvasObject={paintNode as never}
                   nodeCanvasObjectMode={() => "replace"}
+                  nodePointerAreaPaint={paintPointerArea as never}
                   onNodeClick={handleNodeClick as never}
+                  onNodeHover={handleNodeHover as never}
                   nodeLabel={(node) =>
                     (node as GraphNode).description ?? (node as GraphNode).label
                   }
@@ -152,6 +225,7 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
                   cooldownTicks={120}
                   d3AlphaDecay={0.02}
                   d3VelocityDecay={0.3}
+                  onEngineStop={handleEngineStop}
                 />
               )}
             </div>

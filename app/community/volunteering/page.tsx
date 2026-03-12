@@ -1,4 +1,5 @@
 import ArticlePage from "@/components/ArticlePage";
+import LinkedTerm from "@/components/LinkedTerm";
 
 export default function VolunteeringPage() {
   return (
@@ -53,7 +54,17 @@ export default function VolunteeringPage() {
         I volunteer because building useful things should not stop at software.
         Both AFAD and LÖSEV address problems at a scale and urgency that no single
         technology can solve — they require coordinated human effort. Being part of
-        that effort keeps my sense of purpose grounded.
+        that effort keeps my sense of purpose grounded. The same instinct drives my
+        membership in the{" "}
+        <LinkedTerm
+          href="/community/tba"
+          variant="tech"
+          title="Turkish Informatics Association"
+          content="A national non-profit promoting CS education and digital literacy in Turkey since 1971. Active membership, not just affiliation."
+        >
+          Turkish Informatics Association
+        </LinkedTerm>
+        {" "}— both are about showing up consistently, not just when it is convenient.
       </p>
     </ArticlePage>
   );

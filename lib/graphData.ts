@@ -27,6 +27,7 @@ export const graphNodes: GraphNode[] = [
 ];
 
 export const graphLinks: GraphLink[] = [
+  // Tree spine
   { source: "home", target: "projects" },
   { source: "home", target: "math" },
   { source: "home", target: "community" },
@@ -36,4 +37,9 @@ export const graphLinks: GraphLink[] = [
   { source: "math", target: "izmir" },
   { source: "community", target: "tba" },
   { source: "community", target: "volunteering" },
+  // Cross-links — what makes this a graph, not a tree
+  { source: "secureexam", target: "notepadio" },   // sibling projects
+  { source: "gametheory", target: "izmir" },        // both math events
+  { source: "tba", target: "volunteering" },        // sibling community
+  { source: "secureexam", target: "tba" },          // project tied to informatics community
 ];
