@@ -101,10 +101,16 @@ export default function ArticlePage({
 }: ArticlePageProps) {
   const { setTocItems } = useRightPanel();
 
+  // tocItems dizisini bir metne (string'e) çeviriyoruz.
+  // Metinler (string) JavaScript'te referansla değil, doğrudan değerle karşılaştırılır!
+  const tocItemsString = JSON.stringify(tocItems);
+
   useEffect(() => {
-    setTocItems(tocItems);
+    // String'e çevirdiğimiz veriyi tekrar diziye çevirip Context'e yolluyoruz
+    setTocItems(JSON.parse(tocItemsString));
+    
     return () => setTocItems([]);
-  }, [setTocItems, tocItems]);
+  }, [setTocItems, tocItemsString]); // <-- DİKKAT: Artık tocItems'ı değil, tocItemsString'i dinliyoruz!
 
   const currentNode = nodeId ? graphNodes.find(n => n.id === nodeId) : undefined;
 
