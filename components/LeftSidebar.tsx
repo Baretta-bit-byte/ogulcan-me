@@ -13,6 +13,7 @@ import {
   Music2,
   BookOpen,
   Disc3,
+  Clock,
 } from "lucide-react";
 import Header from "./Header";
 import ThemeToggle from "./ThemeToggle";
@@ -26,6 +27,7 @@ const NAV_ITEMS = [
   { href: "/spotify",   label: "Spotify",     icon: Music2     },
   { href: "/books",     label: "Books",       icon: BookOpen   },
   { href: "/vinyl",     label: "Vinyl",       icon: Disc3      },
+  { href: "/now",       label: "/now",        icon: Clock      },
 ];
 
 const SOON_ITEMS: { label: string; icon: React.ComponentType<{ size?: number; strokeWidth?: number; className?: string }> }[] = [];
