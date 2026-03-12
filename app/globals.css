@@ -29,6 +29,21 @@ code, kbd, samp, pre, .mono {
   transition-timing-function: ease;
 }
 
+/* ── Organic theme-toggle: circular reveal via View Transitions API ── */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+::view-transition-new(root) {
+  /* Grows from --theme-x/y set by ThemeToggle */
+  animation: theme-reveal 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+@keyframes theme-reveal {
+  from { clip-path: circle(0% at var(--theme-x, 50%) var(--theme-y, 50%)); }
+  to   { clip-path: circle(170% at var(--theme-x, 50%) var(--theme-y, 50%)); }
+}
+
 /* Thin custom scrollbar — dark mode */
 .dark ::-webkit-scrollbar { width: 4px; height: 4px; }
 .dark ::-webkit-scrollbar-track { background: transparent; }

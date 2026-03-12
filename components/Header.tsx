@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion, type Easing } from "framer-motion";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 
@@ -51,11 +51,11 @@ const CYCLE = 5;
 
 const MAIN_KF    = [0, 1, 1, 0, 0];
 const MAIN_TIMES = [0, 0.28, 0.40, 0.64, 1];
-const MAIN_EASE  = ["easeOut", "linear", "easeIn", "linear"];
+const MAIN_EASE: Easing[]  = ["easeOut", "linear", "easeIn", "linear"];
 
 const CROSS_KF    = [0, 0, 1, 1, 0, 0];
 const CROSS_TIMES = [0, 0.22, 0.30, 0.42, 0.52, 1];
-const CROSS_EASE  = ["linear", "easeOut", "linear", "easeIn", "linear"];
+const CROSS_EASE: Easing[]  = ["linear", "easeOut", "linear", "easeIn", "linear"];
 
 // ─── Component ────────────────────────────────────────────────────────────────
 export default function Header() {

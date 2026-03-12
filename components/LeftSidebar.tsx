@@ -21,10 +21,10 @@ const NAV_ITEMS = [
   { href: "/projects",  label: "Projects",    icon: FolderGit2 },
   { href: "/math",      label: "Mathematics", icon: Calculator },
   { href: "/community", label: "Community",   icon: Users      },
+  { href: "/github",    label: "GitHub",      icon: Github     },
 ];
 
 const SOON_ITEMS = [
-  { label: "GitHub",  icon: Github   },
   { label: "Spotify", icon: Music2   },
   { label: "Books",   icon: BookOpen },
   { label: "Vinyl",   icon: Disc3    },
