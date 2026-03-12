@@ -14,6 +14,11 @@ import {
   BookOpen,
   Disc3,
   Clock,
+  Map,
+  Wrench,
+  PenLine,
+  Camera,
+  Gamepad2,
 } from "lucide-react";
 import Header from "./Header";
 import ThemeToggle from "./ThemeToggle";
@@ -28,6 +33,11 @@ const NAV_ITEMS = [
   { href: "/books",     label: "Books",       icon: BookOpen   },
   { href: "/vinyl",     label: "Vinyl",       icon: Disc3      },
   { href: "/now",       label: "/now",        icon: Clock      },
+  { href: "/topics",    label: "Topics",      icon: Map        },
+  { href: "/uses",      label: "/uses",       icon: Wrench     },
+  { href: "/posts",     label: "Writing",     icon: PenLine    },
+  { href: "/flickr",    label: "Photography", icon: Camera     },
+  { href: "/steam",     label: "Gaming",      icon: Gamepad2   },
 ];
 
 const SOON_ITEMS: { label: string; icon: React.ComponentType<{ size?: number; strokeWidth?: number; className?: string }> }[] = [];

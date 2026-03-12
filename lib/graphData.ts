@@ -31,6 +31,11 @@ export const graphNodes: GraphNode[] = [
   { id: "books",   label: "Books",   type: "personal", url: "/books",   description: "The last 12 books I read and finished", maturity: "sapling" },
   { id: "vinyl",   label: "Vinyl",   type: "personal", url: "/vinyl",   description: "My owned vinyl records from Discogs", maturity: "seedling" },
   { id: "now", label: "/now", type: "personal", url: "/now", description: "What I am doing right now", maturity: "evergreen" },
+  { id: "topics", label: "Maps of Content", type: "root", url: "/topics", description: "Directory of all notes" },
+  { id: "uses", label: "/uses", type: "tech", url: "/uses", description: "Developer environment & gear", maturity: "evergreen" },
+  { id: "posts", label: "Blog", type: "root", url: "/posts", description: "Polished essays" },
+  { id: "flickr", label: "Photography", type: "personal", url: "/flickr", description: "Photo gallery" },
+  { id: "steam", label: "Gaming", type: "personal", url: "/steam", description: "Steam activity" },
 ];
 
 export const graphLinks: GraphLink[] = [
@@ -54,4 +59,9 @@ export const graphLinks: GraphLink[] = [
   { source: "gametheory", target: "izmir" },        // both math events
   { source: "tba", target: "volunteering" },        // sibling community
   { source: "secureexam", target: "tba" },          // project tied to informatics community
+  { source: "home", target: "topics" },
+  { source: "home", target: "uses" },
+  { source: "home", target: "posts" },
+  { source: "home", target: "flickr" },
+  { source: "home", target: "steam" },
 ];
