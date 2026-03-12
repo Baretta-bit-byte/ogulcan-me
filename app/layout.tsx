@@ -7,6 +7,7 @@ import LeftSidebar from "@/components/LeftSidebar";
 import RightPanel from "@/components/RightPanel";
 import { RightPanelProvider } from "@/lib/rightPanelContext";
 import Footer from "@/components/Footer";
+import CommandPalette from "@/components/CommandPalette";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -52,6 +53,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <ThemeProvider>
           <RightPanelProvider>
+            <CommandPalette />
             <div className="flex h-screen overflow-hidden">
               {/* Left: sidebar */}
               <LeftSidebar />

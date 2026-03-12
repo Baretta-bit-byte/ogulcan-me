@@ -5,8 +5,15 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ReactNode, useState } from "react";
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
+import { graphNodes, Maturity } from "@/lib/graphData";
 
 type Variant = "tech" | "math" | "default";
+
+const maturityConfig: Record<Maturity, { icon: string; label: string; color: string }> = {
+  seedling:  { icon: "🌱", label: "Seedling",  color: "text-amber-500 dark:text-amber-400 border-amber-500/30 bg-amber-500/10" },
+  sapling:   { icon: "🪴", label: "Sapling",   color: "text-emerald-500 dark:text-emerald-400 border-emerald-500/30 bg-emerald-500/10" },
+  evergreen: { icon: "🌳", label: "Evergreen", color: "text-sky-500 dark:text-sky-400 border-sky-500/30 bg-sky-500/10" },
+};
 
 interface LinkedTermProps {
   href: string;
@@ -14,6 +21,7 @@ interface LinkedTermProps {
   content: ReactNode;
   title?: string;
   variant?: Variant;
+  nodeId?: string;
 }
 
 const triggerClass: Record<Variant, string> = {
@@ -52,8 +60,12 @@ export default function LinkedTerm({
   content,
   title,
   variant = "default",
+  nodeId,
 }: LinkedTermProps) {
   const [open, setOpen] = useState(false);
+  const graphNode = nodeId ? graphNodes.find(n => n.id === nodeId) : undefined;
+  const resolvedContent = content ?? (graphNode?.description ?? "");
+  const maturity = graphNode?.maturity;
 
   return (
     <HoverCard.Root open={open} onOpenChange={setOpen} openDelay={150} closeDelay={80}>
@@ -96,8 +108,16 @@ export default function LinkedTerm({
 
                   {/* Description */}
                   <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
-                    {content}
+                    {resolvedContent}
                   </p>
+
+                  {/* Maturity badge */}
+                  {maturity && (
+                    <div className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border text-xs font-medium ${maturityConfig[maturity].color}`}>
+                      <span>{maturityConfig[maturity].icon}</span>
+                      <span>{maturityConfig[maturity].label}</span>
+                    </div>
+                  )}
 
                   {/* Path hint */}
                   <p className="font-mono text-[10px] text-slate-400 dark:text-slate-500 truncate">
