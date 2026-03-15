@@ -6,6 +6,9 @@ on:
     - cron: "0 0 * * *" 
   workflow_dispatch: # GitHub üzerinden manuel olarak butona basıp çalıştırmanı sağlar
 
+permissions:
+  contents: write
+
 jobs:
   update-spotify:
     runs-on: ubuntu-latest
