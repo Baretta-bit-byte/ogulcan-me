@@ -3,7 +3,7 @@
 ## Architectural Vision and Concept
 This project is a seamless fusion of a personal "Digital Garden" and a professional showcase, specifically designed to demonstrate technical depth and UI/UX sensibility for 2026 Summer Software Dev Internships. Instead of traditional page transitions, the goal is to create an interconnected, explorable knowledge graph that links concepts contextually.
 
-## Current State (as of 2026-03-15)
+## Current State (as of 2026-03-16)
 
 All core infrastructure and live-data integrations are **complete**. The site is live at `ogulcantokmak.me`.
 
@@ -17,7 +17,7 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - Floating pill sidebar with Framer Motion `layoutId` active state
 - Footer — social icons, `cd ../` nav, `~` easter egg, Konami code
 - `/github` — GitHub REST API client-side dashboard
-- `/spotify` — build-time fetch via `scripts/fetch-spotify.mjs`, `public/spotify-data.json`
+- `/spotify` — live data via `raw.githubusercontent.com`, updated every 30 min by `spotify.yml` cron
 - `/books` — manual JSON + Open Library cover art
 - `/vinyl` — circular CSS groove records, spin hover, Discogs fetch script
 - `/topics` — Maps of Content, groups all `graphNodes` by type into card grid
@@ -48,7 +48,7 @@ All core infrastructure and live-data integrations are **complete**. The site is
 The site uses `output: "export"` for GitHub Pages. **No Node.js server at runtime.**
 - GitHub API: public endpoints → client-side `useEffect` + `fetch` ✅
 - Discogs: public collection → client-side fetch OR build-time script ✅
-- Spotify: requires OAuth → **build-time only** via `scripts/fetch-spotify.mjs` ✅
+- Spotify: requires OAuth → `spotify.yml` cron fetches every 30 min, commits `public/spotify-data.json`; page reads from `raw.githubusercontent.com` (no redeploy needed) ✅
 - Books: manual JSON, Open Library cover images loaded client-side ✅
 
 ## Design Language and 3-Column Layout Rules
@@ -87,7 +87,9 @@ The site uses `output: "export"` for GitHub Pages. **No Node.js server at runtim
 - Every new page needs: route file + node in `lib/graphData.ts` + link from parent + sidebar entry.
 - Run `npx tsc --noEmit` before committing — zero TypeScript errors required.
 - Avoid visual clutter; use whitespace intentionally.
-- The `prebuild` script runs `fetch-spotify.mjs` and `fetch-vinyl.mjs` — both gracefully no-op if secrets are missing.
+- The `prebuild` script runs `fetch-spotify.mjs` and `fetch-vinyl.mjs` — both gracefully preserve existing data if secrets are missing or API fails.
+- `public/spotify-data.json` is tracked in git (not gitignored) — updated by the nightly cron, never overwritten with empty data.
+- `deploy.yml` ignores changes to `public/spotify-data.json` — Spotify data updates do not trigger a full site redeploy.
 
 ## Key Patterns to Reuse
 - **Skeleton loader:** `<div className="animate-pulse rounded bg-slate-100 dark:bg-slate-800 ..." />`

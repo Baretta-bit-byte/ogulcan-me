@@ -15,7 +15,7 @@ This file provides structured context for any AI agent, LLM, or automated tool w
 
 ---
 
-## Current State (2026-03-13)
+## Current State (2026-03-16)
 
 All core features and live-data integrations are **complete and deployed**. Do not rebuild any of the following:
 
@@ -30,7 +30,7 @@ All core features and live-data integrations are **complete and deployed**. Do n
 | Footer + easter eggs | `components/Footer.tsx` | ✅ Done |
 | Floating pill sidebar | `components/LeftSidebar.tsx` | ✅ Done |
 | GitHub Dashboard | `app/github/page.tsx` | ✅ Done |
-| Spotify Top Tracks | `app/spotify/page.tsx`, `scripts/fetch-spotify.mjs` | ✅ Done |
+| Spotify Top Tracks | `app/spotify/page.tsx`, `scripts/fetch-spotify.mjs`, `.github/workflows/spotify.yml` | ✅ Done |
 | Books Reading Log | `app/books/page.tsx`, `public/books-data.json` | ✅ Done |
 | Vinyl Collection | `app/vinyl/page.tsx`, `scripts/fetch-vinyl.mjs`, `public/vinyl-data.json` | ✅ Done |
 | Maps of Content | `app/topics/page.tsx` | ✅ Done |
@@ -108,20 +108,22 @@ MEWebsite/
 │   └── rightPanelContext.tsx        # React context: pages register TOC items here
 │
 ├── scripts/
-│   ├── fetch-spotify.mjs            # Prebuild: exchanges refresh token, writes /public/spotify-data.json
-│   └── fetch-vinyl.mjs              # Prebuild: fetches Discogs collection, writes /public/vinyl-data.json
+│   ├── fetch-spotify.mjs            # Prebuild: exchanges refresh token, writes /public/spotify-data.json (preserves existing on failure)
+│   ├── fetch-vinyl.mjs              # Prebuild: fetches Discogs collection, writes /public/vinyl-data.json
+│   └── get-spotify-token.mjs        # One-time helper: generates a new SPOTIFY_REFRESH_TOKEN via OAuth
 │
 ├── public/
 │   ├── books-data.json              # Manually maintained — edit to add/update books
 │   ├── vinyl-data.json              # Manually maintained OR overwritten by fetch-vinyl.mjs
-│   ├── spotify-data.json            # Generated at build time — gitignored
+│   ├── spotify-data.json            # Tracked in git — updated every 30 min by spotify.yml cron
 │   └── CNAME                        # ogulcantokmak.me
 │
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml               # CI: prebuild scripts → next build → GitHub Pages deploy
-│                                    # Exposes: SPOTIFY_CLIENT_ID/SECRET/REFRESH_TOKEN,
-│                                    #          DISCOGS_USERNAME, DISCOGS_USER_TOKEN
+│       ├── deploy.yml               # CI: prebuild → next build → GitHub Pages deploy
+│       │                            # Ignores spotify-data.json changes (no redeploy needed for data)
+│       │                            # Exposes: SPOTIFY_CLIENT_ID/SECRET/REFRESH_TOKEN, DISCOGS_*
+│       └── spotify.yml              # Cron every 30 min: fetch top tracks → commit spotify-data.json
 │
 ├── v1/                              # Legacy HTML portfolio (April 2025) — READ-ONLY, DO NOT MODIFY
 ├── CLAUDE.md                        # Project spec for Claude Code (owner can edit)
@@ -136,7 +138,7 @@ MEWebsite/
 
 ### NEVER modify
 - `v1/` — preserved legacy portfolio, read-only history
-- `public/spotify-data.json` — generated file, gitignored, overwritten every build
+- `public/spotify-data.json` — managed by the `spotify.yml` cron workflow; do not manually edit or delete
 
 ### Always update together
 - Adding a new page → **must** also update `lib/graphData.ts` (node + link) AND `components/LeftSidebar.tsx` (nav item)
@@ -216,9 +218,20 @@ Cross-links (non-tree edges) make this a real graph — always add at least one 
 | Integration | Fetch timing | Secret(s) needed | Fallback |
 |---|---|---|---|
 | GitHub | Client-side (useEffect) | None | Error message shown |
-| Spotify | Build-time (`prebuild`) | `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN` | Empty JSON → "set up secrets" UI |
+| Spotify | `spotify.yml` cron every 30 min → commits `public/spotify-data.json`; page reads from `raw.githubusercontent.com` | `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN` | Preserves last committed data |
 | Books | Client-side (reads static JSON) | None | Edit `public/books-data.json` |
 | Vinyl | Client-side (reads static JSON) | `DISCOGS_USERNAME`, `DISCOGS_USER_TOKEN` (optional, enriches data) | Existing `public/vinyl-data.json` |
+
+### Spotify refresh token — one-time setup
+If the `SPOTIFY_REFRESH_TOKEN` secret ever becomes invalid, regenerate it:
+```powershell
+$env:SPOTIFY_CLIENT_ID="..."
+$env:SPOTIFY_CLIENT_SECRET="..."
+node scripts/get-spotify-token.mjs
+# visit the printed URL → authorize → copy full redirect URL → run again with it
+```
+Redirect URI to add in Spotify Dashboard: `https://ogulcantokmak.me/`
+The refresh token does **not** expire on its own — only if you change your Spotify password or revoke the app.
 
 ---
 

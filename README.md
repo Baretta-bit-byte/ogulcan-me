@@ -66,7 +66,7 @@ Not a standard portfolio. Every page — project, math note, community activity,
 | `/community/tba` | Turkish Informatics Association | Static |
 | `/community/volunteering` | AFAD & LÖSEV Volunteering | Static |
 | `/github` | GitHub dashboard — repos, last PR, contribution heatmap | GitHub REST API (client-side) |
-| `/spotify` | Spotify top 12 tracks (last 4 weeks) | Build-time fetch → `public/spotify-data.json` |
+| `/spotify` | Spotify top 12 tracks (last 4 weeks) | `spotify.yml` cron (every 30 min) → `raw.githubusercontent.com` |
 | `/books` | Reading log — 12 finished books | Manual `public/books-data.json` + Open Library covers |
 | `/vinyl` | Vinyl collection — spinning circular records | Manual `public/vinyl-data.json` + optional Discogs API |
 | `/topics` | Maps of Content — graph nodes grouped by type | Static (`lib/graphData.ts`) |
@@ -111,17 +111,29 @@ npm run build       # runs prebuild scripts first, then next build
 
 ### Spotify (top tracks)
 
-The build script runs automatically — you just need three GitHub Actions secrets:
+Data is fetched every 30 minutes by the `spotify.yml` GitHub Actions workflow and committed to `public/spotify-data.json`. The page reads this file directly from `raw.githubusercontent.com` — no full site redeploy needed for data updates.
 
-1. Go to [developer.spotify.com/dashboard](https://developer.spotify.com/dashboard) → Create App
-2. Set redirect URI: `http://localhost:8888/callback`
-3. Authorize and get a `refresh_token` with scope `user-top-read user-read-private playlist-read-private`
-4. Add secrets to GitHub Actions → Repo Settings → Secrets → Actions:
+**One-time setup:**
+
+1. Go to [developer.spotify.com/dashboard](https://developer.spotify.com/dashboard) → your app → Edit Settings
+2. Add redirect URI: `https://ogulcantokmak.me/`
+3. Run the token helper (PowerShell):
+   ```powershell
+   $env:SPOTIFY_CLIENT_ID="your_client_id"
+   $env:SPOTIFY_CLIENT_SECRET="your_client_secret"
+   node scripts/get-spotify-token.mjs
+   ```
+4. Visit the printed URL → authorize → copy the full redirect URL from the address bar → run again:
+   ```powershell
+   node scripts/get-spotify-token.mjs "https://ogulcantokmak.me/?code=AQ..."
+   ```
+5. Add the three secrets to **GitHub → Repo Settings → Secrets → Actions**:
    - `SPOTIFY_CLIENT_ID`
    - `SPOTIFY_CLIENT_SECRET`
    - `SPOTIFY_REFRESH_TOKEN`
+6. Manually trigger the **Update Spotify Data** workflow once to populate the data.
 
-Done!
+The refresh token does **not** expire — you only need to redo this if you change your Spotify password or revoke the app at [spotify.com/account/apps](https://www.spotify.com/account/apps).
 
 ### Discogs (vinyl collection)
 
@@ -189,7 +201,8 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 | Version | Description |
 |---|---|
-| **v2.5 (current)** | Books reading log updated with real personal reading history |
+| **v2.6 (current)** | Spotify live data: 30-min cron, raw.githubusercontent.com fetch, no-redeploy architecture |
+| **v2.5** | Books reading log updated with real personal reading history |
 | **v2.4** | /topics, /uses, /posts, /flickr, /steam pages + LinkedTerm maturity badges |
 | **v2.3** | GitHub, Spotify, Books, Vinyl pages + organic theme toggle |
 | **v2.2** | Footer redesign, easter eggs, sidebar floating pill |
