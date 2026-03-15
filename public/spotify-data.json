@@ -6,6 +6,18 @@
   },
   "tracks": [
     {
+      "id": "7yNf9YjeO5JXUE3JEBgnYc",
+      "name": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+      "preview_url": null,
+      "duration_ms": 97960
+    },
+    {
       "id": "59MVohcr4ayOZvXW51QU4Z",
       "name": "Cool & Fresh",
       "artists": [
@@ -31,66 +43,6 @@
       "duration_ms": 231966
     },
     {
-      "id": "2tYWrHXCwKCPO86kgqLemB",
-      "name": "Giderdi Hoşuma",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/2tYWrHXCwKCPO86kgqLemB",
-      "preview_url": null,
-      "duration_ms": 220530
-    },
-    {
-      "id": "4kE8bDlkPNpoc7Ihj9jRkF",
-      "name": "can i feel you again?",
-      "artists": [
-        "sapphirevibes"
-      ],
-      "album": "the black sheep",
-      "image": "https://i.scdn.co/image/ab67616d00001e025d6bb874db67bcca1987b63a",
-      "url": "https://open.spotify.com/track/4kE8bDlkPNpoc7Ihj9jRkF",
-      "preview_url": null,
-      "duration_ms": 153739
-    },
-    {
-      "id": "7yNf9YjeO5JXUE3JEBgnYc",
-      "name": "Babydoll",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "preview_url": null,
-      "duration_ms": 97960
-    },
-    {
-      "id": "2TktkzfozZifbQhXjT6I33",
-      "name": "Evergreen (You Didn’t Deserve Me At All)",
-      "artists": [
-        "Omar Apollo"
-      ],
-      "album": "Ivory",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a4b3a51e2b3941f5275f052f",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33",
-      "preview_url": null,
-      "duration_ms": 216680
-    },
-    {
-      "id": "0MteK167vtyb6hoJNC3Uz3",
-      "name": "A Girl Like You",
-      "artists": [
-        "Edwyn Collins"
-      ],
-      "album": "Gorgeous George",
-      "image": "https://i.scdn.co/image/ab67616d00001e0251893e443844361a44675df4",
-      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3",
-      "preview_url": null,
-      "duration_ms": 236583
-    },
-    {
       "id": "0b6xZk9f96N77BfmYWnQNC",
       "name": "Mama's Boy",
       "artists": [
@@ -101,18 +53,6 @@
       "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC",
       "preview_url": null,
       "duration_ms": 155721
-    },
-    {
-      "id": "0clJFOmJeMiQ1LtUn0CPci",
-      "name": "$500 Fine",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "Rocket",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
-      "url": "https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci",
-      "preview_url": null,
-      "duration_ms": 82823
     },
     {
       "id": "0rx7xu0RmZLpJjKNVZjSVv",
@@ -140,18 +80,78 @@
       "duration_ms": 177666
     },
     {
-      "id": "1DIXPcTDzTj8ZMHt3PDt8p",
-      "name": "Gangsta's Paradise",
+      "id": "1dtFnGE0tVD7Et1B6CNbDK",
+      "name": "Neden Olmasın?",
       "artists": [
-        "Coolio",
-        "L.V."
+        "Skapova",
+        "melih"
       ],
-      "album": "Gangsta's Paradise",
-      "image": "https://i.scdn.co/image/ab67616d00001e027438996f6fe67c59d75d4e43",
-      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "album": "Hayat",
+      "image": "https://i.scdn.co/image/ab67616d00001e020e5bd339644b4768a190261d",
+      "url": "https://open.spotify.com/track/1dtFnGE0tVD7Et1B6CNbDK",
       "preview_url": null,
-      "duration_ms": 240693
+      "duration_ms": 234000
+    },
+    {
+      "id": "2tYWrHXCwKCPO86kgqLemB",
+      "name": "Giderdi Hoşuma",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/2tYWrHXCwKCPO86kgqLemB",
+      "preview_url": null,
+      "duration_ms": 220530
+    },
+    {
+      "id": "4kE8bDlkPNpoc7Ihj9jRkF",
+      "name": "can i feel you again?",
+      "artists": [
+        "sapphirevibes"
+      ],
+      "album": "the black sheep",
+      "image": "https://i.scdn.co/image/ab67616d00001e025d6bb874db67bcca1987b63a",
+      "url": "https://open.spotify.com/track/4kE8bDlkPNpoc7Ihj9jRkF",
+      "preview_url": null,
+      "duration_ms": 153739
+    },
+    {
+      "id": "5ViLKrbyL3HD6wsq3AB9eI",
+      "name": "White Keys",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "White Keys",
+      "image": "https://i.scdn.co/image/ab67616d00001e023696096119ef08824cf85ede",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI",
+      "preview_url": null,
+      "duration_ms": 144101
+    },
+    {
+      "id": "6WTFHKrnZpwEBLRS10Ylqs",
+      "name": "misses",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "14 minutes",
+      "image": "https://i.scdn.co/image/ab67616d00001e020297fb98f81fc0b611fcf71d",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs",
+      "preview_url": null,
+      "duration_ms": 74378
+    },
+    {
+      "id": "2TktkzfozZifbQhXjT6I33",
+      "name": "Evergreen (You Didn’t Deserve Me At All)",
+      "artists": [
+        "Omar Apollo"
+      ],
+      "album": "Ivory",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a4b3a51e2b3941f5275f052f",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33",
+      "preview_url": null,
+      "duration_ms": 216680
     }
   ],
-  "fetched_at": "2026-03-15T22:27:15.868Z"
+  "fetched_at": "2026-03-15T22:56:40.719Z"
 }
