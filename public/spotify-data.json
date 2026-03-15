@@ -1,5 +1,157 @@
 {
-  "profile": null,
-  "tracks": [],
-  "fetched_at": null
+  "profile": {
+    "name": "Ogi",
+    "followers": 6,
+    "playlists": 75
+  },
+  "tracks": [
+    {
+      "id": "59MVohcr4ayOZvXW51QU4Z",
+      "name": "Cool & Fresh",
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
+      "album": "Cool & Fresh",
+      "image": "https://i.scdn.co/image/ab67616d00001e02629f4f62f3bfef003cdeadc3",
+      "url": "https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z",
+      "preview_url": null,
+      "duration_ms": 137500
+    },
+    {
+      "id": "7IqcMkN74DjN8DszGInzbA",
+      "name": "They Dont Know Me Son",
+      "artists": [
+        "Ayparia"
+      ],
+      "album": "They Dont Know Me Son",
+      "image": "https://i.scdn.co/image/ab67616d00001e02eb9ae37d6d4746b663feab60",
+      "url": "https://open.spotify.com/track/7IqcMkN74DjN8DszGInzbA",
+      "preview_url": null,
+      "duration_ms": 231966
+    },
+    {
+      "id": "2tYWrHXCwKCPO86kgqLemB",
+      "name": "Giderdi Hoşuma",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/2tYWrHXCwKCPO86kgqLemB",
+      "preview_url": null,
+      "duration_ms": 220530
+    },
+    {
+      "id": "4kE8bDlkPNpoc7Ihj9jRkF",
+      "name": "can i feel you again?",
+      "artists": [
+        "sapphirevibes"
+      ],
+      "album": "the black sheep",
+      "image": "https://i.scdn.co/image/ab67616d00001e025d6bb874db67bcca1987b63a",
+      "url": "https://open.spotify.com/track/4kE8bDlkPNpoc7Ihj9jRkF",
+      "preview_url": null,
+      "duration_ms": 153739
+    },
+    {
+      "id": "7yNf9YjeO5JXUE3JEBgnYc",
+      "name": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+      "preview_url": null,
+      "duration_ms": 97960
+    },
+    {
+      "id": "2TktkzfozZifbQhXjT6I33",
+      "name": "Evergreen (You Didn’t Deserve Me At All)",
+      "artists": [
+        "Omar Apollo"
+      ],
+      "album": "Ivory",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a4b3a51e2b3941f5275f052f",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33",
+      "preview_url": null,
+      "duration_ms": 216680
+    },
+    {
+      "id": "0MteK167vtyb6hoJNC3Uz3",
+      "name": "A Girl Like You",
+      "artists": [
+        "Edwyn Collins"
+      ],
+      "album": "Gorgeous George",
+      "image": "https://i.scdn.co/image/ab67616d00001e0251893e443844361a44675df4",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3",
+      "preview_url": null,
+      "duration_ms": 236583
+    },
+    {
+      "id": "0b6xZk9f96N77BfmYWnQNC",
+      "name": "Mama's Boy",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Sunburn",
+      "image": "https://i.scdn.co/image/ab67616d00001e025b26c1b56d89c1416d21db60",
+      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC",
+      "preview_url": null,
+      "duration_ms": 155721
+    },
+    {
+      "id": "0clJFOmJeMiQ1LtUn0CPci",
+      "name": "$500 Fine",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Rocket",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci",
+      "preview_url": null,
+      "duration_ms": 82823
+    },
+    {
+      "id": "0rx7xu0RmZLpJjKNVZjSVv",
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "artists": [
+        "JENNIE",
+        "Dominic Fike"
+      ],
+      "album": "Ruby",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
+      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
+      "preview_url": null,
+      "duration_ms": 180129
+    },
+    {
+      "id": "0uI7yAKUf52Cn7y3sYyjiX",
+      "name": "3 Nights",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
+      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX",
+      "preview_url": null,
+      "duration_ms": 177666
+    },
+    {
+      "id": "1DIXPcTDzTj8ZMHt3PDt8p",
+      "name": "Gangsta's Paradise",
+      "artists": [
+        "Coolio",
+        "L.V."
+      ],
+      "album": "Gangsta's Paradise",
+      "image": "https://i.scdn.co/image/ab67616d00001e027438996f6fe67c59d75d4e43",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "preview_url": null,
+      "duration_ms": 240693
+    }
+  ],
+  "fetched_at": "2026-03-15T22:19:18.139Z"
 }
