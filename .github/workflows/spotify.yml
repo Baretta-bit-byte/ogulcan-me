@@ -16,12 +16,12 @@ jobs:
       contents: write
     steps:
       - name: Kodu İndir
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Node.js Kur
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Spotify Verilerini Çek
         env:
