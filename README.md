@@ -189,7 +189,8 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 | Version | Description |
 |---|---|
-| **v2.4 (current)** | /topics, /uses, /posts, /flickr, /steam pages + LinkedTerm maturity badges |
+| **v2.5 (current)** | Books reading log updated with real personal reading history |
+| **v2.4** | /topics, /uses, /posts, /flickr, /steam pages + LinkedTerm maturity badges |
 | **v2.3** | GitHub, Spotify, Books, Vinyl pages + organic theme toggle |
 | **v2.2** | Footer redesign, easter eggs, sidebar floating pill |
 | **v2.1** | Graph interactivity, hover cards, all content pages, signature animation |
