@@ -44,7 +44,11 @@ const tokenRes = await fetch("https://accounts.spotify.com/api/token", {
 
 if (!tokenRes.ok) {
   console.error("✖  Spotify token exchange failed:", await tokenRes.text());
-  writeFileSync("public/spotify-data.json", JSON.stringify(EMPTY, null, 2));
+  if (!existsSync("public/spotify-data.json")) {
+    writeFileSync("public/spotify-data.json", JSON.stringify(EMPTY, null, 2));
+  } else {
+    console.warn("⚠  Keeping existing spotify-data.json.");
+  }
   process.exit(0);
 }
 

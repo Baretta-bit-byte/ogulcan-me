@@ -166,7 +166,9 @@ export default function SpotifyPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/spotify-data.json")
+    // Fetch directly from GitHub raw — always the latest committed version,
+    // updated every 30 min by the spotify.yml workflow (no redeploy needed).
+    fetch("https://raw.githubusercontent.com/Baretta-bit-byte/ogulcan-me/main/public/spotify-data.json")
       .then((r) => r.json())
       .then((d: SpotifyData) => { setData(d); setLoading(false); })
       .catch(() => setLoading(false));

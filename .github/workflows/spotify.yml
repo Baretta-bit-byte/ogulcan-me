@@ -2,8 +2,8 @@ name: Update Spotify Data
 
 on:
   schedule:
-    # Her gece Türkiye saati ile ortalama 03:00'te (UTC 00:00) otomatik çalışır
-    - cron: "0 0 * * *" 
+    # Her 30 dakikada bir çalışır
+    - cron: "*/30 * * * *"
   workflow_dispatch: # GitHub üzerinden manuel olarak butona basıp çalıştırmanı sağlar
 
 permissions:
