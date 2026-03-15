@@ -1,0 +1,34 @@
+name: Update Spotify Data
+
+on:
+  schedule:
+    # Her gece Türkiye saati ile ortalama 03:00'te (UTC 00:00) otomatik çalışır
+    - cron: "0 0 * * *" 
+  workflow_dispatch: # GitHub üzerinden manuel olarak butona basıp çalıştırmanı sağlar
+
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu İndir
+        uses: actions/checkout@v4
+
+      - name: Node.js Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Spotify Verilerini Çek
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: node scripts/fetch-spotify.mjs
+
+      - name: Değişiklikleri GitHub'a Kaydet
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/spotify-data.json
+          git commit -m "chore: otomatik spotify verisi güncelleme" || exit 0
+          git push
