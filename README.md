@@ -1,4 +1,4 @@
-# ogulcan.me — Digital Garden & Portfolio
+# [ogulcantokmak](https://ogulcantokmak.me/).me — Digital Garden & Portfolio & Blog
 
 > A personal Digital Garden and professional showcase built in 2026 Spring.
 
@@ -13,7 +13,7 @@
 
 Not a standard portfolio. Every page — project, math note, community activity, GitHub dashboard, Spotify, books, vinyl — is a **node** in an interactive knowledge graph you can explore visually.
 
-**Design inspirations:** Anthony Fu · Theo Winter · Brian Ton · chrisvogt.me
+**Design inspirations:** Anthony Fu · Theo Winter · Brian Ton · Chris Vogt
 
 ---
 
@@ -121,6 +121,8 @@ The build script runs automatically — you just need three GitHub Actions secre
    - `SPOTIFY_CLIENT_SECRET`
    - `SPOTIFY_REFRESH_TOKEN`
 
+Done!
+
 ### Discogs (vinyl collection)
 
 1. Go to [discogs.com/settings/developers](https://www.discogs.com/settings/developers) → Generate Personal Access Token
@@ -144,7 +146,7 @@ No secrets needed. Edit `public/books-data.json` directly:
   "url":      "https://openlibrary.org/isbn/..."
 }
 ```
-
+DONE
 Cover art is fetched automatically from Open Library using the ISBN.
 
 ---

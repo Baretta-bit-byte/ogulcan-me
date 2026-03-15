@@ -1,98 +1,122 @@
 [
   {
-    "isbn":     "9780465026562",
-    "title":    "Gödel, Escher, Bach",
-    "author":   "Douglas Hofstadter",
+    "isbn":     "9786052491959",
+    "title":    "Romeo and Juliet",
+    "my_note":  "Türkçe dile çevrilmiş hali okundu.",
+    "author":   "Shakespeare, William 1564-1616",
+    "pages":    119,
     "finished": "2026-01-10",
     "rating":   5,
-    "url":      "https://openlibrary.org/isbn/9780465026562"
+    "url":      "https://katalog.ege.edu.tr/uhtbin/cgisirsi.exe/?ps=VcxA40WNBN/MAIN/X/9"
   },
   {
-    "isbn":     "9781848000698",
-    "title":    "The Algorithm Design Manual",
-    "author":   "Steven Skiena",
+    "isbn":     "9786052492956",
+    "title":    "Hamlet",
+    "my_note":  "Türkçe dile çevrilmiş hali okundu.",
+    "author":   "Shakespeare, William 1564-1616",
+    "pages":    151,
     "finished": "2025-12-20",
     "rating":   5,
-    "url":      "https://openlibrary.org/isbn/9781848000698"
+    "url":      "https://katalog.ege.edu.tr/uhtbin/cgisirsi.exe/?ps=Ju3sHEelNx/MAIN/X/9"
   },
   {
-    "isbn":     "9780132350884",
-    "title":    "Clean Code",
-    "author":   "Robert C. Martin",
+    "isbn":     "9786052493014",
+    "title":    "Macbeth",
+    "my_note":  "Türkçe dile çevrilmiş hali okundu.",
+    "author":   "Shakespeare, William 1564-1616",
+    "pages":    98,
     "finished": "2025-11-15",
-    "rating":   4,
-    "url":      "https://openlibrary.org/isbn/9780132350884"
+    "rating":   5,
+    "url":      "https://katalog.ege.edu.tr/uhtbin/cgisirsi.exe/?ps=cYPc2LblSe/MAIN/X/9"
   },
   {
-    "isbn":     "9780262046305",
-    "title":    "Introduction to Algorithms",
-    "author":   "Cormen, Leiserson, Rivest, Stein",
+    "isbn":     "9786059126892",
+    "title":    "One Shakespeare a Day",
+    "my_note":  "Her güne 1 Shakespeare (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Percy, Allan 1968-",
+    "pages":    196,
     "finished": "2025-10-30",
     "rating":   5,
-    "url":      "https://openlibrary.org/isbn/9780262046305"
+    "url":      "https://katalog.ege.edu.tr/uhtbin/cgisirsi.exe/?ps=oER7UXtOkH/MAIN/X/9"
   },
   {
-    "isbn":     "9780691129082",
-    "title":    "Game Theory: An Introduction",
-    "author":   "Steven Tadelis",
+    "isbn":     "9789750738913",
+    "title":    "Wuthering Heights",
+    "my_note":  "Uğultulu Tepeler (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Bronte, Emily 1818-1848",
+    "pages":    408,
     "finished": "2025-09-18",
-    "rating":   4,
-    "url":      "https://openlibrary.org/isbn/9780691129082"
+    "rating":   5,
+    "url":      "https://openlibrary.org/works/OL21177W/Wuthering_Heights?edition=key%3A/books/OL35432074M"
   },
   {
-    "isbn":     "9780135957059",
-    "title":    "The Pragmatic Programmer",
-    "author":   "Hunt & Thomas",
+    "isbn":     "9789759038892",
+    "title":    "Mathematics and Games",
+    "my_note":  "Matematik ve Oyun (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Nesin, Ali 1956-",
+    "pages":    216,
     "finished": "2025-08-05",
     "rating":   5,
-    "url":      "https://openlibrary.org/isbn/9780135957059"
+    "url":      "https://www.nesinyayinevi.com/urun/matematik-ve-oyun"
   },
   {
-    "isbn":     "9780262033848",
-    "title":    "Concrete Mathematics",
-    "author":   "Graham, Knuth, Patashnik",
+    "isbn":     "9786050205121",
+    "title":    "Euclid's Window",
+    "my_note":  "Öklid'in Penceresi (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Mlodinow, Leonard 1954-",
+    "pages":    360,
     "finished": "2025-07-12",
-    "rating":   4,
-    "url":      "https://openlibrary.org/isbn/9780262033848"
+    "rating":   5,
+    "url":      "https://openlibrary.org/works/OL7986154W/Euclid's_Window?edition=key%3A/books/OL35356806M"
   },
   {
-    "isbn":     "9780387984032",
-    "title":    "Algebraic Graph Theory",
-    "author":   "Chris Godsil & Gordon Royle",
+    "isbn":     "9786053649175",
+    "title":    "The History and Philosophy of Mathematics", 
+    "my_note":  "Matematik Tarihi ve Felsefesi (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Baki, Adnan",
+    "pages":    328,
     "finished": "2025-06-01",
-    "rating":   4,
-    "url":      "https://openlibrary.org/isbn/9780387984032"
+    "rating":   5,
+    "url":      "https://openlibrary.org/works/OL26227050W/Matematik_Tarihi_ve_Felsefesi?edition=key%3A/books/OL35383622M"
   },
   {
-    "isbn":     "9781491910399",
-    "title":    "Python Data Science Handbook",
-    "author":   "Jake VanderPlas",
+    "isbn":     "9786051981833",
+    "title":    "The Midnight Library",
+    "my_note":  "Gece yarısı kütüphanesi 25.bs (Türkçe dile çevrilmiş hali okundu.)",  
+    "author":   "Haig, Matt 1975-",
+    "pages":    296,
     "finished": "2025-05-20",
-    "rating":   4,
-    "url":      "https://openlibrary.org/isbn/9781491910399"
+    "rating":   5,
+    "url":      "https://openlibrary.org/works/OL26214261W/Gece_Yarisi_K%C3%BCt%C3%BCphanesi?edition=key%3A/books/OL35369402M"
   },
   {
-    "isbn":     "9780679720201",
-    "title":    "The Stranger",
-    "author":   "Albert Camus",
+    "isbn":     "9786057908261",
+    "title":    "Finland: The Country of White Lilies",
+    "my_note":  "Beyaz Zambaklar Ülkesinde (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Petrov, Grigoriy 1866-1925",
+    "pages":    239,
     "finished": "2025-04-14",
     "rating":   5,
-    "url":      "https://openlibrary.org/isbn/9780679720201"
+    "url":      "https://openlibrary.org/works/OL24328167W/Beyaz_Zambaklar_%C3%9Clkesinde?edition=key%3A/books/OL35422583M"
   },
   {
-    "isbn":     "9780062316097",
-    "title":    "Sapiens",
-    "author":   "Yuval Noah Harari",
+    "isbn":     "9780857868787",
+    "title":    "The Humans",
+    "my_note":  "İnsanlar (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Haig, Matt 1975-",
+    "pages":    324,
     "finished": "2025-03-08",
-    "rating":   4,
-    "url":      "https://openlibrary.org/isbn/9780062316097"
+    "rating":   5,
+    "url":      "https://openlibrary.org/works/OL20942368W/The_Humans?edition=key%3A/books/OL28374121M"
   },
   {
-    "isbn":     "9780374533557",
-    "title":    "Thinking, Fast and Slow",
-    "author":   "Daniel Kahneman",
+    "isbn":     "9786051981086",
+    "title":    "Notes from a Nutjob Planet",
+    "my_note":  "Nevrotik Bir Gezegenden Notlar (Türkçe dile çevrilmiş hali okundu.)",
+    "author":   "Haig, Matt 1975-",
+    "pages":    320,
     "finished": "2025-02-01",
     "rating":   5,
-    "url":      "https://openlibrary.org/isbn/9780374533557"
+    "url":      "https://openlibrary.org/works/OL26159413W/Nevrotik_Bir_Gezegenden_Notlar?edition=key%3A/books/OL35307226M"
   }
 ]
