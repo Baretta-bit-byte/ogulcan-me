@@ -10,16 +10,20 @@
  * Output: public/spotify-data.json
  */
 
-import { writeFileSync, mkdirSync } from "fs";
+import { writeFileSync, mkdirSync, existsSync } from "fs";
 
 const { SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN } = process.env;
 
 const EMPTY = { profile: null, tracks: [], fetched_at: null };
 
 if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) {
-  console.warn("⚠  Spotify env vars missing — writing empty fallback data.");
-  mkdirSync("public", { recursive: true });
-  writeFileSync("public/spotify-data.json", JSON.stringify(EMPTY, null, 2));
+  if (existsSync("public/spotify-data.json")) {
+    console.warn("⚠  Spotify env vars missing — keeping existing spotify-data.json.");
+  } else {
+    console.warn("⚠  Spotify env vars missing — writing empty fallback data.");
+    mkdirSync("public", { recursive: true });
+    writeFileSync("public/spotify-data.json", JSON.stringify(EMPTY, null, 2));
+  }
   process.exit(0);
 }
 
