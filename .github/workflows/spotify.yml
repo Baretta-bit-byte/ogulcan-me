@@ -9,6 +9,8 @@ on:
 jobs:
   update-spotify:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Kodu İndir
         uses: actions/checkout@v4
