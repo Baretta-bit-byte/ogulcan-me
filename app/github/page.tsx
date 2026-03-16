@@ -12,6 +12,8 @@ import {
 } from "lucide-react";
 
 const USERNAME = "Baretta-bit-byte";
+const DATA_URL =
+  "https://raw.githubusercontent.com/Baretta-bit-byte/ogulcan-me/main/public/github-data.json";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -37,7 +39,7 @@ interface PREvent {
   title: string;
   html_url: string;
   merged_at: string | null;
-  created_at: string;
+  created_at: string | null;
   repo: string;
   state: string;
 }
@@ -53,10 +55,21 @@ interface ContributionData {
   total: Record<string, number>;
 }
 
+interface GitHubData {
+  user: GithubUser | null;
+  repos: Repo[];
+  lastPR: PREvent | null;
+  contributions: ContributionData | null;
+  fetched_at: string | null;
+}
+
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
-function timeAgo(dateStr: string): string {
-  const diff = Date.now() - new Date(dateStr).getTime();
+function timeAgo(dateStr: string | null | undefined): string {
+  if (!dateStr) return "some time ago";
+  const ms = Date.parse(dateStr);
+  if (isNaN(ms)) return "some time ago";
+  const diff = Date.now() - ms;
   const days = Math.floor(diff / 86_400_000);
   if (days === 0) return "today";
   if (days === 1) return "yesterday";
@@ -202,58 +215,24 @@ function Skeleton({ className }: { className?: string }) {
 // ─── Page ─────────────────────────────────────────────────────────────────────
 
 export default function GitHubPage() {
-  const [user,          setUser]          = useState<GithubUser | null>(null);
-  const [repos,         setRepos]         = useState<Repo[]>([]);
-  const [lastPR,        setLastPR]        = useState<PREvent | null>(null);
-  const [contributions, setContributions] = useState<ContributionData | null>(null);
-  const [loading,       setLoading]       = useState(true);
-  const [error,         setError]         = useState<string | null>(null);
+  const [data,    setData]    = useState<GitHubData | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error,   setError]   = useState<string | null>(null);
 
   useEffect(() => {
-    async function load() {
-      try {
-        const [userRes, reposRes, eventsRes, contribRes] = await Promise.all([
-          fetch(`https://api.github.com/users/${USERNAME}`),
-          fetch(`https://api.github.com/users/${USERNAME}/repos?sort=pushed&per_page=6`),
-          fetch(`https://api.github.com/users/${USERNAME}/events/public?per_page=100`),
-          fetch(`https://github-contributions-api.jogruber.de/v4/${USERNAME}?y=last`),
-        ]);
-
-        if (!userRes.ok) throw new Error("GitHub API rate limit or user not found.");
-
-        const userData: GithubUser = await userRes.json();
-        const reposData: Repo[]    = await reposRes.json();
-        const eventsData: { type: string; payload: { action?: string; pull_request?: { title: string; html_url: string; merged_at: string | null; created_at: string; state: string }; }; repo: { name: string }; }[] = await eventsRes.json();
-
-        setUser(userData);
-        setRepos(reposData.slice(0, 6));
-
-        // Find last PR
-        const prEvent = eventsData.find(
-          (e) => e.type === "PullRequestEvent" && e.payload?.pull_request
-        );
-        if (prEvent?.payload?.pull_request) {
-          setLastPR({
-            title:      prEvent.payload.pull_request.title,
-            html_url:   prEvent.payload.pull_request.html_url,
-            merged_at:  prEvent.payload.pull_request.merged_at,
-            created_at: prEvent.payload.pull_request.created_at,
-            repo:       prEvent.repo.name,
-            state:      prEvent.payload.pull_request.state,
-          });
-        }
-
-        if (contribRes.ok) {
-          setContributions(await contribRes.json());
-        }
-      } catch (e) {
-        setError(e instanceof Error ? e.message : "Failed to load GitHub data.");
-      } finally {
-        setLoading(false);
-      }
-    }
-    load();
+    fetch(DATA_URL, { cache: "no-store" })
+      .then((r) => {
+        if (!r.ok) throw new Error(`Failed to load GitHub data (${r.status})`);
+        return r.json() as Promise<GitHubData>;
+      })
+      .then(setData)
+      .catch((e) => setError(e.message))
+      .finally(() => setLoading(false));
   }, []);
+
+  const { user, repos, lastPR, contributions, fetched_at } = data ?? {
+    user: null, repos: [], lastPR: null, contributions: null, fetched_at: null,
+  };
 
   return (
     <article className="space-y-12">
@@ -298,6 +277,12 @@ export default function GitHubPage() {
             </>
           ) : null}
         </div>
+
+        {fetched_at && (
+          <p className="font-mono text-[10px] text-slate-400">
+            updated {timeAgo(fetched_at)}
+          </p>
+        )}
 
         {error && (
           <p className="font-mono text-xs text-red-400">{error}</p>
