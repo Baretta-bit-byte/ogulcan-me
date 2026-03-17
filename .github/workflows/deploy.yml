@@ -6,6 +6,8 @@ on:
     paths-ignore:
       - "public/spotify-data.json"
       - "public/github-data.json"
+      - "public/flickr-data.json"
+      - "public/steam-data.json"
   workflow_dispatch:
 
 permissions:
@@ -40,6 +42,11 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           DISCOGS_USERNAME:      ${{ secrets.DISCOGS_USERNAME }}
           DISCOGS_USER_TOKEN:    ${{ secrets.DISCOGS_USER_TOKEN }}
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY:    ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+          STEAM_API_KEY:         ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID:              ${{ secrets.STEAM_ID }}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

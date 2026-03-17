@@ -42,11 +42,12 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - **Draft support** — `draft: true` in frontmatter filters from all listings and feeds
 - **Full-text search** — prebuild script (`scripts/build-search-index.mjs`) → `public/search-index.json`; CommandPalette fetches + searches pages + content
 - **Graph search fix** — null-safety + try-catch for camera centering in `GraphModal.tsx`
+- **2.5D Signature** — `Header.tsx` revamped: 3 depth layers (deep shadow + mid shadow + main), SVG filter blur, Framer Motion mouse parallax via `useSpring` + `useTransform`
+- `/flickr` — **Flickr API** integration: `scripts/fetch-flickr.mjs` → `public/flickr-data.json`; masonry photo grid, hover overlay (title + views), `flickr.yml` cron every 6h
+- `/steam` — **Steam Web API** integration: `scripts/fetch-steam.mjs` → `public/steam-data.json`; player card (avatar, status, library stats), recently played game cards with playtime bars, `steam.yml` cron every 3h
 
 ### 🔲 Pending — next session priorities
-1. **2.5D Signature** — revamp `Header.tsx` SVG with depth/shadow/parallax effect
-2. **Flickr / Photography** — Flickr API integration into existing `/flickr` stub
-3. **Steam** — Steam Web API integration into existing `/steam` stub
+*(All v3.1 features complete — site fully live. Next: new feature ideas or polish passes.)*
 
 ---
 
