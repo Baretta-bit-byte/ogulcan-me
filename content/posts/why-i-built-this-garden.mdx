@@ -1,0 +1,46 @@
+---
+title: "Why I Built This Garden"
+description: "On personal websites, digital gardens, and why a static portfolio isn't enough anymore."
+date: "2026-03-17"
+maturity: "sapling"
+tags: ["meta", "web", "personal"]
+---
+
+There's a difference between having a portfolio and having a presence.
+
+A portfolio is a snapshot — a frozen moment that says *here is what I have built*. It's optimized for a recruiter skimming resumes, not for a curious stranger who wants to understand how you think. The digital garden is the opposite: it's messy, evolving, and honest. It says *here is how I think*, and it grows every time you learn something new.
+
+## Why a garden, not a blog?
+
+Traditional blogs operate on a reverse-chronological feed. Yesterday's insight gets buried under today's post. Content is treated as ephemeral — published, shared, forgotten.
+
+A digital garden instead organizes by **maturity**:
+
+- 🌱 **Seedling** — raw notes, half-formed ideas, things I'm still figuring out
+- 🪴 **Sapling** — developing thoughts with some structure emerging
+- 🌳 **Evergreen** — comprehensive, well-argued, core to how I see the world
+
+This essay is a sapling. It has a clear shape, but I'll keep refining it as my thinking evolves.
+
+## The knowledge graph
+
+The most interesting part of this site is the graph — an interactive map of how every concept connects to every other. When you hover over a node, you can see which pages reference it. When you click, you travel along an edge of thought.
+
+This is a fundamentally different experience than clicking "Next Post." You're not consuming content in a sequence — you're exploring a topology.
+
+## Technical choices
+
+I built this with **Next.js** (static export to GitHub Pages), **Tailwind CSS v4**, and **Framer Motion**. Live data comes from:
+
+- GitHub REST API — repos, contributions, pull requests
+- Spotify — top tracks, updated every 30 minutes via a GitHub Actions cron
+- Books — a hand-curated JSON of everything I've finished reading
+- Vinyl — fetched from Discogs at build time
+
+The decision to use `output: "export"` was intentional. No server means no runtime cost, no cold starts, and a site that will keep loading even if I stop paying for infrastructure.
+
+## What comes next
+
+This garden is young. More notes, more connections, more writing. The goal isn't to publish polished essays on a schedule — it's to think in public, slowly and carefully.
+
+If something here resonates, or if you think I'm wrong about something, reach out. That's how gardens grow.

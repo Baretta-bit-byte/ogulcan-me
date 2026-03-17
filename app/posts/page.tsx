@@ -1,17 +1,86 @@
-import React from 'react';
+import Link from "next/link";
+import { getAllPosts, type Maturity } from "@/lib/posts";
+
+const maturityLabel: Record<Maturity, string> = {
+  seedling: "🌱",
+  sapling:  "🪴",
+  evergreen: "🌳",
+};
+
+function formatDate(dateStr: string): string {
+  if (!dateStr) return "";
+  const d = new Date(dateStr);
+  return d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+}
 
 export default function PostsPage() {
+  const posts = getAllPosts();
+
   return (
-    <div className="max-w-3xl mx-auto py-12 font-sans">
-      <h1 className="text-4xl font-bold text-slate-900 dark:text-slate-100 mb-4">Writing & Essays</h1>
-      <p className="text-slate-600 dark:text-slate-400 mb-8">
-        Long-form, polished thoughts on software engineering and design.
-      </p>
-      <div className="p-8 border border-slate-200 dark:border-slate-800 rounded-xl bg-slate-50 dark:bg-slate-900/50 text-center">
-        <span className="text-2xl mb-4 block">🚧</span>
-        <h3 className="text-lg font-medium text-slate-900 dark:text-slate-200">MDX Pipeline Under Construction</h3>
-        <p className="text-sm text-slate-500 dark:text-slate-400">Migrating articles to next-mdx-remote soon.</p>
-      </div>
-    </div>
+    <article className="space-y-12">
+      {/* Header */}
+      <section className="space-y-3">
+        <h1 className="text-2xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
+          Writing
+        </h1>
+        <p className="text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
+          Long-form essays on software, mathematics, and ideas. Organized by maturity —
+          from raw seedlings to evergreen arguments.
+        </p>
+        <div className="flex items-center gap-4 font-mono text-xs text-slate-400">
+          <span>🌱 seedling</span>
+          <span>🪴 sapling</span>
+          <span>🌳 evergreen</span>
+        </div>
+      </section>
+
+      {/* Post list */}
+      {posts.length === 0 ? (
+        <div className="rounded-xl border border-dashed border-slate-200 dark:border-slate-800 p-10 text-center">
+          <p className="font-mono text-sm text-slate-400">No posts yet.</p>
+        </div>
+      ) : (
+        <section className="space-y-2">
+          {posts.map((post) => (
+            <Link
+              key={post.slug}
+              href={`/posts/${post.slug}`}
+              className="group flex items-start justify-between gap-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 px-5 py-4 transition-all hover:border-violet-400/40 hover:shadow-sm"
+            >
+              <div className="min-w-0 space-y-1">
+                <div className="flex items-center gap-2">
+                  <span className="text-base" aria-label={post.maturity}>
+                    {maturityLabel[post.maturity]}
+                  </span>
+                  <span className="truncate font-semibold text-slate-800 dark:text-slate-100 group-hover:text-violet-400 transition-colors">
+                    {post.title}
+                  </span>
+                </div>
+                {post.description && (
+                  <p className="text-sm text-slate-500 dark:text-slate-400 line-clamp-1">
+                    {post.description}
+                  </p>
+                )}
+                {post.tags.length > 0 && (
+                  <div className="flex flex-wrap gap-1.5 pt-1">
+                    {post.tags.map((tag) => (
+                      <span
+                        key={tag}
+                        className="rounded-full bg-slate-100 dark:bg-slate-800 px-2 py-0.5 font-mono text-[10px] text-slate-500 dark:text-slate-400"
+                      >
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </div>
+              <span className="shrink-0 font-mono text-xs text-slate-400 pt-1">
+                {formatDate(post.date)}
+              </span>
+            </Link>
+          ))}
+        </section>
+      )}
+    </article>
   );
 }
