@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/fetch-spotify.mjs && node scripts/fetch-vinyl.mjs && node scripts/fetch-github.mjs",
+    "prebuild": "node scripts/fetch-spotify.mjs && node scripts/fetch-vinyl.mjs && node scripts/fetch-github.mjs && node scripts/build-search-index.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

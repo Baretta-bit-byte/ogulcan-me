@@ -21,12 +21,16 @@ import {
   Gamepad2,
   Lightbulb,
   BarChart2,
+  UserRound,
+  Tag,
+  Bookmark,
 } from "lucide-react";
 import Header from "./Header";
 import ThemeToggle from "./ThemeToggle";
 
 const NAV_ITEMS = [
   { href: "/",          label: "Home",        icon: Home       },
+  { href: "/about",     label: "/about",      icon: UserRound  },
   { href: "/projects",  label: "Projects",    icon: FolderGit2 },
   { href: "/math",      label: "Mathematics", icon: Calculator },
   { href: "/community", label: "Community",   icon: Users      },
@@ -39,6 +43,8 @@ const NAV_ITEMS = [
   { href: "/uses",      label: "/uses",       icon: Wrench     },
   { href: "/posts",     label: "Writing",     icon: PenLine    },
   { href: "/til",       label: "TIL",         icon: Lightbulb  },
+  { href: "/tags",      label: "Tags",        icon: Tag        },
+  { href: "/bookmarks", label: "Bookmarks",   icon: Bookmark   },
   { href: "/flickr",    label: "Photography", icon: Camera     },
   { href: "/steam",     label: "Gaming",      icon: Gamepad2   },
   { href: "/stats",     label: "/stats",      icon: BarChart2  },

@@ -30,8 +30,11 @@ export function getAllTils(): TilMeta[] {
         title: data.title ?? slug,
         date:  data.date  ?? "",
         tags:  data.tags  ?? [],
+        draft: data.draft ?? false,
       };
     })
+    .filter((e) => !e.draft)
+    .map(({ draft: _draft, ...rest }) => rest)
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 

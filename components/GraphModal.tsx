@@ -69,12 +69,16 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
   // Center camera on search match
   useEffect(() => {
     if (!searchMatch || !fgRef.current) return;
-    const node = fgRef.current.graphData().nodes.find(
-      (n: GraphNode & { x?: number }) => n.id === searchMatch.id
-    );
-    if (node?.x != null) {
-      fgRef.current.centerAt(node.x, node.y, 600);
-      fgRef.current.zoom(3, 600);
+    try {
+      const node = fgRef.current.graphData().nodes.find(
+        (n: GraphNode & { x?: number; y?: number }) => n.id === searchMatch.id
+      );
+      if (node?.x != null && node?.y != null) {
+        fgRef.current.centerAt(node.x, node.y, 600);
+        fgRef.current.zoom(3, 600);
+      }
+    } catch {
+      // graph not ready yet — ignore
     }
   }, [searchMatch]);
 

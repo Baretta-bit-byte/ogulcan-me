@@ -38,6 +38,10 @@ export const graphNodes: GraphNode[] = [
   { id: "steam", label: "Gaming", type: "personal", url: "/steam", description: "Steam activity" },
   { id: "til", label: "TIL", type: "tech", url: "/til", description: "Today I Learned — micro-notes", maturity: "seedling" },
   { id: "stats", label: "/stats", type: "tech", url: "/stats", description: "Site metrics and analytics", maturity: "seedling" },
+  { id: "about", label: "/about", type: "personal", url: "/about", description: "Narrative biography, timeline, and projects", maturity: "evergreen" },
+  { id: "tags", label: "Tags", type: "tech", url: "/tags", description: "Browse all content by tag", maturity: "seedling" },
+  { id: "bookmarks", label: "/bookmarks", type: "personal", url: "/bookmarks", description: "YouTube channels, daily puzzles, curated resources", maturity: "seedling" },
+  { id: "changelog", label: "/changelog", type: "tech", url: "/changelog", description: "Site version history", maturity: "evergreen" },
 ];
 
 export const graphLinks: GraphLink[] = [
@@ -69,4 +73,10 @@ export const graphLinks: GraphLink[] = [
   { source: "home", target: "til" },
   { source: "posts", target: "til" },           // blog and TIL are siblings
   { source: "home", target: "stats" },
+  { source: "home", target: "about" },
+  { source: "posts", target: "tags" },
+  { source: "til", target: "tags" },
+  { source: "home", target: "bookmarks" },
+  { source: "home", target: "changelog" },
+  { source: "stats", target: "changelog" },
 ];

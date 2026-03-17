@@ -3,7 +3,7 @@
 ## Architectural Vision and Concept
 This project is a seamless fusion of a personal "Digital Garden" and a professional showcase, specifically designed to demonstrate technical depth and UI/UX sensibility for 2026 Summer Software Dev Internships. Instead of traditional page transitions, the goal is to create an interconnected, explorable knowledge graph that links concepts contextually.
 
-## Current State (as of 2026-03-17)
+## Current State (as of 2026-03-18)
 
 All core infrastructure and live-data integrations are **complete**. The site is live at `ogulcantokmak.me`.
 
@@ -31,12 +31,22 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - **Bi-directional backlinks** — standalone `Backlinks` component on all pages: "Mentioned by" (incoming) + "Links to" (outgoing)
 - **Command Palette** — `Ctrl+K` / `Cmd+K` site-wide search + navigation
 - **TOC active highlighting** — `IntersectionObserver`-based current section tracking in RightPanel
+- `/stats` — **Umami Cloud analytics** dashboard with tracking script + public share iframe
+- `/about` — **Narrative biography** with CV download, project cards, timeline, colophon
+- `/tags` + `/tags/[tag]` — **Tag index** + per-tag filtered views (posts + TIL)
+- `/bookmarks` — **Daily puzzles** badge grid + coding platforms + YouTube channels
+- `/changelog` — **Version history** timeline (v1.0–v3.1)
+- `/feed.xml` — **RSS 2.0** static feed via `export const dynamic = "force-static"`
+- **Open Graph meta** — OG + Twitter card tags for blog posts via `generateMetadata`
+- **Reading time** — `Math.ceil(words / 200)` on post listings and detail pages
+- **Draft support** — `draft: true` in frontmatter filters from all listings and feeds
+- **Full-text search** — prebuild script (`scripts/build-search-index.mjs`) → `public/search-index.json`; CommandPalette fetches + searches pages + content
+- **Graph search fix** — null-safety + try-catch for camera centering in `GraphModal.tsx`
 
 ### 🔲 Pending — next session priorities
 1. **2.5D Signature** — revamp `Header.tsx` SVG with depth/shadow/parallax effect
 2. **Flickr / Photography** — Flickr API integration into existing `/flickr` stub
 3. **Steam** — Steam Web API integration into existing `/steam` stub
-4. **Analytics (/stats)** — public metrics dashboard (requires external service like Umami/Plausible)
 
 ---
 
@@ -92,7 +102,7 @@ The site uses `output: "export"` for GitHub Pages. **No Node.js server at runtim
 - Every new page needs: route file + node in `lib/graphData.ts` + link from parent + sidebar entry.
 - Run `npx tsc --noEmit` before committing — zero TypeScript errors required.
 - Avoid visual clutter; use whitespace intentionally.
-- The `prebuild` script runs `fetch-spotify.mjs` and `fetch-vinyl.mjs` — both gracefully preserve existing data if secrets are missing or API fails.
+- The `prebuild` script runs `fetch-spotify.mjs`, `fetch-vinyl.mjs`, and `build-search-index.mjs` — all gracefully preserve existing data if secrets are missing or API fails.
 - `public/spotify-data.json` is tracked in git (not gitignored) — updated by the nightly cron, never overwritten with empty data.
 - `deploy.yml` ignores changes to `public/spotify-data.json` — Spotify data updates do not trigger a full site redeploy.
 

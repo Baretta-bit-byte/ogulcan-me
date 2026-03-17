@@ -1,8 +1,28 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { compileMDX } from "next-mdx-remote/rsc";
 import Link from "next/link";
 import Backlinks from "@/components/Backlinks";
 import { getAllPosts, getPost, type Maturity } from "@/lib/posts";
+
+export async function generateMetadata(
+  { params }: { params: Promise<{ slug: string }> }
+): Promise<Metadata> {
+  const { slug } = await params;
+  const post = getPost(slug);
+  if (!post) return {};
+  return {
+    title: `${post.title} — Ogulcan`,
+    description: post.description,
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      type: "article",
+      url: `https://ogulcantokmak.me/posts/${slug}`,
+      publishedTime: post.date,
+    },
+  };
+}
 
 export async function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -55,6 +75,10 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
               <span className="font-mono text-xs text-slate-400">{formatDate(post.date)}</span>
             </>
           )}
+          <>
+            <span className="text-slate-300 dark:text-slate-700">·</span>
+            <span className="font-mono text-xs text-slate-400">{post.readingTime}</span>
+          </>
         </div>
 
         <h1 className="text-3xl font-bold tracking-tight text-slate-900 dark:text-slate-100 leading-snug">

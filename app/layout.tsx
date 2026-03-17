@@ -26,6 +26,18 @@ export const metadata: Metadata = {
   title: "Ogulcan — Digital Garden",
   description:
     "Personal digital garden and portfolio of Ogulcan — software, mathematics, and ideas.",
+  openGraph: {
+    title: "Ogulcan — Digital Garden",
+    description: "Personal digital garden and portfolio of Ogulcan — software, mathematics, and ideas.",
+    url: "https://ogulcantokmak.me",
+    siteName: "ogulcantokmak.me",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Ogulcan — Digital Garden",
+    description: "Personal digital garden and portfolio of Ogulcan — software, mathematics, and ideas.",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

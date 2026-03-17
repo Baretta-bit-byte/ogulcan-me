@@ -75,6 +75,13 @@ Not a standard portfolio. Every page — project, math note, community activity,
 | `/uses` | Developer environment, editor, stack & hardware | Static |
 | `/posts` | Writing & essays — full MDX pipeline | `content/posts/*.mdx` via `next-mdx-remote` |
 | `/til` | Today I Learned — micro-notes timeline | `content/til/*.mdx` via `next-mdx-remote` |
+| `/about` | Narrative biography + CV download + colophon | Static |
+| `/stats` | Analytics dashboard — site metrics + Umami embed | Umami Cloud (iframe) |
+| `/tags` | Browse all content by tag | Aggregated from posts + TIL frontmatter |
+| `/tags/[tag]` | Posts and TILs filtered by a single tag | Dynamic static params |
+| `/bookmarks` | YouTube channels, daily puzzles, coding platforms | Static |
+| `/changelog` | Version history timeline (v1.0–v3.1) | Static |
+| `/feed.xml` | RSS 2.0 feed of all blog posts | Static route (`force-static`) |
 | `/flickr` | Photography grid (stub) | Static |
 | `/steam` | Steam gaming activity (stub) | Static |
 
@@ -102,6 +109,16 @@ Not a standard portfolio. Every page — project, math note, community activity,
 - **Live /now Widgets** — Spotify top 3, last finished book, recently pushed GitHub repo
 - **Footer easter eggs** — `~` tooltip + Konami code `↑↑↓↓←→←→BA`
 - **`cd ../` terminal nav** — Footer always links back to parent path
+- **`/about` narrative bio** — Hero with "Open to internships" badge, CV download, project cards, timeline, colophon
+- **`/stats` analytics** — Site metrics cards + Umami Cloud public share iframe
+- **`/tags` index** — Browse all tags across posts and TIL entries, with counts
+- **`/bookmarks`** — Daily puzzles badge grid (Queens, Tango, Zip, Sudoku, Chess.com) + coding platforms (LeetCode, HackerRank) + YouTube channels
+- **`/changelog`** — Version timeline from v1.0 to v3.1
+- **RSS feed** — `/feed.xml` with all published blog posts
+- **Open Graph meta** — OG + Twitter card tags for all blog posts
+- **Reading time** — Word-count-based estimates on post listings and detail pages
+- **Draft support** — `draft: true` in frontmatter hides posts/TILs from listings and feeds
+- **Full-text search** — Prebuild script indexes all content; Command Palette searches pages + post/TIL body text
 
 ---
 
@@ -201,13 +218,23 @@ Cover art is fetched automatically from Open Library using the ISBN.
 - [x] `/steam` stub — Steam activity placeholder
 - [x] `LinkedTerm` enriched — `nodeId` prop shows maturity badge (🌱/🪴/🌳) + graph description in hover card
 - [x] `graphData.ts` — 5 new nodes + 5 new links from home
+- [x] `/about` — Narrative biography with CV download, project cards, timeline, colophon
+- [x] `/stats` — Umami Cloud analytics dashboard (tracking + public share iframe)
+- [x] `/tags` + `/tags/[tag]` — Tag index and per-tag filtered views
+- [x] `/bookmarks` — Daily puzzles, coding platforms, YouTube channels (badge grid)
+- [x] `/changelog` — Version history timeline (v1.0–v3.1)
+- [x] `/feed.xml` — RSS 2.0 static feed
+- [x] OG meta tags for blog posts
+- [x] Reading time estimates
+- [x] Draft support (`draft: true` in frontmatter)
+- [x] Full-text search in Command Palette (prebuild JSON index)
+- [x] Graph search null-safety fix
 
 ### 🔲 Pending
 
 - [ ] **2.5D Signature** — depth/shadow revamp of the SVG OT signature
 - [ ] **Flickr / Photography** — Flickr API integration (stub page exists at `/flickr`)
 - [ ] **Steam** — Steam Web API integration (stub page exists at `/steam`)
-- [ ] **Analytics (/stats)** — Public metrics dashboard (Umami / Plausible)
 
 ---
 
@@ -215,7 +242,8 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 | Version | Description |
 |---|---|
-| **v3.0 (current)** | MDX blog + TIL, bi-directional backlinks, graph search, command palette, /now live widgets, TOC highlighting |
+| **v3.1 (current)** | /about, /stats (Umami), /tags, /bookmarks, /changelog, RSS feed, OG meta, reading time, draft support, full-text search |
+| **v3.0** | MDX blog + TIL, bi-directional backlinks, graph search, command palette, /now live widgets, TOC highlighting |
 | **v2.6** | Spotify live data: 30-min cron, raw.githubusercontent.com fetch, no-redeploy architecture |
 | **v2.5** | Books reading log updated with real personal reading history |
 | **v2.4** | /topics, /uses, /posts, /flickr, /steam pages + LinkedTerm maturity badges |

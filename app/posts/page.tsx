@@ -74,9 +74,10 @@ export default function PostsPage() {
                   </div>
                 )}
               </div>
-              <span className="shrink-0 font-mono text-xs text-slate-400 pt-1">
-                {formatDate(post.date)}
-              </span>
+              <div className="shrink-0 flex flex-col items-end gap-1 pt-1">
+                <span className="font-mono text-xs text-slate-400">{formatDate(post.date)}</span>
+                <span className="font-mono text-xs text-slate-400">{post.readingTime}</span>
+              </div>
             </Link>
           ))}
         </section>
