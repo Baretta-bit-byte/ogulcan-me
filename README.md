@@ -46,6 +46,7 @@ Not a standard portfolio. Every page — project, math note, community activity,
 | Animations | Framer Motion v12 |
 | Graph | react-force-graph-2d |
 | Tooltips | Radix UI HoverCard |
+| MDX | next-mdx-remote + gray-matter |
 | Theming | next-themes + View Transitions API |
 | Icons | Lucide React |
 
@@ -69,9 +70,11 @@ Not a standard portfolio. Every page — project, math note, community activity,
 | `/spotify` | Spotify top 12 tracks (last 4 weeks) | `spotify.yml` cron (every 30 min) → `raw.githubusercontent.com` |
 | `/books` | Reading log — 12 finished books | Manual `public/books-data.json` + Open Library covers |
 | `/vinyl` | Vinyl collection — spinning circular records | Manual `public/vinyl-data.json` + optional Discogs API |
-| `/topics` | Maps of Content — graph nodes grouped by type | Static (`lib/graphData.ts`) |
+| `/now` | Living status — location, focus, live Spotify/Books/GitHub widgets | Client-side fetch |
+| `/topics` | Maps of Content — graph nodes grouped by type with maturity badges | Static (`lib/graphData.ts`) |
 | `/uses` | Developer environment, editor, stack & hardware | Static |
-| `/posts` | Writing & essays — MDX pipeline (stub) | Static |
+| `/posts` | Writing & essays — full MDX pipeline | `content/posts/*.mdx` via `next-mdx-remote` |
+| `/til` | Today I Learned — micro-notes timeline | `content/til/*.mdx` via `next-mdx-remote` |
 | `/flickr` | Photography grid (stub) | Static |
 | `/steam` | Steam gaming activity (stub) | Static |
 
@@ -82,8 +85,10 @@ Not a standard portfolio. Every page — project, math note, community activity,
 - **Animated SVG signature** — Cursive "OT" draws left-to-right then erases, loops forever
 - **Organic theme toggle** — View Transitions API circular spotlight reveal from click origin
 - **Interactive knowledge graph** — Local neighborhood per page; click to navigate
-- **Full graph overlay** — Expand opens complete site map with color legend
+- **Full graph overlay** — Expand opens complete site map with color legend + **search** (amber highlight, camera focus)
+- **Command Palette** — `Ctrl+K` / `Cmd+K` global search + keyboard navigation
 - **Hover tooltip cards** — Internal links preview content without navigating
+- **Bi-directional backlinks** — Every page shows "Mentioned by" + "Links to" from the knowledge graph
 - **GitHub Dashboard** — Live repos, last PR, contribution heatmap (client-side GitHub API)
 - **Spotify Top Tracks** — 4-column album art grid, 30s audio preview on hover
 - **Books Reading Log** — 6-column cover grid (Open Library), hover reveals rating + date
@@ -91,7 +96,10 @@ Not a standard portfolio. Every page — project, math note, community activity,
 - **Maps of Content** — `/topics` directory groups all graph nodes by type (tech / math / personal)
 - **`/uses` page** — Living document of editor, terminal, stack, and hardware setup
 - **Maturity badges in hover cards** — `LinkedTerm` now reads `nodeId` from `graphData` and shows 🌱/🪴/🌳 badge inline
-- **Table of Contents** — Auto-injected per article page
+- **Table of Contents** — Auto-injected per article page with **active section highlighting** (IntersectionObserver)
+- **MDX Blog** — `/posts` with frontmatter (title, date, maturity badges, tags); prose typography
+- **TIL Micro-Notes** — `/til` timeline layout with inline MDX + code blocks
+- **Live /now Widgets** — Spotify top 3, last finished book, recently pushed GitHub repo
 - **Footer easter eggs** — `~` tooltip + Konami code `↑↑↓↓←→←→BA`
 - **`cd ../` terminal nav** — Footer always links back to parent path
 
@@ -182,7 +190,13 @@ Cover art is fetched automatically from Open Library using the ISBN.
 - [x] Graph: all new pages wired as nodes (github, spotify, books, vinyl)
 - [x] `/topics` — Maps of Content: Wikipedia-style directory of all graph nodes
 - [x] `/uses` — Developer environment & stack showcase (ArticlePage with maturity badge)
-- [x] `/posts` stub — Writing section placeholder (MDX pipeline pending)
+- [x] `/posts` — Full MDX blog pipeline with `next-mdx-remote` + `gray-matter`
+- [x] `/til` — Today I Learned micro-notes with timeline layout
+- [x] `/now` live widgets — Spotify + Books + GitHub client-side data
+- [x] Bi-directional backlinks — standalone `Backlinks` component on all pages
+- [x] Command Palette — `Ctrl+K` global search + keyboard nav
+- [x] Graph search — search input in full graph modal, amber highlight + camera focus
+- [x] TOC active highlighting — IntersectionObserver-based current section tracking
 - [x] `/flickr` stub — Photography grid placeholder
 - [x] `/steam` stub — Steam activity placeholder
 - [x] `LinkedTerm` enriched — `nodeId` prop shows maturity badge (🌱/🪴/🌳) + graph description in hover card
@@ -191,9 +205,9 @@ Cover art is fetched automatically from Open Library using the ISBN.
 ### 🔲 Pending
 
 - [ ] **2.5D Signature** — depth/shadow revamp of the SVG OT signature
-- [ ] **Latest Posts / Blog** — MDX pipeline via `next-mdx-remote` (stub page exists at `/posts`)
 - [ ] **Flickr / Photography** — Flickr API integration (stub page exists at `/flickr`)
 - [ ] **Steam** — Steam Web API integration (stub page exists at `/steam`)
+- [ ] **Analytics (/stats)** — Public metrics dashboard (Umami / Plausible)
 
 ---
 
@@ -201,7 +215,8 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 | Version | Description |
 |---|---|
-| **v2.6 (current)** | Spotify live data: 30-min cron, raw.githubusercontent.com fetch, no-redeploy architecture |
+| **v3.0 (current)** | MDX blog + TIL, bi-directional backlinks, graph search, command palette, /now live widgets, TOC highlighting |
+| **v2.6** | Spotify live data: 30-min cron, raw.githubusercontent.com fetch, no-redeploy architecture |
 | **v2.5** | Books reading log updated with real personal reading history |
 | **v2.4** | /topics, /uses, /posts, /flickr, /steam pages + LinkedTerm maturity badges |
 | **v2.3** | GitHub, Spotify, Books, Vinyl pages + organic theme toggle |

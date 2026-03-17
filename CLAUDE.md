@@ -3,7 +3,7 @@
 ## Architectural Vision and Concept
 This project is a seamless fusion of a personal "Digital Garden" and a professional showcase, specifically designed to demonstrate technical depth and UI/UX sensibility for 2026 Summer Software Dev Internships. Instead of traditional page transitions, the goal is to create an interconnected, explorable knowledge graph that links concepts contextually.
 
-## Current State (as of 2026-03-16)
+## Current State (as of 2026-03-17)
 
 All core infrastructure and live-data integrations are **complete**. The site is live at `ogulcantokmak.me`.
 
@@ -11,27 +11,32 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - 3-column layout (LeftSidebar, main, RightPanel)
 - Animated SVG signature — cursive "OT", draw-erase loop, `Header.tsx`
 - Organic theme toggle — View Transitions API circular reveal, `ThemeToggle.tsx`
-- Interactive knowledge graph — local + full modal, `GraphNav.tsx` / `GraphModal.tsx`
+- Interactive knowledge graph — local + full modal with **search** (amber highlight + camera focus), `GraphNav.tsx` / `GraphModal.tsx`
 - Hover tooltip system — `LinkedTerm.tsx` (navigate) + `HoverTooltip.tsx` (standalone)
 - All content pages — projects, math, community (fully written)
 - Floating pill sidebar with Framer Motion `layoutId` active state
 - Footer — social icons, `cd ../` nav, `~` easter egg, Konami code
 - `/github` — GitHub REST API client-side dashboard
-- `/spotify` — live data via `raw.githubusercontent.com`, updated every 30 min by `spotify.yml` cron
+- `/spotify` — live data via `raw.githubusercontent.com`, updated every 30 min by `spotify.yml` cron; **click-to-play 30s preview** on hover
 - `/books` — manual JSON + Open Library cover art
 - `/vinyl` — circular CSS groove records, spin hover, Discogs fetch script
-- `/topics` — Maps of Content, groups all `graphNodes` by type into card grid
+- `/topics` — Maps of Content with maturity badges, parent/leaf distinction, Backlinks
 - `/uses` — living dev environment doc, uses `ArticlePage` with `nodeId="uses"`
-- `/posts` — stub page, MDX pipeline planned
+- `/posts` — **MDX blog pipeline** via `next-mdx-remote` + `gray-matter`; posts in `content/posts/*.mdx`
+- `/til` — **Today I Learned** micro-notes, timeline layout, inline MDX; entries in `content/til/*.mdx`
+- `/now` — **Live widget cluster**: Spotify top 3, last book, recently active repo
 - `/flickr` — stub page, Flickr API integration planned
 - `/steam` — stub page, Steam Web API integration planned
 - `LinkedTerm` — enriched with optional `nodeId` prop: auto-reads description + maturity badge (🌱/🪴/🌳) from `graphData`
+- **Bi-directional backlinks** — standalone `Backlinks` component on all pages: "Mentioned by" (incoming) + "Links to" (outgoing)
+- **Command Palette** — `Ctrl+K` / `Cmd+K` site-wide search + navigation
+- **TOC active highlighting** — `IntersectionObserver`-based current section tracking in RightPanel
 
 ### 🔲 Pending — next session priorities
 1. **2.5D Signature** — revamp `Header.tsx` SVG with depth/shadow/parallax effect
-2. **Blog / Latest Posts** — wire `next-mdx-remote` into the existing `/posts` stub
-3. **Flickr / Photography** — Flickr API integration into existing `/flickr` stub
-4. **Steam** — Steam Web API integration into existing `/steam` stub
+2. **Flickr / Photography** — Flickr API integration into existing `/flickr` stub
+3. **Steam** — Steam Web API integration into existing `/steam` stub
+4. **Analytics (/stats)** — public metrics dashboard (requires external service like Umami/Plausible)
 
 ---
 
@@ -56,7 +61,7 @@ The site uses `output: "export"` for GitHub Pages. **No Node.js server at runtim
 ### 1. Left Column (Sticky - Brand & Nav)
 - Animated SVG "OT" signature at top (`Header.tsx`)
 - Floating pill nav with `layoutId="nav-active-bg"` Framer Motion sliding background
-- All nav items are live routes: Home, Projects, Mathematics, Community, GitHub, Spotify, Books, Vinyl
+- All nav items are live routes: Home, Projects, Mathematics, Community, GitHub, Spotify, Books, Vinyl, /now, Topics, /uses, Writing, TIL, Photography, Gaming
 - Sun/moon theme toggle at bottom (triggers View Transitions API circular reveal)
 
 ### 2. Center Column (Scrollable)
@@ -97,3 +102,6 @@ The site uses `output: "export"` for GitHub Pages. **No Node.js server at runtim
 - **timeAgo helper:** already implemented in `/github` and `/spotify` pages — copy if needed
 - **Framer Motion spring nav:** `layoutId="nav-active-bg"` pattern in `LeftSidebar.tsx`
 - **AnimatePresence + Radix forceMount:** always wrap `HoverCard.Content` with `forceMount asChild` pointing to a `motion.div`, not to `AnimatePresence` directly
+- **MDX blog post:** add `.mdx` file to `content/posts/` with frontmatter (title, description, date, maturity, tags)
+- **TIL entry:** add `.mdx` file to `content/til/` with frontmatter (title, date, tags)
+- **Backlinks:** `<Backlinks nodeId="..." />` — drop-in component for any page with a graphData node
