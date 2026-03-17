@@ -18,7 +18,7 @@ import { writeFileSync, mkdirSync, existsSync } from "fs";
 
 const { CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET } = process.env;
 
-const FOLDER = "photography"; // Cloudinary folder name
+const FOLDER = ""; // Cloudinary folder prefix — empty = all images in account
 const MAX    = 24;
 
 const EMPTY = { user: null, photos: [], fetched_at: null };
@@ -46,11 +46,12 @@ const auth = Buffer.from(`${CLOUDINARY_API_KEY}:${CLOUDINARY_API_SECRET}`).toStr
 
 const params = new URLSearchParams({
   max_results: String(MAX),
-  prefix:      `${FOLDER}/`,
   type:        "upload",
   context:     "true",  // include custom metadata (caption / alt)
   tags:        "true",
 });
+// Only add prefix filter when a specific folder is set
+if (FOLDER) params.set("prefix", `${FOLDER}/`);
 
 let res;
 try {
@@ -113,4 +114,4 @@ const output = {
 mkdirSync("public", { recursive: true });
 writeFileSync("public/flickr-data.json", JSON.stringify(output, null, 2));
 
-console.log(`✓  Cloudinary: ${photos.length} photos from folder "${FOLDER}"`);
+console.log(`✓  Cloudinary: ${photos.length} photos${FOLDER ? ` from folder "${FOLDER}"` : " (all)"}`);
