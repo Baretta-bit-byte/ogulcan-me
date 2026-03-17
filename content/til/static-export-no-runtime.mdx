@@ -1,0 +1,7 @@
+---
+title: "Next.js static export means zero runtime cost"
+date: "2026-03-12"
+tags: ["nextjs", "architecture"]
+---
+
+With `output: "export"` in Next.js, the build produces plain HTML/CSS/JS files. No Node.js server runs in production. This means GitHub Pages can serve the site for free with no cold starts, no serverless functions, and no infrastructure to maintain. The trade-off: no API routes, no ISR, no middleware. Every dynamic feature must be client-side or pre-built.

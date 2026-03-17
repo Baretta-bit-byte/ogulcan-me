@@ -19,6 +19,7 @@ import {
   PenLine,
   Camera,
   Gamepad2,
+  Lightbulb,
 } from "lucide-react";
 import Header from "./Header";
 import ThemeToggle from "./ThemeToggle";
@@ -36,6 +37,7 @@ const NAV_ITEMS = [
   { href: "/topics",    label: "Topics",      icon: Map        },
   { href: "/uses",      label: "/uses",       icon: Wrench     },
   { href: "/posts",     label: "Writing",     icon: PenLine    },
+  { href: "/til",       label: "TIL",         icon: Lightbulb  },
   { href: "/flickr",    label: "Photography", icon: Camera     },
   { href: "/steam",     label: "Gaming",      icon: Gamepad2   },
 ];

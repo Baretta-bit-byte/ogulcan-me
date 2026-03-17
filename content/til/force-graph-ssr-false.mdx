@@ -1,0 +1,16 @@
+---
+title: "react-force-graph-2d requires ssr: false"
+date: "2026-03-10"
+tags: ["react", "canvas"]
+---
+
+`react-force-graph-2d` uses HTML Canvas internally, which doesn't exist during server-side rendering. The fix is a dynamic import with `ssr: false`:
+
+```ts
+const ForceGraph2D = dynamic(
+  () => import("react-force-graph-2d"),
+  { ssr: false }
+);
+```
+
+This pattern applies to any library that touches the DOM or Canvas API at import time.

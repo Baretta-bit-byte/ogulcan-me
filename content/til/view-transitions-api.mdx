@@ -1,0 +1,14 @@
+---
+title: "View Transitions API works without JavaScript"
+date: "2026-03-15"
+tags: ["css", "web"]
+---
+
+The View Transitions API can create smooth page transitions with just CSS. The browser captures a screenshot of the old state, then cross-fades to the new state. I used this for the theme toggle on this site — the circular reveal effect is purely CSS-driven once the API is triggered.
+
+```css
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 0.4s;
+}
+```
