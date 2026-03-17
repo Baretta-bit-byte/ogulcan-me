@@ -37,6 +37,7 @@ export const graphNodes: GraphNode[] = [
   { id: "flickr", label: "Photography", type: "personal", url: "/flickr", description: "Photo gallery" },
   { id: "steam", label: "Gaming", type: "personal", url: "/steam", description: "Steam activity" },
   { id: "til", label: "TIL", type: "tech", url: "/til", description: "Today I Learned — micro-notes", maturity: "seedling" },
+  { id: "stats", label: "/stats", type: "tech", url: "/stats", description: "Site metrics and analytics", maturity: "seedling" },
 ];
 
 export const graphLinks: GraphLink[] = [
@@ -67,4 +68,5 @@ export const graphLinks: GraphLink[] = [
   { source: "home", target: "steam" },
   { source: "home", target: "til" },
   { source: "posts", target: "til" },           // blog and TIL are siblings
+  { source: "home", target: "stats" },
 ];

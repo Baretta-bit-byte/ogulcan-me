@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import ThemeProvider from "@/components/ThemeProvider";
 import ThemeReadyGate from "@/components/ThemeReadyGate";
@@ -71,6 +72,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </RightPanelProvider>
         </ThemeProvider>
+        <Script
+          defer
+          src="https://cloud.umami.is/script.js"
+          data-website-id="b6ab814a-45bc-4384-9a01-5590713b049f"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );

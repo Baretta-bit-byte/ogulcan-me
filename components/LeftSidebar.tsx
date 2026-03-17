@@ -20,6 +20,7 @@ import {
   Camera,
   Gamepad2,
   Lightbulb,
+  BarChart2,
 } from "lucide-react";
 import Header from "./Header";
 import ThemeToggle from "./ThemeToggle";
@@ -40,6 +41,7 @@ const NAV_ITEMS = [
   { href: "/til",       label: "TIL",         icon: Lightbulb  },
   { href: "/flickr",    label: "Photography", icon: Camera     },
   { href: "/steam",     label: "Gaming",      icon: Gamepad2   },
+  { href: "/stats",     label: "/stats",      icon: BarChart2  },
 ];
 
 const SOON_ITEMS: { label: string; icon: React.ComponentType<{ size?: number; strokeWidth?: number; className?: string }> }[] = [];
