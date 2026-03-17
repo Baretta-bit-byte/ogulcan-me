@@ -1,5 +1,6 @@
 import React from 'react';
 import ArticlePage from '@/components/ArticlePage';
+import NowWidgets from '@/components/NowWidgets';
 import { MapPin, Briefcase, BookOpen } from 'lucide-react';
 
 export default function Now() {
@@ -42,6 +43,14 @@ export default function Now() {
             <span className="text-violet-500 dark:text-violet-400">~/math/game-theory</span>
           </div>
         </div>
+      </div>
+
+      {/* Live data widgets */}
+      <div className="not-prose mt-10">
+        <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-200 mb-4">
+          Live from my feeds
+        </h2>
+        <NowWidgets />
       </div>
     </ArticlePage>
   );
