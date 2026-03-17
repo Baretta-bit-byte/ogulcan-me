@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import { compileMDX } from "next-mdx-remote/rsc";
 import Link from "next/link";
+import Backlinks from "@/components/Backlinks";
 import { getAllPosts, getPost, type Maturity } from "@/lib/posts";
 
 export async function generateStaticParams() {
@@ -86,6 +87,8 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
       <div className="prose prose-slate dark:prose-invert max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-violet-500 prose-a:no-underline hover:prose-a:underline prose-code:font-mono prose-code:text-sm prose-code:bg-slate-100 prose-code:dark:bg-slate-800 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:before:content-none prose-code:after:content-none">
         {content}
       </div>
+
+      <Backlinks nodeId="posts" />
     </article>
   );
 }

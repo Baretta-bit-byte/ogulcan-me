@@ -3,6 +3,7 @@
 import { useEffect, useState, useId } from "react";
 import { motion } from "framer-motion";
 import { Disc3, ExternalLink } from "lucide-react";
+import Backlinks from "@/components/Backlinks";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -265,6 +266,8 @@ export default function VinylPage() {
           Hover a record to spin · click to view on Discogs
         </p>
       )}
+
+      <Backlinks nodeId="vinyl" />
 
     </article>
   );

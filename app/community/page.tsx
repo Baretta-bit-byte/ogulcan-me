@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Breadcrumb from "@/components/Breadcrumb";
+import Backlinks from "@/components/Backlinks";
 import { Users, ExternalLink } from "lucide-react";
 
 const activities = [
@@ -71,6 +72,8 @@ export default function CommunityPage() {
           </li>
         ))}
       </ul>
+
+      <Backlinks nodeId="community" />
     </div>
   );
 }

@@ -4,6 +4,7 @@ import LinkedTerm from "@/components/LinkedTerm";
 export default function NotePadIoPage() {
   return (
     <ArticlePage
+      nodeId="notepadio"
       crumbs={[
         { label: "Home", href: "/" },
         { label: "Projects", href: "/projects" },

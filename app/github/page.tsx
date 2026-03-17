@@ -10,6 +10,7 @@ import {
   GitFork,
   GitCommit,
 } from "lucide-react";
+import Backlinks from "@/components/Backlinks";
 
 const USERNAME = "Baretta-bit-byte";
 const DATA_URL =
@@ -418,6 +419,8 @@ export default function GitHubPage() {
           <p className="font-mono text-xs text-slate-400">Contribution data unavailable.</p>
         )}
       </section>
+
+      <Backlinks nodeId="github" />
 
     </article>
   );

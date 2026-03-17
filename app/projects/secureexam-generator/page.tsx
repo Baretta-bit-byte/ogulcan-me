@@ -4,6 +4,7 @@ import LinkedTerm from "@/components/LinkedTerm";
 export default function SecureExamPage() {
   return (
     <ArticlePage
+      nodeId="secureexam"
       crumbs={[
         { label: "Home", href: "/" },
         { label: "Projects", href: "/projects" },

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Breadcrumb from "@/components/Breadcrumb";
+import Backlinks from "@/components/Backlinks";
 import { FolderGit2, ExternalLink } from "lucide-react";
 
 const projects = [
@@ -71,6 +72,8 @@ export default function ProjectsPage() {
           </li>
         ))}
       </ul>
+
+      <Backlinks nodeId="projects" />
     </div>
   );
 }

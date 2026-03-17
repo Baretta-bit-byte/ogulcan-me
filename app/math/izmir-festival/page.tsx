@@ -4,6 +4,7 @@ import LinkedTerm from "@/components/LinkedTerm";
 export default function IzmirFestivalPage() {
   return (
     <ArticlePage
+      nodeId="izmir"
       crumbs={[
         { label: "Home", href: "/" },
         { label: "Mathematics", href: "/math" },

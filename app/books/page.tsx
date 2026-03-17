@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { ExternalLink, BookOpen, Star } from "lucide-react";
+import Backlinks from "@/components/Backlinks";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -184,6 +185,8 @@ export default function BooksPage() {
           Covers via Open Library · hover a cover to see details
         </p>
       )}
+
+      <Backlinks nodeId="books" />
 
     </article>
   );

@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useRef } from "react";
 import { ExternalLink, Users, ListMusic, Play, Pause, Clock } from "lucide-react";
+import Backlinks from "@/components/Backlinks";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -282,6 +283,8 @@ export default function SpotifyPage() {
           </p>
         )}
       </section>
+
+      <Backlinks nodeId="spotify" />
 
     </article>
   );

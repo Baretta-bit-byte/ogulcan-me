@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Breadcrumb from "@/components/Breadcrumb";
+import Backlinks from "@/components/Backlinks";
 import { Calculator, ExternalLink } from "lucide-react";
 
 const topics = [
@@ -94,6 +95,8 @@ export default function MathPage() {
           ))}
         </ul>
       </section>
+
+      <Backlinks nodeId="math" />
     </div>
   );
 }

@@ -4,6 +4,7 @@ import LinkedTerm from "@/components/LinkedTerm";
 export default function VolunteeringPage() {
   return (
     <ArticlePage
+      nodeId="volunteering"
       crumbs={[
         { label: "Home", href: "/" },
         { label: "Community", href: "/community" },

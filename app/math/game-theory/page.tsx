@@ -5,6 +5,7 @@ import HoverTooltip from "@/components/HoverTooltip";
 export default function GameTheoryPage() {
   return (
     <ArticlePage
+      nodeId="gametheory"
       crumbs={[
         { label: "Home", href: "/" },
         { label: "Mathematics", href: "/math" },

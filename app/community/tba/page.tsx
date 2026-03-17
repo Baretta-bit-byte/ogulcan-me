@@ -4,6 +4,7 @@ import LinkedTerm from "@/components/LinkedTerm";
 export default function TBAPage() {
   return (
     <ArticlePage
+      nodeId="tba"
       crumbs={[
         { label: "Home", href: "/" },
         { label: "Community", href: "/community" },
