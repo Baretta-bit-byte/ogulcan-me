@@ -5,7 +5,7 @@ import { useRouter, usePathname } from "next/navigation";
 import { useCallback, useRef, useEffect, useState } from "react";
 import { useTheme } from "next-themes";
 import { motion, AnimatePresence } from "framer-motion";
-import { X } from "lucide-react";
+import { X, Search } from "lucide-react";
 import { graphNodes, graphLinks, GraphNode } from "@/lib/graphData";
 
 const ForceGraph2D = dynamic(() => import("react-force-graph-2d"), { ssr: false });
@@ -55,6 +55,28 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
   const fgRef        = useRef<any>(null);
   const [dims, setDims]           = useState({ width: 0, height: 0 });
   const [hoveredId, setHoveredId] = useState<string | null>(null);
+  const [search, setSearch]       = useState("");
+  const searchRef = useRef<HTMLInputElement>(null);
+
+  // Find matching node for search
+  const searchMatch = search
+    ? graphNodes.find((n) =>
+        n.label.toLowerCase().includes(search.toLowerCase()) ||
+        (n.description && n.description.toLowerCase().includes(search.toLowerCase()))
+      )
+    : null;
+
+  // Center camera on search match
+  useEffect(() => {
+    if (!searchMatch || !fgRef.current) return;
+    const node = fgRef.current.graphData().nodes.find(
+      (n: GraphNode & { x?: number }) => n.id === searchMatch.id
+    );
+    if (node?.x != null) {
+      fgRef.current.centerAt(node.x, node.y, 600);
+      fgRef.current.zoom(3, 600);
+    }
+  }, [searchMatch]);
 
   const currentId = pathnameToId(pathname);
 
@@ -89,35 +111,45 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
       ctx: CanvasRenderingContext2D,
       globalScale: number
     ) => {
-      const isActive  = node.id === currentId;
-      const isHovered = node.id === hoveredId;
-      const r         = nodeRadius(node.id, isActive);
-      const color     = NODE_COLORS[node.type] ?? "#94a3b8";
-      const x         = node.x ?? 0;
-      const y         = node.y ?? 0;
+      const isActive   = node.id === currentId;
+      const isHovered  = node.id === hoveredId;
+      const isSearched = node.id === searchMatch?.id;
+      const r          = nodeRadius(node.id, isActive || isSearched);
+      const color      = NODE_COLORS[node.type] ?? "#94a3b8";
+      const x          = node.x ?? 0;
+      const y          = node.y ?? 0;
+      const dimmed     = search && !isSearched && !isActive;
 
       // Glow ring
-      if (isActive || isHovered) {
+      if (isActive || isHovered || isSearched) {
         ctx.beginPath();
         ctx.arc(x, y, r + 4, 0, 2 * Math.PI);
-        ctx.fillStyle = color + (isActive ? "30" : "18");
+        ctx.fillStyle = isSearched ? "#fbbf24" + "40" : color + (isActive ? "30" : "18");
         ctx.fill();
       }
 
       // Node dot
       ctx.beginPath();
       ctx.arc(x, y, r, 0, 2 * Math.PI);
-      ctx.fillStyle = isActive ? color : isHovered ? color + "dd" : color + "88";
+      ctx.fillStyle = dimmed
+        ? color + "22"
+        : isSearched
+          ? "#fbbf24"
+          : isActive ? color : isHovered ? color + "dd" : color + "88";
       ctx.fill();
 
       // Labels — always visible
-      const fontSize = Math.max(9, (isActive ? 12 : 10) / globalScale);
-      ctx.font       = `${isActive ? "600" : "400"} ${fontSize}px Inter, sans-serif`;
-      ctx.fillStyle  = isActive ? activeLabel : isHovered ? hoverLabel : labelColor;
+      const fontSize = Math.max(9, ((isActive || isSearched) ? 12 : 10) / globalScale);
+      ctx.font       = `${(isActive || isSearched) ? "600" : "400"} ${fontSize}px Inter, sans-serif`;
+      ctx.fillStyle  = dimmed
+        ? labelColor + "44"
+        : isSearched
+          ? "#fbbf24"
+          : isActive ? activeLabel : isHovered ? hoverLabel : labelColor;
       ctx.textAlign  = "center";
       ctx.fillText(node.label, x, y + r + fontSize + 2);
     },
-    [currentId, hoveredId, labelColor, activeLabel, hoverLabel]
+    [currentId, hoveredId, searchMatch, search, labelColor, activeLabel, hoverLabel]
   );
 
   const paintPointerArea = useCallback(
@@ -172,13 +204,31 @@ export default function GraphModal({ open, onClose }: GraphModalProps) {
             onClick={(e) => e.stopPropagation()}
           >
             {/* Header */}
-            <div className="flex items-center justify-between border-b border-slate-800 px-5 py-3">
-              <span className="font-mono text-sm font-semibold text-slate-200">
+            <div className="flex items-center justify-between border-b border-slate-800 px-5 py-3 gap-4">
+              <span className="font-mono text-sm font-semibold text-slate-200 shrink-0">
                 Graph View — Full Map
               </span>
+              <div className="flex items-center flex-1 max-w-xs bg-slate-800/80 rounded-lg px-3 py-1.5 border border-slate-700/50 focus-within:border-slate-600">
+                <Search size={13} className="text-slate-500 shrink-0 mr-2" />
+                <input
+                  ref={searchRef}
+                  value={search}
+                  onChange={(e) => setSearch(e.target.value)}
+                  placeholder="Search nodes..."
+                  className="flex-1 bg-transparent text-sm text-slate-200 placeholder-slate-500 focus:outline-none font-mono"
+                />
+                {search && (
+                  <button
+                    onClick={() => setSearch("")}
+                    className="ml-1 text-slate-500 hover:text-slate-300"
+                  >
+                    <X size={12} />
+                  </button>
+                )}
+              </div>
               <button
                 onClick={onClose}
-                className="rounded-md p-1 text-slate-400 hover:bg-slate-800 hover:text-slate-200 transition-colors"
+                className="rounded-md p-1 text-slate-400 hover:bg-slate-800 hover:text-slate-200 transition-colors shrink-0"
               >
                 <X size={16} />
               </button>
