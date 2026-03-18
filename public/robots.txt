@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /v1/assets
+Disallow: /flickr/
 
 Sitemap: https://ogulcantokmak.me/sitemap.xml
