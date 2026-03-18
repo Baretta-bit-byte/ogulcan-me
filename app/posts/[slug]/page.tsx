@@ -2,8 +2,11 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { compileMDX } from "next-mdx-remote/rsc";
 import Link from "next/link";
+import rehypeSlug from "rehype-slug";
 import Backlinks from "@/components/Backlinks";
 import RelatedContent from "@/components/RelatedContent";
+import TocRegistrar from "@/components/TocRegistrar";
+import { TocItem } from "@/lib/rightPanelContext";
 import { getAllPosts, getPost, type Maturity } from "@/lib/posts";
 
 export async function generateMetadata(
@@ -42,6 +45,24 @@ function formatDate(dateStr: string): string {
   });
 }
 
+/** Extract headings from raw markdown for TOC */
+function extractHeadings(markdown: string): TocItem[] {
+  const items: TocItem[] = [];
+  const re = /^(#{1,3})\s+(.+)$/gm;
+  let match;
+  while ((match = re.exec(markdown)) !== null) {
+    const level = match[1].length as 1 | 2 | 3;
+    const label = match[2].replace(/\*\*/g, "").replace(/`/g, "").trim();
+    // Match rehype-slug's id generation
+    const id = label
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, "")
+      .replace(/\s+/g, "-");
+    items.push({ id, label, level });
+  }
+  return items;
+}
+
 export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const post = getPost(slug);
@@ -49,13 +70,18 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
 
   const { content } = await compileMDX({
     source: post.content,
-    options: { parseFrontmatter: false },
+    options: {
+      parseFrontmatter: false,
+      mdxOptions: { rehypePlugins: [rehypeSlug] },
+    },
   });
 
+  const tocItems = extractHeadings(post.content);
   const m = maturityLabel[post.maturity];
 
   return (
     <article className="space-y-10">
+      <TocRegistrar items={tocItems} />
       {/* Back link */}
       <Link
         href="/posts"
@@ -95,12 +121,13 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
         {post.tags.length > 0 && (
           <div className="flex flex-wrap gap-1.5">
             {post.tags.map((tag) => (
-              <span
+              <Link
                 key={tag}
-                className="rounded-full bg-slate-100 dark:bg-slate-800 px-2.5 py-0.5 font-mono text-[11px] text-slate-500 dark:text-slate-400"
+                href={`/tags/${tag}`}
+                className="rounded-full bg-slate-100 dark:bg-slate-800 px-2.5 py-0.5 font-mono text-[11px] text-slate-500 dark:text-slate-400 hover:text-sky-400 hover:bg-sky-400/10 transition-colors"
               >
                 {tag}
-              </span>
+              </Link>
             ))}
           </div>
         )}
