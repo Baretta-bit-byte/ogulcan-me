@@ -57,8 +57,8 @@ const auth = { Authorization: `Bearer ${access_token}` };
 
 // ── 2. Fetch in parallel: user profile, playlists count, top tracks ───────────
 const [meRes, playlistsRes, tracksRes] = await Promise.all([
-  fetch("https://api.spotify.com/v1/me",                                         { headers: auth }),
-  fetch("https://api.spotify.com/v1/me/playlists?limit=1",                       { headers: auth }),
+  fetch("https://api.spotify.com/v1/me",                                          { headers: auth }),
+  fetch("https://api.spotify.com/v1/me/playlists?limit=1",                        { headers: auth }),
   fetch("https://api.spotify.com/v1/me/top/tracks?time_range=short_term&limit=12", { headers: auth }),
 ]);
 
@@ -66,7 +66,26 @@ const me        = await meRes.json();
 const playlists = await playlistsRes.json();
 const topTracks = await tracksRes.json();
 
-// ── 3. Shape the data ─────────────────────────────────────────────────────────
+// ── 3. Fetch artist genres ────────────────────────────────────────────────────
+const artistIds = [...new Set(
+  (topTracks.items ?? []).map((t) => t.artists[0]?.id).filter(Boolean)
+)];
+
+const genreMap = {};
+if (artistIds.length > 0) {
+  const artistsRes = await fetch(
+    `https://api.spotify.com/v1/artists?ids=${artistIds.slice(0, 50).join(",")}`,
+    { headers: auth }
+  );
+  if (artistsRes.ok) {
+    const artistsData = await artistsRes.json();
+    for (const artist of (artistsData.artists ?? [])) {
+      if (artist?.id) genreMap[artist.id] = artist.genres ?? [];
+    }
+  }
+}
+
+// ── 4. Shape the data ─────────────────────────────────────────────────────────
 const profile = {
   name:      me.display_name ?? "Ogulcan",
   followers: me.followers?.total ?? 0,
@@ -83,9 +102,10 @@ const tracks = (topTracks.items ?? []).map((t) => ({
   url:         t.external_urls.spotify,
   preview_url: t.preview_url ?? null,
   duration_ms: t.duration_ms,
+  genres:      (genreMap[t.artists[0]?.id] ?? []).slice(0, 4),
 }));
 
-// ── 4. Write output ───────────────────────────────────────────────────────────
+// ── 5. Write output ───────────────────────────────────────────────────────────
 const output = { profile, tracks, fetched_at: new Date().toISOString() };
 mkdirSync("public", { recursive: true });
 writeFileSync("public/spotify-data.json", JSON.stringify(output, null, 2));
