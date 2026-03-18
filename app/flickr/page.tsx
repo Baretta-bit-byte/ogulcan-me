@@ -1,7 +1,8 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { Camera, ExternalLink } from "lucide-react";
+import { useEffect, useState, useCallback } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Camera, X, ChevronLeft, ChevronRight } from "lucide-react";
 import Backlinks from "@/components/Backlinks";
 
 const DATA_URL =
@@ -53,7 +54,7 @@ function formatDate(dateStr: string | null): string {
   if (!dateStr) return "";
   const d = new Date(dateStr);
   if (isNaN(d.getTime())) return "";
-  return d.toLocaleDateString("en-US", { month: "short", year: "numeric" });
+  return d.toLocaleDateString("en-US", { month: "long", year: "numeric" });
 }
 
 // ─── Skeleton ─────────────────────────────────────────────────────────────────
@@ -64,18 +65,143 @@ function Skeleton({ className }: { className?: string }) {
   );
 }
 
+// ─── Lightbox ─────────────────────────────────────────────────────────────────
+
+function Lightbox({
+  photos,
+  index,
+  onClose,
+  onPrev,
+  onNext,
+}: {
+  photos: FlickrPhoto[];
+  index: number;
+  onClose: () => void;
+  onPrev: () => void;
+  onNext: () => void;
+}) {
+  const photo = photos[index];
+
+  // Keyboard navigation
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+      if (e.key === "ArrowLeft")  onPrev();
+      if (e.key === "ArrowRight") onNext();
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [onClose, onPrev, onNext]);
+
+  // Lock body scroll
+  useEffect(() => {
+    document.body.style.overflow = "hidden";
+    return () => { document.body.style.overflow = ""; };
+  }, []);
+
+  return (
+    <motion.div
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/92 backdrop-blur-sm"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 0.2 }}
+      onClick={onClose}
+    >
+      {/* Close */}
+      <button
+        onClick={onClose}
+        className="absolute right-4 top-4 z-10 rounded-full bg-white/10 p-2 text-white transition-colors hover:bg-white/20"
+        aria-label="Close"
+      >
+        <X size={18} />
+      </button>
+
+      {/* Counter */}
+      <div className="absolute left-4 top-4 font-mono text-xs text-white/50">
+        {index + 1} / {photos.length}
+      </div>
+
+      {/* Prev */}
+      {photos.length > 1 && (
+        <button
+          onClick={(e) => { e.stopPropagation(); onPrev(); }}
+          className="absolute left-3 z-10 rounded-full bg-white/10 p-2 text-white transition-colors hover:bg-white/20"
+          aria-label="Previous photo"
+        >
+          <ChevronLeft size={22} />
+        </button>
+      )}
+
+      {/* Image */}
+      <AnimatePresence mode="wait">
+        <motion.img
+          key={photo.id}
+          src={photo.url_large}
+          alt={photo.title}
+          className="max-h-[82vh] max-w-[88vw] rounded-lg object-contain shadow-2xl"
+          initial={{ opacity: 0, scale: 0.96 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0.96 }}
+          transition={{ duration: 0.18 }}
+          onClick={(e) => e.stopPropagation()}
+          draggable={false}
+        />
+      </AnimatePresence>
+
+      {/* Next */}
+      {photos.length > 1 && (
+        <button
+          onClick={(e) => { e.stopPropagation(); onNext(); }}
+          className="absolute right-3 z-10 rounded-full bg-white/10 p-2 text-white transition-colors hover:bg-white/20"
+          aria-label="Next photo"
+        >
+          <ChevronRight size={22} />
+        </button>
+      )}
+
+      {/* Bottom bar */}
+      {(photo.title !== "Untitled" || photo.taken || photo.tags.length > 0) && (
+        <div
+          className="absolute bottom-0 left-0 right-0 flex items-end justify-between gap-4 px-5 py-4 bg-gradient-to-t from-black/70 to-transparent"
+          onClick={(e) => e.stopPropagation()}
+        >
+          <div className="space-y-0.5">
+            {photo.title !== "Untitled" && (
+              <p className="text-sm font-medium text-white">{photo.title}</p>
+            )}
+            {photo.taken && (
+              <p className="text-xs text-white/50">{formatDate(photo.taken)}</p>
+            )}
+          </div>
+          {photo.tags.length > 0 && (
+            <div className="flex flex-wrap justify-end gap-1.5">
+              {photo.tags.slice(0, 4).map((tag) => (
+                <span
+                  key={tag}
+                  className="rounded-full bg-white/10 px-2 py-0.5 font-mono text-[10px] text-white/70"
+                >
+                  {tag}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+    </motion.div>
+  );
+}
+
 // ─── Photo Card ───────────────────────────────────────────────────────────────
 
-function PhotoCard({ photo }: { photo: FlickrPhoto }) {
+function PhotoCard({ photo, onClick }: { photo: FlickrPhoto; onClick: () => void }) {
   const [loaded, setLoaded] = useState(false);
   const [failed, setFailed] = useState(false);
 
   return (
-    <a
-      href={photo.page_url}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="group relative block overflow-hidden rounded-xl break-inside-avoid mb-3 bg-slate-100 dark:bg-slate-800"
+    <button
+      onClick={onClick}
+      className="group relative block w-full overflow-hidden rounded-xl break-inside-avoid mb-3 bg-slate-100 dark:bg-slate-800 text-left cursor-zoom-in"
     >
       {/* Loading skeleton */}
       {!loaded && !failed && (
@@ -87,7 +213,7 @@ function PhotoCard({ photo }: { photo: FlickrPhoto }) {
         <img
           src={photo.url_med}
           alt={photo.title}
-          className={`w-full transition-opacity duration-300 ${loaded ? "opacity-100" : "opacity-0"}`}
+          className={`w-full transition-all duration-300 group-hover:scale-[1.02] ${loaded ? "opacity-100" : "opacity-0"}`}
           onLoad={() => setLoaded(true)}
           onError={() => { setFailed(true); setLoaded(true); }}
         />
@@ -98,43 +224,34 @@ function PhotoCard({ photo }: { photo: FlickrPhoto }) {
       )}
 
       {/* Hover overlay */}
-      <div className="absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 transition-opacity duration-200 group-hover:opacity-100">
-        <div className="p-3 translate-y-2 transition-transform duration-200 group-hover:translate-y-0">
+      <div className="absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/60 via-black/10 to-transparent opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+        <div className="p-3 translate-y-1 transition-transform duration-200 group-hover:translate-y-0">
           {photo.title !== "Untitled" && (
-            <p className="text-sm font-medium text-white leading-tight line-clamp-2 mb-1">
+            <p className="text-xs font-medium text-white leading-tight line-clamp-2">
               {photo.title}
             </p>
           )}
-          <div className="flex items-center gap-2.5 text-white/70 text-[10px]">
-            {photo.taken && (
-              <span>{formatDate(photo.taken)}</span>
-            )}
-            {photo.tags.length > 0 && (
-              <span className="line-clamp-1">{photo.tags.slice(0, 3).join(" · ")}</span>
-            )}
-          </div>
+          {photo.taken && (
+            <p className="mt-0.5 text-[10px] text-white/60">{formatDate(photo.taken)}</p>
+          )}
         </div>
       </div>
-
-      {/* External link badge */}
-      <div className="absolute right-2 top-2 rounded-full bg-black/30 p-1 opacity-0 backdrop-blur-sm transition-opacity group-hover:opacity-100">
-        <ExternalLink size={10} className="text-white" />
-      </div>
-    </a>
+    </button>
   );
 }
 
 // ─── Page ─────────────────────────────────────────────────────────────────────
 
 export default function FlickrPage() {
-  const [data,    setData]    = useState<FlickrData | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error,   setError]   = useState<string | null>(null);
+  const [data,       setData]       = useState<FlickrData | null>(null);
+  const [loading,    setLoading]    = useState(true);
+  const [error,      setError]      = useState<string | null>(null);
+  const [lightboxIdx, setLightboxIdx] = useState<number | null>(null);
 
   useEffect(() => {
     fetch(DATA_URL, { cache: "no-store" })
       .then((r) => {
-        if (!r.ok) throw new Error(`Failed to load Flickr data (${r.status})`);
+        if (!r.ok) throw new Error(`Failed to load photo data (${r.status})`);
         return r.json() as Promise<FlickrData>;
       })
       .then(setData)
@@ -142,42 +259,44 @@ export default function FlickrPage() {
       .finally(() => setLoading(false));
   }, []);
 
-  const { user, photos, fetched_at } = data ?? { user: null, photos: [], fetched_at: null };
+  const photos = data?.photos ?? [];
+
+  const openLightbox = useCallback((i: number) => setLightboxIdx(i), []);
+  const closeLightbox = useCallback(() => setLightboxIdx(null), []);
+  const prevPhoto = useCallback(() =>
+    setLightboxIdx((i) => (i === null ? null : (i - 1 + photos.length) % photos.length)),
+    [photos.length]
+  );
+  const nextPhoto = useCallback(() =>
+    setLightboxIdx((i) => (i === null ? null : (i + 1) % photos.length)),
+    [photos.length]
+  );
+
+  const { user, fetched_at } = data ?? { user: null, fetched_at: null };
 
   return (
     <article className="space-y-10">
 
       {/* ── Header ───────────────────────────────────────────────────────── */}
       <section className="space-y-4">
-        <div className="flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <Camera size={22} strokeWidth={1.6} className="text-slate-700 dark:text-slate-300" />
-            <h1 className="text-2xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
-              Photography
-            </h1>
-          </div>
-
+        <div className="flex items-center gap-3">
+          <Camera size={22} strokeWidth={1.6} className="text-slate-700 dark:text-slate-300" />
+          <h1 className="text-2xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
+            Photography
+          </h1>
         </div>
 
-        {/* Stats row */}
         {!loading && user && (
-          <div className="flex items-center gap-6">
-            <span className="flex items-center gap-1.5 text-sm text-slate-500 dark:text-slate-400">
-              <Camera size={13} strokeWidth={1.6} />
-              <span className="font-semibold text-slate-800 dark:text-slate-200">
-                {user.photos_count.toLocaleString()}
-              </span>
-              {" "}photos
+          <div className="flex items-center gap-1.5 text-sm text-slate-500 dark:text-slate-400">
+            <Camera size={13} strokeWidth={1.6} />
+            <span className="font-semibold text-slate-800 dark:text-slate-200">
+              {user.photos_count.toLocaleString()}
             </span>
+            photos
           </div>
         )}
 
-        {loading && (
-          <div className="flex gap-4">
-            <Skeleton className="h-4 w-28" />
-            <Skeleton className="h-4 w-20" />
-          </div>
-        )}
+        {loading && <Skeleton className="h-4 w-28" />}
 
         {fetched_at && (
           <p className="font-mono text-[10px] text-slate-400">
@@ -185,9 +304,7 @@ export default function FlickrPage() {
           </p>
         )}
 
-        {error && (
-          <p className="font-mono text-xs text-red-400">{error}</p>
-        )}
+        {error && <p className="font-mono text-xs text-red-400">{error}</p>}
       </section>
 
       {/* ── Photo Grid ───────────────────────────────────────────────────── */}
@@ -204,28 +321,34 @@ export default function FlickrPage() {
           </div>
         ) : photos.length > 0 ? (
           <div className="columns-2 sm:columns-3 gap-3">
-            {photos.map((photo) => (
-              <PhotoCard key={photo.id} photo={photo} />
+            {photos.map((photo, i) => (
+              <PhotoCard key={photo.id} photo={photo} onClick={() => openLightbox(i)} />
             ))}
           </div>
         ) : (
-          !loading && (
-            <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-8 text-center">
-              <Camera size={32} strokeWidth={1.2} className="mx-auto mb-3 text-slate-300 dark:text-slate-700" />
-              <p className="text-sm text-slate-400">
-                {error ? "Could not load photos." : "No public photos found."}
-              </p>
-              {!error && (
-                <p className="mt-1 font-mono text-xs text-slate-300 dark:text-slate-600">
-                  Set FLICKR_API_KEY + FLICKR_USER_ID to enable.
-                </p>
-              )}
-            </div>
-          )
+          <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-8 text-center">
+            <Camera size={32} strokeWidth={1.2} className="mx-auto mb-3 text-slate-300 dark:text-slate-700" />
+            <p className="text-sm text-slate-400">
+              {error ? "Could not load photos." : "No photos found."}
+            </p>
+          </div>
         )}
       </section>
 
       <Backlinks nodeId="flickr" />
+
+      {/* ── Lightbox ─────────────────────────────────────────────────────── */}
+      <AnimatePresence>
+        {lightboxIdx !== null && (
+          <Lightbox
+            photos={photos}
+            index={lightboxIdx}
+            onClose={closeLightbox}
+            onPrev={prevPhoto}
+            onNext={nextPhoto}
+          />
+        )}
+      </AnimatePresence>
 
     </article>
   );
