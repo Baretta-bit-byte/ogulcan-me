@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ogulcantokmak.me/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ogulcantokmak.me/about/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ogulcantokmak.me/projects/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ogulcantokmak.me/projects/secureexam-generator/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ogulcantokmak.me/projects/notepadio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ogulcantokmak.me/posts/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ogulcantokmak.me/posts/building-a-digital-garden-with-nextjs/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ogulcantokmak.me/posts/spring-2026-retrospective/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ogulcantokmak.me/til/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ogulcantokmak.me/math/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ogulcantokmak.me/math/game-theory/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ogulcantokmak.me/math/izmir-festival/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/community/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ogulcantokmak.me/community/tba/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/community/volunteering/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/topics/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ogulcantokmak.me/tags/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/now/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ogulcantokmak.me/uses/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ogulcantokmak.me/github/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ogulcantokmak.me/spotify/</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/books/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/vinyl/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://ogulcantokmak.me/flickr/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/steam/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
+  <url><loc>https://ogulcantokmak.me/bookmarks/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://ogulcantokmak.me/stats/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://ogulcantokmak.me/changelog/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ogulcantokmak.me/colophon/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+</urlset>
