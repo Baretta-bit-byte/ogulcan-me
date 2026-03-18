@@ -47,7 +47,7 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - `/steam` — **Steam Web API** integration: `scripts/fetch-steam.mjs` → `public/steam-data.json`; player card (avatar, status, library stats), recently played game cards with playtime bars, `steam.yml` cron every 3h
 
 ### 🔲 Pending — next session priorities
-*(All v3.1 features complete — site fully live. Next: new feature ideas or polish passes.)*
+1. **Cloudinary metadata → /flickr** — Cloudinary Media Library'de `caption` + klasör (albüm) bilgisini fetch script'e tam entegre et; `/flickr` sayfasında albüm filtresi + fotoğraf açıklaması göster. Yaklaşım: `context: true` zaten çekiliyor, page'de render edilmesi yeterli.
 
 ---
 
