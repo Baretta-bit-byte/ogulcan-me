@@ -111,6 +111,90 @@ export default function StatsPage() {
         </div>
       </section>
 
+      {/* Graph Topology */}
+      <section className="mb-12">
+        <h2 className="text-sm font-mono font-semibold text-slate-400 uppercase tracking-widest mb-4">
+          Graph Topology
+        </h2>
+        {(() => {
+          // Compute connection counts per node
+          const connectionCount: Record<string, number> = {};
+          for (const node of graphNodes) connectionCount[node.id] = 0;
+          for (const link of graphLinks) {
+            connectionCount[link.source] = (connectionCount[link.source] || 0) + 1;
+            connectionCount[link.target] = (connectionCount[link.target] || 0) + 1;
+          }
+
+          const avgConnections = (graphLinks.length * 2 / graphNodes.length).toFixed(1);
+          const density = ((graphLinks.length * 2) / (graphNodes.length * (graphNodes.length - 1)) * 100).toFixed(1);
+
+          const mostConnected = graphNodes
+            .map(n => ({ ...n, count: connectionCount[n.id] || 0 }))
+            .sort((a, b) => b.count - a.count)
+            .slice(0, 5);
+
+          const orphans = graphNodes.filter(n => (connectionCount[n.id] || 0) <= 1 && n.id !== "home");
+
+          return (
+            <>
+              {/* Topology stats */}
+              <div className="grid grid-cols-2 gap-4 mb-6">
+                <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-4">
+                  <p className="text-2xl font-bold text-sky-500 tabular-nums">{avgConnections}</p>
+                  <p className="text-xs text-slate-500 dark:text-slate-400 font-mono mt-1">Avg. connections / node</p>
+                </div>
+                <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-4">
+                  <p className="text-2xl font-bold text-violet-500 tabular-nums">{density}%</p>
+                  <p className="text-xs text-slate-500 dark:text-slate-400 font-mono mt-1">Graph density</p>
+                </div>
+              </div>
+
+              {/* Most connected nodes */}
+              <div className="rounded-xl border border-slate-200 dark:border-slate-800 overflow-hidden mb-6">
+                <div className="px-5 py-3 border-b border-slate-100 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/50">
+                  <p className="text-xs font-mono font-semibold text-slate-400 uppercase tracking-wider">Most Connected</p>
+                </div>
+                {mostConnected.map(({ id, label, count }, i, arr) => (
+                  <div
+                    key={id}
+                    className={`flex items-center justify-between px-5 py-3 text-sm ${
+                      i !== arr.length - 1 ? "border-b border-slate-100 dark:border-slate-800" : ""
+                    }`}
+                  >
+                    <span className="text-slate-600 dark:text-slate-400 font-mono">{label}</span>
+                    <div className="flex items-center gap-2">
+                      <div className="w-20 h-1.5 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
+                        <div
+                          className="h-full rounded-full bg-sky-400"
+                          style={{ width: `${Math.min(100, (count / (mostConnected[0]?.count || 1)) * 100)}%` }}
+                        />
+                      </div>
+                      <span className="font-semibold text-slate-900 dark:text-slate-100 tabular-nums w-6 text-right">{count}</span>
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              {/* Orphan detection */}
+              {orphans.length > 0 && (
+                <div className="rounded-xl border border-amber-400/30 bg-amber-400/5 p-5">
+                  <p className="text-xs font-mono font-semibold text-amber-500 uppercase tracking-wider mb-3">
+                    Needs more connections ({orphans.length})
+                  </p>
+                  <div className="flex flex-wrap gap-2">
+                    {orphans.map(n => (
+                      <span key={n.id} className="rounded-md border border-amber-400/30 bg-amber-400/10 px-2.5 py-1 font-mono text-[11px] text-amber-600 dark:text-amber-400">
+                        {n.label}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
+          );
+        })()}
+      </section>
+
       {/* Umami analytics embed */}
       <section className="mb-12">
         <h2 className="text-sm font-mono font-semibold text-slate-400 uppercase tracking-widest mb-4">

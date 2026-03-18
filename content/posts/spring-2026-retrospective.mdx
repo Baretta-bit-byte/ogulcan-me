@@ -1,0 +1,37 @@
+---
+title: "Spring 2026 — What I Built, Learned, and Read"
+description: "A semester retrospective: two projects shipped, a digital garden grown from scratch, and the books and ideas that shaped my thinking."
+date: "2026-03-18"
+maturity: "seedling"
+tags: ["retrospective", "personal", "meta"]
+---
+
+This is my first retrospective — a snapshot of where things stand at the end of the spring semester.
+
+## What I built
+
+**SecureExam-Generator** went from an idea discussed at the Turkish Informatics Association to a working CLI tool. The core insight: you don't need a proprietary platform to make exam papers tamper-proof — a SHA-256 hash, a QR code, and a filigree watermark are enough. The project forced me to think about cryptographic guarantees in a context where the "adversary" is a student with a photocopier, not a nation-state actor.
+
+**NotePadIo** started as a class project and turned into something I actually want to use. The real challenge wasn't the block editor — it was the sync model. Building a CRDT-inspired conflict resolver from scratch taught me more about distributed systems than any textbook chapter.
+
+**This website** — the thing you're reading right now — became the most technically ambitious project of the semester. A 3-column digital garden with a knowledge graph, live Spotify/GitHub/Steam data, MDX blog pipeline, full-text search, and a command palette. All statically exported to GitHub Pages with zero server dependencies.
+
+## What I learned
+
+- **Game Theory** at Ali Nesin Mathematics Village: Nash equilibria, minimax, Shapley value. The surprising takeaway — mechanism design is just API design for incentive structures.
+- **Event sourcing** via NotePadIo: treating documents as append-only operation logs rather than mutable blobs. Once you see this pattern, you see it everywhere.
+- **Static site constraints** push you toward creative solutions. When you can't have a server, you learn to love build-time scripts and GitHub Actions crons.
+
+## What I read
+
+The books that stuck with me this semester — check the full list at `/books`:
+
+1. The ones that changed how I think about problem structure
+2. The ones that made me a better writer (and therefore a better engineer)
+3. The ones I keep recommending to people
+
+## What comes next
+
+Summer 2026 internship search is the priority. This garden will keep growing — more TIL entries, more connections in the knowledge graph, and eventually some longer essays on topics I've been circling around: distributed consensus, educational technology, and the philosophy of mathematical proof.
+
+This is a seedling. I'll update it as the semester closes out.

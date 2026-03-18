@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, MapPin, Calendar, ExternalLink, Download } from "lucide-react";
+import { ArrowRight, MapPin, Calendar, ExternalLink, Download, GraduationCap, Heart, Users, Brain, Trophy } from "lucide-react";
 import LinkedTerm from "@/components/LinkedTerm";
 import Backlinks from "@/components/Backlinks";
 
@@ -10,6 +10,8 @@ const timeline = [
     place: "University",
     description: "Algorithms, systems, applied mathematics. Primary languages: Python, C++.",
     type: "education",
+    icon: GraduationCap,
+    href: undefined as string | undefined,
   },
   {
     year: "Mar 2026 — present",
@@ -17,6 +19,8 @@ const timeline = [
     place: "Turkey",
     description: "Disaster & emergency management (AFAD) and children's leukemia foundation (LÖSEV).",
     type: "community",
+    icon: Heart,
+    href: "/community/volunteering",
   },
   {
     year: "2025 — present",
@@ -24,6 +28,8 @@ const timeline = [
     place: "Turkey",
     description: "Active member of TBA — national non-profit promoting CS education and digital literacy since 1971.",
     type: "community",
+    icon: Users,
+    href: "/community/tba",
   },
   {
     year: "2025",
@@ -31,6 +37,8 @@ const timeline = [
     place: "Şirince, İzmir",
     description: "Intensive training covering Nash equilibria, minimax theorem, Shapley value, and mechanism design.",
     type: "math",
+    icon: Brain,
+    href: "/math/game-theory",
   },
   {
     year: "2024",
@@ -38,6 +46,8 @@ const timeline = [
     place: "İzmir",
     description: "Olympiad rounds, puzzle workshops, and research lectures for undergraduates.",
     type: "math",
+    icon: Trophy,
+    href: "/math/izmir-festival",
   },
 ];
 
@@ -45,6 +55,18 @@ const typeColor: Record<string, string> = {
   education: "bg-sky-400",
   community: "bg-emerald-400",
   math: "bg-violet-400",
+};
+
+const typeIconBg: Record<string, string> = {
+  education: "bg-sky-400/15",
+  community: "bg-emerald-400/15",
+  math: "bg-violet-400/15",
+};
+
+const typeIconText: Record<string, string> = {
+  education: "text-sky-400",
+  community: "text-emerald-400",
+  math: "text-violet-400",
 };
 
 const projects = [
@@ -177,24 +199,34 @@ export default function AboutPage() {
         <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-5">Timeline</h2>
         <div className="relative">
           {/* Vertical line */}
-          <div className="absolute left-[7px] top-2 bottom-2 w-px bg-slate-200 dark:bg-slate-800" />
+          <div className="absolute left-[15px] top-2 bottom-2 w-px bg-slate-200 dark:bg-slate-800" />
           <div className="space-y-6">
-            {timeline.map((item, i) => (
-              <div key={i} className="flex gap-5">
-                {/* Dot */}
-                <div className="relative mt-1.5 shrink-0">
-                  <div className={`h-3.5 w-3.5 rounded-full ${typeColor[item.type]} ring-2 ring-white dark:ring-slate-900`} />
-                </div>
-                <div>
-                  <div className="flex items-center gap-2 mb-0.5">
-                    <span className="font-mono text-xs text-slate-400">{item.year}</span>
+            {timeline.map((item, i) => {
+              const Icon = item.icon;
+              const content = (
+                <div key={i} className={`flex gap-5 ${item.href ? "group cursor-pointer" : ""}`}>
+                  {/* Icon dot */}
+                  <div className="relative mt-1 shrink-0">
+                    <div className={`h-8 w-8 rounded-full ${typeIconBg[item.type]} ring-2 ring-white dark:ring-slate-900 flex items-center justify-center`}>
+                      <Icon size={14} className={typeIconText[item.type]} />
+                    </div>
                   </div>
-                  <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">{item.title}</p>
-                  <p className="text-xs text-slate-400 font-mono mb-1">{item.place}</p>
-                  <p className="text-sm text-slate-500 dark:text-slate-400 leading-6">{item.description}</p>
+                  <div>
+                    <div className="flex items-center gap-2 mb-0.5">
+                      <span className="font-mono text-xs text-slate-400">{item.year}</span>
+                    </div>
+                    <p className={`text-sm font-semibold text-slate-900 dark:text-slate-100 ${item.href ? "group-hover:text-sky-400 transition-colors" : ""}`}>{item.title}</p>
+                    <p className="text-xs text-slate-400 font-mono mb-1">{item.place}</p>
+                    <p className="text-sm text-slate-500 dark:text-slate-400 leading-6">{item.description}</p>
+                  </div>
                 </div>
-              </div>
-            ))}
+              );
+              return item.href ? (
+                <Link key={i} href={item.href}>{content}</Link>
+              ) : (
+                content
+              );
+            })}
           </div>
         </div>
       </section>

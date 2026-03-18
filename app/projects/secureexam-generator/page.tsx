@@ -44,7 +44,10 @@ export default function SecureExamPage() {
 
       <h2 id="how-it-works">How It Works</h2>
       <p>
-        Each exam sheet is generated through a three-stage pipeline:
+        Each exam sheet is generated through a three-stage pipeline built on
+        deterministic hashing — the same cryptographic primitives that underpin
+        version control and blockchain consensus, applied to educational
+        document integrity:
       </p>
       <ol>
         <li>
@@ -88,7 +91,24 @@ export default function SecureExamPage() {
       <h2 id="tech-stack">Tech Stack</h2>
       <p>
         The tool is built in <code>Python 3</code> with a deliberately small
-        dependency surface to keep it auditable and portable:
+        dependency surface to keep it auditable and portable. The full source is
+        on{" "}
+        <LinkedTerm
+          href="/github"
+          nodeId="github"
+          variant="tech"
+        >
+          GitHub
+        </LinkedTerm>
+        , and the development environment is documented in{" "}
+        <LinkedTerm
+          href="/uses"
+          nodeId="uses"
+          variant="tech"
+        >
+          /uses
+        </LinkedTerm>
+        .
       </p>
       <ul>
         <li>

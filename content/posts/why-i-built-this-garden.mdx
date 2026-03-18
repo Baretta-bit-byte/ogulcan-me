@@ -1,9 +1,9 @@
 ---
 title: "Why I Built This Garden"
-description: "On personal websites, digital gardens, and why a static portfolio isn't enough anymore."
+description: "On personal websites, digital gardens, and the technical architecture behind a living portfolio that grows with every idea."
 date: "2026-03-17"
 maturity: "sapling"
-tags: ["meta", "web", "personal"]
+tags: ["meta", "web", "personal", "next.js", "architecture"]
 ---
 
 There's a difference between having a portfolio and having a presence.
@@ -26,21 +26,41 @@ This essay is a sapling. It has a clear shape, but I'll keep refining it as my t
 
 The most interesting part of this site is the graph — an interactive map of how every concept connects to every other. When you hover over a node, you can see which pages reference it. When you click, you travel along an edge of thought.
 
-This is a fundamentally different experience than clicking "Next Post." You're not consuming content in a sequence — you're exploring a topology.
+This is a fundamentally different experience than clicking "Next Post." You're not consuming content in a sequence — you're exploring a topology. The graph currently tracks **26 nodes** and **38+ links** — each one a deliberate connection I maintain by hand, not auto-generated.
+
+## Bi-directional backlinks
+
+Every page on this site shows a "Mentioned by" and "Links to" section at the bottom. If I write about SecureExam on the projects page, that project page automatically knows it's been referenced. These backlinks transform isolated documents into a dense, explorable network — the visitor doesn't just read a page, they discover a neighborhood.
+
+## The hover preview system
+
+When you hover over any dotted-underline link, a rich contextual card appears showing the target page's description and maturity level. This is built on Radix UI's hover card with Framer Motion animations, and it serves a critical UX function: you can assess whether a link is worth following *without leaving your current context*. This idea comes from hypertext pioneers like Ted Nelson's Project Xanadu.
+
+## The command palette
+
+Press `Ctrl+K` anywhere on the site and a full-text search overlay appears. It searches across all pages, blog posts, and TIL entries simultaneously. This is inspired by macOS Spotlight and Paco Coursey's `cmdk` component — the command palette acts as a navigational safety net for a site with dozens of interconnected pages.
 
 ## Technical choices
 
-I built this with **Next.js** (static export to GitHub Pages), **Tailwind CSS v4**, and **Framer Motion**. Live data comes from:
+I built this with **Next.js 16** (App Router, static export to GitHub Pages), **Tailwind CSS v4**, and **Framer Motion v12**. The constraint that shapes everything: `output: "export"` — no Node.js server at runtime.
 
-- GitHub REST API — repos, contributions, pull requests
-- Spotify — top tracks, updated every 30 minutes via a GitHub Actions cron
-- Books — a hand-curated JSON of everything I've finished reading
-- Vinyl — fetched from Discogs at build time
+This means every piece of dynamic data needs a creative solution:
 
-The decision to use `output: "export"` was intentional. No server means no runtime cost, no cold starts, and a site that will keep loading even if I stop paying for infrastructure.
+- **GitHub** — public REST API, fetched client-side via `useEffect`
+- **Spotify** — OAuth requires a server, so a GitHub Actions cron runs every 30 minutes, commits `spotify-data.json`, and the page reads from `raw.githubusercontent.com`
+- **Flickr** — build-time fetch script writes `flickr-data.json`, updated every 6 hours by cron
+- **Steam** — same pattern as Flickr, `steam-data.json` refreshed every 3 hours
+- **Vinyl** — Discogs public API, fetched at build time
+- **Books** — hand-curated JSON, Open Library covers loaded client-side
+
+The decision to go fully static was intentional. No server means no runtime cost, no cold starts, and a site that will keep loading even if I stop paying for infrastructure. The trade-off is more build-time complexity — but that complexity lives in scripts I own and can debug, not in a platform's black box.
+
+## The theme toggle
+
+The dark/light mode toggle uses the **View Transitions API** to create an organic circular reveal effect — the new theme expands from the toggle button position like ink spreading on paper. This is one of those details that nobody asks for but everyone notices.
 
 ## What comes next
 
-This garden is young. More notes, more connections, more writing. The goal isn't to publish polished essays on a schedule — it's to think in public, slowly and carefully.
+This garden is young. More notes, more connections, more writing. The `/stats` page tracks the garden's growth: node count, link density, maturity distribution. The goal isn't to publish polished essays on a schedule — it's to think in public, slowly and carefully.
 
 If something here resonates, or if you think I'm wrong about something, reach out. That's how gardens grow.
