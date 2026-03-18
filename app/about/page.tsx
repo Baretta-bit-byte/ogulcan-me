@@ -12,6 +12,7 @@ const timeline = [
     type: "education",
     icon: GraduationCap,
     href: undefined as string | undefined,
+    badge: "BSc",
   },
   {
     year: "Mar 2026 — present",
@@ -21,6 +22,7 @@ const timeline = [
     type: "community",
     icon: Heart,
     href: "/community/volunteering",
+    badge: "Volunteer",
   },
   {
     year: "2025 — present",
@@ -30,6 +32,7 @@ const timeline = [
     type: "community",
     icon: Users,
     href: "/community/tba",
+    badge: "Member",
   },
   {
     year: "2025",
@@ -39,6 +42,7 @@ const timeline = [
     type: "math",
     icon: Brain,
     href: "/math/game-theory",
+    badge: "Certificate",
   },
   {
     year: "2024",
@@ -48,6 +52,7 @@ const timeline = [
     type: "math",
     icon: Trophy,
     href: "/math/izmir-festival",
+    badge: "Participant",
   },
 ];
 
@@ -214,6 +219,15 @@ export default function AboutPage() {
                   <div>
                     <div className="flex items-center gap-2 mb-0.5">
                       <span className="font-mono text-xs text-slate-400">{item.year}</span>
+                      {item.badge && (
+                        <span className={`rounded-full px-2 py-0.5 text-[9px] font-bold uppercase tracking-wider ${
+                          item.type === "education" ? "bg-sky-400/10 text-sky-500" :
+                          item.type === "community" ? "bg-emerald-400/10 text-emerald-500" :
+                          "bg-violet-400/10 text-violet-500"
+                        }`}>
+                          {item.badge}
+                        </span>
+                      )}
                     </div>
                     <p className={`text-sm font-semibold text-slate-900 dark:text-slate-100 ${item.href ? "group-hover:text-sky-400 transition-colors" : ""}`}>{item.title}</p>
                     <p className="text-xs text-slate-400 font-mono mb-1">{item.place}</p>

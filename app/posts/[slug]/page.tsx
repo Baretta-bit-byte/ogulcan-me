@@ -3,6 +3,8 @@ import { notFound } from "next/navigation";
 import { compileMDX } from "next-mdx-remote/rsc";
 import Link from "next/link";
 import rehypeSlug from "rehype-slug";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 import Backlinks from "@/components/Backlinks";
 import RelatedContent from "@/components/RelatedContent";
 import TocRegistrar from "@/components/TocRegistrar";
@@ -72,7 +74,10 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
     source: post.content,
     options: {
       parseFrontmatter: false,
-      mdxOptions: { rehypePlugins: [rehypeSlug] },
+      mdxOptions: {
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeSlug, rehypeKatex],
+      },
     },
   });
 

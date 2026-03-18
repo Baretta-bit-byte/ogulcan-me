@@ -45,6 +45,25 @@ function parseFilter(raw: string): { filter: FilterType; query: string } {
   return { filter: "all", query: raw };
 }
 
+function HighlightedSnippet({ text, query }: { text: string; query: string }) {
+  if (!query || query.length < 2) return <>{text}</>;
+  const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi");
+  const parts = text.split(regex);
+  return (
+    <>
+      {parts.map((part, i) =>
+        regex.test(part) ? (
+          <mark key={i} className="bg-amber-200/60 dark:bg-amber-400/20 text-amber-700 dark:text-amber-300 rounded-sm px-0.5">
+            {part}
+          </mark>
+        ) : (
+          <span key={i}>{part}</span>
+        )
+      )}
+    </>
+  );
+}
+
 export default function CommandPalette() {
   const [isOpen, setIsOpen] = useState(false);
   const [search, setSearch] = useState("");
@@ -254,7 +273,7 @@ export default function CommandPalette() {
                           </div>
                           {node.description && (
                             <div className="text-sm text-slate-500 mt-1 truncate">
-                              {node.description}
+                              <HighlightedSnippet text={node.description} query={searchQuery} />
                             </div>
                           )}
                         </div>
@@ -297,7 +316,7 @@ export default function CommandPalette() {
                                 </span>
                               </div>
                               <p className="text-xs text-slate-500 mt-1 line-clamp-2 leading-relaxed">
-                                {getSnippet(entry.content, searchQuery)}
+                                <HighlightedSnippet text={getSnippet(entry.content, searchQuery)} query={searchQuery} />
                               </p>
                             </div>
                           </div>

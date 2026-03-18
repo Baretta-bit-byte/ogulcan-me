@@ -1,0 +1,81 @@
+---
+title: "Building a Digital Garden with Next.js: Architecture, Patterns, and Lessons"
+description: "A deep dive into how this site evolved from a static portfolio into an interconnected knowledge graph — the technical decisions, the patterns that worked, and the ones I'd change."
+date: "2026-03-18"
+maturity: "sapling"
+tags: ["next-js", "digital-garden", "architecture", "react"]
+---
+
+## Why a Garden, Not a Portfolio
+
+Traditional portfolios are frozen in time. You update them when you're job-hunting, then they rot for months. A digital garden is the opposite: it grows continuously, with content at varying stages of maturity — from raw seedlings to polished evergreen essays.
+
+The core insight is **topological organization over chronological**. Instead of "most recent first," content is connected by _meaning_. A note on CRDT Lamport clocks links to the NotePadIo project page, which links to Game Theory, which links to the Mathematics hub. The visitor discovers relationships, not timelines.
+
+## The Static Export Constraint
+
+This entire site runs on `output: "export"` — no Node.js server at runtime. Everything compiles to static HTML, CSS, and JS, deployed to GitHub Pages.
+
+This constraint shapes every decision:
+
+- **No server-side API routes.** GitHub and Steam data are fetched by cron-scheduled scripts that commit JSON files to the repository.
+- **No database.** The "database" is `graphData.ts` — a TypeScript file defining 47 nodes and 100+ edges.
+- **No runtime secrets.** Spotify OAuth tokens are handled by a GitHub Action that runs every 30 minutes.
+
+The trade-off is real: no server-side rendering, no ISR, no edge functions. But the payoff is equally real: the site loads in under 200ms, costs nothing to host, and will never go down because a database connection timed out.
+
+## The Knowledge Graph
+
+The graph is the structural backbone of the garden. Every page has a corresponding node in `graphData.ts`:
+
+```typescript
+interface GraphNode {
+  id: string;
+  label: string;
+  type: "tech" | "math" | "personal" | "root";
+  url?: string;
+  description?: string;
+  maturity?: "seedling" | "sapling" | "evergreen";
+  lastTended?: string; // ISO date
+}
+```
+
+Links between nodes create the topology. The graph visualization uses `react-force-graph-2d` with SSR disabled (canvas APIs don't exist on the server). Each page shows a **local graph** — the current node and its immediate neighbors — while the full modal shows the complete network.
+
+The degree of a node tells you how "hub-like" a concept is. For a graph $G$ with $n$ nodes, a node's degree centrality is $C_D(v) = \frac{\deg(v)}{n - 1}$. The `/stats` page computes these metrics live.
+
+## MDX Pipeline
+
+Blog posts and TIL entries are authored in MDX — Markdown with embedded React components. The pipeline:
+
+1. Files live in `content/posts/*.mdx` and `content/til/*.mdx`
+2. `gray-matter` extracts frontmatter (title, date, maturity, tags)
+3. `next-mdx-remote/rsc` compiles MDX to React Server Components
+4. `rehype-slug` generates heading IDs for TOC linking
+5. `remark-math` + `rehype-katex` render $\LaTeX$ notation
+
+This means I can write inline math like $O(n \log n)$ and block equations:
+
+$$
+\text{readingTime} = \left\lceil \frac{\text{wordCount}}{200} \right\rceil \text{ min}
+$$
+
+## Hover Previews and Bi-directional Backlinks
+
+Two patterns borrowed from Obsidian Publish that dramatically improve garden UX:
+
+**Hover previews** (`LinkedTerm` component): when you hover over an internal link, a card shows the target page's title, description, maturity badge, and freshness indicator — without leaving the current page. This lets readers assess whether a link is worth following before clicking.
+
+**Bi-directional backlinks** (`Backlinks` component): at the bottom of every page, you see which other pages reference this one. This surfaces latent connections — if I mention "SHA-256" on a project page, the SHA-256 TIL note automatically shows that project in its backlinks section.
+
+## What I'd Do Differently
+
+**More content, earlier.** The infrastructure was polished before I had enough content to fill it. A garden with 5 notes and 2 essays doesn't demonstrate interconnectedness. I should have written 20 rough TIL entries before building the graph visualization.
+
+**Content collections over manual JSON.** If I were starting today, I'd use Astro's content collections API or a similar typed schema. Currently, `graphData.ts` is a manual registry — every new page requires adding a node, a link, and a sidebar entry. It works, but it's friction that slows content creation.
+
+**RSS should include garden notes.** The current feed only includes polished blog posts. Garden notes — the raw, iterative ones — are arguably more interesting to subscribe to, because they change more frequently.
+
+## The Garden Continues
+
+This site is version 3.2 as of writing. It will keep growing — not because I'm building features, but because I'm thinking, learning, and connecting ideas. The code is just the medium.

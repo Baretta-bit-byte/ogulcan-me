@@ -25,6 +25,7 @@ export default function SecureExamPage() {
         { id: "tech-stack", label: "Tech Stack", level: 2 },
         { id: "usage", label: "Usage", level: 2 },
         { id: "motivation", label: "Motivation", level: 2 },
+        { id: "related-concepts", label: "Related Concepts", level: 2 },
       ]}
     >
       <h2 id="overview">Overview</h2>
@@ -189,6 +190,28 @@ export default function SecureExamPage() {
         transparency rather than obscurity.
       </p>
       <p>
+        The deterministic shuffle algorithm uses the same principles documented in my{" "}
+        <LinkedTerm
+          href="/til"
+          nodeId="til"
+          variant="tech"
+        >
+          garden note on SHA-256 deterministic shuffling
+        </LinkedTerm>
+        {" "}&mdash; a technique where a cryptographic hash function produces a
+        repeatable-yet-unpredictable ordering. The formal reasoning behind
+        why this approach guarantees fairness connects directly to concepts
+        from{" "}
+        <LinkedTerm
+          href="/math/game-theory"
+          nodeId="gametheory"
+          variant="math"
+        >
+          mechanism design
+        </LinkedTerm>
+        .
+      </p>
+      <p>
         For a complementary approach to document tooling focused on capture and
         collaboration rather than security, see{" "}
         <LinkedTerm
@@ -201,6 +224,42 @@ export default function SecureExamPage() {
         </LinkedTerm>
         .
       </p>
+      <h2 id="related-concepts">Related Concepts</h2>
+      <p>
+        This project connects to several ideas explored elsewhere in this garden:
+      </p>
+      <ul>
+        <li>
+          <LinkedTerm
+            href="/til"
+            nodeId="til"
+            variant="tech"
+          >
+            SHA-256 Deterministic Shuffle
+          </LinkedTerm>{" "}
+          — the core algorithm behind per-student question ordering
+        </li>
+        <li>
+          <LinkedTerm
+            href="/math/game-theory"
+            nodeId="gametheory"
+            variant="math"
+          >
+            Mechanism Design
+          </LinkedTerm>{" "}
+          — formal frameworks for designing tamper-resistant systems
+        </li>
+        <li>
+          <LinkedTerm
+            href="/community/tba"
+            nodeId="tba"
+            variant="default"
+          >
+            Turkish Informatics Association
+          </LinkedTerm>{" "}
+          — where the problem space was first identified
+        </li>
+      </ul>
     </ArticlePage>
   );
 }

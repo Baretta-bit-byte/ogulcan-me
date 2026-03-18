@@ -80,7 +80,7 @@ Not a standard portfolio. Every page — project, math note, community activity,
 | `/tags` | Browse all content by tag | Aggregated from posts + TIL frontmatter |
 | `/tags/[tag]` | Posts and TILs filtered by a single tag | Dynamic static params |
 | `/bookmarks` | YouTube channels, daily puzzles, coding platforms | Static |
-| `/changelog` | Version history timeline (v1.0–v3.1) | Static |
+| `/changelog` | Version history timeline (v1.0–v3.3) with "Recently Tended" live widget | Static + graphData |
 | `/feed.xml` | RSS 2.0 feed of all blog posts | Static route (`force-static`) |
 | `/flickr` | Photography masonry grid | Flickr API (`flickr.yml` cron every 6h) |
 | `/steam` | Steam player card + recent games | Steam Web API (`steam.yml` cron every 3h) |
@@ -255,6 +255,22 @@ Cover art is fetched automatically from Open Library using the ISBN.
 - [x] RelatedContent (tag-based) on blog posts
 - [x] 3 new TIL entries (CRDT, SHA-256, event sourcing)
 - [x] Spring 2026 retrospective blog post
+- [x] Clickable tag links on blog post pages
+- [x] Table of Contents on blog post detail pages
+- [x] Next.js 16.1.7 security update
+
+**v3.3**
+- [x] KaTeX math rendering in MDX (blog + TIL) via `remark-math` + `rehype-katex`
+- [x] `/now` — narrative intro paragraph + amber internship availability CTA
+- [x] "All content is human-authored" trust badge in footer
+- [x] Command Palette search result amber highlighting (`HighlightedSnippet` component)
+- [x] Deep project ↔ garden cross-links (SecureExam → SHA-256 TIL, NotePadIo → CRDT TIL + event sourcing)
+- [x] `/about` timeline badge labels (BSc, Certificate, Member, Volunteer, Participant)
+- [x] `/changelog` "Recently Tended" live grid from graphData
+- [x] LinkedTerm hover card "→ click to explore" hint
+- [x] 3 new TIL entries (React Hook Closure Trap, Graph Degree Centrality, Nash Equilibrium Intuition)
+- [x] New blog post: "Building a Digital Garden with Next.js" with inline LaTeX
+- [x] Enriched graphData descriptions + 5 new cross-links (104 total)
 
 ### 🔲 Pending
 
@@ -266,7 +282,8 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 | Version | Description |
 |---|---|
-| **v3.2 (current)** | 2.5D signature, Flickr + Steam integrations, freshness indicators, reading progress, page transitions, /colophon ADR, activity heatmap, sidenotes, breadcrumb graph info, related content, 3 new TILs |
+| **v3.3 (current)** | KaTeX math rendering, /now narrative + internship CTA, human-authored badge, search result highlighting, deep project↔garden cross-links, timeline badges, recently tended changelog widget, 3 new TIL entries + 1 blog post |
+| **v3.2** | 2.5D signature, Flickr + Steam integrations, freshness indicators, reading progress, page transitions, /colophon ADR, activity heatmap, sidenotes, breadcrumb graph info, related content, clickable tag links, TOC on blog posts |
 | **v3.1** | /about, /stats (Umami), /tags, /bookmarks, /changelog, RSS feed, OG meta, reading time, draft support, full-text search |
 | **v3.0** | MDX blog + TIL, bi-directional backlinks, graph search, command palette, /now live widgets, TOC highlighting |
 | **v2.6** | Spotify live data: 30-min cron, raw.githubusercontent.com fetch, no-redeploy architecture |

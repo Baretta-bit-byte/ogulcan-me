@@ -123,6 +123,13 @@ export default function LinkedTerm({
                     {resolvedContent}
                   </p>
 
+                  {/* Content preview hint */}
+                  {graphNode && (
+                    <p className="text-[10px] text-sky-400/70 font-mono flex items-center gap-1">
+                      <span>→</span> click to explore
+                    </p>
+                  )}
+
                   {/* Maturity + freshness row */}
                   <div className="flex items-center gap-2 flex-wrap">
                     {maturity && (

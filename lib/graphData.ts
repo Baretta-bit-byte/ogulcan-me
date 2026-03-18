@@ -19,10 +19,10 @@ export interface GraphLink {
 export const graphNodes: GraphNode[] = [
   { id: "home", label: "Home", type: "root", url: "/", maturity: "evergreen", lastTended: "2026-03-18" },
   { id: "projects", label: "Projects", type: "tech", url: "/projects", maturity: "evergreen", lastTended: "2026-03-18" },
-  { id: "secureexam", label: "SecureExam", type: "tech", url: "/projects/secureexam-generator", description: "Tamper-proof exam generation with SHA-256 QR codes and filigree watermarks", maturity: "sapling", lastTended: "2026-03-18" },
-  { id: "notepadio", label: "NotePadIo", type: "tech", url: "/projects/notepadio", description: "Low-code collaborative notes with CRDT sync and event-sourced architecture", maturity: "seedling", lastTended: "2026-03-18" },
+  { id: "secureexam", label: "SecureExam", type: "tech", url: "/projects/secureexam-generator", description: "Tamper-proof exam generation using SHA-256 content hashing, QR-embedded verification codes, and institutional filigree watermarks. Deterministic question shuffling ensures each student receives a unique, verifiable paper.", maturity: "sapling", lastTended: "2026-03-18" },
+  { id: "notepadio", label: "NotePadIo", type: "tech", url: "/projects/notepadio", description: "Real-time collaborative note-taking built on an event-sourced document model with CRDT-inspired conflict resolution. Operations carry Lamport clock timestamps for deterministic merge across concurrent editors.", maturity: "seedling", lastTended: "2026-03-18" },
   { id: "math", label: "Mathematics", type: "math", url: "/math", maturity: "evergreen", lastTended: "2026-03-15" },
-  { id: "gametheory", label: "Game Theory", type: "math", url: "/math/game-theory", description: "Nash equilibria, minimax, Shapley value — Ali Nesin Mathematics Village", maturity: "sapling", lastTended: "2026-03-10" },
+  { id: "gametheory", label: "Game Theory", type: "math", url: "/math/game-theory", description: "Intensive training at Ali Nesin Mathematics Village covering Nash equilibria, minimax theorem, Shapley value, and mechanism design. Formal proofs applied to real-world strategic reasoning.", maturity: "sapling", lastTended: "2026-03-10" },
   { id: "izmir", label: "Math Festival", type: "math", url: "/math/izmir-festival", description: "Izmir Mathematics Festival — olympiad rounds and research lectures", maturity: "evergreen", lastTended: "2026-03-05" },
   { id: "community", label: "Community", type: "personal", url: "/community", maturity: "evergreen", lastTended: "2026-03-15" },
   { id: "tba", label: "TBA", type: "personal", url: "/community/tba", description: "Turkish Informatics Association — CS education and digital literacy since 1971", maturity: "sapling", lastTended: "2026-03-12" },
@@ -34,10 +34,10 @@ export const graphNodes: GraphNode[] = [
   { id: "now", label: "/now", type: "personal", url: "/now", description: "What I am doing right now", maturity: "evergreen", lastTended: "2026-03-18" },
   { id: "topics", label: "Maps of Content", type: "root", url: "/topics", description: "Directory of all notes", lastTended: "2026-03-18" },
   { id: "uses", label: "/uses", type: "tech", url: "/uses", description: "Developer environment & gear", maturity: "evergreen", lastTended: "2026-03-16" },
-  { id: "posts", label: "Blog", type: "root", url: "/posts", description: "Polished essays", lastTended: "2026-03-17" },
+  { id: "posts", label: "Writing", type: "root", url: "/posts", description: "Polished, long-form writing on software engineering, digital gardening, mathematics, and technical decision-making.", lastTended: "2026-03-18" },
   { id: "flickr", label: "Photography", type: "personal", url: "/flickr", description: "Photo gallery from Flickr", maturity: "sapling", lastTended: "2026-03-17" },
   { id: "steam", label: "Gaming", type: "personal", url: "/steam", description: "Steam library and recent activity", maturity: "sapling", lastTended: "2026-03-17" },
-  { id: "til", label: "TIL", type: "tech", url: "/til", description: "Today I Learned — micro-notes", maturity: "seedling", lastTended: "2026-03-17" },
+  { id: "til", label: "TIL", type: "tech", url: "/til", description: "Today I Learned — short, practical micro-notes on discoveries from building software, studying math, and exploring systems. A raw garden of unpolished ideas.", maturity: "seedling", lastTended: "2026-03-18" },
   { id: "stats", label: "/stats", type: "tech", url: "/stats", description: "Site metrics and analytics", maturity: "seedling", lastTended: "2026-03-18" },
   { id: "about", label: "/about", type: "personal", url: "/about", description: "Narrative biography, timeline, and projects", maturity: "evergreen", lastTended: "2026-03-18" },
   { id: "tags", label: "Tags", type: "tech", url: "/tags", description: "Browse all content by tag", maturity: "seedling", lastTended: "2026-03-16" },
@@ -96,4 +96,10 @@ export const graphLinks: GraphLink[] = [
   { source: "colophon", target: "uses" },          // colophon references /uses
   { source: "colophon", target: "changelog" },      // version history
   { source: "about", target: "colophon" },          // about references architecture
+  // Deep cross-links — concepts referenced across content
+  { source: "secureexam", target: "til" },           // SHA-256 TIL references SecureExam
+  { source: "notepadio", target: "til" },            // CRDT TIL references NotePadIo
+  { source: "gametheory", target: "til" },           // math concepts in garden notes
+  { source: "posts", target: "colophon" },           // essays reference architecture decisions
+  { source: "now", target: "about" },                // /now and /about are complementary
 ];

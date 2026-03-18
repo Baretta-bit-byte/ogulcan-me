@@ -132,6 +132,10 @@ export default function Footer() {
             view source
           </a>
         </p>
+        <p className="flex items-center gap-1.5 font-mono text-[10px] text-slate-300 dark:text-slate-700 mt-1">
+          <span className="inline-block h-1.5 w-1.5 rounded-full bg-emerald-400/60" />
+          All content on this site is human-authored
+        </p>
       </div>
 
       {/* ── Bottom row ─────────────────────────────────────────────────── */}

@@ -56,6 +56,18 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - **Breadcrumb graph info** — `Breadcrumb.tsx`: current page shows maturity badge + connection count when `nodeId` is provided
 - **3 new TIL entries** — `crdt-lamport-clock.mdx`, `sha256-deterministic-shuffle.mdx`, `event-sourcing-replay.mdx`
 - **New blog post** — `spring-2026-retrospective.mdx`: year-in-review covering projects, learnings, next steps
+- **Clickable tag links** — `/posts/[slug]` tag chips navigate to `/tags/[tag]`; TOC auto-injected on blog post pages
+- **KaTeX math rendering** — `remark-math` + `rehype-katex` in both `/posts/[slug]` and `/til`; `katex/dist/katex.min.css` imported in `app/layout.tsx`
+- **`/now` narrative** — intro paragraph + amber "Actively seeking internship" CTA banner above widget cluster
+- **Human-authored badge** — footer: "All content on this site is human-authored" with green dot
+- **Search highlighting** — `HighlightedSnippet` component in `CommandPalette.tsx`; amber mark on matching text in both page descriptions and content snippets
+- **Deep cross-linking** — SecureExam page links to TIL + Game Theory + "Related Concepts" section; NotePadIo links to CRDT TIL + event sourcing TIL
+- **Timeline badges** — `/about` timeline entries have role badges (BSc, Certificate, Member, Volunteer, Participant)
+- **Recently Tended widget** — `/changelog` shows 8 most recently tended graph nodes as a live grid
+- **LinkedTerm "click to explore"** — hover card footer hint when `nodeId` is provided
+- **3 more TIL entries** — `react-hook-closure-trap.mdx`, `graph-degree-centrality.mdx`, `nash-equilibrium-intuition.mdx`
+- **New blog post** — `building-a-digital-garden-with-nextjs.mdx`: deep-dive architecture post with inline LaTeX
+- **Enriched graphData** — longer, richer descriptions for hover previews; 5 new cross-links (104 total)
 
 ### 🔲 Pending — next session priorities
 1. **Cloudinary metadata → /flickr** — Cloudinary Media Library'de `caption` + klasör (albüm) bilgisini fetch script'e tam entegre et; `/flickr` sayfasında albüm filtresi + fotoğraf açıklaması göster. Yaklaşım: `context: true` zaten çekiliyor, page'de render edilmesi yeterli.

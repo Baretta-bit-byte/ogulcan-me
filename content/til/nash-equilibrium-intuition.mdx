@@ -1,0 +1,19 @@
+---
+title: "Nash Equilibrium: The Intuition Behind the Math"
+date: "2026-03-18"
+tags: ["game-theory", "mathematics"]
+---
+
+A **Nash Equilibrium** is a strategy profile $(s_1^*, s_2^*, \ldots, s_n^*)$ where no player can improve their payoff by unilaterally changing their strategy:
+
+$$
+u_i(s_i^*, s_{-i}^*) \geq u_i(s_i, s_{-i}^*) \quad \forall s_i \in S_i, \; \forall i
+$$
+
+The key word is **unilaterally**. At equilibrium, every player is already doing the best they can _given what everyone else is doing_. It doesn't mean everyone is happy — it means no one has a profitable deviation.
+
+**The Prisoner's Dilemma** makes this concrete: both players defecting is a Nash Equilibrium (neither can improve by switching alone), even though both cooperating would make everyone better off. The equilibrium is _stable_ but not _optimal_.
+
+**Nash's Theorem (1950):** Every finite game (finite players, finite strategies) has at least one Nash Equilibrium, possibly in mixed strategies. The proof uses Brouwer's fixed-point theorem — a beautiful connection between topology and strategic reasoning.
+
+This is the same deterministic fairness guarantee I rely on in SecureExam-Generator: when the "game" (exam distribution) reaches equilibrium, no student can gain an advantage by attempting to predict the shuffle — because the ordering is cryptographically bound to their identity.

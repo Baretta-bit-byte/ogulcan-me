@@ -1,0 +1,22 @@
+---
+title: "Graph Degree Centrality"
+date: "2026-03-18"
+tags: ["graph-theory", "mathematics", "algorithms"]
+---
+
+In a graph $G = (V, E)$, the **degree centrality** of a node $v$ is simply the fraction of other nodes it connects to:
+
+$$
+C_D(v) = \frac{\deg(v)}{|V| - 1}
+$$
+
+where $\deg(v)$ is the number of edges incident to $v$. A node with $C_D(v) = 1$ is connected to every other node in the graph.
+
+This is the simplest centrality measure, but it's surprisingly useful for digital gardens: the most connected node in my knowledge graph is likely the most "hub-like" concept — the one that ties disparate ideas together.
+
+For this site's graph with $|V| = 47$ nodes, a node with 10 connections has $C_D = 10/46 \approx 0.217$. The `/stats` page computes this live.
+
+**Variants:**
+- **In-degree centrality** (directed graphs): how many nodes point _to_ you — a measure of authority
+- **Betweenness centrality**: how often a node appears on shortest paths between _other_ nodes — identifies bridges
+- **Eigenvector centrality**: weights connections by the centrality of neighbors — "it's not just who you know, but who _they_ know"

@@ -1,4 +1,6 @@
 import { compileMDX } from "next-mdx-remote/rsc";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 import { getAllTils, getTil } from "@/lib/til";
 import Backlinks from "@/components/Backlinks";
 
@@ -15,7 +17,13 @@ async function TilEntry({ slug }: { slug: string }) {
 
   const { content } = await compileMDX({
     source: til.content,
-    options: { parseFrontmatter: false },
+    options: {
+      parseFrontmatter: false,
+      mdxOptions: {
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
+      },
+    },
   });
 
   return (

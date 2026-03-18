@@ -106,6 +106,15 @@ export default function NotePadIoPage() {
         deterministic, fair outcomes regardless of agent ordering.
         The user never sees a conflict dialog — the merge is automatic and
         the result is mathematically consistent across all clients.
+        This pattern is explored in depth in my{" "}
+        <LinkedTerm
+          href="/til"
+          nodeId="til"
+          variant="tech"
+        >
+          garden note on CRDT Lamport clocks
+        </LinkedTerm>
+        .
       </p>
       <p>
         Offline support works via the same mechanism: while disconnected, the
@@ -168,7 +177,15 @@ export default function NotePadIoPage() {
         early. It costs more upfront in design complexity but pays back
         compounding returns: revision history, offline sync, conflict resolution,
         and audit logging all become natural byproducts rather than features that
-        need to be engineered separately.
+        need to be engineered separately. I documented the core insight in a{" "}
+        <LinkedTerm
+          href="/til"
+          nodeId="til"
+          variant="tech"
+        >
+          garden note on event sourcing replay
+        </LinkedTerm>
+        .
       </p>
       <p>
         Where NotePadIo prioritizes fluid capture and collaboration,{" "}

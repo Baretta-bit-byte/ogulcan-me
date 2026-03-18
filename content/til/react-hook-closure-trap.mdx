@@ -1,0 +1,29 @@
+---
+title: "The React Hook Closure Trap"
+date: "2026-03-18"
+tags: ["react", "javascript", "hooks"]
+---
+
+A `useEffect` callback captures the values from its render scope. If you reference state inside a `setInterval` without adding it to the dependency array, you see **stale values** — the closure "traps" the initial render's snapshot.
+
+```tsx
+// Bug: count is always 0 inside the interval
+useEffect(() => {
+  const id = setInterval(() => {
+    setCount(count + 1); // stale!
+  }, 1000);
+  return () => clearInterval(id);
+}, []); // missing `count` dependency
+
+// Fix: use functional updater — no dependency needed
+useEffect(() => {
+  const id = setInterval(() => {
+    setCount(prev => prev + 1); // always fresh
+  }, 1000);
+  return () => clearInterval(id);
+}, []);
+```
+
+The functional updater `prev => prev + 1` bypasses the closure entirely because React calls it with the latest state. This is the idiomatic fix for any "stale state in async callback" problem.
+
+**Rule of thumb:** if you need _current_ state inside an effect that shouldn't re-run on every state change, use a functional updater or a `useRef` to escape the closure.
