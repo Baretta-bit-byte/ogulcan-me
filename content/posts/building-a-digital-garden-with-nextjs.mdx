@@ -42,7 +42,11 @@ interface GraphNode {
 
 Links between nodes create the topology. The graph visualization uses `react-force-graph-2d` with SSR disabled (canvas APIs don't exist on the server). Each page shows a **local graph** — the current node and its immediate neighbors — while the full modal shows the complete network.
 
-The degree of a node tells you how "hub-like" a concept is. For a graph $G$ with $n$ nodes, a node's degree centrality is $C_D(v) = \frac{\deg(v)}{n - 1}$. The `/stats` page computes these metrics live.
+The degree of a node tells you how "hub-like" a concept is. For a graph $G$ with $n$ nodes, a node's degree centrality is:
+
+$$C_D(v) = \frac{\deg(v)}{n - 1}$$
+
+The `/stats` page computes these metrics live.
 
 ## MDX Pipeline
 
@@ -56,9 +60,7 @@ Blog posts and TIL entries are authored in MDX — Markdown with embedded React 
 
 This means I can write inline math like $O(n \log n)$ and block equations:
 
-$$
-\text{readingTime} = \left\lceil \frac{\text{wordCount}}{200} \right\rceil \text{ min}
-$$
+$$\text{readingTime} = \left\lceil \frac{wordCount}{200} \right\rceil \text{ min}$$
 
 ## Hover Previews and Bi-directional Backlinks
 
