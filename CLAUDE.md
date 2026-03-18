@@ -25,14 +25,14 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - `/posts` — **MDX blog pipeline** via `next-mdx-remote` + `gray-matter`; posts in `content/posts/*.mdx`
 - `/til` — **Today I Learned** micro-notes, timeline layout, inline MDX; entries in `content/til/*.mdx`
 - `/now` — **Live widget cluster**: Spotify top 3, last book, recently active repo
-- `/flickr` — stub page, Flickr API integration planned
-- `/steam` — stub page, Steam Web API integration planned
-- `LinkedTerm` — enriched with optional `nodeId` prop: auto-reads description + maturity badge (🌱/🪴/🌳) from `graphData`
-- **Bi-directional backlinks** — standalone `Backlinks` component on all pages: "Mentioned by" (incoming) + "Links to" (outgoing)
-- **Command Palette** — `Ctrl+K` / `Cmd+K` site-wide search + navigation
+- `/flickr` — **Flickr API** integration: `scripts/fetch-flickr.mjs` → `public/flickr-data.json`; masonry photo grid, hover overlay (title + views), `flickr.yml` cron every 6h
+- `/steam` — **Steam Web API** integration: `scripts/fetch-steam.mjs` → `public/steam-data.json`; player card (avatar, status, library stats), recently played game cards with playtime bars, `steam.yml` cron every 3h
+- `LinkedTerm` — enriched with optional `nodeId` prop: auto-reads title, description, maturity badge (🌱/🪴/🌳), and **lastTended freshness** from `graphData`; `content` prop is now optional when `nodeId` is provided
+- **Bi-directional backlinks** — standalone `Backlinks` component on all pages: "Mentioned by" (incoming) + "Links to" (outgoing); cards show **freshness indicator** ("⟳ tended 3d ago")
+- **Command Palette** — `Ctrl+K` / `Cmd+K` site-wide search + navigation; supports **type filters** (`p:` pages, `post:` blog, `til:` notes) with active filter badge
 - **TOC active highlighting** — `IntersectionObserver`-based current section tracking in RightPanel
-- `/stats` — **Umami Cloud analytics** dashboard with tracking script + public share iframe
-- `/about` — **Narrative biography** with CV download, project cards, timeline, colophon
+- `/stats` — **Umami Cloud analytics** + **graph topology metrics**: avg connections/node, graph density %, most connected nodes bar chart, orphan node detection
+- `/about` — **Narrative biography** with CV download, project cards, **icon-enriched clickable timeline** (Lucide icons per entry type), colophon
 - `/tags` + `/tags/[tag]` — **Tag index** + per-tag filtered views (posts + TIL)
 - `/bookmarks` — **Daily puzzles** badge grid + coding platforms + YouTube channels
 - `/changelog` — **Version history** timeline (v1.0–v3.1)
@@ -43,8 +43,10 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - **Full-text search** — prebuild script (`scripts/build-search-index.mjs`) → `public/search-index.json`; CommandPalette fetches + searches pages + content
 - **Graph search fix** — null-safety + try-catch for camera centering in `GraphModal.tsx`
 - **2.5D Signature** — `Header.tsx` revamped: 3 depth layers (deep shadow + mid shadow + main), SVG filter blur, Framer Motion mouse parallax via `useSpring` + `useTransform`
-- `/flickr` — **Flickr API** integration: `scripts/fetch-flickr.mjs` → `public/flickr-data.json`; masonry photo grid, hover overlay (title + views), `flickr.yml` cron every 6h
-- `/steam` — **Steam Web API** integration: `scripts/fetch-steam.mjs` → `public/steam-data.json`; player card (avatar, status, library stats), recently played game cards with playtime bars, `steam.yml` cron every 3h
+- **Freshness indicator** — `lastTended` field on `GraphNode`; displayed in `ArticlePage` header ("⟳ tended today"), `LinkedTerm` hover cards, and `Backlinks` cards
+- **Project → Garden cross-linking** — SecureExam and NotePadIo pages use `LinkedTerm` to reference GitHub, /uses, Game Theory; 7 new cross-links in `graphData` (38 total)
+- **RelatedContent** — `components/RelatedContent.tsx`; tag-based related posts/TIL shown on blog detail pages (top 4 by shared tag score)
+- **Book notes** — `/books` hover overlay renders `my_note` field from `books-data.json` in amber italic
 
 ### 🔲 Pending — next session priorities
 1. **Cloudinary metadata → /flickr** — Cloudinary Media Library'de `caption` + klasör (albüm) bilgisini fetch script'e tam entegre et; `/flickr` sayfasında albüm filtresi + fotoğraf açıklaması göster. Yaklaşım: `context: true` zaten çekiliyor, page'de render edilmesi yeterli.
@@ -116,3 +118,7 @@ The site uses `output: "export"` for GitHub Pages. **No Node.js server at runtim
 - **MDX blog post:** add `.mdx` file to `content/posts/` with frontmatter (title, description, date, maturity, tags)
 - **TIL entry:** add `.mdx` file to `content/til/` with frontmatter (title, date, tags)
 - **Backlinks:** `<Backlinks nodeId="..." />` — drop-in component for any page with a graphData node
+- **RelatedContent:** `<RelatedContent currentSlug="..." currentTags={[...]} type="post" />` — tag-based related content for post/TIL detail pages
+- **LinkedTerm (nodeId shorthand):** `<LinkedTerm href="/github" nodeId="github" variant="tech">GitHub</LinkedTerm>` — no `content`/`title` needed, auto-resolved from graphData
+- **lastTended:** add `lastTended: "YYYY-MM-DD"` to any `GraphNode` in `graphData.ts` to show freshness in ArticlePage, hover cards, and backlinks
+- **Search filter prefixes:** `p:react` (pages only), `post:deploy` (blog only), `til:ssr` (TIL only) in CommandPalette
