@@ -93,7 +93,18 @@ export default function NotePadIoPage() {
         Conflict resolution follows a CRDT-inspired approach: operations carry
         logical timestamps derived from a Lamport clock, so concurrent edits on
         different clients can be deterministically merged regardless of arrival
-        order. The user never sees a conflict dialog — the merge is automatic and
+        order. The mathematical guarantee here echoes the kind of formal reasoning
+        I explored in{" "}
+        <LinkedTerm
+          href="/math/game-theory"
+          nodeId="gametheory"
+          variant="math"
+        >
+          Game Theory training
+        </LinkedTerm>
+        {" "}— both rely on proving that a well-defined set of rules produces
+        deterministic, fair outcomes regardless of agent ordering.
+        The user never sees a conflict dialog — the merge is automatic and
         the result is mathematically consistent across all clients.
       </p>
       <p>
@@ -107,7 +118,23 @@ export default function NotePadIoPage() {
       <h2 id="tech-stack">Tech Stack</h2>
       <p>
         The platform is built with a deliberately minimal set of dependencies to
-        keep the architecture auditable:
+        keep the architecture auditable. Source code is on{" "}
+        <LinkedTerm
+          href="/github"
+          nodeId="github"
+          variant="tech"
+        >
+          GitHub
+        </LinkedTerm>
+        , and the full development setup is documented in{" "}
+        <LinkedTerm
+          href="/uses"
+          nodeId="uses"
+          variant="tech"
+        >
+          /uses
+        </LinkedTerm>
+        :
       </p>
       <ul>
         <li>

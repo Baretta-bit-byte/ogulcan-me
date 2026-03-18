@@ -13,6 +13,7 @@ interface Book {
   finished: string;   // ISO date string
   rating:   1 | 2 | 3 | 4 | 5;
   url?:     string;
+  my_note?: string;
 }
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -82,6 +83,13 @@ function BookCard({ book }: { book: Book }) {
               <p className="text-[10px] leading-tight text-white/70 line-clamp-1">
                 {book.author}
               </p>
+
+              {/* Personal note */}
+              {book.my_note && (
+                <p className="text-[9px] leading-snug text-amber-200/80 italic line-clamp-2">
+                  &ldquo;{book.my_note}&rdquo;
+                </p>
+              )}
 
               {/* Star rating */}
               <div className="flex items-center gap-0.5 pt-0.5">

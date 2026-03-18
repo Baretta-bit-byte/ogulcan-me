@@ -6,6 +6,17 @@ import Backlinks from "./Backlinks";
 import { useRightPanel, TocItem } from "@/lib/rightPanelContext";
 import { graphNodes, Maturity } from "@/lib/graphData";
 
+function tendedAgo(isoDate?: string): string | null {
+  if (!isoDate) return null;
+  const ms = Date.now() - new Date(isoDate).getTime();
+  const days = Math.floor(ms / 86_400_000);
+  if (days === 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 30) return `${days}d ago`;
+  const months = Math.floor(days / 30);
+  return months === 1 ? "1 month ago" : `${months} months ago`;
+}
+
 interface Tag {
   label: string;
   variant?: "tech" | "math" | "default";
@@ -80,11 +91,19 @@ export default function ArticlePage({
           {title}
         </h1>
 
-        {(date || readTime) && (
+        {(date || readTime || currentNode?.lastTended) && (
           <p className="font-mono text-sm text-slate-400">
             {date}
             {date && readTime && "  ·  "}
             {readTime}
+            {currentNode?.lastTended && (
+              <>
+                {(date || readTime) && "  ·  "}
+                <span className="inline-flex items-center gap-1" title={`Last tended: ${currentNode.lastTended}`}>
+                  <span className="text-emerald-500">⟳</span> tended {tendedAgo(currentNode.lastTended)}
+                </span>
+              </>
+            )}
           </p>
         )}
 

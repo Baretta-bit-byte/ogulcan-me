@@ -28,6 +28,23 @@ function getSnippet(content: string, query: string, radius = 60): string {
   return snippet;
 }
 
+type FilterType = "all" | "page" | "post" | "til";
+const FILTER_PREFIXES: Record<string, FilterType> = {
+  "p:": "page",
+  "post:": "post",
+  "til:": "til",
+};
+
+function parseFilter(raw: string): { filter: FilterType; query: string } {
+  const lower = raw.toLowerCase();
+  for (const [prefix, filter] of Object.entries(FILTER_PREFIXES)) {
+    if (lower.startsWith(prefix)) {
+      return { filter, query: raw.slice(prefix.length).trim() };
+    }
+  }
+  return { filter: "all", query: raw };
+}
+
 export default function CommandPalette() {
   const [isOpen, setIsOpen] = useState(false);
   const [search, setSearch] = useState("");
@@ -59,29 +76,38 @@ export default function CommandPalette() {
     return () => document.removeEventListener("keydown", handleKeyDown);
   }, []);
 
+  const { filter, query: searchQuery } = useMemo(() => parseFilter(search), [search]);
+
   // Page results (graph nodes)
   const pageResults = useMemo(() => {
-    if (!search) return graphNodes.filter((n) => n.id !== "home");
+    if (filter === "post" || filter === "til") return [];
+    if (!searchQuery) return graphNodes.filter((n) => n.id !== "home");
     return graphNodes.filter(
       (n) =>
-        n.label.toLowerCase().includes(search.toLowerCase()) ||
-        (n.description && n.description.toLowerCase().includes(search.toLowerCase()))
+        n.label.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        (n.description && n.description.toLowerCase().includes(searchQuery.toLowerCase()))
     );
-  }, [search]);
+  }, [searchQuery, filter]);
 
   // Content results (posts + TIL full-text)
   const contentResults = useMemo(() => {
-    if (search.length < 2) return [];
-    const q = search.toLowerCase();
+    if (filter === "page") return [];
+    const minLen = searchQuery.length < 2 && filter === "all" ? true : false;
+    if (minLen) return [];
+    const q = searchQuery.toLowerCase();
     return searchIndex
-      .filter(
-        (entry) =>
+      .filter((entry) => {
+        if (filter === "post" && entry.type !== "post") return false;
+        if (filter === "til" && entry.type !== "til") return false;
+        if (!q) return true;
+        return (
           entry.title.toLowerCase().includes(q) ||
           entry.description.toLowerCase().includes(q) ||
           entry.content.toLowerCase().includes(q)
-      )
-      .slice(0, 8);
-  }, [search, searchIndex]);
+        );
+      })
+      .slice(0, 12);
+  }, [searchQuery, searchIndex, filter]);
 
   const allResults = useMemo(() => {
     const pages = pageResults.map((n) => ({
@@ -95,13 +121,13 @@ export default function CommandPalette() {
     const content = contentResults.map((e) => ({
       id: `content-${e.type}-${e.slug}`,
       label: e.title,
-      description: getSnippet(e.content, search),
+      description: getSnippet(e.content, searchQuery),
       url: e.url,
       type: e.type,
       kind: "content" as const,
     }));
     return [...pages, ...content];
-  }, [pageResults, contentResults, search]);
+  }, [pageResults, contentResults, searchQuery]);
 
   useEffect(() => {
     if (isOpen) {
@@ -165,6 +191,11 @@ export default function CommandPalette() {
           >
             <div className="flex items-center px-4 py-3 border-b border-slate-200 dark:border-slate-800">
               <Search className="w-5 h-5 text-slate-400 mr-3" />
+              {filter !== "all" && (
+                <span className="shrink-0 mr-2 text-[10px] px-2 py-0.5 rounded-full uppercase tracking-wider font-bold text-violet-600 dark:text-violet-400 bg-violet-100 dark:bg-violet-400/10">
+                  {filter}
+                </span>
+              )}
               <input
                 ref={inputRef}
                 value={search}
@@ -173,7 +204,7 @@ export default function CommandPalette() {
                   setSelectedIndex(0);
                 }}
                 onKeyDown={handleKeyDown}
-                placeholder="Search pages and content... (Ctrl+K)"
+                placeholder="Search... (p: pages · post: blog · til: notes)"
                 className="flex-1 bg-transparent text-slate-900 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none text-lg font-sans"
               />
               <kbd className="bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 px-2 py-1 rounded text-xs font-mono">
@@ -266,7 +297,7 @@ export default function CommandPalette() {
                                 </span>
                               </div>
                               <p className="text-xs text-slate-500 mt-1 line-clamp-2 leading-relaxed">
-                                {getSnippet(entry.content, search)}
+                                {getSnippet(entry.content, searchQuery)}
                               </p>
                             </div>
                           </div>

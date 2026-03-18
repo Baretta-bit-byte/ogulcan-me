@@ -9,6 +9,17 @@ import { graphNodes, Maturity } from "@/lib/graphData";
 
 type Variant = "tech" | "math" | "default";
 
+function tendedAgo(isoDate?: string): string | null {
+  if (!isoDate) return null;
+  const ms = Date.now() - new Date(isoDate).getTime();
+  const days = Math.floor(ms / 86_400_000);
+  if (days === 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 30) return `${days}d ago`;
+  const months = Math.floor(days / 30);
+  return months === 1 ? "1mo ago" : `${months}mo ago`;
+}
+
 const maturityConfig: Record<Maturity, { icon: string; label: string; color: string }> = {
   seedling:  { icon: "🌱", label: "Seedling",  color: "text-amber-500 dark:text-amber-400 border-amber-500/30 bg-amber-500/10" },
   sapling:   { icon: "🪴", label: "Sapling",   color: "text-emerald-500 dark:text-emerald-400 border-emerald-500/30 bg-emerald-500/10" },
@@ -18,7 +29,7 @@ const maturityConfig: Record<Maturity, { icon: string; label: string; color: str
 interface LinkedTermProps {
   href: string;
   children: ReactNode;
-  content: ReactNode;
+  content?: ReactNode;
   title?: string;
   variant?: Variant;
   nodeId?: string;
@@ -65,6 +76,7 @@ export default function LinkedTerm({
   const [open, setOpen] = useState(false);
   const graphNode = nodeId ? graphNodes.find(n => n.id === nodeId) : undefined;
   const resolvedContent = content ?? (graphNode?.description ?? "");
+  const resolvedTitle = title ?? (graphNode?.label ?? undefined);
   const maturity = graphNode?.maturity;
 
   return (
@@ -94,12 +106,12 @@ export default function LinkedTerm({
 
                 <div className="px-4 py-3 space-y-2">
                   {/* Title row */}
-                  {title && (
+                  {resolvedTitle && (
                     <div className="flex items-center justify-between gap-2">
                       <div className="flex items-center gap-2 min-w-0">
                         <span className={`h-1.5 w-1.5 rounded-full shrink-0 ${dotClass[variant]}`} />
                         <span className={`font-mono text-xs font-semibold truncate ${titleColor[variant]}`}>
-                          {title}
+                          {resolvedTitle}
                         </span>
                       </div>
                       <ArrowUpRight size={12} className="shrink-0 text-slate-400" />
@@ -111,13 +123,20 @@ export default function LinkedTerm({
                     {resolvedContent}
                   </p>
 
-                  {/* Maturity badge */}
-                  {maturity && (
-                    <div className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border text-xs font-medium ${maturityConfig[maturity].color}`}>
-                      <span>{maturityConfig[maturity].icon}</span>
-                      <span>{maturityConfig[maturity].label}</span>
-                    </div>
-                  )}
+                  {/* Maturity + freshness row */}
+                  <div className="flex items-center gap-2 flex-wrap">
+                    {maturity && (
+                      <div className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border text-xs font-medium ${maturityConfig[maturity].color}`}>
+                        <span>{maturityConfig[maturity].icon}</span>
+                        <span>{maturityConfig[maturity].label}</span>
+                      </div>
+                    )}
+                    {graphNode?.lastTended && (
+                      <span className="inline-flex items-center gap-1 text-[10px] font-mono text-slate-400">
+                        <span className="text-emerald-500">⟳</span> {tendedAgo(graphNode.lastTended)}
+                      </span>
+                    )}
+                  </div>
 
                   {/* Path hint */}
                   <p className="font-mono text-[10px] text-slate-400 dark:text-slate-500 truncate">

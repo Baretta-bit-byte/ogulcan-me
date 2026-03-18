@@ -4,6 +4,17 @@ import Link from "next/link";
 import { CornerDownRight, ArrowUpRight } from "lucide-react";
 import { graphNodes, graphLinks, type GraphNode } from "@/lib/graphData";
 
+function tendedAgo(isoDate?: string): string | null {
+  if (!isoDate) return null;
+  const ms = Date.now() - new Date(isoDate).getTime();
+  const days = Math.floor(ms / 86_400_000);
+  if (days === 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 30) return `${days}d ago`;
+  const months = Math.floor(days / 30);
+  return months === 1 ? "1mo ago" : `${months}mo ago`;
+}
+
 const borderMap: Record<string, string> = {
   tech: "hover:border-sky-400/40",
   math: "hover:border-violet-400/40",
@@ -37,6 +48,11 @@ function NodeCard({ node }: { node: GraphNode }) {
         {node.description && (
           <p className="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
             {node.description}
+          </p>
+        )}
+        {node.lastTended && (
+          <p className="mt-1.5 text-[10px] font-mono text-slate-400 flex items-center gap-1">
+            <span className="text-emerald-500">⟳</span> tended {tendedAgo(node.lastTended)}
           </p>
         )}
       </div>
