@@ -66,8 +66,7 @@ function TrackCard({ track, rank }: { track: SpotifyTrack; rank: number }) {
   // Cleanup on unmount
   useEffect(() => () => { audioRef.current?.pause(); }, []);
 
-  const togglePreview = (e: React.MouseEvent) => {
-    e.preventDefault();
+  const togglePreview = () => {
     if (!track.preview_url) return;
 
     if (!audioRef.current) {
@@ -86,11 +85,8 @@ function TrackCard({ track, rank }: { track: SpotifyTrack; rank: number }) {
   };
 
   return (
-    <a
-      href={track.url}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="group relative block overflow-hidden rounded-xl border border-slate-200 bg-white transition-all hover:border-emerald-400/40 hover:shadow-md dark:border-slate-800 dark:bg-slate-900/50"
+    <div
+      className="group relative overflow-hidden rounded-xl border border-slate-200 bg-white transition-all hover:border-emerald-400/40 hover:shadow-md dark:border-slate-800 dark:bg-slate-900/50"
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
     >
@@ -99,8 +95,13 @@ function TrackCard({ track, rank }: { track: SpotifyTrack; rank: number }) {
         #{rank}
       </span>
 
-      {/* Album art */}
-      <div className="relative aspect-square w-full overflow-hidden bg-slate-100 dark:bg-slate-800">
+      {/* Album art — click to play/pause */}
+      <button
+        onClick={togglePreview}
+        disabled={!track.preview_url}
+        className="relative aspect-square w-full overflow-hidden bg-slate-100 dark:bg-slate-800 block cursor-pointer disabled:cursor-default"
+        aria-label={playing ? `Pause ${track.name}` : `Play preview of ${track.name}`}
+      >
         {track.image ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
@@ -115,17 +116,11 @@ function TrackCard({ track, rank }: { track: SpotifyTrack; rank: number }) {
         )}
 
         {/* Hover overlay */}
-        {hovered && (
+        {(hovered || playing) && track.preview_url && (
           <div className="absolute inset-0 flex items-center justify-center bg-black/40 backdrop-blur-[2px]">
-            {track.preview_url && (
-              <button
-                onClick={togglePreview}
-                className="flex h-10 w-10 items-center justify-center rounded-full bg-emerald-400 text-black shadow-lg transition-transform hover:scale-110 active:scale-95"
-                aria-label={playing ? "Pause preview" : "Play preview"}
-              >
-                {playing ? <Pause size={18} fill="black" /> : <Play size={18} fill="black" />}
-              </button>
-            )}
+            <span className="flex h-10 w-10 items-center justify-center rounded-full bg-emerald-400 text-black shadow-lg transition-transform hover:scale-110 active:scale-95">
+              {playing ? <Pause size={18} fill="black" /> : <Play size={18} fill="black" />}
+            </span>
           </div>
         )}
 
@@ -135,7 +130,7 @@ function TrackCard({ track, rank }: { track: SpotifyTrack; rank: number }) {
             <span className="font-mono text-[9px] font-bold text-black">PLAYING</span>
           </div>
         )}
-      </div>
+      </button>
 
       {/* Track info */}
       <div className="space-y-0.5 p-3">
@@ -150,13 +145,22 @@ function TrackCard({ track, rank }: { track: SpotifyTrack; rank: number }) {
           <span className="font-mono text-[10px] text-slate-300 dark:text-slate-600">
             {fmtDuration(track.duration_ms)}
           </span>
-          <ExternalLink
-            size={9}
-            className="ml-auto text-slate-300 dark:text-slate-600 group-hover:text-emerald-400 transition-colors"
-          />
+          <a
+            href={track.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={(e) => e.stopPropagation()}
+            className="ml-auto"
+            aria-label="Open in Spotify"
+          >
+            <ExternalLink
+              size={9}
+              className="text-slate-300 dark:text-slate-600 hover:text-emerald-400 transition-colors"
+            />
+          </a>
         </div>
       </div>
-    </a>
+    </div>
   );
 }
 
