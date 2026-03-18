@@ -1,6 +1,6 @@
 User-agent: *
-Allow: /
-Disallow: /v1/assets
+Disallow: /v1/assets/
 Disallow: /flickr/
+Disallow: /cdn-cgi/
 
-Sitemap: https://ogulcantokmak.me/sitemap.xml
+Sitemap: [https://ogulcantokmak.me/sitemap.xml](https://ogulcantokmak.me/sitemap.xml)
