@@ -15,36 +15,52 @@ This file provides structured context for any AI agent, LLM, or automated tool w
 
 ---
 
-## Current State (2026-03-16)
+## Current State (2026-03-18)
 
 All core features and live-data integrations are **complete and deployed**. Do not rebuild any of the following:
 
 | Feature | File(s) | Status |
 |---|---|---|
 | 3-column layout | `app/layout.tsx` | ✅ Done |
-| SVG signature animation | `components/Header.tsx` | ✅ Done |
+| 2.5D SVG signature (parallax) | `components/Header.tsx` | ✅ Done |
 | Organic theme toggle (View Transitions) | `components/ThemeToggle.tsx`, `app/globals.css` | ✅ Done |
-| Knowledge graph — local + modal | `components/GraphNav.tsx`, `components/GraphModal.tsx` | ✅ Done |
+| Knowledge graph — local + modal + search | `components/GraphNav.tsx`, `components/GraphModal.tsx` | ✅ Done |
 | Hover tooltip system | `components/LinkedTerm.tsx`, `components/HoverTooltip.tsx` | ✅ Done |
 | All content pages | `app/projects/`, `app/math/`, `app/community/` | ✅ Done |
 | Footer + easter eggs | `components/Footer.tsx` | ✅ Done |
 | Floating pill sidebar | `components/LeftSidebar.tsx` | ✅ Done |
 | GitHub Dashboard | `app/github/page.tsx` | ✅ Done |
-| Spotify Top Tracks | `app/spotify/page.tsx`, `scripts/fetch-spotify.mjs`, `.github/workflows/spotify.yml` | ✅ Done |
-| Books Reading Log | `app/books/page.tsx`, `public/books-data.json` | ✅ Done |
-| Vinyl Collection | `app/vinyl/page.tsx`, `scripts/fetch-vinyl.mjs`, `public/vinyl-data.json` | ✅ Done |
+| Spotify Top Tracks | `app/spotify/page.tsx`, `scripts/fetch-spotify.mjs` | ✅ Done |
+| Books Reading Log + Currently Reading | `app/books/page.tsx`, `public/books-data.json` | ✅ Done |
+| Vinyl Collection | `app/vinyl/page.tsx`, `scripts/fetch-vinyl.mjs` | ✅ Done |
 | Maps of Content | `app/topics/page.tsx` | ✅ Done |
 | /uses page | `app/uses/page.tsx` | ✅ Done |
-| /posts stub | `app/posts/page.tsx` | ✅ Done |
-| /flickr stub | `app/flickr/page.tsx` | ✅ Done |
-| /steam stub | `app/steam/page.tsx` | ✅ Done |
-| LinkedTerm maturity badges | `components/LinkedTerm.tsx` (`nodeId` prop) | ✅ Done |
+| MDX Blog Pipeline | `app/posts/`, `content/posts/*.mdx`, `lib/posts.ts` | ✅ Done |
+| TIL Micro-notes | `app/til/`, `content/til/*.mdx`, `lib/til.ts` | ✅ Done |
+| Photography (Flickr API) | `app/flickr/page.tsx`, `scripts/fetch-flickr.mjs` | ✅ Done |
+| Gaming (Steam API) | `app/steam/page.tsx`, `scripts/fetch-steam.mjs` | ✅ Done |
+| /now Live Widgets | `app/now/page.tsx`, `components/NowWidgets.tsx` | ✅ Done |
+| /about Narrative Bio | `app/about/page.tsx` | ✅ Done |
+| /stats Analytics + Graph Topology | `app/stats/page.tsx` | ✅ Done |
+| /colophon ADR Page | `app/colophon/page.tsx` | ✅ Done |
+| /changelog Version History | `app/changelog/page.tsx` | ✅ Done |
+| /tags + /tags/[tag] | `app/tags/` | ✅ Done |
+| /bookmarks Daily Puzzles | `app/bookmarks/page.tsx` | ✅ Done |
+| Command Palette (Ctrl+K) | `components/CommandPalette.tsx` | ✅ Done |
+| RSS Feed | `app/feed.xml/route.ts` | ✅ Done |
+| Open Graph Meta | `app/posts/[slug]/page.tsx` `generateMetadata` | ✅ Done |
+| Full-text Search | `scripts/build-search-index.mjs` | ✅ Done |
+| Reading Progress Bar | `components/ReadingProgress.tsx` | ✅ Done |
+| Page Transitions | `app/template.tsx` | ✅ Done |
+| Sidenote (Tufte marginal) | `components/Sidenote.tsx` | ✅ Done |
+| RelatedContent (tag-based) | `components/RelatedContent.tsx` | ✅ Done |
+| Freshness indicators | `ArticlePage`, `LinkedTerm`, `Backlinks` | ✅ Done |
+| Breadcrumb graph info | `components/Breadcrumb.tsx` | ✅ Done |
+| Bi-directional backlinks | `components/Backlinks.tsx` | ✅ Done |
+| LinkedTerm auto-resolve | `components/LinkedTerm.tsx` (`nodeId` prop) | ✅ Done |
 
 ### Pending (next session)
-- [ ] **2.5D Signature** — depth/shadow revamp of `components/Header.tsx` SVG paths
-- [ ] **Blog / Posts** — wire `next-mdx-remote` into existing `/posts` stub
-- [ ] **Flickr** — Flickr API integration into existing `/flickr` stub
-- [ ] **Steam** — Steam Web API integration into existing `/steam` stub
+- [ ] **Cloudinary metadata → /flickr** — album filter + photo captions from Cloudinary context metadata
 
 ---
 
@@ -53,34 +69,41 @@ All core features and live-data integrations are **complete and deployed**. Do n
 ```
 MEWebsite/
 ├── app/
-│   ├── layout.tsx                   # Root layout: 3-column shell + theme providers
+│   ├── layout.tsx                   # Root layout: 3-column shell + theme providers + ReadingProgress
+│   ├── template.tsx                 # Page transitions (Framer Motion fade+slide)
 │   ├── page.tsx                     # Home: bio, courses, project previews, math highlights
 │   ├── globals.css                  # Tailwind v4 + dark variant + View Transitions keyframes
-│   ├── github/
-│   │   └── page.tsx                 # GitHub dashboard (client-side GitHub REST API)
-│   ├── spotify/
-│   │   └── page.tsx                 # Spotify top tracks (reads /spotify-data.json)
-│   ├── books/
-│   │   └── page.tsx                 # Reading log (reads /books-data.json + Open Library)
-│   ├── vinyl/
-│   │   └── page.tsx                 # Vinyl collection (reads /vinyl-data.json)
-│   ├── topics/
-│   │   └── page.tsx                 # Maps of Content — graph nodes grouped by type
-│   ├── uses/
-│   │   └── page.tsx                 # Developer environment & stack (ArticlePage)
+│   ├── about/page.tsx               # Narrative biography, icon timeline, CV download
+│   ├── github/page.tsx              # GitHub dashboard (client-side GitHub REST API)
+│   ├── spotify/page.tsx             # Spotify top tracks (reads /spotify-data.json)
+│   ├── books/page.tsx               # Reading log + Currently Reading (reads /books-data.json)
+│   ├── vinyl/page.tsx               # Vinyl collection (reads /vinyl-data.json)
+│   ├── topics/page.tsx              # Maps of Content — graph nodes grouped by type
+│   ├── uses/page.tsx                # Developer environment & stack (ArticlePage)
+│   ├── now/page.tsx                 # Live widget cluster: Spotify, books, GitHub
 │   ├── posts/
-│   │   └── page.tsx                 # Writing/blog stub (MDX pipeline pending)
-│   ├── flickr/
-│   │   └── page.tsx                 # Photography grid stub (Flickr API pending)
-│   ├── steam/
-│   │   └── page.tsx                 # Steam activity stub (Steam Web API pending)
+│   │   ├── page.tsx                 # Blog listing (MDX pipeline via next-mdx-remote)
+│   │   └── [slug]/page.tsx          # Post detail + RelatedContent + Backlinks
+│   ├── til/
+│   │   ├── page.tsx                 # TIL timeline listing
+│   │   └── [slug]/page.tsx          # TIL detail
+│   ├── tags/
+│   │   ├── page.tsx                 # Tag index
+│   │   └── [tag]/page.tsx           # Per-tag filtered view
+│   ├── flickr/page.tsx              # Photography masonry grid (Flickr API)
+│   ├── steam/page.tsx               # Steam player card + recent games
+│   ├── stats/page.tsx               # Umami analytics + graph topology + activity heatmap
+│   ├── colophon/page.tsx            # Architectural Decision Records (8 ADR cards)
+│   ├── changelog/page.tsx           # Version history timeline
+│   ├── bookmarks/page.tsx           # Daily puzzles, coding platforms, YouTube
+│   ├── feed.xml/route.ts            # RSS 2.0 static feed
 │   ├── projects/
 │   │   ├── page.tsx                 # Projects index
-│   │   ├── secureexam-generator/    # Article: SecureExam-Generator (Python, PDF+QR)
-│   │   └── notepadio/               # Article: NotePadIo (low-code collab notes)
+│   │   ├── secureexam-generator/    # Article: SecureExam-Generator
+│   │   └── notepadio/               # Article: NotePadIo
 │   ├── math/
 │   │   ├── page.tsx                 # Math index
-│   │   ├── game-theory/             # Article: Game Theory — Ali Nesin
+│   │   ├── game-theory/             # Article: Game Theory
 │   │   └── izmir-festival/          # Article: Izmir Mathematics Festival
 │   └── community/
 │       ├── page.tsx                 # Community index
@@ -88,47 +111,64 @@ MEWebsite/
 │       └── volunteering/            # Article: AFAD & LÖSEV
 │
 ├── components/
-│   ├── Header.tsx                   # Animated SVG "OT" cursive signature (draw-erase loop)
+│   ├── Header.tsx                   # 2.5D SVG "OT" signature (3 depth layers, parallax)
 │   ├── LeftSidebar.tsx              # Left column: signature + floating pill nav + theme toggle
 │   ├── RightPanel.tsx               # Right column: GraphNav + TOC + expand button
 │   ├── GraphNav.tsx                 # Local knowledge graph (react-force-graph-2d, ssr:false)
-│   ├── GraphModal.tsx               # Full-screen graph overlay (all nodes + color legend)
+│   ├── GraphModal.tsx               # Full-screen graph overlay + search (amber highlight)
 │   ├── Footer.tsx                   # Social icons, cd../ nav, ~ easter egg, Konami code
 │   ├── HoverTooltip.tsx             # Standalone hover card (no navigation)
-│   ├── LinkedTerm.tsx               # Hover card + next/link; nodeId prop adds maturity badge from graphData
-│   ├── ArticlePage.tsx              # Shared article layout (breadcrumb, title, tags, TOC)
-│   ├── Breadcrumb.tsx               # Path breadcrumb component
+│   ├── LinkedTerm.tsx               # Hover card + next/link; auto-resolve via nodeId
+│   ├── ArticlePage.tsx              # Shared article layout (breadcrumb, title, tags, freshness)
+│   ├── Breadcrumb.tsx               # Path breadcrumb + graph info (maturity + connections)
+│   ├── Backlinks.tsx                # Bi-directional backlinks with freshness
+│   ├── CommandPalette.tsx           # Ctrl+K search + type filters (p: post: til:)
+│   ├── ReadingProgress.tsx          # Thin progress bar at viewport top
+│   ├── RelatedContent.tsx           # Tag-based related posts/TIL (top 4)
+│   ├── Sidenote.tsx                 # Tufte-style marginal notes (desktop: margin, mobile: toggle)
+│   ├── NowWidgets.tsx               # /now page widget cluster
 │   ├── TableOfContents.tsx          # TOC with smooth-scroll anchors
 │   ├── ThemeProvider.tsx            # next-themes wrapper (class-based, default dark)
-│   ├── ThemeReadyGate.tsx           # Adds `theme-ready` class after first paint (prevents FOUC)
-│   └── ThemeToggle.tsx              # Sun/moon toggle — uses View Transitions API for reveal
+│   ├── ThemeReadyGate.tsx           # Adds `theme-ready` class after first paint
+│   └── ThemeToggle.tsx              # Sun/moon toggle — View Transitions API reveal
+│
+├── content/
+│   ├── posts/*.mdx                  # Blog posts (frontmatter: title, description, date, maturity, tags)
+│   └── til/*.mdx                    # TIL entries (frontmatter: title, date, tags)
 │
 ├── lib/
-│   ├── graphData.ts                 # All graph nodes + links — MUST be updated for every new page
+│   ├── graphData.ts                 # 27 graph nodes + 43 links (includes lastTended freshness)
+│   ├── posts.ts                     # getAllPosts, getPostBySlug (gray-matter + next-mdx-remote)
+│   ├── til.ts                       # getAllTils, getTilBySlug
 │   └── rightPanelContext.tsx        # React context: pages register TOC items here
 │
 ├── scripts/
-│   ├── fetch-spotify.mjs            # Prebuild: exchanges refresh token, writes /public/spotify-data.json (preserves existing on failure)
-│   ├── fetch-vinyl.mjs              # Prebuild: fetches Discogs collection, writes /public/vinyl-data.json
-│   └── get-spotify-token.mjs        # One-time helper: generates a new SPOTIFY_REFRESH_TOKEN via OAuth
+│   ├── fetch-spotify.mjs            # Prebuild: exchanges refresh token → spotify-data.json
+│   ├── fetch-vinyl.mjs              # Prebuild: Discogs collection → vinyl-data.json
+│   ├── fetch-flickr.mjs             # Prebuild: Flickr API → flickr-data.json
+│   ├── fetch-steam.mjs              # Prebuild: Steam Web API → steam-data.json
+│   ├── build-search-index.mjs       # Prebuild: full-text index → search-index.json
+│   └── get-spotify-token.mjs        # One-time helper: OAuth refresh token generator
 │
 ├── public/
-│   ├── books-data.json              # Manually maintained — edit to add/update books
-│   ├── vinyl-data.json              # Manually maintained OR overwritten by fetch-vinyl.mjs
-│   ├── spotify-data.json            # Tracked in git — updated every 30 min by spotify.yml cron
+│   ├── books-data.json              # Manual — edit to add/update books
+│   ├── vinyl-data.json              # fetch-vinyl.mjs or manual
+│   ├── spotify-data.json            # Tracked in git — updated by spotify.yml cron
+│   ├── flickr-data.json             # fetch-flickr.mjs (flickr.yml cron every 6h)
+│   ├── steam-data.json              # fetch-steam.mjs (steam.yml cron every 3h)
+│   ├── search-index.json            # build-search-index.mjs (prebuild)
+│   ├── github-data.json             # Client-side cache
 │   └── CNAME                        # ogulcantokmak.me
 │
-├── .github/
-│   └── workflows/
-│       ├── deploy.yml               # CI: prebuild → next build → GitHub Pages deploy
-│       │                            # Ignores spotify-data.json changes (no redeploy needed for data)
-│       │                            # Exposes: SPOTIFY_CLIENT_ID/SECRET/REFRESH_TOKEN, DISCOGS_*
-│       └── spotify.yml              # Cron every 30 min: fetch top tracks → commit spotify-data.json
+├── .github/workflows/
+│   ├── deploy.yml                   # CI: prebuild → next build → GitHub Pages
+│   ├── spotify.yml                  # Cron 30min: fetch top tracks → commit
+│   ├── flickr.yml                   # Cron 6h: fetch photos → commit
+│   └── steam.yml                    # Cron 3h: fetch Steam data → commit
 │
-├── v1/                              # Legacy HTML portfolio (April 2025) — READ-ONLY, DO NOT MODIFY
-├── CLAUDE.md                        # Project spec for Claude Code (owner can edit)
+├── v1/                              # Legacy HTML portfolio (April 2025) — READ-ONLY
+├── CLAUDE.md                        # Project spec for Claude Code
 ├── AGENTS.md                        # This file — AI agent context
-├── README.md                        # Human-readable documentation
 └── LICENSE                          # MIT
 ```
 
@@ -201,8 +241,9 @@ MEWebsite/
 ## Graph System
 
 `lib/graphData.ts` defines:
-- `graphNodes: GraphNode[]` — `{ id, label, type, url, description, maturity? }`
+- `graphNodes: GraphNode[]` — `{ id, label, type, url, description, maturity?, lastTended? }`
 - `graphLinks: GraphLink[]` — `{ source: id, target: id }`
+- Currently: 27 nodes, 43 links
 
 Node types: `"root"` | `"tech"` | `"math"` | `"personal"`
 
@@ -218,9 +259,11 @@ Cross-links (non-tree edges) make this a real graph — always add at least one 
 | Integration | Fetch timing | Secret(s) needed | Fallback |
 |---|---|---|---|
 | GitHub | Client-side (useEffect) | None | Error message shown |
-| Spotify | `spotify.yml` cron every 30 min → commits `public/spotify-data.json`; page reads from `raw.githubusercontent.com` | `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN` | Preserves last committed data |
+| Spotify | `spotify.yml` cron every 30 min → commits JSON; page reads from `raw.githubusercontent.com` | `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN` | Preserves last committed data |
 | Books | Client-side (reads static JSON) | None | Edit `public/books-data.json` |
-| Vinyl | Client-side (reads static JSON) | `DISCOGS_USERNAME`, `DISCOGS_USER_TOKEN` (optional, enriches data) | Existing `public/vinyl-data.json` |
+| Vinyl | Client-side (reads static JSON) | `DISCOGS_USERNAME`, `DISCOGS_USER_TOKEN` (optional) | Existing `public/vinyl-data.json` |
+| Flickr | `flickr.yml` cron every 6h → commits JSON | `FLICKR_API_KEY`, `FLICKR_USER_ID` | Existing `public/flickr-data.json` |
+| Steam | `steam.yml` cron every 3h → commits JSON | `STEAM_API_KEY`, `STEAM_ID` | Existing `public/steam-data.json` |
 
 ### Spotify refresh token — one-time setup
 If the `SPOTIFY_REFRESH_TOKEN` secret ever becomes invalid, regenerate it:

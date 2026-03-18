@@ -1,0 +1,22 @@
+---
+title: "SHA-256 as a deterministic shuffle seed"
+date: "2026-03-16"
+tags: ["security", "python", "cryptography"]
+---
+
+In SecureExam-Generator, I needed each student to get a unique but reproducible question ordering. The trick: hash `(student_id + exam_id + secret_salt)` with SHA-256 and use the first 8 bytes as a PRNG seed.
+
+```python
+import hashlib, random
+
+def seeded_shuffle(questions, student_id, exam_id, salt):
+    digest = hashlib.sha256(
+        f"{student_id}{exam_id}{salt}".encode()
+    ).digest()
+    seed = int.from_bytes(digest[:8], "big")
+    rng = random.Random(seed)
+    rng.shuffle(questions)
+    return questions
+```
+
+Same inputs always produce the same ordering — the shuffle is **verifiable**, not random noise. An examiner can recompute the exact sequence from the student ID alone, without storing any state.

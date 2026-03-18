@@ -10,6 +10,7 @@ import RightPanel from "@/components/RightPanel";
 import { RightPanelProvider } from "@/lib/rightPanelContext";
 import Footer from "@/components/Footer";
 import CommandPalette from "@/components/CommandPalette";
+import ReadingProgress from "@/components/ReadingProgress";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -67,6 +68,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <ThemeProvider>
           <RightPanelProvider>
+            <ReadingProgress />
             <CommandPalette />
             {/* Mobile: fixed top bar + drawer */}
             <MobileNav />

@@ -17,9 +17,11 @@ interface Book {
   isbn: string;
   title: string;
   author: string;
-  finished: string;
+  finished?: string;
   rating: number;
   pages: number;
+  status?: "reading" | "finished";
+  progress?: number;
 }
 
 interface Repo {
@@ -126,8 +128,14 @@ function BooksWidget() {
     fetch("/books-data.json")
       .then((r) => r.json())
       .then((books: Book[]) => {
-        const sorted = [...books].sort((a, b) => (a.finished < b.finished ? 1 : -1));
-        setBook(sorted[0] ?? null);
+        // Prefer currently reading, fallback to most recently finished
+        const reading = books.find((b) => b.status === "reading");
+        if (reading) {
+          setBook(reading);
+        } else {
+          const sorted = [...books].sort((a, b) => ((a.finished ?? "") < (b.finished ?? "") ? 1 : -1));
+          setBook(sorted[0] ?? null);
+        }
         setLoading(false);
       })
       .catch(() => setLoading(false));
@@ -140,7 +148,7 @@ function BooksWidget() {
       <div className="absolute inset-y-0 left-0 w-0.5 bg-amber-400/50 group-hover:bg-amber-400 transition-all" />
       <div className="flex items-center justify-between mb-4">
         <h3 className="text-sm font-semibold text-slate-900 dark:text-slate-200 flex items-center gap-2">
-          <BookOpen className="w-4 h-4 text-amber-400" /> Recently Read
+          <BookOpen className="w-4 h-4 text-amber-400" /> {book?.status === "reading" ? "Currently Reading" : "Recently Read"}
         </h3>
         <Link href="/books" className="font-mono text-[10px] text-slate-400 hover:text-amber-400 transition-colors flex items-center gap-1">
           all books <ExternalLink size={9} />
@@ -167,18 +175,27 @@ function BooksWidget() {
               {book.title}
             </p>
             <p className="text-xs text-slate-500 mt-0.5">{book.author.split(",")[0]}</p>
-            <div className="flex items-center gap-2 mt-1.5">
-              <div className="flex items-center gap-0.5">
-                {Array.from({ length: 5 }).map((_, i) => (
-                  <Star
-                    key={i}
-                    size={10}
-                    className={i < book.rating ? "text-amber-400 fill-amber-400" : "text-slate-300 dark:text-slate-700"}
-                  />
-                ))}
+            {book.status === "reading" && book.progress != null ? (
+              <div className="flex items-center gap-2 mt-2">
+                <div className="flex-1 h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                  <div className="h-full rounded-full bg-emerald-400" style={{ width: `${book.progress}%` }} />
+                </div>
+                <span className="font-mono text-[10px] text-emerald-500 tabular-nums">{book.progress}%</span>
               </div>
-              <span className="font-mono text-[10px] text-slate-400">{book.pages}p</span>
-            </div>
+            ) : (
+              <div className="flex items-center gap-2 mt-1.5">
+                <div className="flex items-center gap-0.5">
+                  {Array.from({ length: 5 }).map((_, i) => (
+                    <Star
+                      key={i}
+                      size={10}
+                      className={i < book.rating ? "text-amber-400 fill-amber-400" : "text-slate-300 dark:text-slate-700"}
+                    />
+                  ))}
+                </div>
+                <span className="font-mono text-[10px] text-slate-400">{book.pages}p</span>
+              </div>
+            )}
           </div>
         </div>
       ) : (

@@ -43,6 +43,7 @@ export const graphNodes: GraphNode[] = [
   { id: "tags", label: "Tags", type: "tech", url: "/tags", description: "Browse all content by tag", maturity: "seedling", lastTended: "2026-03-16" },
   { id: "bookmarks", label: "/bookmarks", type: "personal", url: "/bookmarks", description: "YouTube channels, daily puzzles, curated resources", maturity: "seedling", lastTended: "2026-03-15" },
   { id: "changelog", label: "/changelog", type: "tech", url: "/changelog", description: "Site version history", maturity: "evergreen", lastTended: "2026-03-18" },
+  { id: "colophon", label: "/colophon", type: "tech", url: "/colophon", description: "Architectural decisions — why each technology was chosen and what was traded away", maturity: "sapling", lastTended: "2026-03-18" },
 ];
 
 export const graphLinks: GraphLink[] = [
@@ -91,4 +92,8 @@ export const graphLinks: GraphLink[] = [
   { source: "home", target: "bookmarks" },
   { source: "home", target: "changelog" },
   { source: "stats", target: "changelog" },
+  { source: "home", target: "colophon" },
+  { source: "colophon", target: "uses" },          // colophon references /uses
+  { source: "colophon", target: "changelog" },      // version history
+  { source: "about", target: "colophon" },          // about references architecture
 ];

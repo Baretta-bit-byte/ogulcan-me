@@ -10,10 +10,12 @@ interface Book {
   isbn:     string;
   title:    string;
   author:   string;
-  finished: string;   // ISO date string
+  finished?: string;   // ISO date string
   rating:   1 | 2 | 3 | 4 | 5;
   url?:     string;
   my_note?: string;
+  status?:  "reading" | "finished";
+  progress?: number; // 0-100
 }
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -108,7 +110,7 @@ function BookCard({ book }: { book: Book }) {
 
               <div className="flex items-center justify-between pt-0.5">
                 <span className="font-mono text-[9px] text-white/50">
-                  {fmtDate(book.finished)}
+                  {book.finished ? fmtDate(book.finished) : ""}
                 </span>
                 {book.url && (
                   <ExternalLink size={9} className="text-white/50" />
@@ -132,15 +134,19 @@ export default function BooksPage() {
     fetch("/books-data.json")
       .then((r) => r.json())
       .then((data: Book[]) => {
-        // Sort newest-finished first
-        const sorted = [...data].sort(
-          (a, b) => new Date(b.finished).getTime() - new Date(a.finished).getTime()
-        );
-        setBooks(sorted);
+        // Separate currently reading from finished
+        const finished = data
+          .filter((b) => b.status !== "reading")
+          .sort((a, b) => new Date(b.finished ?? "").getTime() - new Date(a.finished ?? "").getTime());
+        const reading = data.filter((b) => b.status === "reading");
+        setBooks([...reading, ...finished]);
         setLoading(false);
       })
       .catch(() => setLoading(false));
   }, []);
+
+  const currentlyReading = books.filter((b) => b.status === "reading");
+  const finishedBooks = books.filter((b) => b.status !== "reading");
 
   return (
     <article className="space-y-12">
@@ -164,6 +170,50 @@ export default function BooksPage() {
         </p>
       </section>
 
+      {/* ── Currently Reading ──────────────────────────────────────────── */}
+      {!loading && currentlyReading.length > 0 && (
+        <section className="space-y-4">
+          <h2 className="text-sm font-mono font-semibold text-slate-400 uppercase tracking-widest">
+            Currently Reading
+          </h2>
+          <div className="space-y-3">
+            {currentlyReading.map((book) => (
+              <div
+                key={book.isbn}
+                className="group relative overflow-hidden rounded-xl border border-emerald-400/30 bg-emerald-400/5 p-4 flex items-center gap-4"
+              >
+                <div className="absolute inset-y-0 left-0 w-1 bg-emerald-400" />
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={coverUrl(book.isbn)}
+                  alt={book.title}
+                  className="w-12 h-auto rounded-lg shadow-sm shrink-0"
+                  onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
+                />
+                <div className="flex-1 min-w-0">
+                  <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">{book.title}</p>
+                  <p className="text-xs text-slate-500 mt-0.5">{book.author.split(",")[0]}</p>
+                  {book.my_note && (
+                    <p className="text-[10px] text-slate-400 italic mt-1 line-clamp-1">{book.my_note}</p>
+                  )}
+                  {book.progress != null && (
+                    <div className="mt-2 flex items-center gap-2">
+                      <div className="flex-1 h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                        <div
+                          className="h-full rounded-full bg-emerald-400 transition-all"
+                          style={{ width: `${book.progress}%` }}
+                        />
+                      </div>
+                      <span className="font-mono text-[10px] text-emerald-500 tabular-nums">{book.progress}%</span>
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* ── Grid ─────────────────────────────────────────────────────────── */}
       <section>
         {loading ? (
@@ -172,9 +222,9 @@ export default function BooksPage() {
               <Skeleton key={i} className="aspect-[2/3] w-full rounded-xl" />
             ))}
           </div>
-        ) : books.length > 0 ? (
+        ) : finishedBooks.length > 0 ? (
           <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-3">
-            {books.map((book) => (
+            {finishedBooks.map((book) => (
               <BookCard key={book.isbn} book={book} />
             ))}
           </div>

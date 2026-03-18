@@ -47,6 +47,15 @@ All core infrastructure and live-data integrations are **complete**. The site is
 - **Project → Garden cross-linking** — SecureExam and NotePadIo pages use `LinkedTerm` to reference GitHub, /uses, Game Theory; 7 new cross-links in `graphData` (38 total)
 - **RelatedContent** — `components/RelatedContent.tsx`; tag-based related posts/TIL shown on blog detail pages (top 4 by shared tag score)
 - **Book notes** — `/books` hover overlay renders `my_note` field from `books-data.json` in amber italic
+- **Reading progress bar** — `ReadingProgress.tsx`: thin sky-400 bar fixed at viewport top, tracks `<main>` scroll position
+- **Page transitions** — `app/template.tsx`: Framer Motion fade+slide keyed by `usePathname()`
+- **Currently reading** — `/books` shows "Currently Reading" section with emerald progress bar; `/now` BooksWidget prefers reading books
+- `/colophon` — **Architectural Decision Records**: 8 ADR cards (Next.js, GitHub Pages, Tailwind, Framer Motion, react-force-graph-2d, Cron pipelines, MDX, View Transitions API), "Why" + "Trade-off" per card; `graphData` node + sidebar entry
+- **Content activity heatmap** — `/stats` GitHub contribution-graph-style heatmap (last 12 weeks), counts from posts/TIL/graph lastTended dates
+- **Sidenote** — `Sidenote.tsx`: Tufte-style marginal notes (desktop: right margin, mobile: inline toggle)
+- **Breadcrumb graph info** — `Breadcrumb.tsx`: current page shows maturity badge + connection count when `nodeId` is provided
+- **3 new TIL entries** — `crdt-lamport-clock.mdx`, `sha256-deterministic-shuffle.mdx`, `event-sourcing-replay.mdx`
+- **New blog post** — `spring-2026-retrospective.mdx`: year-in-review covering projects, learnings, next steps
 
 ### 🔲 Pending — next session priorities
 1. **Cloudinary metadata → /flickr** — Cloudinary Media Library'de `caption` + klasör (albüm) bilgisini fetch script'e tam entegre et; `/flickr` sayfasında albüm filtresi + fotoğraf açıklaması göster. Yaklaşım: `context: true` zaten çekiliyor, page'de render edilmesi yeterli.
@@ -74,7 +83,7 @@ The site uses `output: "export"` for GitHub Pages. **No Node.js server at runtim
 ### 1. Left Column (Sticky - Brand & Nav)
 - Animated SVG "OT" signature at top (`Header.tsx`)
 - Floating pill nav with `layoutId="nav-active-bg"` Framer Motion sliding background
-- All nav items are live routes: Home, Projects, Mathematics, Community, GitHub, Spotify, Books, Vinyl, /now, Topics, /uses, Writing, TIL, Photography, Gaming
+- All nav items are live routes: Home, /about, Projects, Mathematics, Community, GitHub, Spotify, Books, Vinyl, /now, Topics, /uses, Writing, TIL, Tags, Bookmarks, Photography, Gaming, /stats, /colophon
 - Sun/moon theme toggle at bottom (triggers View Transitions API circular reveal)
 
 ### 2. Center Column (Scrollable)

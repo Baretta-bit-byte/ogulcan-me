@@ -24,6 +24,7 @@ import {
   UserRound,
   Tag,
   Bookmark,
+  ScrollText,
 } from "lucide-react";
 import Header from "./Header";
 import ThemeToggle from "./ThemeToggle";
@@ -48,6 +49,7 @@ const NAV_ITEMS = [
   { href: "/flickr",    label: "Photography", icon: Camera     },
   { href: "/steam",     label: "Gaming",      icon: Gamepad2   },
   { href: "/stats",     label: "/stats",      icon: BarChart2  },
+  { href: "/colophon", label: "/colophon",   icon: ScrollText },
 ];
 
 const SOON_ITEMS: { label: string; icon: React.ComponentType<{ size?: number; strokeWidth?: number; className?: string }> }[] = [];

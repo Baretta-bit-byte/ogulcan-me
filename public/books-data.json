@@ -1,5 +1,15 @@
 [
   {
+    "isbn":     "9750726286",
+    "title":    "Thinking, Fast and Slow",
+    "my_note":  "Kahneman'ın System 1 / System 2 çerçevesi — karar verme mekanizmalarını anlamak için.",
+    "author":   "Kahneman, Daniel 1934-2024",
+    "pages":    499,
+    "status":   "reading",
+    "progress": 62,
+    "rating":   5
+  },
+  {
     "isbn":     "9786052491959",
     "title":    "Romeo and Juliet",
     "my_note":  "Türkçe dile çevrilmiş hali okundu.",

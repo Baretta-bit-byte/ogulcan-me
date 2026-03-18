@@ -82,8 +82,9 @@ Not a standard portfolio. Every page — project, math note, community activity,
 | `/bookmarks` | YouTube channels, daily puzzles, coding platforms | Static |
 | `/changelog` | Version history timeline (v1.0–v3.1) | Static |
 | `/feed.xml` | RSS 2.0 feed of all blog posts | Static route (`force-static`) |
-| `/flickr` | Photography grid (stub) | Static |
-| `/steam` | Steam gaming activity (stub) | Static |
+| `/flickr` | Photography masonry grid | Flickr API (`flickr.yml` cron every 6h) |
+| `/steam` | Steam player card + recent games | Steam Web API (`steam.yml` cron every 3h) |
+| `/colophon` | Architectural Decision Records (8 ADR cards) | Static |
 
 ---
 
@@ -119,6 +120,16 @@ Not a standard portfolio. Every page — project, math note, community activity,
 - **Reading time** — Word-count-based estimates on post listings and detail pages
 - **Draft support** — `draft: true` in frontmatter hides posts/TILs from listings and feeds
 - **Full-text search** — Prebuild script indexes all content; Command Palette searches pages + post/TIL body text
+- **Freshness indicators** — `lastTended` dates on graph nodes; "tended 3d ago" shown in article headers, hover cards, and backlinks
+- **Reading progress bar** — Thin scroll-tracking bar at viewport top
+- **Page transitions** — Framer Motion fade+slide between routes
+- **Currently reading** — Books page shows in-progress books with progress bar
+- **Tufte sidenotes** — Marginal notes on desktop, inline toggle on mobile
+- **Related content** — Tag-based recommendations on blog detail pages
+- **Breadcrumb graph info** — Maturity badge + connection count in breadcrumbs
+- **Content activity heatmap** — GitHub contribution-graph-style heatmap on /stats
+- **Graph topology metrics** — Avg connections, density, most connected nodes, orphan detection
+- **/colophon ADR** — Architectural Decision Records explaining each technology choice
 
 ---
 
@@ -230,11 +241,24 @@ Cover art is fetched automatically from Open Library using the ISBN.
 - [x] Full-text search in Command Palette (prebuild JSON index)
 - [x] Graph search null-safety fix
 
+- [x] 2.5D Signature — 3 depth layers + mouse parallax
+- [x] Flickr — Flickr API integration with masonry grid
+- [x] Steam — Steam Web API with player card + recent games
+- [x] Freshness indicators (lastTended) across ArticlePage, LinkedTerm, Backlinks
+- [x] Reading progress bar
+- [x] Page transitions (Framer Motion)
+- [x] Currently reading widget (books + /now)
+- [x] /colophon — Architectural Decision Records
+- [x] Content activity heatmap on /stats
+- [x] Tufte sidenotes component
+- [x] Breadcrumb graph info (maturity + connections)
+- [x] RelatedContent (tag-based) on blog posts
+- [x] 3 new TIL entries (CRDT, SHA-256, event sourcing)
+- [x] Spring 2026 retrospective blog post
+
 ### 🔲 Pending
 
-- [ ] **2.5D Signature** — depth/shadow revamp of the SVG OT signature
-- [ ] **Flickr / Photography** — Flickr API integration (stub page exists at `/flickr`)
-- [ ] **Steam** — Steam Web API integration (stub page exists at `/steam`)
+- [ ] **Cloudinary metadata → /flickr** — Album filter + photo captions from Cloudinary context
 
 ---
 
@@ -242,7 +266,8 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 | Version | Description |
 |---|---|
-| **v3.1 (current)** | /about, /stats (Umami), /tags, /bookmarks, /changelog, RSS feed, OG meta, reading time, draft support, full-text search |
+| **v3.2 (current)** | 2.5D signature, Flickr + Steam integrations, freshness indicators, reading progress, page transitions, /colophon ADR, activity heatmap, sidenotes, breadcrumb graph info, related content, 3 new TILs |
+| **v3.1** | /about, /stats (Umami), /tags, /bookmarks, /changelog, RSS feed, OG meta, reading time, draft support, full-text search |
 | **v3.0** | MDX blog + TIL, bi-directional backlinks, graph search, command palette, /now live widgets, TOC highlighting |
 | **v2.6** | Spotify live data: 30-min cron, raw.githubusercontent.com fetch, no-redeploy architecture |
 | **v2.5** | Books reading log updated with real personal reading history |

@@ -1,0 +1,25 @@
+---
+title: "CRDTs need Lamport clocks, not wall clocks"
+date: "2026-03-18"
+tags: ["distributed-systems", "architecture"]
+---
+
+When building NotePadIo's real-time sync, I learned that wall clocks (system time) are unreliable for ordering events across devices. Two clients may have different system times, making `Date.now()` useless for determining which edit came first.
+
+**Lamport clocks** solve this: every operation carries a logical counter that increments on send and takes the max on receive. The ordering is deterministic regardless of actual time — which is exactly what CRDTs need for conflict-free merging.
+
+```ts
+let counter = 0;
+
+function send(op: Operation) {
+  counter++;
+  broadcast({ ...op, timestamp: counter });
+}
+
+function receive(msg: Message) {
+  counter = Math.max(counter, msg.timestamp) + 1;
+  apply(msg);
+}
+```
+
+The key insight: you don't need to know *when* something happened, just *in what order relative to everything else*.

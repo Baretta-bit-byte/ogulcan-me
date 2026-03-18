@@ -1,0 +1,21 @@
+---
+title: "Event sourcing: the log IS the database"
+date: "2026-03-14"
+tags: ["architecture", "distributed-systems"]
+---
+
+In NotePadIo, a document is not a mutable blob — it's an append-only log of operations (`insert`, `delete`, `move-block`). The current state is always the deterministic result of replaying that log from the beginning.
+
+This sounds expensive, but it buys you four things for free:
+
+1. **Revision history** — every past state is recoverable by replaying to a specific point
+2. **Offline sync** — queue operations locally, replay on reconnect
+3. **Conflict resolution** — operations commute, so order doesn't matter
+4. **Audit logging** — who changed what, when, automatically
+
+The trade-off: replay time grows with document size. Fix: periodic **snapshots** (materialized state at log position N). Replay only from the latest snapshot forward.
+
+```
+Log: [op1, op2, op3, SNAPSHOT@3, op4, op5]
+Replay: load SNAPSHOT@3 → apply op4 → apply op5
+```

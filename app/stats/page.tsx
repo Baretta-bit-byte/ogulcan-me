@@ -2,7 +2,7 @@ import { getAllPosts } from "@/lib/posts";
 import { getAllTils } from "@/lib/til";
 import { graphNodes, graphLinks } from "@/lib/graphData";
 import Backlinks from "@/components/Backlinks";
-import { BarChart2, FileText, Lightbulb, Network, Link2, ExternalLink } from "lucide-react";
+import { BarChart2, FileText, Lightbulb, Network, Link2, ExternalLink, CalendarDays } from "lucide-react";
 
 // Set your Umami public share URL after enabling it in:
 // Umami Dashboard → Website Settings → Share
@@ -191,6 +191,88 @@ export default function StatsPage() {
                 </div>
               )}
             </>
+          );
+        })()}
+      </section>
+
+      {/* Content Activity Heatmap */}
+      <section className="mb-12">
+        <h2 className="text-sm font-mono font-semibold text-slate-400 uppercase tracking-widest mb-4 flex items-center gap-2">
+          <CalendarDays className="w-4 h-4" /> Garden Activity
+        </h2>
+        {(() => {
+          // Collect all dates: lastTended from nodes, post dates, TIL dates
+          const dateCounts: Record<string, number> = {};
+          for (const n of graphNodes) {
+            if (n.lastTended) dateCounts[n.lastTended] = (dateCounts[n.lastTended] || 0) + 1;
+          }
+          for (const p of posts) {
+            if (p.date) {
+              const d = p.date.slice(0, 10);
+              dateCounts[d] = (dateCounts[d] || 0) + 1;
+            }
+          }
+          for (const t of tils) {
+            if (t.date) {
+              const d = t.date.slice(0, 10);
+              dateCounts[d] = (dateCounts[d] || 0) + 1;
+            }
+          }
+
+          // Generate last 12 weeks of dates
+          const today = new Date();
+          const weeks: string[][] = [];
+          for (let w = 11; w >= 0; w--) {
+            const week: string[] = [];
+            for (let d = 0; d < 7; d++) {
+              const date = new Date(today);
+              date.setDate(date.getDate() - (w * 7 + (6 - d)));
+              week.push(date.toISOString().slice(0, 10));
+            }
+            weeks.push(week);
+          }
+
+          const maxCount = Math.max(1, ...Object.values(dateCounts));
+
+          function cellColor(count: number): string {
+            if (count === 0) return "bg-slate-100 dark:bg-slate-800";
+            const ratio = count / maxCount;
+            if (ratio < 0.33) return "bg-emerald-200 dark:bg-emerald-900";
+            if (ratio < 0.66) return "bg-emerald-400 dark:bg-emerald-700";
+            return "bg-emerald-500 dark:bg-emerald-500";
+          }
+
+          const totalActivity = Object.values(dateCounts).reduce((s, c) => s + c, 0);
+          const activeDays = Object.keys(dateCounts).length;
+
+          return (
+            <div>
+              <div className="flex items-center gap-4 mb-4">
+                <span className="text-2xl font-bold text-emerald-500 tabular-nums">{totalActivity}</span>
+                <span className="text-xs text-slate-500 font-mono">contributions across {activeDays} days</span>
+              </div>
+              <div className="flex gap-1">
+                {weeks.map((week, wi) => (
+                  <div key={wi} className="flex flex-col gap-1">
+                    {week.map((date) => (
+                      <div
+                        key={date}
+                        className={`w-3 h-3 rounded-sm ${cellColor(dateCounts[date] || 0)}`}
+                        title={`${date}: ${dateCounts[date] || 0} updates`}
+                      />
+                    ))}
+                  </div>
+                ))}
+              </div>
+              <div className="flex items-center gap-1.5 mt-3">
+                <span className="text-[10px] text-slate-400 font-mono">Less</span>
+                <div className="w-3 h-3 rounded-sm bg-slate-100 dark:bg-slate-800" />
+                <div className="w-3 h-3 rounded-sm bg-emerald-200 dark:bg-emerald-900" />
+                <div className="w-3 h-3 rounded-sm bg-emerald-400 dark:bg-emerald-700" />
+                <div className="w-3 h-3 rounded-sm bg-emerald-500" />
+                <span className="text-[10px] text-slate-400 font-mono">More</span>
+              </div>
+            </div>
           );
         })()}
       </section>
