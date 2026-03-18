@@ -16,7 +16,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02629f4f62f3bfef003cdeadc3",
       "url": "https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z",
       "preview_url": null,
-      "duration_ms": 137500
+      "duration_ms": 137500,
+      "genres": []
     },
     {
       "id": "7IqcMkN74DjN8DszGInzbA",
@@ -28,7 +29,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02eb9ae37d6d4746b663feab60",
       "url": "https://open.spotify.com/track/7IqcMkN74DjN8DszGInzbA",
       "preview_url": null,
-      "duration_ms": 231966
+      "duration_ms": 231966,
+      "genres": []
     },
     {
       "id": "7yNf9YjeO5JXUE3JEBgnYc",
@@ -40,7 +42,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
       "preview_url": null,
-      "duration_ms": 97960
+      "duration_ms": 97960,
+      "genres": []
     },
     {
       "id": "0JvAYeehnefUQdks3hWPyB",
@@ -53,7 +56,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02e1171184980cd3f6e75db5b1",
       "url": "https://open.spotify.com/track/0JvAYeehnefUQdks3hWPyB",
       "preview_url": null,
-      "duration_ms": 93048
+      "duration_ms": 93048,
+      "genres": []
     },
     {
       "id": "0b6xZk9f96N77BfmYWnQNC",
@@ -65,7 +69,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e025b26c1b56d89c1416d21db60",
       "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC",
       "preview_url": null,
-      "duration_ms": 155721
+      "duration_ms": 155721,
+      "genres": []
     },
     {
       "id": "0rx7xu0RmZLpJjKNVZjSVv",
@@ -78,7 +83,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
       "preview_url": null,
-      "duration_ms": 180129
+      "duration_ms": 180129,
+      "genres": []
     },
     {
       "id": "0uI7yAKUf52Cn7y3sYyjiX",
@@ -90,7 +96,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
       "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX",
       "preview_url": null,
-      "duration_ms": 177666
+      "duration_ms": 177666,
+      "genres": []
     },
     {
       "id": "1dtFnGE0tVD7Et1B6CNbDK",
@@ -103,7 +110,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e020e5bd339644b4768a190261d",
       "url": "https://open.spotify.com/track/1dtFnGE0tVD7Et1B6CNbDK",
       "preview_url": null,
-      "duration_ms": 234000
+      "duration_ms": 234000,
+      "genres": []
     },
     {
       "id": "2tYWrHXCwKCPO86kgqLemB",
@@ -115,7 +123,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
       "url": "https://open.spotify.com/track/2tYWrHXCwKCPO86kgqLemB",
       "preview_url": null,
-      "duration_ms": 220530
+      "duration_ms": 220530,
+      "genres": []
     },
     {
       "id": "3f9Mzvd3URfbbIJBX4pz9Z",
@@ -128,7 +137,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e021047fa3fb0151cf803d9c696",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z",
       "preview_url": null,
-      "duration_ms": 146826
+      "duration_ms": 146826,
+      "genres": []
     },
     {
       "id": "5ViLKrbyL3HD6wsq3AB9eI",
@@ -140,7 +150,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e023696096119ef08824cf85ede",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI",
       "preview_url": null,
-      "duration_ms": 144101
+      "duration_ms": 144101,
+      "genres": []
     },
     {
       "id": "6WTFHKrnZpwEBLRS10Ylqs",
@@ -152,8 +163,9 @@
       "image": "https://i.scdn.co/image/ab67616d00001e020297fb98f81fc0b611fcf71d",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs",
       "preview_url": null,
-      "duration_ms": 74378
+      "duration_ms": 74378,
+      "genres": []
     }
   ],
-  "fetched_at": "2026-03-18T20:34:14.214Z"
+  "fetched_at": "2026-03-18T21:32:25.971Z"
 }
