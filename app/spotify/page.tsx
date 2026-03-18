@@ -251,7 +251,7 @@ export default function SpotifyPage() {
         </div>
 
         {loading ? (
-          <div className="grid grid-cols-4 gap-3">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
             {Array.from({ length: 12 }).map((_, i) => (
               <div key={i} className="space-y-2">
                 <Skeleton className="aspect-square w-full rounded-xl" />
@@ -261,7 +261,7 @@ export default function SpotifyPage() {
             ))}
           </div>
         ) : tracks.length > 0 ? (
-          <div className="grid grid-cols-4 gap-3">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
             {tracks.map((track, i) => (
               <TrackCard key={track.id} track={track} rank={i + 1} />
             ))}

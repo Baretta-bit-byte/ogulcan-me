@@ -66,7 +66,7 @@ export default function LeftSidebar() {
   const pathname = usePathname();
 
   return (
-    <aside className="flex h-screen w-56 shrink-0 flex-col bg-slate-50 dark:bg-slate-900">
+    <aside className="hidden lg:flex h-screen w-56 shrink-0 flex-col bg-slate-50 dark:bg-slate-900">
 
       {/* Signature */}
       <div className="px-5 pt-6 pb-3">

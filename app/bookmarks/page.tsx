@@ -173,7 +173,7 @@ export default function BookmarksPage() {
             <Flame size={10} /> daily practice
           </span>
         </div>
-        <div className="grid grid-cols-2 gap-3">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           {codingPlatforms.map((p) => (
             <a
               key={p.title}

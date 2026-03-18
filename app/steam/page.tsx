@@ -284,13 +284,13 @@ export default function SteamPage() {
         </h2>
 
         {loading ? (
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {Array.from({ length: 4 }).map((_, i) => (
               <Skeleton key={i} className="h-44 rounded-xl" />
             ))}
           </div>
         ) : recentGames.length > 0 ? (
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {recentGames.map((game) => (
               <GameCard key={game.appid} game={game} maxMinutes={maxMinutes} />
             ))}

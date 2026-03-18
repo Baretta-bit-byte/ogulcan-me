@@ -5,6 +5,7 @@ import "./globals.css";
 import ThemeProvider from "@/components/ThemeProvider";
 import ThemeReadyGate from "@/components/ThemeReadyGate";
 import LeftSidebar from "@/components/LeftSidebar";
+import MobileNav from "@/components/MobileNav";
 import RightPanel from "@/components/RightPanel";
 import { RightPanelProvider } from "@/lib/rightPanelContext";
 import Footer from "@/components/Footer";
@@ -67,19 +68,22 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <ThemeProvider>
           <RightPanelProvider>
             <CommandPalette />
+            {/* Mobile: fixed top bar + drawer */}
+            <MobileNav />
+
             <div className="flex h-screen overflow-hidden">
-              {/* Left: sidebar */}
+              {/* Left: desktop sidebar (hidden on mobile) */}
               <LeftSidebar />
 
               {/* Center: scrollable main content */}
-              <main className="flex-1 overflow-y-auto px-10 py-12 lg:px-16">
+              <main className="flex-1 overflow-y-auto px-4 pt-16 pb-8 sm:px-6 lg:px-10 lg:py-12 xl:px-16">
                 <div className="mx-auto max-w-2xl">
                   {children}
                   <Footer />
                 </div>
               </main>
 
-              {/* Right: graph + TOC */}
+              {/* Right: graph + TOC (hidden below xl) */}
               <RightPanel />
             </div>
           </RightPanelProvider>

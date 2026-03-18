@@ -159,13 +159,13 @@ export default function BooksPage() {
       {/* ── Grid ─────────────────────────────────────────────────────────── */}
       <section>
         {loading ? (
-          <div className="grid grid-cols-6 gap-3">
+          <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-3">
             {Array.from({ length: 12 }).map((_, i) => (
               <Skeleton key={i} className="aspect-[2/3] w-full rounded-xl" />
             ))}
           </div>
         ) : books.length > 0 ? (
-          <div className="grid grid-cols-6 gap-3">
+          <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-3">
             {books.map((book) => (
               <BookCard key={book.isbn} book={book} />
             ))}

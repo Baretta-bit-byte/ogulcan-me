@@ -234,7 +234,7 @@ export default function VinylPage() {
       {/* ── Grid ─────────────────────────────────────────────────────────── */}
       <section>
         {loading ? (
-          <div className="grid grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 sm:gap-6">
             {Array.from({ length: 8 }).map((_, i) => (
               <div key={i} className="space-y-3">
                 <Skeleton className="aspect-square w-full" />
@@ -246,7 +246,7 @@ export default function VinylPage() {
             ))}
           </div>
         ) : records.length > 0 ? (
-          <div className="grid grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 sm:gap-6">
             {records.map((record) => (
               <VinylDisc key={record.id} record={record} />
             ))}
