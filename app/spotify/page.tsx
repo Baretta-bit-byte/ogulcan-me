@@ -368,7 +368,11 @@ export default function SpotifyPage() {
   const [activeTrack, setActiveTrack] = useState<SpotifyTrack | null>(null);
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/Baretta-bit-byte/ogulcan-me/main/public/spotify-data.json")
+    const isDev = process.env.NODE_ENV === "development";
+    const url = isDev
+      ? "/spotify-data.json"
+      : "https://raw.githubusercontent.com/Baretta-bit-byte/ogulcan-me/main/public/spotify-data.json";
+    fetch(url)
       .then((r) => r.json())
       .then((d: SpotifyData) => { setData(d); setLoading(false); })
       .catch(() => setLoading(false));

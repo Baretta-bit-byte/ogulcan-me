@@ -162,7 +162,7 @@ export default function Footer() {
 
           {/* Copyright + easter egg trigger */}
           <p className="flex items-center gap-1.5 font-mono text-xs text-slate-500 dark:text-slate-600">
-            <span>MIT 2026 &copy; Ogulcan</span>
+            <a href="https://github.com/Baretta-bit-byte/ogulcan-me/blob/main/LICENSE" target="_blank" rel="noopener noreferrer" className="hover:text-sky-400 transition-colors">MIT</a>{" "}2026 &copy; Oğulcan Tokmak
             <span>·</span>
             <a
               href="https://github.com/Baretta-bit-byte"
