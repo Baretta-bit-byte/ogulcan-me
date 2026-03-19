@@ -25,10 +25,22 @@ interface SpotifyProfile {
   playlists: number;
 }
 
+interface RecentTrack {
+  id:          string;
+  name:        string;
+  artists:     string[];
+  album:       string;
+  image:       string | null;
+  url:         string;
+  duration_ms: number;
+  played_at:   string;
+}
+
 interface SpotifyData {
-  profile:    SpotifyProfile | null;
-  tracks:     SpotifyTrack[];
-  fetched_at: string | null;
+  profile:          SpotifyProfile | null;
+  tracks:           SpotifyTrack[];
+  recently_played:  RecentTrack[];
+  fetched_at:       string | null;
 }
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -294,6 +306,60 @@ function TrackCard({
   );
 }
 
+// ─── Recently Played Card ────────────────────────────────────────────────────
+
+function RecentCard({
+  track,
+  onSelect,
+  isActive,
+}: {
+  track: RecentTrack;
+  onSelect: (t: RecentTrack) => void;
+  isActive: boolean;
+}) {
+  return (
+    <div
+      onClick={() => onSelect(track)}
+      className={`group flex cursor-pointer items-center gap-3 rounded-xl border p-2.5 transition-all duration-200 ${
+        isActive
+          ? "border-emerald-400/40 bg-emerald-50/50 dark:border-emerald-400/30 dark:bg-emerald-400/5"
+          : "border-slate-200 hover:border-slate-300 dark:border-slate-800 dark:hover:border-slate-700"
+      }`}
+    >
+      {/* Album art */}
+      <div className="relative h-11 w-11 shrink-0 overflow-hidden rounded-lg bg-slate-100 dark:bg-slate-800">
+        {track.image ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={track.image}
+            alt={track.album}
+            className="h-full w-full object-cover"
+          />
+        ) : (
+          <div className="flex h-full w-full items-center justify-center">
+            <ListMusic size={16} className="text-slate-300 dark:text-slate-600" />
+          </div>
+        )}
+      </div>
+
+      {/* Info */}
+      <div className="min-w-0 flex-1">
+        <p className="truncate text-sm font-medium text-slate-800 group-hover:text-[#1DB954] dark:text-slate-200">
+          {track.name}
+        </p>
+        <p className="truncate text-xs text-slate-400 dark:text-slate-500">
+          {track.artists.join(", ")}
+        </p>
+      </div>
+
+      {/* Played-at time */}
+      <span className="shrink-0 font-mono text-[10px] text-slate-300 dark:text-slate-600">
+        {timeAgo(track.played_at)}
+      </span>
+    </div>
+  );
+}
+
 // ─── Page ─────────────────────────────────────────────────────────────────────
 
 export default function SpotifyPage() {
@@ -308,8 +374,9 @@ export default function SpotifyPage() {
       .catch(() => setLoading(false));
   }, []);
 
-  const profile = data?.profile ?? null;
-  const tracks  = data?.tracks  ?? [];
+  const profile  = data?.profile         ?? null;
+  const tracks   = data?.tracks          ?? [];
+  const recent   = data?.recently_played ?? [];
 
   return (
     <article className={`space-y-12 ${activeTrack ? "pb-24" : ""}`}>
@@ -414,6 +481,35 @@ export default function SpotifyPage() {
           </p>
         )}
       </section>
+
+      {/* ── Recently Played ────────────────────────────────────────────── */}
+      {!loading && recent.length > 0 && (
+        <section className="space-y-3">
+          <div className="flex items-center justify-between">
+            <h2 className="text-base font-semibold text-slate-700 dark:text-slate-300">
+              Recently Played
+            </h2>
+            <span className="font-mono text-xs text-slate-400">live activity</span>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+            {recent.map((track, i) => (
+              <RecentCard
+                key={`${track.id}-${i}`}
+                track={track}
+                isActive={activeTrack?.id === track.id}
+                onSelect={(t) =>
+                  setActiveTrack({
+                    ...t,
+                    preview_url: null,
+                    genres: [],
+                  })
+                }
+              />
+            ))}
+          </div>
+        </section>
+      )}
 
       <Backlinks nodeId="spotify" />
 
