@@ -6,6 +6,20 @@
   },
   "tracks": [
     {
+      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "name": "Monster",
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
+      "album": "Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
+      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "preview_url": null,
+      "duration_ms": 181500,
+      "genres": []
+    },
+    {
       "id": "59MVohcr4ayOZvXW51QU4Z",
       "name": "Cool & Fresh",
       "artists": [
@@ -46,6 +60,20 @@
       "genres": []
     },
     {
+      "id": "0rx7xu0RmZLpJjKNVZjSVv",
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "artists": [
+        "JENNIE",
+        "Dominic Fike"
+      ],
+      "album": "Ruby",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
+      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
+      "preview_url": null,
+      "duration_ms": 180129,
+      "genres": []
+    },
+    {
       "id": "0JvAYeehnefUQdks3hWPyB",
       "name": "nevada - instrumental",
       "artists": [
@@ -70,20 +98,6 @@
       "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC",
       "preview_url": null,
       "duration_ms": 155721,
-      "genres": []
-    },
-    {
-      "id": "0rx7xu0RmZLpJjKNVZjSVv",
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "artists": [
-        "JENNIE",
-        "Dominic Fike"
-      ],
-      "album": "Ruby",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
-      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
-      "preview_url": null,
-      "duration_ms": 180129,
       "genres": []
     },
     {
@@ -152,20 +166,7 @@
       "preview_url": null,
       "duration_ms": 144101,
       "genres": []
-    },
-    {
-      "id": "6WTFHKrnZpwEBLRS10Ylqs",
-      "name": "misses",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "14 minutes",
-      "image": "https://i.scdn.co/image/ab67616d00001e020297fb98f81fc0b611fcf71d",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs",
-      "preview_url": null,
-      "duration_ms": 74378,
-      "genres": []
     }
   ],
-  "fetched_at": "2026-03-18T23:55:04.719Z"
+  "fetched_at": "2026-03-19T01:29:46.001Z"
 }
