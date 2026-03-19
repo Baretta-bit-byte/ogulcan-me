@@ -10,11 +10,11 @@
  * Output: public/spotify-data.json
  */
 
-import { writeFileSync, mkdirSync, existsSync } from "fs";
+import { writeFileSync, readFileSync, mkdirSync, existsSync } from "fs";
 
 const { SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN } = process.env;
 
-const EMPTY = { profile: null, tracks: [], fetched_at: null };
+const EMPTY = { profile: null, tracks: [], recently_played: [], fetched_at: null };
 
 if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) {
   if (existsSync("public/spotify-data.json")) {
@@ -55,16 +55,18 @@ if (!tokenRes.ok) {
 const { access_token } = await tokenRes.json();
 const auth = { Authorization: `Bearer ${access_token}` };
 
-// ── 2. Fetch in parallel: user profile, playlists count, top tracks ───────────
-const [meRes, playlistsRes, tracksRes] = await Promise.all([
+// ── 2. Fetch in parallel: user profile, playlists count, top tracks, recently played
+const [meRes, playlistsRes, tracksRes, recentRes] = await Promise.all([
   fetch("https://api.spotify.com/v1/me",                                          { headers: auth }),
   fetch("https://api.spotify.com/v1/me/playlists?limit=1",                        { headers: auth }),
   fetch("https://api.spotify.com/v1/me/top/tracks?time_range=short_term&limit=12", { headers: auth }),
+  fetch("https://api.spotify.com/v1/me/player/recently-played?limit=10",           { headers: auth }),
 ]);
 
 const me        = await meRes.json();
 const playlists = await playlistsRes.json();
 const topTracks = await tracksRes.json();
+const recentData = recentRes.ok ? await recentRes.json() : { items: [] };
 
 // ── 3. Fetch artist genres ────────────────────────────────────────────────────
 const artistIds = [...new Set(
@@ -105,9 +107,45 @@ const tracks = (topTracks.items ?? []).map((t) => ({
   genres:      (genreMap[t.artists[0]?.id] ?? []).slice(0, 4),
 }));
 
-// ── 5. Write output ───────────────────────────────────────────────────────────
-const output = { profile, tracks, fetched_at: new Date().toISOString() };
-mkdirSync("public", { recursive: true });
-writeFileSync("public/spotify-data.json", JSON.stringify(output, null, 2));
+// ── 5. Shape recently played ─────────────────────────────────────────────────
+const recently_played = (recentData.items ?? []).map((item) => {
+  const t = item.track;
+  return {
+    id:        t.id,
+    name:      t.name,
+    artists:   t.artists.map((a) => a.name),
+    album:     t.album.name,
+    image:     t.album.images[1]?.url ?? t.album.images[0]?.url ?? null,
+    url:       t.external_urls.spotify,
+    duration_ms: t.duration_ms,
+    played_at: item.played_at,
+  };
+});
 
-console.log(`✓  Spotify: ${tracks.length} top tracks, ${profile.playlists} playlists`);
+// ── 6. Smart write — only update file when actual data changed ──────────────
+const output = { profile, tracks, recently_played, fetched_at: new Date().toISOString() };
+mkdirSync("public", { recursive: true });
+
+// Compare data (excluding fetched_at) to avoid empty commits
+let dataChanged = true;
+const outPath = "public/spotify-data.json";
+if (existsSync(outPath)) {
+  try {
+    const existing = JSON.parse(readFileSync(outPath, "utf-8"));
+    const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+    if (
+      same(existing.profile, profile) &&
+      same(existing.tracks, tracks) &&
+      same(existing.recently_played, recently_played)
+    ) {
+      dataChanged = false;
+    }
+  } catch { /* corrupted file — overwrite */ }
+}
+
+if (dataChanged) {
+  writeFileSync(outPath, JSON.stringify(output, null, 2));
+  console.log(`✓  Spotify: ${tracks.length} top tracks, ${recently_played.length} recent, ${profile.playlists} playlists`);
+} else {
+  console.log("✓  Spotify: no data changes — skipping write");
+}
