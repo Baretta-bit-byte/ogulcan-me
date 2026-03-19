@@ -13,9 +13,9 @@ export default function RightPanel() {
 
   return (
     <>
-      <aside className="hidden xl:flex h-screen w-[340px] shrink-0 flex-col border-l border-slate-200 dark:border-slate-800">
+      <aside className="hidden xl:flex h-screen w-[340px] shrink-0 flex-col border-l border-slate-200/50 bg-transparent dark:border-slate-700/30">
         {/* Graph View header with expand button */}
-        <div className="flex items-center justify-between border-b border-slate-200 px-4 py-3 dark:border-slate-800">
+        <div className="flex items-center justify-between border-b border-slate-200/50 px-4 py-3 dark:border-slate-700/30">
           <span className="font-mono text-xs text-slate-400">Graph View</span>
           <button
             onClick={() => setModalOpen(true)}

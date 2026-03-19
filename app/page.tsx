@@ -90,7 +90,7 @@ export default function Home() {
         <div className="space-y-3">
           <Link
             href="/projects/secureexam-generator"
-            className="group block rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-sky-400/40 transition-colors"
+            className="group block rounded-xl border border-slate-200/50 dark:border-slate-700/40 bg-white/30 dark:bg-slate-800/25 backdrop-blur-sm p-4 hover:border-sky-400/40 transition-colors"
           >
             <span className="font-mono text-sm text-sky-500 dark:text-sky-400 group-hover:underline">
               SecureExam-Generator
@@ -102,7 +102,7 @@ export default function Home() {
 
           <Link
             href="/projects/notepadio"
-            className="group block rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-sky-400/40 transition-colors"
+            className="group block rounded-xl border border-slate-200/50 dark:border-slate-700/40 bg-white/30 dark:bg-slate-800/25 backdrop-blur-sm p-4 hover:border-sky-400/40 transition-colors"
           >
             <span className="font-mono text-sm text-sky-500 dark:text-sky-400 group-hover:underline">
               NotePadIo

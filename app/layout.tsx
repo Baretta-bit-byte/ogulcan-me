@@ -11,6 +11,7 @@ import { RightPanelProvider } from "@/lib/rightPanelContext";
 import Footer from "@/components/Footer";
 import CommandPalette from "@/components/CommandPalette";
 import ReadingProgress from "@/components/ReadingProgress";
+import AmbientBackground from "@/components/AmbientBackground";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -62,18 +63,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           }}
         />
       </head>
-      <body className="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-200">
+      <body className="bg-[#0B1120] text-slate-900 dark:text-slate-200">
         {/* Enables color transitions only after first paint */}
         <ThemeReadyGate />
 
         <ThemeProvider>
           <RightPanelProvider>
+            <AmbientBackground />
             <ReadingProgress />
             <CommandPalette />
             {/* Mobile: fixed top bar + drawer */}
             <MobileNav />
 
-            <div className="flex h-screen overflow-hidden">
+            <div className="relative z-10 flex h-screen overflow-hidden">
               {/* Left: desktop sidebar (hidden on mobile) */}
               <LeftSidebar />
 

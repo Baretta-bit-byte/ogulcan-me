@@ -8,6 +8,9 @@ import { graphNodes, graphLinks, GraphNode } from "@/lib/graphData";
 
 const ForceGraph2D = dynamic(() => import("react-force-graph-2d"), { ssr: false });
 
+// φ — golden ratio for harmonious, overlap-free node spacing
+const PHI = 1.618;
+
 // Degree map — computed once from the full graph
 const degreeMap = new Map<string, number>();
 graphLinks.forEach((l) => {
@@ -24,8 +27,8 @@ const NODE_COLORS: Record<string, string> = {
 
 function nodeRadius(id: string, isActive: boolean): number {
   const deg = degreeMap.get(id) ?? 1;
-  if (isActive) return 4 + deg * 0.5;
-  return 2.5 + deg * 0.4;
+  if (isActive) return Math.min(4 + deg * 0.5, 8);
+  return Math.min(2.5 + deg * 0.4, 6);
 }
 
 function getLocalGraph(pathname: string) {
@@ -78,12 +81,41 @@ export default function GraphNav() {
   }, []);
 
   const isDark      = theme !== "light";
-  const labelColor  = isDark ? "#64748b" : "#94a3b8";
-  const activeLabel = isDark ? "#cbd5e1" : "#1e293b";
-  const hoverLabel  = isDark ? "#94a3b8" : "#475569";
-  const linkStroke  = isDark ? "#1e293b" : "#e2e8f0";
+  const labelColor  = isDark ? "#94a3b8" : "#334155";  // slate-400 / slate-700
+  const activeLabel = isDark ? "#e2e8f0" : "#0f172a";
+  const hoverLabel  = isDark ? "#cbd5e1" : "#1e293b";
+  const linkStroke  = isDark ? "#1e293b" : "#94a3b8";
 
   const graphData = useMemo(() => getLocalGraph(pathname), [pathname]);
+
+  // Configure d3 forces — golden-ratio collision prevents node overlap
+  useEffect(() => {
+    const fg = fgRef.current;
+    if (!fg) return;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    import("d3-force-3d").then((d3: any) => {
+      // Collision: label-aware — prevents text overlap
+      fg.d3Force(
+        "collision",
+        d3
+          .forceCollide()
+          .radius((node: GraphNode) => {
+            const r = nodeRadius(node.id, node.id === graphData.currentId);
+            const labelHalf = node.label.length * 2.8;
+            return Math.max((r + 10) * PHI, labelHalf + r);
+          })
+          .strength(0.85)
+          .iterations(3)
+      );
+      // Charge: push nodes apart
+      const charge = fg.d3Force("charge");
+      if (charge) charge.strength(-100);
+      // Link distance: golden-ratio scaled
+      const link = fg.d3Force("link");
+      if (link) link.distance(35 * PHI);
+      fg.d3ReheatSimulation();
+    });
+  }, [graphData.currentId]);
 
   const paintNode = useCallback(
     (
@@ -94,7 +126,8 @@ export default function GraphNav() {
       const isActive  = node.id === graphData.currentId;
       const isHovered = node.id === hoveredId;
       const r         = nodeRadius(node.id, isActive);
-      const color     = NODE_COLORS[node.type] ?? "#94a3b8";
+      const baseColor = NODE_COLORS[node.type] ?? "#94a3b8";
+      const color     = !isDark && node.type === "root" ? "#64748b" : baseColor;
       const x         = node.x ?? 0;
       const y         = node.y ?? 0;
 
@@ -119,7 +152,7 @@ export default function GraphNav() {
       ctx.textAlign  = "center";
       ctx.fillText(node.label, x, y + r + fontSize + 1.5);
     },
-    [graphData.currentId, hoveredId, labelColor, activeLabel, hoverLabel]
+    [graphData.currentId, hoveredId, isDark, labelColor, activeLabel, hoverLabel]
   );
 
   // Larger invisible hit area so clicks register easily
@@ -129,7 +162,7 @@ export default function GraphNav() {
       color: string,
       ctx: CanvasRenderingContext2D
     ) => {
-      const r = nodeRadius(node.id, node.id === graphData.currentId) + 6;
+      const r = nodeRadius(node.id, node.id === graphData.currentId) + 10;
       ctx.beginPath();
       ctx.arc(node.x ?? 0, node.y ?? 0, r, 0, 2 * Math.PI);
       ctx.fillStyle = color;
@@ -169,6 +202,12 @@ export default function GraphNav() {
           backgroundColor="transparent"
           linkColor={() => linkStroke}
           linkWidth={1}
+          linkDirectionalParticles={1}
+          linkDirectionalParticleSpeed={0.003}
+          linkDirectionalParticleWidth={1.2}
+          linkDirectionalParticleColor={() =>
+            isDark ? "rgba(56,189,248,0.4)" : "rgba(71,85,105,0.3)"
+          }
           nodeCanvasObject={paintNode as never}
           nodeCanvasObjectMode={() => "replace"}
           nodePointerAreaPaint={paintPointerArea as never}
@@ -179,9 +218,9 @@ export default function GraphNav() {
           }
           enableNodeDrag
           enableZoomInteraction
-          cooldownTicks={60}
-          d3AlphaDecay={0.06}
-          d3VelocityDecay={0.5}
+          cooldownTicks={100}
+          d3AlphaDecay={0.04}
+          d3VelocityDecay={0.4}
           onEngineStop={handleEngineStop}
         />
       )}
