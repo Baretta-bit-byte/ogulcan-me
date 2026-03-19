@@ -170,6 +170,55 @@
   ],
   "recently_played": [
     {
+      "id": "4jd1icDa1bk8FXfxV8ciZR",
+      "name": "Daffodil",
+      "artists": [
+        "nate2timez"
+      ],
+      "album": "Daffodil",
+      "image": "https://i.scdn.co/image/ab67616d00001e02eb593f5266ea1fb5c96a2b23",
+      "url": "https://open.spotify.com/track/4jd1icDa1bk8FXfxV8ciZR",
+      "duration_ms": 138461,
+      "played_at": "2026-03-19T04:06:53.372Z"
+    },
+    {
+      "id": "4qL9fcs4P32CNNnlMxbqiV",
+      "name": "pillow talk",
+      "artists": [
+        "Mumblo"
+      ],
+      "album": "pillow talk",
+      "image": "https://i.scdn.co/image/ab67616d00001e027377649707e42e3e35cbfd13",
+      "url": "https://open.spotify.com/track/4qL9fcs4P32CNNnlMxbqiV",
+      "duration_ms": 141851,
+      "played_at": "2026-03-19T03:06:51.206Z"
+    },
+    {
+      "id": "4Pja7k6BaxssHuY8rVkNSP",
+      "name": "palm of my hand",
+      "artists": [
+        "Westover Denver"
+      ],
+      "album": "palm of my hand",
+      "image": "https://i.scdn.co/image/ab67616d00001e0264cd2448aae41319c0972698",
+      "url": "https://open.spotify.com/track/4Pja7k6BaxssHuY8rVkNSP",
+      "duration_ms": 144589,
+      "played_at": "2026-03-19T03:04:36.934Z"
+    },
+    {
+      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "name": "Monster",
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
+      "album": "Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
+      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "duration_ms": 181500,
+      "played_at": "2026-03-19T02:36:54.575Z"
+    },
+    {
       "id": "0R8P9KfGJCDULmlEoBagcO",
       "name": "Trouble",
       "artists": [
@@ -241,58 +290,7 @@
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
       "duration_ms": 180129,
       "played_at": "2026-03-18T21:38:57.748Z"
-    },
-    {
-      "id": "59MVohcr4ayOZvXW51QU4Z",
-      "name": "Cool & Fresh",
-      "artists": [
-        "Julien Bam",
-        "Julia Beautx"
-      ],
-      "album": "Cool & Fresh",
-      "image": "https://i.scdn.co/image/ab67616d00001e02629f4f62f3bfef003cdeadc3",
-      "url": "https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z",
-      "duration_ms": 137500,
-      "played_at": "2026-03-18T21:38:57.411Z"
-    },
-    {
-      "id": "7IqcMkN74DjN8DszGInzbA",
-      "name": "They Dont Know Me Son",
-      "artists": [
-        "Ayparia"
-      ],
-      "album": "They Dont Know Me Son",
-      "image": "https://i.scdn.co/image/ab67616d00001e02eb9ae37d6d4746b663feab60",
-      "url": "https://open.spotify.com/track/7IqcMkN74DjN8DszGInzbA",
-      "duration_ms": 231966,
-      "played_at": "2026-03-18T21:38:38.059Z"
-    },
-    {
-      "id": "1dtFnGE0tVD7Et1B6CNbDK",
-      "name": "Neden Olmasın?",
-      "artists": [
-        "Skapova",
-        "melih"
-      ],
-      "album": "Hayat",
-      "image": "https://i.scdn.co/image/ab67616d00001e020e5bd339644b4768a190261d",
-      "url": "https://open.spotify.com/track/1dtFnGE0tVD7Et1B6CNbDK",
-      "duration_ms": 234000,
-      "played_at": "2026-03-18T21:33:54.887Z"
-    },
-    {
-      "id": "1tshQ1Erp9AGl6Vjzoeib6",
-      "name": "Monster",
-      "artists": [
-        "Julien Bam",
-        "Julia Beautx"
-      ],
-      "album": "Monster",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
-      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
-      "duration_ms": 181500,
-      "played_at": "2026-03-18T21:22:21.543Z"
     }
   ],
-  "fetched_at": "2026-03-19T02:06:18.180Z"
+  "fetched_at": "2026-03-19T04:34:01.853Z"
 }
