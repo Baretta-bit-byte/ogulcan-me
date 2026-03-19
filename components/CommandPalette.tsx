@@ -199,16 +199,16 @@ export default function CommandPalette() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             onClick={() => setIsOpen(false)}
-            className="fixed inset-0 z-50 bg-slate-900/20 dark:bg-slate-950/60 backdrop-blur-sm"
+            className="fixed inset-0 z-50 bg-white/10 dark:bg-slate-950/40 backdrop-blur-sm"
           />
           <motion.div
             initial={{ opacity: 0, scale: 0.95, y: -20 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.95, y: -20 }}
             transition={{ duration: 0.15, ease: "easeOut" }}
-            className="fixed top-[15%] left-1/2 -translate-x-1/2 z-50 w-full max-w-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl shadow-2xl overflow-hidden flex flex-col"
+            className="fixed top-[15%] left-1/2 -translate-x-1/2 z-50 w-full max-w-xl bg-white/65 dark:bg-slate-900/65 backdrop-blur-xl border border-slate-200/60 dark:border-slate-700/50 rounded-2xl shadow-2xl overflow-hidden flex flex-col"
           >
-            <div className="flex items-center px-4 py-3 border-b border-slate-200 dark:border-slate-800">
+            <div className="flex items-center px-4 py-3 border-b border-slate-200/60 dark:border-slate-700/50">
               <Search className="w-5 h-5 text-slate-400 mr-3" />
               {filter !== "all" && (
                 <span className="shrink-0 mr-2 text-[10px] px-2 py-0.5 rounded-full uppercase tracking-wider font-bold text-violet-600 dark:text-violet-400 bg-violet-100 dark:bg-violet-400/10">

@@ -93,7 +93,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="mt-20 space-y-6 border-t border-slate-200 pb-10 pt-8 dark:border-slate-800">
+    <footer className="mt-20 space-y-6 border-t border-slate-200/40 pb-10 pt-8 dark:border-slate-700/30">
 
       {/* ── Connect with me ────────────────────────────────────────────── */}
       <div className="space-y-3">
