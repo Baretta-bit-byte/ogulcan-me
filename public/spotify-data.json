@@ -6,6 +6,20 @@
   },
   "tracks": [
     {
+      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "name": "Monster",
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
+      "album": "Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
+      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "preview_url": null,
+      "duration_ms": 181500,
+      "genres": []
+    },
+    {
       "id": "59MVohcr4ayOZvXW51QU4Z",
       "name": "Cool & Fresh",
       "artists": [
@@ -46,6 +60,20 @@
       "genres": []
     },
     {
+      "id": "0rx7xu0RmZLpJjKNVZjSVv",
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "artists": [
+        "JENNIE",
+        "Dominic Fike"
+      ],
+      "album": "Ruby",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
+      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
+      "preview_url": null,
+      "duration_ms": 180129,
+      "genres": []
+    },
+    {
       "id": "0JvAYeehnefUQdks3hWPyB",
       "name": "nevada - instrumental",
       "artists": [
@@ -70,20 +98,6 @@
       "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC",
       "preview_url": null,
       "duration_ms": 155721,
-      "genres": []
-    },
-    {
-      "id": "0rx7xu0RmZLpJjKNVZjSVv",
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "artists": [
-        "JENNIE",
-        "Dominic Fike"
-      ],
-      "album": "Ruby",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
-      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
-      "preview_url": null,
-      "duration_ms": 180129,
       "genres": []
     },
     {
@@ -152,82 +166,133 @@
       "preview_url": null,
       "duration_ms": 144101,
       "genres": []
-    },
-    {
-      "id": "6WTFHKrnZpwEBLRS10Ylqs",
-      "name": "misses",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "14 minutes",
-      "image": "https://i.scdn.co/image/ab67616d00001e020297fb98f81fc0b611fcf71d",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs",
-      "preview_url": null,
-      "duration_ms": 74378,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "7yNf9YjeO5JXUE3JEBgnYc",
-      "name": "Babydoll",
-      "artists": ["Dominic Fike"],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "duration_ms": 97960,
-      "played_at": "2026-03-19T00:25:00.000Z"
+      "id": "0R8P9KfGJCDULmlEoBagcO",
+      "name": "Trouble",
+      "artists": [
+        "Coldplay"
+      ],
+      "album": "Parachutes",
+      "image": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO",
+      "duration_ms": 273426,
+      "played_at": "2026-03-19T00:14:13.673Z"
+    },
+    {
+      "id": "35PKfoynRpVFoAUE3D5Kc6",
+      "name": "Work Song",
+      "artists": [
+        "Hozier"
+      ],
+      "album": "Hozier",
+      "image": "https://i.scdn.co/image/ab67616d00001e027a9bf5f82e32d33d4503fe7b",
+      "url": "https://open.spotify.com/track/35PKfoynRpVFoAUE3D5Kc6",
+      "duration_ms": 229715,
+      "played_at": "2026-03-18T23:10:32.824Z"
+    },
+    {
+      "id": "1Fid2jjqsHViMX6xNH70hE",
+      "name": "Atlantis",
+      "artists": [
+        "Seafret"
+      ],
+      "album": "Tell Me It's Real (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e11e851e3e7e9b09f2fe79be",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE",
+      "duration_ms": 229613,
+      "played_at": "2026-03-18T23:06:42.921Z"
+    },
+    {
+      "id": "7sq2z9oX2S0CvgTqCZ0ko4",
+      "name": "Strange",
+      "artists": [
+        "Celeste"
+      ],
+      "album": "Not Your Muse (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a724f0a2c23fdc0ef98201b8",
+      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4",
+      "duration_ms": 255986,
+      "played_at": "2026-03-18T23:02:52.548Z"
+    },
+    {
+      "id": "6CcJMwBtXByIz4zQLzFkKc",
+      "name": "i love you",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "image": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce",
+      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc",
+      "duration_ms": 291796,
+      "played_at": "2026-03-18T22:58:35.660Z"
     },
     {
       "id": "0rx7xu0RmZLpJjKNVZjSVv",
       "name": "Love Hangover (feat. Dominic Fike)",
-      "artists": ["JENNIE", "Dominic Fike"],
+      "artists": [
+        "JENNIE",
+        "Dominic Fike"
+      ],
       "album": "Ruby",
       "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
       "duration_ms": 180129,
-      "played_at": "2026-03-19T00:18:00.000Z"
+      "played_at": "2026-03-18T21:38:57.748Z"
     },
     {
       "id": "59MVohcr4ayOZvXW51QU4Z",
       "name": "Cool & Fresh",
-      "artists": ["Julien Bam", "Julia Beautx"],
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
       "album": "Cool & Fresh",
       "image": "https://i.scdn.co/image/ab67616d00001e02629f4f62f3bfef003cdeadc3",
       "url": "https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z",
       "duration_ms": 137500,
-      "played_at": "2026-03-19T00:05:00.000Z"
+      "played_at": "2026-03-18T21:38:57.411Z"
+    },
+    {
+      "id": "7IqcMkN74DjN8DszGInzbA",
+      "name": "They Dont Know Me Son",
+      "artists": [
+        "Ayparia"
+      ],
+      "album": "They Dont Know Me Son",
+      "image": "https://i.scdn.co/image/ab67616d00001e02eb9ae37d6d4746b663feab60",
+      "url": "https://open.spotify.com/track/7IqcMkN74DjN8DszGInzbA",
+      "duration_ms": 231966,
+      "played_at": "2026-03-18T21:38:38.059Z"
     },
     {
       "id": "1dtFnGE0tVD7Et1B6CNbDK",
       "name": "Neden Olmasın?",
-      "artists": ["Skapova", "melih"],
+      "artists": [
+        "Skapova",
+        "melih"
+      ],
       "album": "Hayat",
       "image": "https://i.scdn.co/image/ab67616d00001e020e5bd339644b4768a190261d",
       "url": "https://open.spotify.com/track/1dtFnGE0tVD7Et1B6CNbDK",
       "duration_ms": 234000,
-      "played_at": "2026-03-18T23:48:00.000Z"
+      "played_at": "2026-03-18T21:33:54.887Z"
     },
     {
-      "id": "2tYWrHXCwKCPO86kgqLemB",
-      "name": "Giderdi Hoşuma",
-      "artists": ["Yaşlı Amca"],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/2tYWrHXCwKCPO86kgqLemB",
-      "duration_ms": 220530,
-      "played_at": "2026-03-18T23:30:00.000Z"
-    },
-    {
-      "id": "0uI7yAKUf52Cn7y3sYyjiX",
-      "name": "3 Nights",
-      "artists": ["Dominic Fike"],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
-      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX",
-      "duration_ms": 177666,
-      "played_at": "2026-03-18T23:15:00.000Z"
+      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "name": "Monster",
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
+      "album": "Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
+      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "duration_ms": 181500,
+      "played_at": "2026-03-18T21:22:21.543Z"
     }
   ],
-  "fetched_at": "2026-03-19T00:30:00.000Z"
+  "fetched_at": "2026-03-19T02:06:18.180Z"
 }
