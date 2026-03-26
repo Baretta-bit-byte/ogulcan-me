@@ -170,6 +170,105 @@
   ],
   "recently_played": [
     {
+      "id": "2HP3tuIZn0E0asQVmn5hjj",
+      "name": "Champagne Coast",
+      "artists": [
+        "Blood Orange"
+      ],
+      "album": "Champagne Coast",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7948d74477ad9858a27efff9a",
+      "url": "https://open.spotify.com/track/2HP3tuIZn0E0asQVmn5hjj",
+      "duration_ms": 296106,
+      "played_at": "2026-03-26T21:23:16.911Z"
+    },
+    {
+      "id": "5e08a8D8T3z4LDXbUIjxKQ",
+      "name": "Wait a Minute!",
+      "artists": [
+        "WILLOW"
+      ],
+      "album": "ARDIPITHECUS",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cf8c069ed0d651e3a1f2bd27",
+      "url": "https://open.spotify.com/track/5e08a8D8T3z4LDXbUIjxKQ",
+      "duration_ms": 196520,
+      "played_at": "2026-03-26T21:21:53.622Z"
+    },
+    {
+      "id": "4LyDUWof7WjZbWjsSgVldW",
+      "name": "Gilded Lily",
+      "artists": [
+        "Cults"
+      ],
+      "album": "Gilded Lily",
+      "image": "https://i.scdn.co/image/ab6742d3000053b71fc9f583f16d44a6d93c0f2c",
+      "url": "https://open.spotify.com/track/4LyDUWof7WjZbWjsSgVldW",
+      "duration_ms": 220501,
+      "played_at": "2026-03-26T21:18:35.859Z"
+    },
+    {
+      "id": "6FxVw99inxzrYEjXGCTS9P",
+      "name": "Tryna Be Cool",
+      "artists": [
+        "Hi-Lo Jack",
+        "Lawrence",
+        "Stolen Jars",
+        "DAP The Contract"
+      ],
+      "album": "Tryna Be Cool",
+      "image": "https://i.scdn.co/image/ab67616d00001e024b756a588a2c7db87d07aab6",
+      "url": "https://open.spotify.com/track/6FxVw99inxzrYEjXGCTS9P",
+      "duration_ms": 219250,
+      "played_at": "2026-03-26T21:14:52.965Z"
+    },
+    {
+      "id": "5hM5arv9KDbCHS0k9uqwjr",
+      "name": "Borderline",
+      "artists": [
+        "Tame Impala"
+      ],
+      "album": "The Slow Rush",
+      "image": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr",
+      "duration_ms": 237800,
+      "played_at": "2026-03-26T21:11:13.186Z"
+    },
+    {
+      "id": "6r7tzvrzHJ3OCPLTpu291U",
+      "name": "KISSBURN",
+      "artists": [
+        "Bye Parula"
+      ],
+      "album": "KISSBURN",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7169ad366c7ff754a3352caa3",
+      "url": "https://open.spotify.com/track/6r7tzvrzHJ3OCPLTpu291U",
+      "duration_ms": 193920,
+      "played_at": "2026-03-26T21:07:15.994Z"
+    },
+    {
+      "id": "0oX7WxfjG1f6qpW8DRAmkZ",
+      "name": "Dark Red",
+      "artists": [
+        "Steve Lacy"
+      ],
+      "album": "Dark Red",
+      "image": "https://i.scdn.co/image/ab6742d3000053b76880ddc1b7b13cd1264e5f53",
+      "url": "https://open.spotify.com/track/0oX7WxfjG1f6qpW8DRAmkZ",
+      "duration_ms": 169971,
+      "played_at": "2026-03-26T21:03:58.800Z"
+    },
+    {
+      "id": "6sGIMrtIzQjdzNndVxe397",
+      "name": "So Easy (To Fall In Love)",
+      "artists": [
+        "Olivia Dean"
+      ],
+      "album": "The Art of Loving",
+      "image": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+      "duration_ms": 169000,
+      "played_at": "2026-03-26T20:58:44.433Z"
+    },
+    {
       "id": "4CUZQ7XKcF2UgzpkRpzvMS",
       "name": "Nocturne Op.115 – Static in My Veins",
       "artists": [
@@ -192,111 +291,7 @@
       "url": "https://open.spotify.com/track/3HUQqvV2zLwnVW9OusuvHl",
       "duration_ms": 73799,
       "played_at": "2026-03-23T21:19:51.576Z"
-    },
-    {
-      "id": "2xizRhme7pYeITbH1NLLGt",
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
-      "artists": [
-        "Pyotr Ilyich Tchaikovsky",
-        "André Previn",
-        "London Symphony Orchestra"
-      ],
-      "album": "Tchaikovsky: Swan Lake",
-      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
-      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-      "duration_ms": 166866,
-      "played_at": "2026-03-23T21:18:43.649Z"
-    },
-    {
-      "id": "2Z8WuEywRWYTKe1NybPQEW",
-      "name": "Ride",
-      "artists": [
-        "Twenty One Pilots"
-      ],
-      "album": "Blurryface",
-      "image": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW",
-      "duration_ms": 214506,
-      "played_at": "2026-03-20T19:55:33.699Z"
-    },
-    {
-      "id": "7DKvP85lU9rRpLzZvdIpgf",
-      "name": "Sonate Op.97 – Auf der Suche nach Wahrheit",
-      "artists": [
-        "Niklas M. Schneider",
-        "Pavel Dmitri Orlov",
-        "Lorenzo Matteo Bernardi"
-      ],
-      "album": "Sonate Op.97 – Auf der Suche nach Wahrheit",
-      "image": "https://i.scdn.co/image/ab67616d00001e020c7acb5fe79bec33f54a8bbb",
-      "url": "https://open.spotify.com/track/7DKvP85lU9rRpLzZvdIpgf",
-      "duration_ms": 63919,
-      "played_at": "2026-03-20T19:36:04.180Z"
-    },
-    {
-      "id": "7xQhj0s6pArp4Tm1gWlcQ2",
-      "name": "Sonatine Op. 77: Brise du Nord",
-      "artists": [
-        "Pavel Dmitri Orlov",
-        "Erik J. Lindström",
-        "Lorenzo Matteo Bernardi"
-      ],
-      "album": "Pôles Opposés",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cefa493b41dd9110727158a5",
-      "url": "https://open.spotify.com/track/7xQhj0s6pArp4Tm1gWlcQ2",
-      "duration_ms": 66959,
-      "played_at": "2026-03-20T19:34:59.821Z"
-    },
-    {
-      "id": "7DegCvTGSdtHdRfoQ04wVk",
-      "name": "Prélude Op.121 – Les Yeux qui Ne Rient Plus",
-      "artists": [
-        "Pavel Dmitri Orlov"
-      ],
-      "album": "Prélude Op.121 – Les Yeux qui Ne Rient Plus",
-      "image": "https://i.scdn.co/image/ab67616d00001e022e0a30f08b3d5c2f76127a03",
-      "url": "https://open.spotify.com/track/7DegCvTGSdtHdRfoQ04wVk",
-      "duration_ms": 82919,
-      "played_at": "2026-03-20T19:33:52.252Z"
-    },
-    {
-      "id": "5Zf25eS8E1znm9mez4cGsm",
-      "name": "Reflections",
-      "artists": [
-        "Toshifumi Hinata"
-      ],
-      "album": "ひとつぶの海",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
-      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
-      "duration_ms": 130693,
-      "played_at": "2026-03-20T19:32:29.223Z"
-    },
-    {
-      "id": "5OC5sgs7B6ieroHZmcjO1o",
-      "name": "Dining With Lectre",
-      "artists": [
-        "Peter Gundry"
-      ],
-      "album": "Salem's Heir",
-      "image": "https://i.scdn.co/image/ab67616d00001e027c033e33a40e6cf4d91c2ccd",
-      "url": "https://open.spotify.com/track/5OC5sgs7B6ieroHZmcjO1o",
-      "duration_ms": 214784,
-      "played_at": "2026-03-20T19:30:20.415Z"
-    },
-    {
-      "id": "3d66VesVavaAuGRgAXhkNy",
-      "name": "Prélude Op.41 – Pensées agitées",
-      "artists": [
-        "Niklas M. Schneider",
-        "Pavel Dmitri Orlov",
-        "Erik J. Lindström"
-      ],
-      "album": "Prélude Op.41 – Pensées agitées",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fa603e2a0155fccbfe733f22",
-      "url": "https://open.spotify.com/track/3d66VesVavaAuGRgAXhkNy",
-      "duration_ms": 52159,
-      "played_at": "2026-03-20T19:26:43.004Z"
     }
   ],
-  "fetched_at": "2026-03-24T11:24:59.369Z"
+  "fetched_at": "2026-03-26T21:30:38.267Z"
 }
