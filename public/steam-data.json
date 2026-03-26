@@ -12,16 +12,16 @@
     {
       "appid": 1158310,
       "name": "Crusader Kings III",
-      "playtime_2weeks": 726,
-      "playtime_forever": 41992,
+      "playtime_2weeks": 737,
+      "playtime_forever": 42003,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     },
     {
       "appid": 304390,
       "name": "FOR HONOR",
-      "playtime_2weeks": 63,
-      "playtime_forever": 821,
+      "playtime_2weeks": 89,
+      "playtime_forever": 848,
       "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
     },
@@ -35,6 +35,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 617472,
-  "fetched_at": "2026-03-26T19:16:53.443Z"
+  "totalPlaytime": 617510,
+  "fetched_at": "2026-03-26T21:37:23.677Z"
 }
