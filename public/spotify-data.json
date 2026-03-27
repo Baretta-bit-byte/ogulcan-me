@@ -74,6 +74,19 @@
       "genres": []
     },
     {
+      "id": "2QanQ4WoQAb8zwOzweQihV",
+      "name": "RAMPAGE",
+      "artists": [
+        "GRAVEDGR"
+      ],
+      "album": "6 FEET UNDER",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e77957525a1ad029c2e53c20",
+      "url": "https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV",
+      "preview_url": null,
+      "duration_ms": 179020,
+      "genres": []
+    },
+    {
       "id": "0JvAYeehnefUQdks3hWPyB",
       "name": "nevada - instrumental",
       "artists": [
@@ -152,148 +165,133 @@
       "preview_url": null,
       "duration_ms": 220530,
       "genres": []
-    },
-    {
-      "id": "3f9Mzvd3URfbbIJBX4pz9Z",
-      "name": "Phone Numbers",
-      "artists": [
-        "Dominic Fike",
-        "Kenny Beats"
-      ],
-      "album": "Phone Numbers",
-      "image": "https://i.scdn.co/image/ab67616d00001e021047fa3fb0151cf803d9c696",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z",
-      "preview_url": null,
-      "duration_ms": 146826,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "3Y4rUyw7XBCK6hGHCOt6rp",
-      "name": "Call It Fate, Call It Karma",
+      "id": "3HN4JNN9xeAl5VMyAIzf36",
+      "name": "final boss",
       "artists": [
-        "The Strokes"
+        "Bb trickz"
       ],
-      "album": "Comedown Machine",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f07ef193e0bb6a238ea37f0a",
-      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp",
-      "duration_ms": 204773,
-      "played_at": "2026-03-27T17:47:25.288Z"
+      "album": "lechita",
+      "image": "https://i.scdn.co/image/ab67616d00001e02aabf912616054b20a97020a3",
+      "url": "https://open.spotify.com/track/3HN4JNN9xeAl5VMyAIzf36",
+      "duration_ms": 84947,
+      "played_at": "2026-03-27T18:41:33.235Z"
     },
     {
-      "id": "7k6HFZe3WtGpbNUYY6Hndi",
-      "name": "Грустная сука",
+      "id": "4jpK5l6skgf1196MujhDOb",
+      "name": "perrita",
       "artists": [
-        "IC3PEAK"
+        "Bb trickz"
       ],
-      "album": "Сладкая жизнь",
-      "image": "https://i.scdn.co/image/ab67616d00001e0279a723c884c41c285ebf06dc",
-      "url": "https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi",
-      "duration_ms": 199663,
-      "played_at": "2026-03-27T17:43:54.642Z"
+      "album": "lechita",
+      "image": "https://i.scdn.co/image/ab67616d00001e02aabf912616054b20a97020a3",
+      "url": "https://open.spotify.com/track/4jpK5l6skgf1196MujhDOb",
+      "duration_ms": 82111,
+      "played_at": "2026-03-27T18:40:15.568Z"
     },
     {
-      "id": "1m8WpLYXEiNVZchsWEcCSy",
-      "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
+      "id": "1DJG2WokAWel0nNK8BKi2A",
+      "name": "Todo Da Igual",
       "artists": [
-        "Miguel",
-        "J. Cole",
-        "Salaam Remi"
+        "Depresión Sonora",
+        "Bb trickz"
       ],
-      "album": "War & Leisure",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
-      "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy",
-      "duration_ms": 322000,
-      "played_at": "2026-03-27T17:40:29.026Z"
+      "album": "DepresionTrickz",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
+      "url": "https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A",
+      "duration_ms": 102168,
+      "played_at": "2026-03-27T18:37:49.286Z"
     },
     {
-      "id": "1iiOnQBpssMKWXJJiqBsbN",
-      "name": "The Perfect Girl - Instrumental",
+      "id": "3gddoedYU7FMPAZnLUbzkO",
+      "name": "Soy Lo Peor",
       "artists": [
-        "Mareux"
+        "Depresión Sonora",
+        "Bb trickz"
       ],
-      "album": "The Perfect Girl (Instrumental)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a2ffe9e9f38ce4ddd0c25f58",
-      "url": "https://open.spotify.com/track/1iiOnQBpssMKWXJJiqBsbN",
-      "duration_ms": 194423,
-      "played_at": "2026-03-27T17:32:04.064Z"
+      "album": "DepresionTrickz",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
+      "url": "https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO",
+      "duration_ms": 113183,
+      "played_at": "2026-03-27T18:36:06.627Z"
     },
     {
-      "id": "4riDfclV7kPDT9D58FpmHd",
-      "name": "Some",
+      "id": "24wyiXlR3YK4rOl1YLWdsw",
+      "name": "supersexi",
       "artists": [
-        "Steve Lacy"
+        "ZECCA",
+        "Emilia",
+        "Bb trickz"
       ],
-      "album": "Some",
-      "image": "https://i.scdn.co/image/ab67616d00001e027c0c6c1cfac7464b6211587d",
-      "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd",
-      "duration_ms": 118393,
-      "played_at": "2026-03-27T17:31:59.894Z"
+      "album": "supersexi",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7c4bac87be244be1c2fa7d171",
+      "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
+      "duration_ms": 185770,
+      "played_at": "2026-03-27T18:34:12.479Z"
     },
     {
-      "id": "7FGGzGiHaSXaxuR8VSrRIN",
-      "name": "VOICES IN MY HEAD",
+      "id": "1wSWYepSwPyzy6gb41WjBb",
+      "name": "Pepa",
       "artists": [
-        "GRAVEDGR",
-        "WINSON"
+        "Bb trickz"
       ],
-      "album": "VOICES IN MY HEAD",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ba616a001f718a9b6f2fba03",
-      "url": "https://open.spotify.com/track/7FGGzGiHaSXaxuR8VSrRIN",
-      "duration_ms": 168000,
-      "played_at": "2026-03-27T17:12:31.160Z"
+      "album": "80'z",
+      "image": "https://i.scdn.co/image/ab67616d00001e025dd83173a8d59d092ff17fd5",
+      "url": "https://open.spotify.com/track/1wSWYepSwPyzy6gb41WjBb",
+      "duration_ms": 55933,
+      "played_at": "2026-03-27T18:30:35.488Z"
     },
     {
-      "id": "2QanQ4WoQAb8zwOzweQihV",
-      "name": "RAMPAGE",
+      "id": "2T2xxe7SoeobzpS2VOngte",
+      "name": "Back in the 80's",
       "artists": [
-        "GRAVEDGR"
+        "Bb trickz"
       ],
-      "album": "6 FEET UNDER",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e77957525a1ad029c2e53c20",
-      "url": "https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV",
-      "duration_ms": 179020,
-      "played_at": "2026-03-27T17:09:42.539Z"
+      "album": "80'z",
+      "image": "https://i.scdn.co/image/ab67616d00001e025dd83173a8d59d092ff17fd5",
+      "url": "https://open.spotify.com/track/2T2xxe7SoeobzpS2VOngte",
+      "duration_ms": 59806,
+      "played_at": "2026-03-27T18:29:40.001Z"
     },
     {
-      "id": "6UD0bSbfyPo10AzpY3YLpI",
-      "name": "LIKE A SLUT",
+      "id": "0Gay3QPsTjr7rMZ7iZvn3L",
+      "name": "Superchú!",
       "artists": [
-        "GRAVEDGR"
+        "Bb trickz"
       ],
-      "album": "AFTERLIFE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0222dd585f028fbbeef66af125",
-      "url": "https://open.spotify.com/track/6UD0bSbfyPo10AzpY3YLpI",
-      "duration_ms": 192000,
-      "played_at": "2026-03-27T17:06:44.604Z"
+      "album": "80'z",
+      "image": "https://i.scdn.co/image/ab67616d00001e025dd83173a8d59d092ff17fd5",
+      "url": "https://open.spotify.com/track/0Gay3QPsTjr7rMZ7iZvn3L",
+      "duration_ms": 82600,
+      "played_at": "2026-03-27T18:28:49.008Z"
     },
     {
-      "id": "4ujGSBsaRjYUybB1dMX0MK",
-      "name": "So Alive (VIP)",
+      "id": "1yptE8xo07yC3s8HSoCyug",
+      "name": "Malvada",
       "artists": [
-        "GRAVEDGR",
-        "OGUZ",
-        "ANGEL CANNON"
+        "Bb trickz"
       ],
-      "album": "So Alive (VIP)",
-      "image": "https://i.scdn.co/image/ab67616d00001e023100db27ad1ace400f9823bf",
-      "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK",
-      "duration_ms": 253161,
-      "played_at": "2026-03-27T17:03:32.941Z"
+      "album": "Malvada",
+      "image": "https://i.scdn.co/image/ab67616d00001e0262fd99be76921f718f3fe241",
+      "url": "https://open.spotify.com/track/1yptE8xo07yC3s8HSoCyug",
+      "duration_ms": 118143,
+      "played_at": "2026-03-27T18:27:17.589Z"
     },
     {
-      "id": "2QanQ4WoQAb8zwOzweQihV",
-      "name": "RAMPAGE",
+      "id": "69QfQRSu7YFBi2vUIQNg5T",
+      "name": "Not a Pretty Girl",
       "artists": [
-        "GRAVEDGR"
+        "Bb trickz"
       ],
-      "album": "6 FEET UNDER",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e77957525a1ad029c2e53c20",
-      "url": "https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV",
-      "duration_ms": 179020,
-      "played_at": "2026-03-27T16:59:09.904Z"
+      "album": "Not a Pretty Girl",
+      "image": "https://i.scdn.co/image/ab6742d3000053b74fbdf8e8f5753488abbdeba2",
+      "url": "https://open.spotify.com/track/69QfQRSu7YFBi2vUIQNg5T",
+      "duration_ms": 107882,
+      "played_at": "2026-03-27T18:25:16.210Z"
     }
   ],
-  "fetched_at": "2026-03-27T17:49:21.423Z"
+  "fetched_at": "2026-03-27T18:54:20.610Z"
 }
