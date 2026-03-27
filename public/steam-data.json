@@ -20,8 +20,8 @@
     {
       "appid": 304390,
       "name": "FOR HONOR",
-      "playtime_2weeks": 89,
-      "playtime_forever": 848,
+      "playtime_2weeks": 191,
+      "playtime_forever": 950,
       "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
     },
@@ -35,6 +35,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 617510,
-  "fetched_at": "2026-03-27T15:57:49.144Z"
+  "totalPlaytime": 617612,
+  "fetched_at": "2026-03-27T19:03:39.574Z"
 }
