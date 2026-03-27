@@ -172,6 +172,18 @@
   ],
   "recently_played": [
     {
+      "id": "770xOV94CmBw3ejTLBB9T2",
+      "name": "leche^^",
+      "artists": [
+        "Bb trickz"
+      ],
+      "album": "lechita",
+      "image": "https://i.scdn.co/image/ab67616d00001e02aabf912616054b20a97020a3",
+      "url": "https://open.spotify.com/track/770xOV94CmBw3ejTLBB9T2",
+      "duration_ms": 108629,
+      "played_at": "2026-03-27T19:42:07.468Z"
+    },
+    {
       "id": "3HN4JNN9xeAl5VMyAIzf36",
       "name": "final boss",
       "artists": [
@@ -282,19 +294,7 @@
       "url": "https://open.spotify.com/track/1yptE8xo07yC3s8HSoCyug",
       "duration_ms": 118143,
       "played_at": "2026-03-27T18:27:17.589Z"
-    },
-    {
-      "id": "69QfQRSu7YFBi2vUIQNg5T",
-      "name": "Not a Pretty Girl",
-      "artists": [
-        "Bb trickz"
-      ],
-      "album": "Not a Pretty Girl",
-      "image": "https://i.scdn.co/image/ab6742d3000053b74fbdf8e8f5753488abbdeba2",
-      "url": "https://open.spotify.com/track/69QfQRSu7YFBi2vUIQNg5T",
-      "duration_ms": 107882,
-      "played_at": "2026-03-27T18:25:16.210Z"
     }
   ],
-  "fetched_at": "2026-03-27T19:40:40.772Z"
+  "fetched_at": "2026-03-27T20:37:39.133Z"
 }
