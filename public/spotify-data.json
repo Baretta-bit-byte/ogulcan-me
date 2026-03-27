@@ -127,6 +127,20 @@
       "genres": []
     },
     {
+      "id": "1DJG2WokAWel0nNK8BKi2A",
+      "name": "Todo Da Igual",
+      "artists": [
+        "Depresión Sonora",
+        "Bb trickz"
+      ],
+      "album": "DepresionTrickz",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
+      "url": "https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A",
+      "preview_url": null,
+      "duration_ms": 102168,
+      "genres": []
+    },
+    {
       "id": "1dtFnGE0tVD7Et1B6CNbDK",
       "name": "Neden Olmasın?",
       "artists": [
@@ -141,29 +155,18 @@
       "genres": []
     },
     {
-      "id": "2Z8WuEywRWYTKe1NybPQEW",
-      "name": "Ride",
+      "id": "24wyiXlR3YK4rOl1YLWdsw",
+      "name": "supersexi",
       "artists": [
-        "Twenty One Pilots"
+        "ZECCA",
+        "Emilia",
+        "Bb trickz"
       ],
-      "album": "Blurryface",
-      "image": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW",
+      "album": "supersexi",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7c4bac87be244be1c2fa7d171",
+      "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
       "preview_url": null,
-      "duration_ms": 214506,
-      "genres": []
-    },
-    {
-      "id": "2tYWrHXCwKCPO86kgqLemB",
-      "name": "Giderdi Hoşuma",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/2tYWrHXCwKCPO86kgqLemB",
-      "preview_url": null,
-      "duration_ms": 220530,
+      "duration_ms": 185770,
       "genres": []
     }
   ],
@@ -293,5 +296,5 @@
       "played_at": "2026-03-27T18:25:16.210Z"
     }
   ],
-  "fetched_at": "2026-03-27T18:54:20.610Z"
+  "fetched_at": "2026-03-27T19:40:40.772Z"
 }
