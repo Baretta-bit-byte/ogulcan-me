@@ -172,6 +172,31 @@
   ],
   "recently_played": [
     {
+      "id": "0tom1WX1gawe6bYmZvVlTT",
+      "name": "Aşığım Sana",
+      "artists": [
+        "Kalben"
+      ],
+      "album": "Kayıp Aşıklar Ülkesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255bd60dd6ee8b78878307638",
+      "url": "https://open.spotify.com/track/0tom1WX1gawe6bYmZvVlTT",
+      "duration_ms": 186213,
+      "played_at": "2026-03-28T22:45:39.463Z"
+    },
+    {
+      "id": "5J8kSr3RXh07T9qQlEGwyq",
+      "name": "Kayıp Aşıklar Ülkesi",
+      "artists": [
+        "Kalben",
+        "Erkan Oğur"
+      ],
+      "album": "Kayıp Aşıklar Ülkesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255bd60dd6ee8b78878307638",
+      "url": "https://open.spotify.com/track/5J8kSr3RXh07T9qQlEGwyq",
+      "duration_ms": 243055,
+      "played_at": "2026-03-28T22:42:39.458Z"
+    },
+    {
       "id": "770xOV94CmBw3ejTLBB9T2",
       "name": "leche^^",
       "artists": [
@@ -270,31 +295,7 @@
       "url": "https://open.spotify.com/track/2T2xxe7SoeobzpS2VOngte",
       "duration_ms": 59806,
       "played_at": "2026-03-27T18:29:40.001Z"
-    },
-    {
-      "id": "0Gay3QPsTjr7rMZ7iZvn3L",
-      "name": "Superchú!",
-      "artists": [
-        "Bb trickz"
-      ],
-      "album": "80'z",
-      "image": "https://i.scdn.co/image/ab67616d00001e025dd83173a8d59d092ff17fd5",
-      "url": "https://open.spotify.com/track/0Gay3QPsTjr7rMZ7iZvn3L",
-      "duration_ms": 82600,
-      "played_at": "2026-03-27T18:28:49.008Z"
-    },
-    {
-      "id": "1yptE8xo07yC3s8HSoCyug",
-      "name": "Malvada",
-      "artists": [
-        "Bb trickz"
-      ],
-      "album": "Malvada",
-      "image": "https://i.scdn.co/image/ab67616d00001e0262fd99be76921f718f3fe241",
-      "url": "https://open.spotify.com/track/1yptE8xo07yC3s8HSoCyug",
-      "duration_ms": 118143,
-      "played_at": "2026-03-27T18:27:17.589Z"
     }
   ],
-  "fetched_at": "2026-03-27T20:37:39.133Z"
+  "fetched_at": "2026-03-28T22:58:00.973Z"
 }
