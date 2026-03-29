@@ -172,6 +172,18 @@
   ],
   "recently_played": [
     {
+      "id": "3dMgwtWS36yIWclZOZYWTh",
+      "name": "Damarlarımızda",
+      "artists": [
+        "Kalben"
+      ],
+      "album": "Kayıp Aşıklar Ülkesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255bd60dd6ee8b78878307638",
+      "url": "https://open.spotify.com/track/3dMgwtWS36yIWclZOZYWTh",
+      "duration_ms": 183624,
+      "played_at": "2026-03-28T23:46:14.303Z"
+    },
+    {
       "id": "0tom1WX1gawe6bYmZvVlTT",
       "name": "Aşığım Sana",
       "artists": [
@@ -283,19 +295,7 @@
       "url": "https://open.spotify.com/track/1wSWYepSwPyzy6gb41WjBb",
       "duration_ms": 55933,
       "played_at": "2026-03-27T18:30:35.488Z"
-    },
-    {
-      "id": "2T2xxe7SoeobzpS2VOngte",
-      "name": "Back in the 80's",
-      "artists": [
-        "Bb trickz"
-      ],
-      "album": "80'z",
-      "image": "https://i.scdn.co/image/ab67616d00001e025dd83173a8d59d092ff17fd5",
-      "url": "https://open.spotify.com/track/2T2xxe7SoeobzpS2VOngte",
-      "duration_ms": 59806,
-      "played_at": "2026-03-27T18:29:40.001Z"
     }
   ],
-  "fetched_at": "2026-03-28T22:58:00.973Z"
+  "fetched_at": "2026-03-29T02:22:10.747Z"
 }
