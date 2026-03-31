@@ -172,6 +172,18 @@
   ],
   "recently_played": [
     {
+      "id": "2DgdHcjWmO3qd50RzuBLgZ",
+      "name": "House of Memories",
+      "artists": [
+        "Panic! At The Disco"
+      ],
+      "album": "Death of a Bachelor",
+      "image": "https://i.scdn.co/image/ab67616d00001e0223152d9337d6c57b116ed13a",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ",
+      "duration_ms": 208706,
+      "played_at": "2026-03-31T07:18:29.606Z"
+    },
+    {
       "id": "3dMgwtWS36yIWclZOZYWTh",
       "name": "Damarlarımızda",
       "artists": [
@@ -283,19 +295,7 @@
       "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
       "duration_ms": 185770,
       "played_at": "2026-03-27T18:34:12.479Z"
-    },
-    {
-      "id": "1wSWYepSwPyzy6gb41WjBb",
-      "name": "Pepa",
-      "artists": [
-        "Bb trickz"
-      ],
-      "album": "80'z",
-      "image": "https://i.scdn.co/image/ab67616d00001e025dd83173a8d59d092ff17fd5",
-      "url": "https://open.spotify.com/track/1wSWYepSwPyzy6gb41WjBb",
-      "duration_ms": 55933,
-      "played_at": "2026-03-27T18:30:35.488Z"
     }
   ],
-  "fetched_at": "2026-03-29T02:22:10.747Z"
+  "fetched_at": "2026-03-31T07:50:58.627Z"
 }
