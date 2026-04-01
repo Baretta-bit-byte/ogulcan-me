@@ -172,6 +172,42 @@
   ],
   "recently_played": [
     {
+      "id": "6niIx0QbmKwJFk5H2vv9DT",
+      "name": "Light in Silence",
+      "artists": [
+        "Isidorus"
+      ],
+      "album": "Light in Silence",
+      "image": "https://i.scdn.co/image/ab67616d00001e028fa6406a49d75a50bc8741a8",
+      "url": "https://open.spotify.com/track/6niIx0QbmKwJFk5H2vv9DT",
+      "duration_ms": 124632,
+      "played_at": "2026-04-01T13:14:26.461Z"
+    },
+    {
+      "id": "5XaDdPqb8MTApJ5kqReqgg",
+      "name": "New Light",
+      "artists": [
+        "Dalby"
+      ],
+      "album": "New Light",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bc5c02266d20753c79831747",
+      "url": "https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg",
+      "duration_ms": 146801,
+      "played_at": "2026-04-01T13:12:19.197Z"
+    },
+    {
+      "id": "1zTqMY0pncDuHkLsQp9JHr",
+      "name": "Ryos",
+      "artists": [
+        "Xaverius Love"
+      ],
+      "album": "Ryos",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b9cfcb8963f05335a2d42fff",
+      "url": "https://open.spotify.com/track/1zTqMY0pncDuHkLsQp9JHr",
+      "duration_ms": 129444,
+      "played_at": "2026-04-01T13:09:53.066Z"
+    },
+    {
       "id": "2DgdHcjWmO3qd50RzuBLgZ",
       "name": "House of Memories",
       "artists": [
@@ -255,47 +291,7 @@
       "url": "https://open.spotify.com/track/4jpK5l6skgf1196MujhDOb",
       "duration_ms": 82111,
       "played_at": "2026-03-27T18:40:15.568Z"
-    },
-    {
-      "id": "1DJG2WokAWel0nNK8BKi2A",
-      "name": "Todo Da Igual",
-      "artists": [
-        "Depresión Sonora",
-        "Bb trickz"
-      ],
-      "album": "DepresionTrickz",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
-      "url": "https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A",
-      "duration_ms": 102168,
-      "played_at": "2026-03-27T18:37:49.286Z"
-    },
-    {
-      "id": "3gddoedYU7FMPAZnLUbzkO",
-      "name": "Soy Lo Peor",
-      "artists": [
-        "Depresión Sonora",
-        "Bb trickz"
-      ],
-      "album": "DepresionTrickz",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
-      "url": "https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO",
-      "duration_ms": 113183,
-      "played_at": "2026-03-27T18:36:06.627Z"
-    },
-    {
-      "id": "24wyiXlR3YK4rOl1YLWdsw",
-      "name": "supersexi",
-      "artists": [
-        "ZECCA",
-        "Emilia",
-        "Bb trickz"
-      ],
-      "album": "supersexi",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7c4bac87be244be1c2fa7d171",
-      "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
-      "duration_ms": 185770,
-      "played_at": "2026-03-27T18:34:12.479Z"
     }
   ],
-  "fetched_at": "2026-03-31T07:50:58.627Z"
+  "fetched_at": "2026-04-01T13:19:28.275Z"
 }
