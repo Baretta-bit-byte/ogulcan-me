@@ -172,6 +172,18 @@
   ],
   "recently_played": [
     {
+      "id": "2ztGXs1faF8d42FMZ5bk2q",
+      "name": "Falling Softly",
+      "artists": [
+        "Celestial Aria"
+      ],
+      "album": "Falling Softly",
+      "image": "https://i.scdn.co/image/ab67616d00001e02148eb2aa9122f2fb05ab4bf5",
+      "url": "https://open.spotify.com/track/2ztGXs1faF8d42FMZ5bk2q",
+      "duration_ms": 147856,
+      "played_at": "2026-04-01T15:01:37.536Z"
+    },
+    {
       "id": "6vNeLU4DFoFbCihyqYYjKa",
       "name": "Rewind",
       "artists": [
@@ -278,19 +290,7 @@
       "url": "https://open.spotify.com/track/27tSCBxZzVZkBDqG1u0A9O",
       "duration_ms": 128249,
       "played_at": "2026-04-01T13:25:14.204Z"
-    },
-    {
-      "id": "6a2tb8bOrFn6S5jbdt5f3j",
-      "name": "The inner core",
-      "artists": [
-        "Gjermund"
-      ],
-      "album": "The inner core",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c957da6e3638370099695af1",
-      "url": "https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j",
-      "duration_ms": 133275,
-      "played_at": "2026-04-01T13:23:00.803Z"
     }
   ],
-  "fetched_at": "2026-04-01T14:48:48.699Z"
+  "fetched_at": "2026-04-01T16:05:19.253Z"
 }
