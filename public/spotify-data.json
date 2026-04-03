@@ -172,125 +172,127 @@
   ],
   "recently_played": [
     {
-      "id": "2ztGXs1faF8d42FMZ5bk2q",
-      "name": "Falling Softly",
+      "id": "3y1EzRl5UEQxxd1f6Bv2aN",
+      "name": "When I'm Small",
       "artists": [
-        "Celestial Aria"
+        "Phantogram"
       ],
-      "album": "Falling Softly",
-      "image": "https://i.scdn.co/image/ab67616d00001e02148eb2aa9122f2fb05ab4bf5",
-      "url": "https://open.spotify.com/track/2ztGXs1faF8d42FMZ5bk2q",
-      "duration_ms": 147856,
-      "played_at": "2026-04-01T15:01:37.536Z"
+      "album": "Eyelid Movies",
+      "image": "https://i.scdn.co/image/ab67616d00001e0215f856c044360b26ac41f109",
+      "url": "https://open.spotify.com/track/3y1EzRl5UEQxxd1f6Bv2aN",
+      "duration_ms": 249066,
+      "played_at": "2026-04-03T22:30:38.095Z"
     },
     {
-      "id": "6vNeLU4DFoFbCihyqYYjKa",
-      "name": "Rewind",
+      "id": "7fd3aMiuwHWKsTdZafjOfZ",
+      "name": "A Pearl",
       "artists": [
-        "Kisane"
+        "Mitski"
       ],
-      "album": "Rewind",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cb81e493339077abf69950ad",
-      "url": "https://open.spotify.com/track/6vNeLU4DFoFbCihyqYYjKa",
-      "duration_ms": 146892,
-      "played_at": "2026-04-01T13:44:06.641Z"
+      "album": "Be the Cowboy",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c428f67b4a9b7e1114dfc117",
+      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ",
+      "duration_ms": 156145,
+      "played_at": "2026-04-03T22:26:28.999Z"
     },
     {
-      "id": "2qFujpWVqfb1kXJaMouLWr",
-      "name": "Skyward",
+      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "name": "Monster",
       "artists": [
-        "Finley Rhone"
+        "Julien Bam",
+        "Julia Beautx"
       ],
-      "album": "Skyward",
-      "image": "https://i.scdn.co/image/ab67616d00001e025cda0983e70c3be295cadff8",
-      "url": "https://open.spotify.com/track/2qFujpWVqfb1kXJaMouLWr",
-      "duration_ms": 139725,
-      "played_at": "2026-04-01T13:41:38.016Z"
+      "album": "Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
+      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "duration_ms": 181500,
+      "played_at": "2026-04-03T22:23:57.934Z"
     },
     {
-      "id": "6njtQNqzHNxooOv8piBOiG",
-      "name": "Flow State",
+      "id": "7tICCrK3CcyRFKza7yrR0z",
+      "name": "Homewrecker",
       "artists": [
-        "Ren Lockhart"
+        "sombr"
       ],
-      "album": "Flow State",
-      "image": "https://i.scdn.co/image/ab67616d00001e025fe1b5431306abaa1af21bec",
-      "url": "https://open.spotify.com/track/6njtQNqzHNxooOv8piBOiG",
-      "duration_ms": 124531,
-      "played_at": "2026-04-01T13:39:18.245Z"
+      "album": "Homewrecker",
+      "image": "https://i.scdn.co/image/ab67616d00001e029a8d41dca4c7d0ef23d76dd7",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z",
+      "duration_ms": 209066,
+      "played_at": "2026-04-03T22:19:12.168Z"
     },
     {
-      "id": "5pKBj0c5JXnzq8NBGTcsuE",
-      "name": "Proposals",
+      "id": "1DwscornXpj8fmOmYVlqZt",
+      "name": "Stateside + Zara Larsson",
       "artists": [
-        "M. Ljungström"
+        "PinkPantheress",
+        "Zara Larsson"
       ],
-      "album": "Proposals",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e7c165bc925e59e9287988a2",
-      "url": "https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE",
-      "duration_ms": 137813,
-      "played_at": "2026-04-01T13:37:15.945Z"
+      "album": "Fancy Some More?",
+      "image": "https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
+      "duration_ms": 184761,
+      "played_at": "2026-04-03T22:15:41.400Z"
     },
     {
-      "id": "4CeQU71JXOt8Jk4HRqGsk3",
-      "name": "Fields Of Blue",
+      "id": "3qhlB30KknSejmIvZZLjOD",
+      "name": "End of Beginning",
       "artists": [
-        "Milo Gabriel"
+        "Djo"
       ],
-      "album": "Fields Of Blue",
-      "image": "https://i.scdn.co/image/ab67616d00001e020650a3f00f9828bbd195a004",
-      "url": "https://open.spotify.com/track/4CeQU71JXOt8Jk4HRqGsk3",
-      "duration_ms": 139425,
-      "played_at": "2026-04-01T13:34:56.500Z"
+      "album": "DECIDE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+      "duration_ms": 159245,
+      "played_at": "2026-04-03T22:12:36.660Z"
     },
     {
-      "id": "6YaGAulioPMaUspmlfZwnj",
-      "name": "In Passing",
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
       "artists": [
-        "Naskal"
+        "Temper City"
       ],
-      "album": "In Passing",
-      "image": "https://i.scdn.co/image/ab67616d00001e0212ad22ff7cd4d33d1a6bb940",
-      "url": "https://open.spotify.com/track/6YaGAulioPMaUspmlfZwnj",
-      "duration_ms": 139250,
-      "played_at": "2026-04-01T13:32:36.461Z"
+      "album": "Self Aware",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d6c26d2ae723f7ab553d64cc",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+      "duration_ms": 180740,
+      "played_at": "2026-04-03T22:09:57.170Z"
     },
     {
-      "id": "5F6eiRwJQyVl8TLtNhGL3k",
-      "name": "Catching the Wind",
+      "id": "1NXbNEAcPvY5G1xvfN57aA",
+      "name": "Dracula",
       "artists": [
-        "Börn Visor"
+        "Tame Impala"
       ],
-      "album": "Catching the Wind",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b825b4eaf96967216f04de6c",
-      "url": "https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k",
-      "duration_ms": 121841,
-      "played_at": "2026-04-01T13:30:17.151Z"
+      "album": "Deadbeat",
+      "image": "https://i.scdn.co/image/ab67616d00001e02208500450dcd0fd294d7bd3b",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
+      "duration_ms": 205308,
+      "played_at": "2026-04-03T22:06:56.200Z"
     },
     {
-      "id": "42NQphnmJaNTvzfD57IFTI",
-      "name": "Through the Whispering Trees",
+      "id": "1sA1DhT0bLyeICf8NalPS7",
+      "name": "Aperture",
       "artists": [
-        "Taylor S Brooks"
+        "Harry Styles"
       ],
-      "album": "Through the Whispering Trees",
-      "image": "https://i.scdn.co/image/ab67616d00001e0243deb73643a7973aa1d81b65",
-      "url": "https://open.spotify.com/track/42NQphnmJaNTvzfD57IFTI",
-      "duration_ms": 185178,
-      "played_at": "2026-04-01T13:28:17.673Z"
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "image": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+      "url": "https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7",
+      "duration_ms": 311733,
+      "played_at": "2026-04-03T22:03:32.022Z"
     },
     {
-      "id": "27tSCBxZzVZkBDqG1u0A9O",
-      "name": "Aus Der Ferne Betrachtet",
+      "id": "4WFgvKVfEhb3IUAFGrutTR",
+      "name": "Love Me Not",
       "artists": [
-        "Oliver Dane"
+        "Ravyn Lenae"
       ],
-      "album": "Aus Der Ferne Betrachtet",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a97480de404164b594d0486",
-      "url": "https://open.spotify.com/track/27tSCBxZzVZkBDqG1u0A9O",
-      "duration_ms": 128249,
-      "played_at": "2026-04-01T13:25:14.204Z"
+      "album": "Bird's Eye",
+      "image": "https://i.scdn.co/image/ab67616d00001e020e62daaea2c7b94053e1c142",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
+      "duration_ms": 213466,
+      "played_at": "2026-04-03T21:58:18.697Z"
     }
   ],
-  "fetched_at": "2026-04-01T16:05:19.253Z"
+  "fetched_at": "2026-04-03T22:31:38.913Z"
 }
