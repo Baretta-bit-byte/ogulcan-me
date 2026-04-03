@@ -87,6 +87,19 @@
       "genres": []
     },
     {
+      "id": "5ViLKrbyL3HD6wsq3AB9eI",
+      "name": "White Keys",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "White Keys",
+      "image": "https://i.scdn.co/image/ab67616d00001e023696096119ef08824cf85ede",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI",
+      "preview_url": null,
+      "duration_ms": 144101,
+      "genres": []
+    },
+    {
       "id": "0JvAYeehnefUQdks3hWPyB",
       "name": "nevada - instrumental",
       "artists": [
@@ -153,146 +166,130 @@
       "preview_url": null,
       "duration_ms": 234000,
       "genres": []
-    },
-    {
-      "id": "24wyiXlR3YK4rOl1YLWdsw",
-      "name": "supersexi",
-      "artists": [
-        "ZECCA",
-        "Emilia",
-        "Bb trickz"
-      ],
-      "album": "supersexi",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7c4bac87be244be1c2fa7d171",
-      "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
-      "preview_url": null,
-      "duration_ms": 185770,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "3y1EzRl5UEQxxd1f6Bv2aN",
-      "name": "When I'm Small",
+      "id": "0U0ldCRmgCqhVvD6ksG63j",
+      "name": "Nightcall",
       "artists": [
-        "Phantogram"
+        "Kavinsky"
       ],
-      "album": "Eyelid Movies",
-      "image": "https://i.scdn.co/image/ab67616d00001e0215f856c044360b26ac41f109",
-      "url": "https://open.spotify.com/track/3y1EzRl5UEQxxd1f6Bv2aN",
-      "duration_ms": 249066,
-      "played_at": "2026-04-03T22:30:38.095Z"
+      "album": "Nightcall",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
+      "duration_ms": 258413,
+      "played_at": "2026-04-03T23:11:18.886Z"
     },
     {
-      "id": "7fd3aMiuwHWKsTdZafjOfZ",
-      "name": "A Pearl",
+      "id": "42Fm8hxhh8i0Zx0Si7XIxd",
+      "name": "Window",
       "artists": [
-        "Mitski"
+        "Still Woozy"
       ],
-      "album": "Be the Cowboy",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c428f67b4a9b7e1114dfc117",
-      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ",
-      "duration_ms": 156145,
-      "played_at": "2026-04-03T22:26:28.999Z"
+      "album": "If This Isn’t Nice, I Don’t Know What Is",
+      "image": "https://i.scdn.co/image/ab67616d00001e02178df9e236187d6f1e710f5f",
+      "url": "https://open.spotify.com/track/42Fm8hxhh8i0Zx0Si7XIxd",
+      "duration_ms": 139293,
+      "played_at": "2026-04-03T23:06:59.891Z"
     },
     {
-      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "id": "1SZUZfpj7LXj0I30EYzqGn",
+      "name": "The Lobotomy",
+      "artists": [
+        "Maebi"
+      ],
+      "album": "Saudade",
+      "image": "https://i.scdn.co/image/ab67616d00001e021b3a89ccc6739409f185763e",
+      "url": "https://open.spotify.com/track/1SZUZfpj7LXj0I30EYzqGn",
+      "duration_ms": 67500,
+      "played_at": "2026-04-03T23:04:40.273Z"
+    },
+    {
+      "id": "2VN7uPrbryJ7nE2MXX3f9a",
+      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "artists": [
+        "Survivor"
+      ],
+      "album": "Survivor Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ea1fd36ef7d78214011371c",
+      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a",
+      "duration_ms": 230106,
+      "played_at": "2026-04-03T23:03:32.704Z"
+    },
+    {
+      "id": "348sen7sS07L8WpWxoj3Kz",
+      "name": "Sweatpants-(Battle Tapes Remix)",
+      "artists": [
+        "Jah"
+      ],
+      "album": "Sweatpants-(Battle Tapes Remix)",
+      "image": "https://i.scdn.co/image/ab67616d00001e027f536ece025040d36ef0bb97",
+      "url": "https://open.spotify.com/track/348sen7sS07L8WpWxoj3Kz",
+      "duration_ms": 252308,
+      "played_at": "2026-04-03T22:59:42.785Z"
+    },
+    {
+      "id": "2UREu1Y8CO4jXkbvqAtP7g",
       "name": "Monster",
       "artists": [
-        "Julien Bam",
-        "Julia Beautx"
+        "Skillet"
       ],
-      "album": "Monster",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
-      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
-      "duration_ms": 181500,
-      "played_at": "2026-04-03T22:23:57.934Z"
+      "album": "Awake",
+      "image": "https://i.scdn.co/image/ab67616d00001e0289f8d16ffe15fccfa0a7e31d",
+      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
+      "duration_ms": 178013,
+      "played_at": "2026-04-03T22:55:30.510Z"
     },
     {
-      "id": "7tICCrK3CcyRFKza7yrR0z",
-      "name": "Homewrecker",
+      "id": "0TZejo18HlJ86OrWNsXKnw",
+      "name": "Mrs Magic",
       "artists": [
-        "sombr"
+        "Strawberry Guy"
       ],
-      "album": "Homewrecker",
-      "image": "https://i.scdn.co/image/ab67616d00001e029a8d41dca4c7d0ef23d76dd7",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z",
-      "duration_ms": 209066,
-      "played_at": "2026-04-03T22:19:12.168Z"
+      "album": "Mrs Magic",
+      "image": "https://i.scdn.co/image/ab67616d00001e024695126ef47156001851e95c",
+      "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw",
+      "duration_ms": 208500,
+      "played_at": "2026-04-03T22:52:32.428Z"
     },
     {
-      "id": "1DwscornXpj8fmOmYVlqZt",
-      "name": "Stateside + Zara Larsson",
+      "id": "1kuGVB7EU95pJObxwvfwKS",
+      "name": "vampire",
       "artists": [
-        "PinkPantheress",
-        "Zara Larsson"
+        "Olivia Rodrigo"
       ],
-      "album": "Fancy Some More?",
-      "image": "https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
-      "duration_ms": 184761,
-      "played_at": "2026-04-03T22:15:41.400Z"
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
+      "duration_ms": 219724,
+      "played_at": "2026-04-03T22:49:04.061Z"
     },
     {
-      "id": "3qhlB30KknSejmIvZZLjOD",
-      "name": "End of Beginning",
+      "id": "6LHhaWs0HzuPhflDWiVtp1",
+      "name": "I duckinf hatw you",
       "artists": [
-        "Djo"
+        "Ghostemane",
+        "Parv0"
       ],
-      "album": "DECIDE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "duration_ms": 159245,
-      "played_at": "2026-04-03T22:12:36.660Z"
+      "album": "HUMAN ERR0R",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abcea911bfb4b25200f770f",
+      "url": "https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1",
+      "duration_ms": 117894,
+      "played_at": "2026-04-03T22:45:28.523Z"
     },
     {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
+      "id": "7yOPE5LvpkynNqCk7nLEwl",
+      "name": "HURT",
       "artists": [
-        "Temper City"
+        "1 800 PAIN"
       ],
-      "album": "Self Aware",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d6c26d2ae723f7ab553d64cc",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-      "duration_ms": 180740,
-      "played_at": "2026-04-03T22:09:57.170Z"
-    },
-    {
-      "id": "1NXbNEAcPvY5G1xvfN57aA",
-      "name": "Dracula",
-      "artists": [
-        "Tame Impala"
-      ],
-      "album": "Deadbeat",
-      "image": "https://i.scdn.co/image/ab67616d00001e02208500450dcd0fd294d7bd3b",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
-      "duration_ms": 205308,
-      "played_at": "2026-04-03T22:06:56.200Z"
-    },
-    {
-      "id": "1sA1DhT0bLyeICf8NalPS7",
-      "name": "Aperture",
-      "artists": [
-        "Harry Styles"
-      ],
-      "album": "Kiss All The Time. Disco, Occasionally.",
-      "image": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
-      "url": "https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7",
-      "duration_ms": 311733,
-      "played_at": "2026-04-03T22:03:32.022Z"
-    },
-    {
-      "id": "4WFgvKVfEhb3IUAFGrutTR",
-      "name": "Love Me Not",
-      "artists": [
-        "Ravyn Lenae"
-      ],
-      "album": "Bird's Eye",
-      "image": "https://i.scdn.co/image/ab67616d00001e020e62daaea2c7b94053e1c142",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
-      "duration_ms": 213466,
-      "played_at": "2026-04-03T21:58:18.697Z"
+      "album": "BEST HOUSE ON A BAD BLOCK",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c4ce061ab0ab626879dc4af0",
+      "url": "https://open.spotify.com/track/7yOPE5LvpkynNqCk7nLEwl",
+      "duration_ms": 173181,
+      "played_at": "2026-04-03T22:43:25.295Z"
     }
   ],
-  "fetched_at": "2026-04-03T22:31:38.913Z"
+  "fetched_at": "2026-04-03T23:32:21.831Z"
 }
