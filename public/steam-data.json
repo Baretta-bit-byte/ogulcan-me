@@ -4,11 +4,19 @@
     "personaname": "Babagi",
     "avatarfull": "https://avatars.steamstatic.com/ea978cd9c52cef376b59ded765b73cf17e719bb0_full.jpg",
     "profileurl": "https://steamcommunity.com/id/ogi4535/",
-    "personastate": 1,
-    "gameid": "779340",
-    "gameextrainfo": "Total War: THREE KINGDOMS"
+    "personastate": 0,
+    "gameid": null,
+    "gameextrainfo": null
   },
   "recentGames": [
+    {
+      "appid": 779340,
+      "name": "Total War: THREE KINGDOMS",
+      "playtime_2weeks": 253,
+      "playtime_forever": 3713,
+      "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
+    },
     {
       "appid": 304390,
       "name": "FOR HONOR",
@@ -26,31 +34,23 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203770/header.jpg"
     },
     {
-      "appid": 779340,
-      "name": "Total War: THREE KINGDOMS",
-      "playtime_2weeks": 162,
-      "playtime_forever": 3623,
-      "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
-    },
-    {
-      "appid": 1158310,
-      "name": "Crusader Kings III",
-      "playtime_2weeks": 71,
-      "playtime_forever": 42003,
-      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
-    },
-    {
       "appid": 381210,
       "name": "Dead by Daylight",
       "playtime_2weeks": 27,
       "playtime_forever": 50627,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
+    },
+    {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "playtime_2weeks": 11,
+      "playtime_forever": 42003,
+      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 617972,
-  "fetched_at": "2026-04-04T15:38:45.857Z"
+  "totalPlaytime": 618062,
+  "fetched_at": "2026-04-04T18:52:49.948Z"
 }
