@@ -18,20 +18,20 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
     },
     {
-      "appid": 304390,
-      "name": "FOR HONOR",
-      "playtime_2weeks": 191,
-      "playtime_forever": 950,
-      "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
-    },
-    {
       "appid": 203770,
       "name": "Crusader Kings II",
       "playtime_2weeks": 168,
       "playtime_forever": 489,
       "img_icon_url": "56e9c15cbeb6c1f873f7f1dc757bae7618861484",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203770/header.jpg"
+    },
+    {
+      "appid": 304390,
+      "name": "FOR HONOR",
+      "playtime_2weeks": 128,
+      "playtime_forever": 950,
+      "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
     },
     {
       "appid": 381210,
@@ -52,5 +52,5 @@
   ],
   "totalGames": 125,
   "totalPlaytime": 618062,
-  "fetched_at": "2026-04-04T18:52:49.948Z"
+  "fetched_at": "2026-04-04T21:38:12.418Z"
 }
