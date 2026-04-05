@@ -47,6 +47,19 @@
       "genres": []
     },
     {
+      "id": "4iqF5rU8LW2pYs1uBg43js",
+      "name": "Ego",
+      "artists": [
+        "Julia Beautx"
+      ],
+      "album": "Ego",
+      "image": "https://i.scdn.co/image/ab6742d3000053b76f8a45ba0e22c2676e80c364",
+      "url": "https://open.spotify.com/track/4iqF5rU8LW2pYs1uBg43js",
+      "preview_url": null,
+      "duration_ms": 173610,
+      "genres": []
+    },
+    {
       "id": "7yNf9YjeO5JXUE3JEBgnYc",
       "name": "Babydoll",
       "artists": [
@@ -98,19 +111,6 @@
       "url": "https://open.spotify.com/track/4DQ7mmVJh2ojxjmhJSOF4R",
       "preview_url": null,
       "duration_ms": 120538,
-      "genres": []
-    },
-    {
-      "id": "4iqF5rU8LW2pYs1uBg43js",
-      "name": "Ego",
-      "artists": [
-        "Julia Beautx"
-      ],
-      "album": "Ego",
-      "image": "https://i.scdn.co/image/ab6742d3000053b76f8a45ba0e22c2676e80c364",
-      "url": "https://open.spotify.com/track/4iqF5rU8LW2pYs1uBg43js",
-      "preview_url": null,
-      "duration_ms": 173610,
       "genres": []
     },
     {
@@ -168,6 +168,18 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3Mur7gYENrN0nvKMKIw1ZS",
+      "name": "Killshot",
+      "artists": [
+        "ssjishmael"
+      ],
+      "album": "Killshot",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d4185767539513bfac74d234",
+      "url": "https://open.spotify.com/track/3Mur7gYENrN0nvKMKIw1ZS",
+      "duration_ms": 127081,
+      "played_at": "2026-04-05T18:01:41.580Z"
+    },
     {
       "id": "3HoGF4zDfQOkNQnUY6W2nH",
       "name": "Silhouette",
@@ -277,19 +289,7 @@
       "url": "https://open.spotify.com/track/1SZUZfpj7LXj0I30EYzqGn",
       "duration_ms": 67500,
       "played_at": "2026-04-03T23:04:40.273Z"
-    },
-    {
-      "id": "2VN7uPrbryJ7nE2MXX3f9a",
-      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
-      "artists": [
-        "Survivor"
-      ],
-      "album": "Survivor Greatest Hits",
-      "image": "https://i.scdn.co/image/ab67616d00001e024ea1fd36ef7d78214011371c",
-      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a",
-      "duration_ms": 230106,
-      "played_at": "2026-04-03T23:03:32.704Z"
     }
   ],
-  "fetched_at": "2026-04-05T17:59:31.374Z"
+  "fetched_at": "2026-04-05T18:58:22.775Z"
 }
