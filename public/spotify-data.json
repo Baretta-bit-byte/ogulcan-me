@@ -169,6 +169,30 @@
   ],
   "recently_played": [
     {
+      "id": "3HoGF4zDfQOkNQnUY6W2nH",
+      "name": "Silhouette",
+      "artists": [
+        "Pastel Ghost"
+      ],
+      "album": "Silhouette",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ff0068f58e74e677be844ea",
+      "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH",
+      "duration_ms": 239999,
+      "played_at": "2026-04-05T19:04:46.248Z"
+    },
+    {
+      "id": "4zGaQJ2n2hOYuLPE1VWJeX",
+      "name": "BANKAI SHUNSUI X KISUKE - PHONK",
+      "artists": [
+        "Icykiddo"
+      ],
+      "album": "BANKAI SHUNSUI X KISUKE (PHONK)",
+      "image": "https://i.scdn.co/image/ab67616d00001e027ecf74019ef918e097f4a25e",
+      "url": "https://open.spotify.com/track/4zGaQJ2n2hOYuLPE1VWJeX",
+      "duration_ms": 192479,
+      "played_at": "2026-04-05T19:01:49.449Z"
+    },
+    {
       "id": "3Mur7gYENrN0nvKMKIw1ZS",
       "name": "Killshot",
       "artists": [
@@ -265,31 +289,7 @@
       "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
       "duration_ms": 258413,
       "played_at": "2026-04-03T23:11:18.886Z"
-    },
-    {
-      "id": "42Fm8hxhh8i0Zx0Si7XIxd",
-      "name": "Window",
-      "artists": [
-        "Still Woozy"
-      ],
-      "album": "If This Isn’t Nice, I Don’t Know What Is",
-      "image": "https://i.scdn.co/image/ab67616d00001e02178df9e236187d6f1e710f5f",
-      "url": "https://open.spotify.com/track/42Fm8hxhh8i0Zx0Si7XIxd",
-      "duration_ms": 139293,
-      "played_at": "2026-04-03T23:06:59.891Z"
-    },
-    {
-      "id": "1SZUZfpj7LXj0I30EYzqGn",
-      "name": "The Lobotomy",
-      "artists": [
-        "Maebi"
-      ],
-      "album": "Saudade",
-      "image": "https://i.scdn.co/image/ab67616d00001e021b3a89ccc6739409f185763e",
-      "url": "https://open.spotify.com/track/1SZUZfpj7LXj0I30EYzqGn",
-      "duration_ms": 67500,
-      "played_at": "2026-04-03T23:04:40.273Z"
     }
   ],
-  "fetched_at": "2026-04-05T18:58:22.775Z"
+  "fetched_at": "2026-04-05T19:39:22.084Z"
 }
