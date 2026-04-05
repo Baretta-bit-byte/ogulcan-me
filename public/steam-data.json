@@ -4,9 +4,9 @@
     "personaname": "Babagi",
     "avatarfull": "https://avatars.steamstatic.com/ea978cd9c52cef376b59ded765b73cf17e719bb0_full.jpg",
     "profileurl": "https://steamcommunity.com/id/ogi4535/",
-    "personastate": 1,
-    "gameid": "381210",
-    "gameextrainfo": "Dead by Daylight"
+    "personastate": 0,
+    "gameid": null,
+    "gameextrainfo": null
   },
   "recentGames": [
     {
@@ -20,8 +20,8 @@
     {
       "appid": 203770,
       "name": "Crusader Kings II",
-      "playtime_2weeks": 168,
-      "playtime_forever": 489,
+      "playtime_2weeks": 183,
+      "playtime_forever": 504,
       "img_icon_url": "56e9c15cbeb6c1f873f7f1dc757bae7618861484",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203770/header.jpg"
     },
@@ -36,8 +36,8 @@
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 57,
-      "playtime_forever": 50657,
+      "playtime_2weeks": 74,
+      "playtime_forever": 50674,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
@@ -51,6 +51,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 618327,
-  "fetched_at": "2026-04-05T15:39:40.878Z"
+  "totalPlaytime": 618359,
+  "fetched_at": "2026-04-05T18:54:10.784Z"
 }
