@@ -4,9 +4,9 @@
     "personaname": "Babagi",
     "avatarfull": "https://avatars.steamstatic.com/ea978cd9c52cef376b59ded765b73cf17e719bb0_full.jpg",
     "profileurl": "https://steamcommunity.com/id/ogi4535/",
-    "personastate": 3,
-    "gameid": null,
-    "gameextrainfo": null
+    "personastate": 1,
+    "gameid": "381210",
+    "gameextrainfo": "Dead by Daylight"
   },
   "recentGames": [
     {
@@ -36,8 +36,8 @@
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 27,
-      "playtime_forever": 50627,
+      "playtime_2weeks": 57,
+      "playtime_forever": 50657,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
@@ -51,6 +51,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 618297,
-  "fetched_at": "2026-04-05T13:11:05.605Z"
+  "totalPlaytime": 618327,
+  "fetched_at": "2026-04-05T15:39:40.878Z"
 }
