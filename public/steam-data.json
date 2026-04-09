@@ -4,16 +4,16 @@
     "personaname": "Babagi",
     "avatarfull": "https://avatars.steamstatic.com/ea978cd9c52cef376b59ded765b73cf17e719bb0_full.jpg",
     "profileurl": "https://steamcommunity.com/id/ogi4535/",
-    "personastate": 1,
-    "gameid": "779340",
-    "gameextrainfo": "Total War: THREE KINGDOMS"
+    "personastate": 0,
+    "gameid": null,
+    "gameextrainfo": null
   },
   "recentGames": [
     {
       "appid": 779340,
       "name": "Total War: THREE KINGDOMS",
-      "playtime_2weeks": 879,
-      "playtime_forever": 4340,
+      "playtime_2weeks": 980,
+      "playtime_forever": 4441,
       "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
     },
@@ -51,6 +51,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 618751,
-  "fetched_at": "2026-04-09T16:20:59.991Z"
+  "totalPlaytime": 618852,
+  "fetched_at": "2026-04-09T19:17:15.327Z"
 }
