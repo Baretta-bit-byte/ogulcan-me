@@ -169,6 +169,30 @@
   ],
   "recently_played": [
     {
+      "id": "3Y3KY9Apoeet0mYKM5QySi",
+      "name": "worldstar money (interlude)",
+      "artists": [
+        "Joji"
+      ],
+      "album": "In Tongues (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0208bc813a73c5f650e1017b0f",
+      "url": "https://open.spotify.com/track/3Y3KY9Apoeet0mYKM5QySi",
+      "duration_ms": 126312,
+      "played_at": "2026-04-12T13:35:34.576Z"
+    },
+    {
+      "id": "5rPNVwYjVEgkq6YNPki4Zc",
+      "name": "BABYDOLL",
+      "artists": [
+        "Ari Abdul"
+      ],
+      "album": "BABYDOLL",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ef2703ce223d63435928571",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc",
+      "duration_ms": 196235,
+      "played_at": "2026-04-12T13:33:27.755Z"
+    },
+    {
       "id": "3HoGF4zDfQOkNQnUY6W2nH",
       "name": "Silhouette",
       "artists": [
@@ -265,31 +289,7 @@
       "url": "https://open.spotify.com/track/4iqF5rU8LW2pYs1uBg43js",
       "duration_ms": 173610,
       "played_at": "2026-04-05T16:41:00.226Z"
-    },
-    {
-      "id": "4XvcHTUfIlWfyJTRG0aqlo",
-      "name": "2055",
-      "artists": [
-        "Sleepy Hallow"
-      ],
-      "album": "Still Sleep?",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f1f9663ee41739a61d46343a",
-      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo",
-      "duration_ms": 123986,
-      "played_at": "2026-04-04T00:11:49.743Z"
-    },
-    {
-      "id": "0U0ldCRmgCqhVvD6ksG63j",
-      "name": "Nightcall",
-      "artists": [
-        "Kavinsky"
-      ],
-      "album": "Nightcall",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
-      "duration_ms": 258413,
-      "played_at": "2026-04-03T23:11:18.886Z"
     }
   ],
-  "fetched_at": "2026-04-05T19:39:22.084Z"
+  "fetched_at": "2026-04-12T14:08:40.417Z"
 }
