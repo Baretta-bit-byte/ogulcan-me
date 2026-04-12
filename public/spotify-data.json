@@ -34,19 +34,6 @@
       "genres": []
     },
     {
-      "id": "7IqcMkN74DjN8DszGInzbA",
-      "name": "They Dont Know Me Son",
-      "artists": [
-        "Ayparia"
-      ],
-      "album": "They Dont Know Me Son",
-      "image": "https://i.scdn.co/image/ab67616d00001e02eb9ae37d6d4746b663feab60",
-      "url": "https://open.spotify.com/track/7IqcMkN74DjN8DszGInzbA",
-      "preview_url": null,
-      "duration_ms": 231966,
-      "genres": []
-    },
-    {
       "id": "4iqF5rU8LW2pYs1uBg43js",
       "name": "Ego",
       "artists": [
@@ -57,33 +44,6 @@
       "url": "https://open.spotify.com/track/4iqF5rU8LW2pYs1uBg43js",
       "preview_url": null,
       "duration_ms": 173610,
-      "genres": []
-    },
-    {
-      "id": "7yNf9YjeO5JXUE3JEBgnYc",
-      "name": "Babydoll",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "preview_url": null,
-      "duration_ms": 97960,
-      "genres": []
-    },
-    {
-      "id": "0rx7xu0RmZLpJjKNVZjSVv",
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "artists": [
-        "JENNIE",
-        "Dominic Fike"
-      ],
-      "album": "Ruby",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
-      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
-      "preview_url": null,
-      "duration_ms": 180129,
       "genres": []
     },
     {
@@ -114,16 +74,16 @@
       "genres": []
     },
     {
-      "id": "5ViLKrbyL3HD6wsq3AB9eI",
-      "name": "White Keys",
+      "id": "7IqcMkN74DjN8DszGInzbA",
+      "name": "They Dont Know Me Son",
       "artists": [
-        "Dominic Fike"
+        "Ayparia"
       ],
-      "album": "White Keys",
-      "image": "https://i.scdn.co/image/ab67616d00001e023696096119ef08824cf85ede",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI",
+      "album": "They Dont Know Me Son",
+      "image": "https://i.scdn.co/image/ab67616d00001e02eb9ae37d6d4746b663feab60",
+      "url": "https://open.spotify.com/track/7IqcMkN74DjN8DszGInzbA",
       "preview_url": null,
-      "duration_ms": 144101,
+      "duration_ms": 231966,
       "genres": []
     },
     {
@@ -141,29 +101,73 @@
       "genres": []
     },
     {
-      "id": "0b6xZk9f96N77BfmYWnQNC",
-      "name": "Mama's Boy",
+      "id": "0rx7xu0RmZLpJjKNVZjSVv",
+      "name": "Love Hangover (feat. Dominic Fike)",
       "artists": [
+        "JENNIE",
         "Dominic Fike"
       ],
-      "album": "Sunburn",
-      "image": "https://i.scdn.co/image/ab67616d00001e025b26c1b56d89c1416d21db60",
-      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC",
+      "album": "Ruby",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
+      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
       "preview_url": null,
-      "duration_ms": 155721,
+      "duration_ms": 180129,
       "genres": []
     },
     {
-      "id": "0uI7yAKUf52Cn7y3sYyjiX",
-      "name": "3 Nights",
+      "id": "1DJG2WokAWel0nNK8BKi2A",
+      "name": "Todo Da Igual",
       "artists": [
-        "Dominic Fike"
+        "Depresión Sonora",
+        "Bb trickz"
       ],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
-      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX",
+      "album": "DepresionTrickz",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
+      "url": "https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A",
       "preview_url": null,
-      "duration_ms": 177666,
+      "duration_ms": 102168,
+      "genres": []
+    },
+    {
+      "id": "1dtFnGE0tVD7Et1B6CNbDK",
+      "name": "Neden Olmasın?",
+      "artists": [
+        "Skapova",
+        "melih"
+      ],
+      "album": "Hayat",
+      "image": "https://i.scdn.co/image/ab67616d00001e020e5bd339644b4768a190261d",
+      "url": "https://open.spotify.com/track/1dtFnGE0tVD7Et1B6CNbDK",
+      "preview_url": null,
+      "duration_ms": 234000,
+      "genres": []
+    },
+    {
+      "id": "24wyiXlR3YK4rOl1YLWdsw",
+      "name": "supersexi",
+      "artists": [
+        "ZECCA",
+        "Emilia",
+        "Bb trickz"
+      ],
+      "album": "supersexi",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7c4bac87be244be1c2fa7d171",
+      "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
+      "preview_url": null,
+      "duration_ms": 185770,
+      "genres": []
+    },
+    {
+      "id": "2Z8WuEywRWYTKe1NybPQEW",
+      "name": "Ride",
+      "artists": [
+        "Twenty One Pilots"
+      ],
+      "album": "Blurryface",
+      "image": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW",
+      "preview_url": null,
+      "duration_ms": 214506,
       "genres": []
     }
   ],
@@ -291,5 +295,5 @@
       "played_at": "2026-04-05T16:41:00.226Z"
     }
   ],
-  "fetched_at": "2026-04-12T14:08:40.417Z"
+  "fetched_at": "2026-04-12T15:04:00.758Z"
 }
