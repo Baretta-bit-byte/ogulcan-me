@@ -27,6 +27,7 @@ import {
   Tag,
   Bookmark,
   ScrollText,
+  Crown,
 } from "lucide-react";
 import Header from "./Header";
 import ThemeToggle from "./ThemeToggle";
@@ -80,6 +81,12 @@ const NAV_GROUPS: { title: string; items: NavItem[] }[] = [
       { href: "/vinyl",   label: "Vinyl",       icon: Disc3    },
       { href: "/flickr",  label: "Photography", icon: Camera   },
       { href: "/steam",   label: "Gaming",      icon: Gamepad2 },
+    ],
+  },
+  {
+    title: "Game",
+    items: [
+      { href: "/knights-tour", label: "Knight's Tour", icon: Crown },
     ],
   },
   {

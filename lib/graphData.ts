@@ -44,6 +44,7 @@ export const graphNodes: GraphNode[] = [
   { id: "bookmarks", label: "/bookmarks", type: "personal", url: "/bookmarks", description: "YouTube channels, daily puzzles, curated resources", maturity: "seedling", lastTended: "2026-03-15" },
   { id: "changelog", label: "/changelog", type: "tech", url: "/changelog", description: "Site version history", maturity: "evergreen", lastTended: "2026-03-18" },
   { id: "colophon", label: "/colophon", type: "tech", url: "/colophon", description: "Architectural decisions — why each technology was chosen and what was traded away", maturity: "sapling", lastTended: "2026-03-18" },
+  { id: "knights-tour", label: "Knight's Tour", type: "math", url: "/knights-tour", description: "Interactive Knight's Tour puzzle: move a chess knight to every square exactly once using Warnsdorff's heuristic for hints. Leaderboard, undo, adjustable board size.", maturity: "seedling", lastTended: "2026-04-14" },
 ];
 
 export const graphLinks: GraphLink[] = [
@@ -102,4 +103,7 @@ export const graphLinks: GraphLink[] = [
   { source: "gametheory", target: "til" },           // math concepts in garden notes
   { source: "posts", target: "colophon" },           // essays reference architecture decisions
   { source: "now", target: "about" },                // /now and /about are complementary
+  { source: "home", target: "knights-tour" },        // game lives at root level
+  { source: "gametheory", target: "knights-tour" },  // graph theory / combinatorics connection
+  { source: "bookmarks", target: "knights-tour" },   // interactive puzzles
 ];
