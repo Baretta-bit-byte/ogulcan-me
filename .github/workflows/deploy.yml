@@ -47,6 +47,7 @@ jobs:
           CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
           STEAM_API_KEY:         ${{ secrets.STEAM_API_KEY }}
           STEAM_ID:              ${{ secrets.STEAM_ID }}
+          NEXT_PUBLIC_KT_ADMIN_HASH: ${{ secrets.NEXT_PUBLIC_KT_ADMIN_HASH }}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
