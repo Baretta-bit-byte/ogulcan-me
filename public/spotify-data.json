@@ -20,20 +20,6 @@
       "genres": []
     },
     {
-      "id": "59MVohcr4ayOZvXW51QU4Z",
-      "name": "Cool & Fresh",
-      "artists": [
-        "Julien Bam",
-        "Julia Beautx"
-      ],
-      "album": "Cool & Fresh",
-      "image": "https://i.scdn.co/image/ab67616d00001e02629f4f62f3bfef003cdeadc3",
-      "url": "https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z",
-      "preview_url": null,
-      "duration_ms": 137500,
-      "genres": []
-    },
-    {
       "id": "4iqF5rU8LW2pYs1uBg43js",
       "name": "Ego",
       "artists": [
@@ -60,74 +46,6 @@
       "genres": []
     },
     {
-      "id": "4DQ7mmVJh2ojxjmhJSOF4R",
-      "name": "Nie genug geliebt",
-      "artists": [
-        "Julien Bam",
-        "Julia Beautx"
-      ],
-      "album": "Nie genug geliebt",
-      "image": "https://i.scdn.co/image/ab67616d00001e026bc6acddfb19b326d59b6da4",
-      "url": "https://open.spotify.com/track/4DQ7mmVJh2ojxjmhJSOF4R",
-      "preview_url": null,
-      "duration_ms": 120538,
-      "genres": []
-    },
-    {
-      "id": "7IqcMkN74DjN8DszGInzbA",
-      "name": "They Dont Know Me Son",
-      "artists": [
-        "Ayparia"
-      ],
-      "album": "They Dont Know Me Son",
-      "image": "https://i.scdn.co/image/ab67616d00001e02eb9ae37d6d4746b663feab60",
-      "url": "https://open.spotify.com/track/7IqcMkN74DjN8DszGInzbA",
-      "preview_url": null,
-      "duration_ms": 231966,
-      "genres": []
-    },
-    {
-      "id": "0JvAYeehnefUQdks3hWPyB",
-      "name": "nevada - instrumental",
-      "artists": [
-        "retry",
-        "skoomy"
-      ],
-      "album": "Nevada",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e1171184980cd3f6e75db5b1",
-      "url": "https://open.spotify.com/track/0JvAYeehnefUQdks3hWPyB",
-      "preview_url": null,
-      "duration_ms": 93048,
-      "genres": []
-    },
-    {
-      "id": "0NdTUS4UiNYCNn5FgVqKQY",
-      "name": "Snap Out Of It",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY",
-      "preview_url": null,
-      "duration_ms": 193030,
-      "genres": []
-    },
-    {
-      "id": "0rx7xu0RmZLpJjKNVZjSVv",
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "artists": [
-        "JENNIE",
-        "Dominic Fike"
-      ],
-      "album": "Ruby",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dcf27dec5e479b2e39c4c993",
-      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
-      "preview_url": null,
-      "duration_ms": 180129,
-      "genres": []
-    },
-    {
       "id": "1DJG2WokAWel0nNK8BKi2A",
       "name": "Todo Da Igual",
       "artists": [
@@ -139,20 +57,6 @@
       "url": "https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A",
       "preview_url": null,
       "duration_ms": 102168,
-      "genres": []
-    },
-    {
-      "id": "1dtFnGE0tVD7Et1B6CNbDK",
-      "name": "Neden Olmasın?",
-      "artists": [
-        "Skapova",
-        "melih"
-      ],
-      "album": "Hayat",
-      "image": "https://i.scdn.co/image/ab67616d00001e020e5bd339644b4768a190261d",
-      "url": "https://open.spotify.com/track/1dtFnGE0tVD7Et1B6CNbDK",
-      "preview_url": null,
-      "duration_ms": 234000,
       "genres": []
     },
     {
@@ -168,6 +72,101 @@
       "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
       "preview_url": null,
       "duration_ms": 185770,
+      "genres": []
+    },
+    {
+      "id": "2Z8WuEywRWYTKe1NybPQEW",
+      "name": "Ride",
+      "artists": [
+        "Twenty One Pilots"
+      ],
+      "album": "Blurryface",
+      "image": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW",
+      "preview_url": null,
+      "duration_ms": 214506,
+      "genres": []
+    },
+    {
+      "id": "3gddoedYU7FMPAZnLUbzkO",
+      "name": "Soy Lo Peor",
+      "artists": [
+        "Depresión Sonora",
+        "Bb trickz"
+      ],
+      "album": "DepresionTrickz",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
+      "url": "https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO",
+      "preview_url": null,
+      "duration_ms": 113183,
+      "genres": []
+    },
+    {
+      "id": "4riDfclV7kPDT9D58FpmHd",
+      "name": "Some",
+      "artists": [
+        "Steve Lacy"
+      ],
+      "album": "Some",
+      "image": "https://i.scdn.co/image/ab67616d00001e027c0c6c1cfac7464b6211587d",
+      "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd",
+      "preview_url": null,
+      "duration_ms": 118393,
+      "genres": []
+    },
+    {
+      "id": "4ujGSBsaRjYUybB1dMX0MK",
+      "name": "So Alive (VIP)",
+      "artists": [
+        "GRAVEDGR",
+        "OGUZ",
+        "ANGEL CANNON"
+      ],
+      "album": "So Alive (VIP)",
+      "image": "https://i.scdn.co/image/ab67616d00001e023100db27ad1ace400f9823bf",
+      "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK",
+      "preview_url": null,
+      "duration_ms": 253161,
+      "genres": []
+    },
+    {
+      "id": "5JmoRMtLKBVsPRxlDmTCzc",
+      "name": "Super",
+      "artists": [
+        "Bb trickz"
+      ],
+      "album": "Super",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7e8af44414a2b358990c5ec04",
+      "url": "https://open.spotify.com/track/5JmoRMtLKBVsPRxlDmTCzc",
+      "preview_url": null,
+      "duration_ms": 106410,
+      "genres": []
+    },
+    {
+      "id": "7k6HFZe3WtGpbNUYY6Hndi",
+      "name": "Грустная сука",
+      "artists": [
+        "IC3PEAK"
+      ],
+      "album": "Сладкая жизнь",
+      "image": "https://i.scdn.co/image/ab67616d00001e0279a723c884c41c285ebf06dc",
+      "url": "https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi",
+      "preview_url": null,
+      "duration_ms": 199663,
+      "genres": []
+    },
+    {
+      "id": "0FDXvpvV8IOF2vq8tlsrnP",
+      "name": "uwu ^^",
+      "artists": [
+        "rusowsky",
+        "Bb trickz"
+      ],
+      "album": "uwu ^^",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7a9cbd1061ae69ea5a4a106b8",
+      "url": "https://open.spotify.com/track/0FDXvpvV8IOF2vq8tlsrnP",
+      "preview_url": null,
+      "duration_ms": 171136,
       "genres": []
     }
   ],
@@ -295,5 +294,5 @@
       "played_at": "2026-04-05T17:55:33.270Z"
     }
   ],
-  "fetched_at": "2026-04-15T22:09:26.933Z"
+  "fetched_at": "2026-04-15T23:09:46.310Z"
 }
