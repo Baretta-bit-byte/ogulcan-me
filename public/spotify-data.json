@@ -172,6 +172,18 @@
   ],
   "recently_played": [
     {
+      "id": "1qRV1dKLOfH1s00b9J2LUQ",
+      "name": "Midnight Sun",
+      "artists": [
+        "Zara Larsson"
+      ],
+      "album": "Midnight Sun",
+      "image": "https://i.scdn.co/image/ab67616d00001e027657f9028ea8bb2c18dca99f",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
+      "duration_ms": 189898,
+      "played_at": "2026-04-16T07:39:56.773Z"
+    },
+    {
       "id": "3XCveEutwTaDiekRkkfdp9",
       "name": "Liquid Smooth",
       "artists": [
@@ -278,21 +290,7 @@
       "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH",
       "duration_ms": 239999,
       "played_at": "2026-04-05T17:59:28.295Z"
-    },
-    {
-      "id": "5euO4JVKk6EZJDT2qn8nw3",
-      "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
-      "artists": [
-        "IC3PEAK",
-        "Oli Sykes",
-        "Bring Me The Horizon"
-      ],
-      "album": "KISS OF DEATH",
-      "image": "https://i.scdn.co/image/ab67616d00001e02116ef3dcec29365f8255dbf0",
-      "url": "https://open.spotify.com/track/5euO4JVKk6EZJDT2qn8nw3",
-      "duration_ms": 142250,
-      "played_at": "2026-04-05T17:55:33.270Z"
     }
   ],
-  "fetched_at": "2026-04-15T23:09:46.310Z"
+  "fetched_at": "2026-04-16T08:12:21.933Z"
 }
