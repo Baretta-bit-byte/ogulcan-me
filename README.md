@@ -11,7 +11,7 @@
 
 ## What This Is
 
-Not a standard portfolio. Every page — project, math note, community activity, GitHub dashboard, Spotify, books, vinyl — is a **node** in an interactive knowledge graph you can explore visually.
+Not a standard portfolio. Every page — project, math note, community activity, GitHub dashboard, Spotify, books, vinyl — is a **node** in an interactive knowledge graph you can explore visually. (It's only active for tablets such a Ipad and pc.)
 
 **Design inspirations:** Anthony Fu · Theo Winter · Brian Ton · Chris Vogt
 
@@ -303,7 +303,7 @@ Cover art is fetched automatically from Open Library using the ISBN.
 
 - Turkish Informatics Association (TBD) — active member
 - AFAD & LÖSEV Volunteer (March 2026–present)
-- Izmir Mathematics Festival
+- I have attended Izmir Mathematics Festival for the first time (2026 Spring)
 - Game Theory — Ali Nesin Mathematics Village
 
 ---
