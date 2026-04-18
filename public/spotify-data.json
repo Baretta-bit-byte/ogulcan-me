@@ -6,20 +6,6 @@
   },
   "tracks": [
     {
-      "id": "1tshQ1Erp9AGl6Vjzoeib6",
-      "name": "Monster",
-      "artists": [
-        "Julien Bam",
-        "Julia Beautx"
-      ],
-      "album": "Monster",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
-      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
-      "preview_url": null,
-      "duration_ms": 181500,
-      "genres": []
-    },
-    {
       "id": "4iqF5rU8LW2pYs1uBg43js",
       "name": "Ego",
       "artists": [
@@ -43,6 +29,33 @@
       "url": "https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV",
       "preview_url": null,
       "duration_ms": 179020,
+      "genres": []
+    },
+    {
+      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "name": "Monster",
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
+      "album": "Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
+      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "preview_url": null,
+      "duration_ms": 181500,
+      "genres": []
+    },
+    {
+      "id": "0NdTUS4UiNYCNn5FgVqKQY",
+      "name": "Snap Out Of It",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY",
+      "preview_url": null,
+      "duration_ms": 193030,
       "genres": []
     },
     {
@@ -75,19 +88,6 @@
       "genres": []
     },
     {
-      "id": "2Z8WuEywRWYTKe1NybPQEW",
-      "name": "Ride",
-      "artists": [
-        "Twenty One Pilots"
-      ],
-      "album": "Blurryface",
-      "image": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW",
-      "preview_url": null,
-      "duration_ms": 214506,
-      "genres": []
-    },
-    {
       "id": "3gddoedYU7FMPAZnLUbzkO",
       "name": "Soy Lo Peor",
       "artists": [
@@ -99,6 +99,22 @@
       "url": "https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO",
       "preview_url": null,
       "duration_ms": 113183,
+      "genres": []
+    },
+    {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "preview_url": null,
+      "duration_ms": 892266,
       "genres": []
     },
     {
@@ -154,23 +170,36 @@
       "preview_url": null,
       "duration_ms": 199663,
       "genres": []
-    },
-    {
-      "id": "0FDXvpvV8IOF2vq8tlsrnP",
-      "name": "uwu ^^",
-      "artists": [
-        "rusowsky",
-        "Bb trickz"
-      ],
-      "album": "uwu ^^",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7a9cbd1061ae69ea5a4a106b8",
-      "url": "https://open.spotify.com/track/0FDXvpvV8IOF2vq8tlsrnP",
-      "preview_url": null,
-      "duration_ms": 171136,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "1DJG2WokAWel0nNK8BKi2A",
+      "name": "Todo Da Igual",
+      "artists": [
+        "Depresión Sonora",
+        "Bb trickz"
+      ],
+      "album": "DepresionTrickz",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
+      "url": "https://open.spotify.com/track/1DJG2WokAWel0nNK8BKi2A",
+      "duration_ms": 102168,
+      "played_at": "2026-04-18T20:21:08.195Z"
+    },
+    {
+      "id": "5MPHZfPu9hsXDPEqGjUgec",
+      "name": "supersexi",
+      "artists": [
+        "ZECCA",
+        "Emilia",
+        "Bb trickz"
+      ],
+      "album": "supersexi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0242f3d450705af565d7b3f5f6",
+      "url": "https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec",
+      "duration_ms": 186293,
+      "played_at": "2026-04-18T20:02:19.641Z"
+    },
     {
       "id": "3ozeGGXwEZW5uVdFkYGyDr",
       "name": "Devil`s Trills, Sonata in G Minor",
@@ -269,31 +298,7 @@
       "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH",
       "duration_ms": 239999,
       "played_at": "2026-04-05T19:04:46.248Z"
-    },
-    {
-      "id": "4zGaQJ2n2hOYuLPE1VWJeX",
-      "name": "BANKAI SHUNSUI X KISUKE - PHONK",
-      "artists": [
-        "Icykiddo"
-      ],
-      "album": "BANKAI SHUNSUI X KISUKE (PHONK)",
-      "image": "https://i.scdn.co/image/ab67616d00001e027ecf74019ef918e097f4a25e",
-      "url": "https://open.spotify.com/track/4zGaQJ2n2hOYuLPE1VWJeX",
-      "duration_ms": 192479,
-      "played_at": "2026-04-05T19:01:49.449Z"
-    },
-    {
-      "id": "3Mur7gYENrN0nvKMKIw1ZS",
-      "name": "Killshot",
-      "artists": [
-        "ssjishmael"
-      ],
-      "album": "Killshot",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d4185767539513bfac74d234",
-      "url": "https://open.spotify.com/track/3Mur7gYENrN0nvKMKIw1ZS",
-      "duration_ms": 127081,
-      "played_at": "2026-04-05T18:01:41.580Z"
     }
   ],
-  "fetched_at": "2026-04-18T19:58:25.256Z"
+  "fetched_at": "2026-04-18T20:46:26.710Z"
 }
