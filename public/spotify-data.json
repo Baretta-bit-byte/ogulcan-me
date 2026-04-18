@@ -2,7 +2,7 @@
   "profile": {
     "name": "Ogi",
     "followers": 6,
-    "playlists": 75
+    "playlists": 76
   },
   "tracks": [
     {
@@ -172,6 +172,21 @@
   ],
   "recently_played": [
     {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "duration_ms": 892266,
+      "played_at": "2026-04-18T19:44:26.293Z"
+    },
+    {
       "id": "1qRV1dKLOfH1s00b9J2LUQ",
       "name": "Midnight Sun",
       "artists": [
@@ -278,19 +293,7 @@
       "url": "https://open.spotify.com/track/3Mur7gYENrN0nvKMKIw1ZS",
       "duration_ms": 127081,
       "played_at": "2026-04-05T18:01:41.580Z"
-    },
-    {
-      "id": "3HoGF4zDfQOkNQnUY6W2nH",
-      "name": "Silhouette",
-      "artists": [
-        "Pastel Ghost"
-      ],
-      "album": "Silhouette",
-      "image": "https://i.scdn.co/image/ab67616d00001e026ff0068f58e74e677be844ea",
-      "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH",
-      "duration_ms": 239999,
-      "played_at": "2026-04-05T17:59:28.295Z"
     }
   ],
-  "fetched_at": "2026-04-16T08:12:21.933Z"
+  "fetched_at": "2026-04-18T19:58:25.256Z"
 }
