@@ -174,6 +174,106 @@
   ],
   "recently_played": [
     {
+      "id": "18OvVTXtC3lx1Iym9E0RyT",
+      "name": "Idea 22",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 22",
+      "image": "https://i.scdn.co/image/ab67616d00001e029882ae6f9fdc10b5ec438647",
+      "url": "https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT",
+      "duration_ms": 152000,
+      "played_at": "2026-04-19T12:24:24.028Z"
+    },
+    {
+      "id": "5Zf25eS8E1znm9mez4cGsm",
+      "name": "Reflections",
+      "artists": [
+        "Toshifumi Hinata"
+      ],
+      "album": "ひとつぶの海",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
+      "duration_ms": 130693,
+      "played_at": "2026-04-19T12:21:51.862Z"
+    },
+    {
+      "id": "1lb3H41lbvAN28N7yqRNL9",
+      "name": "Idea 10",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 10",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d2cc3146f7e4bdcd2fb7ac8f",
+      "url": "https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9",
+      "duration_ms": 128000,
+      "played_at": "2026-04-19T12:19:40.528Z"
+    },
+    {
+      "id": "0USK9GYk8n1FQg5rUTWadD",
+      "name": "Winter (L'Inverno) Op.8 No.4 F Minor: Allegro Non Molto",
+      "artists": [
+        "Baroque Festival Orchestra",
+        "Alberto Lizzio"
+      ],
+      "album": "Vivaldi - The Four Seasons",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
+      "url": "https://open.spotify.com/track/0USK9GYk8n1FQg5rUTWadD",
+      "duration_ms": 215066,
+      "played_at": "2026-04-19T12:17:32.227Z"
+    },
+    {
+      "id": "4VnDmjYCZkyeqeb0NIKqdA",
+      "name": "Can You Hear The Music",
+      "artists": [
+        "Ludwig Göransson"
+      ],
+      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02af634982d9b15de3c77f7dd9",
+      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
+      "duration_ms": 110160,
+      "played_at": "2026-04-19T12:13:56.725Z"
+    },
+    {
+      "id": "48BWlWj0AwFi0Tc3yaKxuU",
+      "name": "Für Elise",
+      "artists": [
+        "The Regency House Orchestra"
+      ],
+      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
+      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
+      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
+      "duration_ms": 167346,
+      "played_at": "2026-04-19T12:12:05.898Z"
+    },
+    {
+      "id": "40gRh2ZURv5tYBo8yB9Lu3",
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+      "artists": [
+        "Ludwig van Beethoven",
+        "Paul Lewis"
+      ],
+      "album": "Beethoven: Piano Sonatas, Vol. 3",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
+      "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
+      "duration_ms": 315426,
+      "played_at": "2026-04-19T12:09:18.305Z"
+    },
+    {
+      "id": "7HSs4srn1qnZhh7WRWBVOk",
+      "name": "Prokofiev: Romeo and Juliet, Op. 64, Act 1: Dance of the Knights",
+      "artists": [
+        "Sergei Prokofiev",
+        "André Previn",
+        "London Symphony Orchestra"
+      ],
+      "album": "Prokofiev: Romeo and Juliet",
+      "image": "https://i.scdn.co/image/ab67616d00001e02887c1acfc59249f75742d3fa",
+      "url": "https://open.spotify.com/track/7HSs4srn1qnZhh7WRWBVOk",
+      "duration_ms": 341693,
+      "played_at": "2026-04-19T12:04:02.838Z"
+    },
+    {
       "id": "4VnDmjYCZkyeqeb0NIKqdA",
       "name": "Can You Hear The Music",
       "artists": [
@@ -196,117 +296,7 @@
       "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
       "duration_ms": 167346,
       "played_at": "2026-04-19T11:55:28.268Z"
-    },
-    {
-      "id": "0USK9GYk8n1FQg5rUTWadD",
-      "name": "Winter (L'Inverno) Op.8 No.4 F Minor: Allegro Non Molto",
-      "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
-      ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0USK9GYk8n1FQg5rUTWadD",
-      "duration_ms": 215066,
-      "played_at": "2026-04-19T11:51:24.219Z"
-    },
-    {
-      "id": "4VnDmjYCZkyeqeb0NIKqdA",
-      "name": "Can You Hear The Music",
-      "artists": [
-        "Ludwig Göransson"
-      ],
-      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02af634982d9b15de3c77f7dd9",
-      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
-      "duration_ms": 110160,
-      "played_at": "2026-04-19T11:47:48.261Z"
-    },
-    {
-      "id": "48BWlWj0AwFi0Tc3yaKxuU",
-      "name": "Für Elise",
-      "artists": [
-        "The Regency House Orchestra"
-      ],
-      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
-      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
-      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
-      "duration_ms": 167346,
-      "played_at": "2026-04-19T11:45:57.762Z"
-    },
-    {
-      "id": "40gRh2ZURv5tYBo8yB9Lu3",
-      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
-      "artists": [
-        "Ludwig van Beethoven",
-        "Paul Lewis"
-      ],
-      "album": "Beethoven: Piano Sonatas, Vol. 3",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
-      "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
-      "duration_ms": 315426,
-      "played_at": "2026-04-19T11:43:13.423Z"
-    },
-    {
-      "id": "7HSs4srn1qnZhh7WRWBVOk",
-      "name": "Prokofiev: Romeo and Juliet, Op. 64, Act 1: Dance of the Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "André Previn",
-        "London Symphony Orchestra"
-      ],
-      "album": "Prokofiev: Romeo and Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e02887c1acfc59249f75742d3fa",
-      "url": "https://open.spotify.com/track/7HSs4srn1qnZhh7WRWBVOk",
-      "duration_ms": 341693,
-      "played_at": "2026-04-19T11:37:54.613Z"
-    },
-    {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
-      ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
-      "duration_ms": 307826,
-      "played_at": "2026-04-19T11:32:12.093Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-04-19T11:25:47.021Z"
-    },
-    {
-      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
-      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
-      "duration_ms": 167880,
-      "played_at": "2026-04-19T11:23:10.240Z"
     }
   ],
-  "fetched_at": "2026-04-19T11:57:49.705Z"
+  "fetched_at": "2026-04-19T13:14:35.008Z"
 }
