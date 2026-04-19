@@ -174,6 +174,18 @@
   ],
   "recently_played": [
     {
+      "id": "1cDvFWYfap0eQ3c86jPcRG",
+      "name": "Yalakanım Bebeğim",
+      "artists": [
+        "Kalben"
+      ],
+      "album": "Sonsuza Kadar",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a55bde3a9ca9c2c68912956",
+      "url": "https://open.spotify.com/track/1cDvFWYfap0eQ3c86jPcRG",
+      "duration_ms": 152671,
+      "played_at": "2026-04-19T22:19:03.758Z"
+    },
+    {
       "id": "39uLYYZytVUwcjgeYLI409",
       "name": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
       "artists": [
@@ -281,19 +293,7 @@
       "url": "https://open.spotify.com/track/6ygGHzg8CPcxDPocEkfpO4",
       "duration_ms": 193233,
       "played_at": "2026-04-19T21:18:36.965Z"
-    },
-    {
-      "id": "3PEUV2c7YHUW7McJmhwx26",
-      "name": "Kalp Hanım",
-      "artists": [
-        "Kalben"
-      ],
-      "album": "Aşk Çeşmesi",
-      "image": "https://i.scdn.co/image/ab67616d00001e0203f61d299ee8b7b4112595be",
-      "url": "https://open.spotify.com/track/3PEUV2c7YHUW7McJmhwx26",
-      "duration_ms": 214847,
-      "played_at": "2026-04-19T21:18:25.404Z"
     }
   ],
-  "fetched_at": "2026-04-19T21:34:28.522Z"
+  "fetched_at": "2026-04-19T22:34:07.635Z"
 }
