@@ -18,23 +18,23 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
     },
     {
-      "appid": 381210,
-      "name": "Dead by Daylight",
-      "playtime_2weeks": 46,
-      "playtime_forever": 50674,
-      "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
-    },
-    {
       "appid": 203770,
       "name": "Crusader Kings II",
       "playtime_2weeks": 15,
       "playtime_forever": 504,
       "img_icon_url": "56e9c15cbeb6c1f873f7f1dc757bae7618861484",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203770/header.jpg"
+    },
+    {
+      "appid": 381210,
+      "name": "Dead by Daylight",
+      "playtime_2weeks": 11,
+      "playtime_forever": 50674,
+      "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     }
   ],
   "totalGames": 125,
   "totalPlaytime": 618852,
-  "fetched_at": "2026-04-19T13:15:01.515Z"
+  "fetched_at": "2026-04-19T15:42:34.960Z"
 }
