@@ -174,6 +174,18 @@
   ],
   "recently_played": [
     {
+      "id": "6DEQrAxmm8myanLuFTtFqt",
+      "name": "Luminary",
+      "artists": [
+        "Joel Sunny"
+      ],
+      "album": "Luminary",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a20baf44ef5f1c82afcdc3a",
+      "url": "https://open.spotify.com/track/6DEQrAxmm8myanLuFTtFqt",
+      "duration_ms": 189000,
+      "played_at": "2026-04-20T15:42:46.252Z"
+    },
+    {
       "id": "4820SC1xnUaabzzYQTDkP2",
       "name": "Gnossienne: No. 1",
       "artists": [
@@ -292,19 +304,7 @@
       "url": "https://open.spotify.com/track/1cDvFWYfap0eQ3c86jPcRG",
       "duration_ms": 152671,
       "played_at": "2026-04-19T22:19:03.758Z"
-    },
-    {
-      "id": "39uLYYZytVUwcjgeYLI409",
-      "name": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
-      "artists": [
-        "Joe Hisaishi"
-      ],
-      "album": "FREEDOM PIANO STORIES 4",
-      "image": "https://i.scdn.co/image/ab67616d00001e0233ea9fb3fd69bca55a015229",
-      "url": "https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409",
-      "duration_ms": 311106,
-      "played_at": "2026-04-19T21:19:12.141Z"
     }
   ],
-  "fetched_at": "2026-04-20T15:03:36.277Z"
+  "fetched_at": "2026-04-20T16:39:26.095Z"
 }
