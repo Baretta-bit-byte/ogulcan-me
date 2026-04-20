@@ -94,11 +94,13 @@ const photos = (data.resources ?? []).map((r) => {
     tags:      r.tags ?? [],
     width:     r.width,
     height:    r.height,
-    // Three sizes via Cloudinary URL transforms — no extra API calls
-    url_thumb: cdnUrl(r.public_id, "w_150,h_150,c_fill,q_auto,f_auto"),
-    url_med:   cdnUrl(r.public_id, "w_640,c_limit,q_auto,f_auto"),
-    url_large: cdnUrl(r.public_id, "w_1200,c_limit,q_auto,f_auto"),
-    page_url:  r.secure_url, // opens full-res in new tab
+    // Named transformations (defined in Cloudinary dashboard) — include
+    // server-side watermark. Strict Transformations must be ON so inline
+    // params can't be used to bypass the watermark.
+    url_thumb: cdnUrl(r.public_id, "t_wm_thumb"),
+    url_med:   cdnUrl(r.public_id, "t_wm_med"),
+    url_large: cdnUrl(r.public_id, "t_wm_large"),
+    // page_url intentionally omitted — was exposing the original watermark-free URL
   };
 });
 

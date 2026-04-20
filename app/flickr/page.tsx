@@ -1,12 +1,38 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import React, { useEffect, useRef, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Camera, X, ChevronLeft, ChevronRight } from "lucide-react";
 import Backlinks from "@/components/Backlinks";
 
 const DATA_URL =
   "https://raw.githubusercontent.com/Baretta-bit-byte/ogulcan-me/main/public/flickr-data.json";
+
+// ─── Forensic fingerprint ─────────────────────────────────────────────────────
+// Generates a short hash from browser characteristics.
+// Shown on the lightbox overlay — if someone screenshots, the ID is visible,
+// making the capture traceable back to the session/device.
+
+function getSessionFingerprint(): string {
+  if (typeof window === "undefined") return "000000";
+  const raw = [
+    navigator.userAgent,
+    navigator.language,
+    `${screen.width}x${screen.height}`,
+    String(new Date().getTimezoneOffset()),
+    navigator.hardwareConcurrency ?? 0,
+  ].join("|");
+  let h = 0x811c9dc5;
+  for (let i = 0; i < raw.length; i++) {
+    h ^= raw.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return (h >>> 0).toString(16).slice(0, 6).toUpperCase();
+}
+
+function getTimestamp(): string {
+  return new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC";
+}
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -25,7 +51,6 @@ interface FlickrPhoto {
   url_thumb: string;
   url_med: string;
   url_large: string;
-  page_url: string;
 }
 
 interface FlickrData {
@@ -65,6 +90,106 @@ function Skeleton({ className }: { className?: string }) {
   );
 }
 
+// ─── CanvasImage ──────────────────────────────────────────────────────────────
+// Renders the lightbox image on a <canvas> instead of <img>.
+// Benefits: no "Save image as" in context menu, src not exposed in DOM.
+
+function CanvasImage({ src, alt }: { src: string; alt: string }) {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+  const [loaded, setLoaded] = useState(false);
+
+  useEffect(() => {
+    setLoaded(false);
+    const img = new Image();
+    img.crossOrigin = "anonymous";
+    img.onload = () => {
+      const canvas = canvasRef.current;
+      if (!canvas) return;
+      canvas.width  = img.naturalWidth;
+      canvas.height = img.naturalHeight;
+      canvas.getContext("2d")?.drawImage(img, 0, 0);
+      setLoaded(true);
+    };
+    img.src = src;
+  }, [src]);
+
+  return (
+    <>
+      {!loaded && (
+        <div
+          className="animate-pulse rounded-lg bg-slate-800"
+          style={{ width: "min(88vw, 800px)", height: "min(82vh, 600px)" }}
+        />
+      )}
+      <canvas
+        ref={canvasRef}
+        aria-label={alt}
+        className={`rounded-lg shadow-2xl transition-opacity duration-200 ${loaded ? "opacity-100" : "opacity-0 absolute"}`}
+        style={{ maxHeight: "82vh", maxWidth: "88vw" }}
+        onContextMenu={(e) => e.preventDefault()}
+      />
+    </>
+  );
+}
+
+// ─── Lightbox ─────────────────────────────────────────────────────────────────
+
+// ─── Forensic Overlay ────────────────────────────────────────────────────────
+// Diagonal repeating watermark overlay shown inside the lightbox.
+// Visible on any screenshot — ties the capture to the session fingerprint.
+
+function ForensicOverlay() {
+  const [label, setLabel] = useState("");
+
+  useEffect(() => {
+    const fp = getSessionFingerprint();
+    const ts = getTimestamp();
+    setLabel(`ogulcantokmak.me · ${ts} · ID:${fp}`);
+  }, []);
+
+  if (!label) return null;
+
+  // Render 9 copies in a 3x3 grid, rotated −25°, scaled up so rotation
+  // doesn't leave gaps at the corners.
+  return (
+    <div
+      aria-hidden
+      className="pointer-events-none absolute inset-0 overflow-hidden select-none"
+      style={{ zIndex: 10 }}
+    >
+      <div
+        style={{
+          position: "absolute",
+          inset: "-50%",
+          display: "grid",
+          gridTemplateColumns: "repeat(3, 1fr)",
+          gridTemplateRows: "repeat(3, 1fr)",
+          transform: "rotate(-25deg)",
+          opacity: 0.18,
+        }}
+      >
+        {Array.from({ length: 9 }).map((_, i) => (
+          <div
+            key={i}
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              color: "white",
+              fontFamily: "monospace",
+              fontSize: "11px",
+              whiteSpace: "nowrap",
+              letterSpacing: "0.04em",
+            }}
+          >
+            {label}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 // ─── Lightbox ─────────────────────────────────────────────────────────────────
 
 function Lightbox({
@@ -85,9 +210,9 @@ function Lightbox({
   // Keyboard navigation
   useEffect(() => {
     const handler = (e: KeyboardEvent) => {
-      if (e.key === "Escape") onClose();
-      if (e.key === "ArrowLeft")  onPrev();
-      if (e.key === "ArrowRight") onNext();
+      if (e.key === "Escape")      onClose();
+      if (e.key === "ArrowLeft")   onPrev();
+      if (e.key === "ArrowRight")  onNext();
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
@@ -133,20 +258,21 @@ function Lightbox({
         </button>
       )}
 
-      {/* Image */}
+      {/* Forensic overlay — always rendered, visible on any screenshot */}
+      <ForensicOverlay />
+
+      {/* Canvas image — no right-click "Save as", src not in DOM */}
       <AnimatePresence mode="wait">
-        <motion.img
+        <motion.div
           key={photo.id}
-          src={photo.url_large}
-          alt={photo.title}
-          className="max-h-[82vh] max-w-[88vw] rounded-lg object-contain shadow-2xl"
           initial={{ opacity: 0, scale: 0.96 }}
           animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0, scale: 0.96 }}
           transition={{ duration: 0.18 }}
           onClick={(e) => e.stopPropagation()}
-          draggable={false}
-        />
+        >
+          <CanvasImage src={photo.url_large} alt={photo.title} />
+        </motion.div>
       </AnimatePresence>
 
       {/* Next */}
@@ -208,14 +334,17 @@ function PhotoCard({ photo, onClick }: { photo: FlickrPhoto; onClick: () => void
         <div className="absolute inset-0 animate-pulse bg-slate-100 dark:bg-slate-800" />
       )}
 
-      {/* Photo */}
+      {/* Photo — watermarked, non-draggable */}
       {!failed ? (
         <img
           src={photo.url_med}
           alt={photo.title}
-          className={`w-full transition-all duration-300 group-hover:scale-[1.02] ${loaded ? "opacity-100" : "opacity-0"}`}
+          className={`w-full transition-all duration-300 group-hover:scale-[1.02] select-none ${loaded ? "opacity-100" : "opacity-0"}`}
           onLoad={() => setLoaded(true)}
           onError={() => { setFailed(true); setLoaded(true); }}
+          onContextMenu={(e) => e.preventDefault()}
+          draggable={false}
+          style={{ WebkitUserDrag: "none" } as React.CSSProperties}
         />
       ) : (
         <div className="flex aspect-square items-center justify-center text-slate-400">
@@ -223,8 +352,14 @@ function PhotoCard({ photo, onClick }: { photo: FlickrPhoto; onClick: () => void
         </div>
       )}
 
+      {/* Transparent shield — always present, blocks right-click reaching <img> */}
+      <div
+        className="absolute inset-0"
+        onContextMenu={(e) => e.preventDefault()}
+      />
+
       {/* Hover overlay */}
-      <div className="absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/60 via-black/10 to-transparent opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+      <div className="absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/60 via-black/10 to-transparent opacity-0 transition-opacity duration-200 group-hover:opacity-100 pointer-events-none">
         <div className="p-3 translate-y-1 transition-transform duration-200 group-hover:translate-y-0">
           {photo.title !== "Untitled" && (
             <p className="text-xs font-medium text-white leading-tight line-clamp-2">
@@ -243,10 +378,22 @@ function PhotoCard({ photo, onClick }: { photo: FlickrPhoto; onClick: () => void
 // ─── Page ─────────────────────────────────────────────────────────────────────
 
 export default function FlickrPage() {
-  const [data,       setData]       = useState<FlickrData | null>(null);
-  const [loading,    setLoading]    = useState(true);
-  const [error,      setError]      = useState<string | null>(null);
-  const [lightboxIdx, setLightboxIdx] = useState<number | null>(null);
+  const [data,         setData]         = useState<FlickrData | null>(null);
+  const [loading,      setLoading]      = useState(true);
+  const [error,        setError]        = useState<string | null>(null);
+  const [lightboxIdx,  setLightboxIdx]  = useState<number | null>(null);
+
+  // Block common download shortcuts on this page
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      const key = e.key.toLowerCase();
+      if ((e.ctrlKey || e.metaKey) && ["s", "p", "u"].includes(key)) {
+        e.preventDefault();
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, []);
 
   useEffect(() => {
     fetch(DATA_URL, { cache: "no-store" })
