@@ -6,6 +6,43 @@
   },
   "tracks": [
     {
+      "id": "08B8Ki7qlUoT58Zd1trxkl",
+      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "artists": [
+        "Slovak Philharmonic",
+        "Jaroslava Horska",
+        "Vladimir Ruso",
+        "Peter Mikulas",
+        "Stefan Klimo",
+        "Slovak Philharmonic Chorus",
+        "Jozef Kundlák",
+        "Magdaléna Hajóssyová",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "album": "Mozart: Requiem In D Minor",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
+      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
+      "preview_url": null,
+      "duration_ms": 198666,
+      "genres": []
+    },
+    {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "preview_url": null,
+      "duration_ms": 892266,
+      "genres": []
+    },
+    {
       "id": "4iqF5rU8LW2pYs1uBg43js",
       "name": "Ego",
       "artists": [
@@ -32,46 +69,22 @@
       "genres": []
     },
     {
-      "id": "1tshQ1Erp9AGl6Vjzoeib6",
-      "name": "Monster",
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
       "artists": [
-        "Julien Bam",
-        "Julia Beautx"
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
       ],
-      "album": "Monster",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
-      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
       "preview_url": null,
-      "duration_ms": 181500,
-      "genres": []
-    },
-    {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "preview_url": null,
-      "duration_ms": 892266,
-      "genres": []
-    },
-    {
-      "id": "0NdTUS4UiNYCNn5FgVqKQY",
-      "name": "Snap Out Of It",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY",
-      "preview_url": null,
-      "duration_ms": 193030,
+      "duration_ms": 134746,
       "genres": []
     },
     {
@@ -90,6 +103,75 @@
       "genres": []
     },
     {
+      "id": "1tshQ1Erp9AGl6Vjzoeib6",
+      "name": "Monster",
+      "artists": [
+        "Julien Bam",
+        "Julia Beautx"
+      ],
+      "album": "Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f336056092b00e92742534",
+      "url": "https://open.spotify.com/track/1tshQ1Erp9AGl6Vjzoeib6",
+      "preview_url": null,
+      "duration_ms": 181500,
+      "genres": []
+    },
+    {
+      "id": "48BWlWj0AwFi0Tc3yaKxuU",
+      "name": "Für Elise",
+      "artists": [
+        "The Regency House Orchestra"
+      ],
+      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
+      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
+      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
+      "preview_url": null,
+      "duration_ms": 167346,
+      "genres": []
+    },
+    {
+      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
+      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
+      "preview_url": null,
+      "duration_ms": 167880,
+      "genres": []
+    },
+    {
+      "id": "40gRh2ZURv5tYBo8yB9Lu3",
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+      "artists": [
+        "Ludwig van Beethoven",
+        "Paul Lewis"
+      ],
+      "album": "Beethoven: Piano Sonatas, Vol. 3",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
+      "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
+      "preview_url": null,
+      "duration_ms": 315426,
+      "genres": []
+    },
+    {
+      "id": "0NdTUS4UiNYCNn5FgVqKQY",
+      "name": "Snap Out Of It",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY",
+      "preview_url": null,
+      "duration_ms": 193030,
+      "genres": []
+    },
+    {
       "id": "1DJG2WokAWel0nNK8BKi2A",
       "name": "Todo Da Igual",
       "artists": [
@@ -102,79 +184,114 @@
       "preview_url": null,
       "duration_ms": 102168,
       "genres": []
-    },
-    {
-      "id": "24wyiXlR3YK4rOl1YLWdsw",
-      "name": "supersexi",
-      "artists": [
-        "ZECCA",
-        "Emilia",
-        "Bb trickz"
-      ],
-      "album": "supersexi",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7c4bac87be244be1c2fa7d171",
-      "url": "https://open.spotify.com/track/24wyiXlR3YK4rOl1YLWdsw",
-      "preview_url": null,
-      "duration_ms": 185770,
-      "genres": []
-    },
-    {
-      "id": "3gddoedYU7FMPAZnLUbzkO",
-      "name": "Soy Lo Peor",
-      "artists": [
-        "Depresión Sonora",
-        "Bb trickz"
-      ],
-      "album": "DepresionTrickz",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b669a0ab6ece8427f71870e5",
-      "url": "https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO",
-      "preview_url": null,
-      "duration_ms": 113183,
-      "genres": []
-    },
-    {
-      "id": "4riDfclV7kPDT9D58FpmHd",
-      "name": "Some",
-      "artists": [
-        "Steve Lacy"
-      ],
-      "album": "Some",
-      "image": "https://i.scdn.co/image/ab67616d00001e027c0c6c1cfac7464b6211587d",
-      "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd",
-      "preview_url": null,
-      "duration_ms": 118393,
-      "genres": []
-    },
-    {
-      "id": "4ujGSBsaRjYUybB1dMX0MK",
-      "name": "So Alive (VIP)",
-      "artists": [
-        "GRAVEDGR",
-        "OGUZ",
-        "ANGEL CANNON"
-      ],
-      "album": "So Alive (VIP)",
-      "image": "https://i.scdn.co/image/ab67616d00001e023100db27ad1ace400f9823bf",
-      "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK",
-      "preview_url": null,
-      "duration_ms": 253161,
-      "genres": []
-    },
-    {
-      "id": "5JmoRMtLKBVsPRxlDmTCzc",
-      "name": "Super",
-      "artists": [
-        "Bb trickz"
-      ],
-      "album": "Super",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7e8af44414a2b358990c5ec04",
-      "url": "https://open.spotify.com/track/5JmoRMtLKBVsPRxlDmTCzc",
-      "preview_url": null,
-      "duration_ms": 106410,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "0BWJNm4TrO6H3qgiCmDBjM",
+      "name": "Toccata and Fugue in D minor",
+      "artists": [
+        "Johann Sebastian Bach",
+        "William McVicker"
+      ],
+      "album": "Great Organ Classics",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
+      "duration_ms": 567466,
+      "played_at": "2026-04-21T20:35:38.134Z"
+    },
+    {
+      "id": "6DEQrAxmm8myanLuFTtFqt",
+      "name": "Luminary",
+      "artists": [
+        "Joel Sunny"
+      ],
+      "album": "Luminary",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a20baf44ef5f1c82afcdc3a",
+      "url": "https://open.spotify.com/track/6DEQrAxmm8myanLuFTtFqt",
+      "duration_ms": 189000,
+      "played_at": "2026-04-21T20:26:10.539Z"
+    },
+    {
+      "id": "2xizRhme7pYeITbH1NLLGt",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+      "artists": [
+        "Pyotr Ilyich Tchaikovsky",
+        "André Previn",
+        "London Symphony Orchestra"
+      ],
+      "album": "Tchaikovsky: Swan Lake",
+      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
+      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+      "duration_ms": 166866,
+      "played_at": "2026-04-21T20:23:00.561Z"
+    },
+    {
+      "id": "48BWlWj0AwFi0Tc3yaKxuU",
+      "name": "Für Elise",
+      "artists": [
+        "The Regency House Orchestra"
+      ],
+      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
+      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
+      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
+      "duration_ms": 167346,
+      "played_at": "2026-04-21T20:20:13.282Z"
+    },
+    {
+      "id": "4mOMTUl8XiaqILHwh8zm4H",
+      "name": "Le Monde - From Talk to Me",
+      "artists": [
+        "Richard Carter"
+      ],
+      "album": "Le Monde (From Talk to Me)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0217251768e34c93e9c45f44ee",
+      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
+      "duration_ms": 134853,
+      "played_at": "2026-04-21T20:17:26.181Z"
+    },
+    {
+      "id": "6xez71zpAqQ6N5i8E1jHlD",
+      "name": "Carmina Burana: O Fortuna",
+      "artists": [
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
+      ],
+      "album": "Orff: Carmina Burana",
+      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
+      "duration_ms": 144360,
+      "played_at": "2026-04-21T20:15:10.302Z"
+    },
+    {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "duration_ms": 892266,
+      "played_at": "2026-04-21T20:12:45.566Z"
+    },
+    {
+      "id": "7gymMiUpp1AOYR5EiRDDrO",
+      "name": "Ethereal",
+      "artists": [
+        "Txmy"
+      ],
+      "album": "Ethereal",
+      "image": "https://i.scdn.co/image/ab67616d00001e023ecfb69038cb68d0302099f3",
+      "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO",
+      "duration_ms": 168000,
+      "played_at": "2026-04-21T19:57:52.612Z"
+    },
     {
       "id": "08B8Ki7qlUoT58Zd1trxkl",
       "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
@@ -193,133 +310,22 @@
       "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
       "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
       "duration_ms": 198666,
-      "played_at": "2026-04-21T19:42:46.966Z"
+      "played_at": "2026-04-21T19:55:03.872Z"
     },
     {
-      "id": "0ROMalDdNg3L2HoZP4qFyJ",
-      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
+      "id": "3hj6jHDmZfoQdukMi6bWF6",
+      "name": "Mozart : Requiem K. 626 - Lacrimosa",
       "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
+        "Wolfgang Amadeus Mozart",
+        "Jordi Savall",
+        "Le Concert Des Nations"
       ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
-      "duration_ms": 201853,
-      "played_at": "2026-04-21T19:36:37.584Z"
-    },
-    {
-      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
-      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
-      "duration_ms": 167880,
-      "played_at": "2026-04-21T19:33:18.591Z"
-    },
-    {
-      "id": "619p8Frf2gdv76xeN7At76",
-      "name": "I Can Do Anything / Finale",
-      "artists": [
-        "Christopher Lennertz"
-      ],
-      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
-      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
-      "duration_ms": 65728,
-      "played_at": "2026-04-21T19:30:24.474Z"
-    },
-    {
-      "id": "6z1APkc8qQnsLpeN7FCoZD",
-      "name": "Waltz No.2",
-      "artists": [
-        "Cihat Aşkın"
-      ],
-      "album": "Türk Valsleri",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
-      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
-      "duration_ms": 240306,
-      "played_at": "2026-04-21T19:29:18.060Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-04-21T19:25:23.198Z"
-    },
-    {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
-      ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
-      "duration_ms": 307826,
-      "played_at": "2026-04-21T02:00:18.541Z"
-    },
-    {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
-      "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
-      ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
-      "duration_ms": 176040,
-      "played_at": "2026-04-21T01:55:09.761Z"
-    },
-    {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "duration_ms": 892266,
-      "played_at": "2026-04-21T01:52:13.312Z"
-    },
-    {
-      "id": "40gRh2ZURv5tYBo8yB9Lu3",
-      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
-      "artists": [
-        "Ludwig van Beethoven",
-        "Paul Lewis"
-      ],
-      "album": "Beethoven: Piano Sonatas, Vol. 3",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
-      "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
-      "duration_ms": 315426,
-      "played_at": "2026-04-21T01:37:20.558Z"
+      "album": "Mozart : Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e028ea6e00ea3edc44ffe6e20d1",
+      "url": "https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6",
+      "duration_ms": 183813,
+      "played_at": "2026-04-21T19:50:58.953Z"
     }
   ],
-  "fetched_at": "2026-04-21T19:44:34.312Z"
+  "fetched_at": "2026-04-21T20:51:35.622Z"
 }
