@@ -176,6 +176,96 @@
   ],
   "recently_played": [
     {
+      "id": "08B8Ki7qlUoT58Zd1trxkl",
+      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "artists": [
+        "Slovak Philharmonic",
+        "Jaroslava Horska",
+        "Vladimir Ruso",
+        "Peter Mikulas",
+        "Stefan Klimo",
+        "Slovak Philharmonic Chorus",
+        "Jozef Kundlák",
+        "Magdaléna Hajóssyová",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "album": "Mozart: Requiem In D Minor",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
+      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
+      "duration_ms": 198666,
+      "played_at": "2026-04-21T19:42:46.966Z"
+    },
+    {
+      "id": "0ROMalDdNg3L2HoZP4qFyJ",
+      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
+      "duration_ms": 201853,
+      "played_at": "2026-04-21T19:36:37.584Z"
+    },
+    {
+      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
+      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
+      "duration_ms": 167880,
+      "played_at": "2026-04-21T19:33:18.591Z"
+    },
+    {
+      "id": "619p8Frf2gdv76xeN7At76",
+      "name": "I Can Do Anything / Finale",
+      "artists": [
+        "Christopher Lennertz"
+      ],
+      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
+      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
+      "duration_ms": 65728,
+      "played_at": "2026-04-21T19:30:24.474Z"
+    },
+    {
+      "id": "6z1APkc8qQnsLpeN7FCoZD",
+      "name": "Waltz No.2",
+      "artists": [
+        "Cihat Aşkın"
+      ],
+      "album": "Türk Valsleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
+      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
+      "duration_ms": 240306,
+      "played_at": "2026-04-21T19:29:18.060Z"
+    },
+    {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-04-21T19:25:23.198Z"
+    },
+    {
       "id": "2LiWNkeUOAeibGxJKxmjsD",
       "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
       "artists": [
@@ -229,92 +319,7 @@
       "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
       "duration_ms": 315426,
       "played_at": "2026-04-21T01:37:20.558Z"
-    },
-    {
-      "id": "2xizRhme7pYeITbH1NLLGt",
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
-      "artists": [
-        "Pyotr Ilyich Tchaikovsky",
-        "André Previn",
-        "London Symphony Orchestra"
-      ],
-      "album": "Tchaikovsky: Swan Lake",
-      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
-      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-      "duration_ms": 166866,
-      "played_at": "2026-04-21T01:32:04.388Z"
-    },
-    {
-      "id": "08B8Ki7qlUoT58Zd1trxkl",
-      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
-      "artists": [
-        "Slovak Philharmonic",
-        "Jaroslava Horska",
-        "Vladimir Ruso",
-        "Peter Mikulas",
-        "Stefan Klimo",
-        "Slovak Philharmonic Chorus",
-        "Jozef Kundlák",
-        "Magdaléna Hajóssyová",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "album": "Mozart: Requiem In D Minor",
-      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
-      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
-      "duration_ms": 198666,
-      "played_at": "2026-04-21T01:29:16.915Z"
-    },
-    {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
-      "artists": [
-        "Soap&Skin"
-      ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "duration_ms": 185000,
-      "played_at": "2026-04-21T01:25:57.361Z"
-    },
-    {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
-      "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
-      ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "duration_ms": 144360,
-      "played_at": "2026-04-21T01:22:51.787Z"
-    },
-    {
-      "id": "619p8Frf2gdv76xeN7At76",
-      "name": "I Can Do Anything / Finale",
-      "artists": [
-        "Christopher Lennertz"
-      ],
-      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
-      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
-      "duration_ms": 65728,
-      "played_at": "2026-04-21T01:20:32.462Z"
-    },
-    {
-      "id": "48BWlWj0AwFi0Tc3yaKxuU",
-      "name": "Für Elise",
-      "artists": [
-        "The Regency House Orchestra"
-      ],
-      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
-      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
-      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
-      "duration_ms": 167346,
-      "played_at": "2026-04-21T01:19:22.070Z"
     }
   ],
-  "fetched_at": "2026-04-21T03:50:20.895Z"
+  "fetched_at": "2026-04-21T19:44:34.312Z"
 }
