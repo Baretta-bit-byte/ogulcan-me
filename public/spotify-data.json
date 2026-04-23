@@ -2,7 +2,7 @@
   "profile": {
     "name": "Ogi",
     "followers": 6,
-    "playlists": 76
+    "playlists": 77
   },
   "tracks": [
     {
@@ -189,6 +189,60 @@
   ],
   "recently_played": [
     {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "duration_ms": 269554,
+      "played_at": "2026-04-23T20:29:24.352Z"
+    },
+    {
+      "id": "6dWWOi8PvMJPOl60TwQxKP",
+      "name": "Fight Back",
+      "artists": [
+        "NEFFEX"
+      ],
+      "album": "Fight Back: The Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
+      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
+      "duration_ms": 200571,
+      "played_at": "2026-04-23T20:21:24.916Z"
+    },
+    {
+      "id": "5Zf25eS8E1znm9mez4cGsm",
+      "name": "Reflections",
+      "artists": [
+        "Toshifumi Hinata"
+      ],
+      "album": "ひとつぶの海",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
+      "duration_ms": 130693,
+      "played_at": "2026-04-23T20:11:02.697Z"
+    },
+    {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-04-23T20:08:50.887Z"
+    },
+    {
       "id": "2LiWNkeUOAeibGxJKxmjsD",
       "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
       "artists": [
@@ -264,69 +318,7 @@
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
       "duration_ms": 134853,
       "played_at": "2026-04-21T20:17:26.181Z"
-    },
-    {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
-      "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
-      ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "duration_ms": 144360,
-      "played_at": "2026-04-21T20:15:10.302Z"
-    },
-    {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "duration_ms": 892266,
-      "played_at": "2026-04-21T20:12:45.566Z"
-    },
-    {
-      "id": "7gymMiUpp1AOYR5EiRDDrO",
-      "name": "Ethereal",
-      "artists": [
-        "Txmy"
-      ],
-      "album": "Ethereal",
-      "image": "https://i.scdn.co/image/ab67616d00001e023ecfb69038cb68d0302099f3",
-      "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO",
-      "duration_ms": 168000,
-      "played_at": "2026-04-21T19:57:52.612Z"
-    },
-    {
-      "id": "08B8Ki7qlUoT58Zd1trxkl",
-      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
-      "artists": [
-        "Slovak Philharmonic",
-        "Jaroslava Horska",
-        "Vladimir Ruso",
-        "Peter Mikulas",
-        "Stefan Klimo",
-        "Slovak Philharmonic Chorus",
-        "Jozef Kundlák",
-        "Magdaléna Hajóssyová",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "album": "Mozart: Requiem In D Minor",
-      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
-      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
-      "duration_ms": 198666,
-      "played_at": "2026-04-21T19:55:03.872Z"
     }
   ],
-  "fetched_at": "2026-04-21T22:37:11.991Z"
+  "fetched_at": "2026-04-23T20:30:43.435Z"
 }
