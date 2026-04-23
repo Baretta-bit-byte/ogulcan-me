@@ -145,21 +145,6 @@
       "genres": []
     },
     {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
-      ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
-      "preview_url": null,
-      "duration_ms": 307826,
-      "genres": []
-    },
-    {
       "id": "40gRh2ZURv5tYBo8yB9Lu3",
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "artists": [
@@ -185,9 +170,46 @@
       "preview_url": null,
       "duration_ms": 130693,
       "genres": []
+    },
+    {
+      "id": "0NdTUS4UiNYCNn5FgVqKQY",
+      "name": "Snap Out Of It",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY",
+      "preview_url": null,
+      "duration_ms": 193030,
+      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "2WFvqKn2p8350YeiisTFRm",
+      "name": "Sunset",
+      "artists": [
+        "Altair Blake"
+      ],
+      "album": "Let You Go",
+      "image": "https://i.scdn.co/image/ab67616d00001e02912125b175d7d5a2954cbaa0",
+      "url": "https://open.spotify.com/track/2WFvqKn2p8350YeiisTFRm",
+      "duration_ms": 121500,
+      "played_at": "2026-04-23T22:38:12.695Z"
+    },
+    {
+      "id": "5lWGB63YgWOVKoHE5ujXYZ",
+      "name": "black roses",
+      "artists": [
+        "mood."
+      ],
+      "album": "letting go",
+      "image": "https://i.scdn.co/image/ab67616d00001e02124286a26ca7885fc8262165",
+      "url": "https://open.spotify.com/track/5lWGB63YgWOVKoHE5ujXYZ",
+      "duration_ms": 113892,
+      "played_at": "2026-04-23T22:24:47.532Z"
+    },
     {
       "id": "4dNjRute8DjdUWArEjuUVR",
       "name": "should have never met you",
@@ -285,31 +307,7 @@
       "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
       "duration_ms": 110160,
       "played_at": "2026-04-23T21:15:26.520Z"
-    },
-    {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
-      "artists": [
-        "Eminem"
-      ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "duration_ms": 269554,
-      "played_at": "2026-04-23T20:29:24.352Z"
-    },
-    {
-      "id": "6dWWOi8PvMJPOl60TwQxKP",
-      "name": "Fight Back",
-      "artists": [
-        "NEFFEX"
-      ],
-      "album": "Fight Back: The Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
-      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
-      "duration_ms": 200571,
-      "played_at": "2026-04-23T20:21:24.916Z"
     }
   ],
-  "fetched_at": "2026-04-23T21:43:49.052Z"
+  "fetched_at": "2026-04-23T22:41:54.813Z"
 }
