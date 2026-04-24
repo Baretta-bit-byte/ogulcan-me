@@ -187,6 +187,24 @@
   ],
   "recently_played": [
     {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-04-24T21:30:06.796Z"
+    },
+    {
       "id": "2WFvqKn2p8350YeiisTFRm",
       "name": "Sunset",
       "artists": [
@@ -295,19 +313,7 @@
       "url": "https://open.spotify.com/track/2gEgyFo33ds42Fy1zE77zR",
       "duration_ms": 129399,
       "played_at": "2026-04-23T21:18:24.590Z"
-    },
-    {
-      "id": "4VnDmjYCZkyeqeb0NIKqdA",
-      "name": "Can You Hear The Music",
-      "artists": [
-        "Ludwig Göransson"
-      ],
-      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02af634982d9b15de3c77f7dd9",
-      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
-      "duration_ms": 110160,
-      "played_at": "2026-04-23T21:15:26.520Z"
     }
   ],
-  "fetched_at": "2026-04-23T22:41:54.813Z"
+  "fetched_at": "2026-04-24T22:07:53.995Z"
 }
