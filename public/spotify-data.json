@@ -187,6 +187,19 @@
   ],
   "recently_played": [
     {
+      "id": "0BWJNm4TrO6H3qgiCmDBjM",
+      "name": "Toccata and Fugue in D minor",
+      "artists": [
+        "Johann Sebastian Bach",
+        "William McVicker"
+      ],
+      "album": "Great Organ Classics",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
+      "duration_ms": 567466,
+      "played_at": "2026-04-24T23:27:34.362Z"
+    },
+    {
       "id": "6DEQrAxmm8myanLuFTtFqt",
       "name": "Luminary",
       "artists": [
@@ -300,20 +313,7 @@
       "url": "https://open.spotify.com/track/5lWGB63YgWOVKoHE5ujXYZ",
       "duration_ms": 113892,
       "played_at": "2026-04-23T21:34:03.293Z"
-    },
-    {
-      "id": "2nWqvhqCWKwAaivAjHe3AZ",
-      "name": "Shibuya Crossing",
-      "artists": [
-        "Kid Kio",
-        "Azido 88"
-      ],
-      "album": "Shibuya Crossing",
-      "image": "https://i.scdn.co/image/ab67616d00001e0212fd51d03201d9a26605bd4b",
-      "url": "https://open.spotify.com/track/2nWqvhqCWKwAaivAjHe3AZ",
-      "duration_ms": 115200,
-      "played_at": "2026-04-23T21:24:20.351Z"
     }
   ],
-  "fetched_at": "2026-04-24T23:06:27.985Z"
+  "fetched_at": "2026-04-25T00:03:39.226Z"
 }
