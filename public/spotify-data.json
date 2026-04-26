@@ -186,6 +186,30 @@
   ],
   "recently_played": [
     {
+      "id": "4DzlxEYJrbUsEyKkPXD6a9",
+      "name": "Écoute chérie",
+      "artists": [
+        "Vendredi sur Mer"
+      ],
+      "album": "Écoute chérie",
+      "image": "https://i.scdn.co/image/ab6742d3000053b70b46d0e9c9f87996937d65ed",
+      "url": "https://open.spotify.com/track/4DzlxEYJrbUsEyKkPXD6a9",
+      "duration_ms": 226560,
+      "played_at": "2026-04-26T22:50:16.731Z"
+    },
+    {
+      "id": "1zyUz3eZ3sytdaR9lfW17q",
+      "name": "Écoute Chérie",
+      "artists": [
+        "Vendredi sur Mer"
+      ],
+      "album": "Premiers émois",
+      "image": "https://i.scdn.co/image/ab67616d00001e026c3207ba7949291a8114b491",
+      "url": "https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q",
+      "duration_ms": 224933,
+      "played_at": "2026-04-26T22:49:46.859Z"
+    },
+    {
       "id": "4mOMTUl8XiaqILHwh8zm4H",
       "name": "Le Monde - From Talk to Me",
       "artists": [
@@ -285,37 +309,7 @@
       "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
       "duration_ms": 130693,
       "played_at": "2026-04-24T22:23:49.936Z"
-    },
-    {
-      "id": "619p8Frf2gdv76xeN7At76",
-      "name": "I Can Do Anything / Finale",
-      "artists": [
-        "Christopher Lennertz"
-      ],
-      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
-      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
-      "duration_ms": 65728,
-      "played_at": "2026-04-24T22:21:44.237Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-04-24T21:30:06.796Z"
     }
   ],
-  "fetched_at": "2026-04-26T21:36:25.621Z"
+  "fetched_at": "2026-04-26T23:37:30.002Z"
 }
