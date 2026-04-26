@@ -188,6 +188,58 @@
   ],
   "recently_played": [
     {
+      "id": "48BWlWj0AwFi0Tc3yaKxuU",
+      "name": "Für Elise",
+      "artists": [
+        "The Regency House Orchestra"
+      ],
+      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
+      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
+      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
+      "duration_ms": 167346,
+      "played_at": "2026-04-26T19:29:57.216Z"
+    },
+    {
+      "id": "2LiWNkeUOAeibGxJKxmjsD",
+      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
+      "artists": [
+        "Sergei Prokofiev",
+        "The Cleveland Orchestra",
+        "Lorin Maazel"
+      ],
+      "album": "Prokofiev: Romeo & Juliet",
+      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
+      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
+      "duration_ms": 307826,
+      "played_at": "2026-04-26T19:27:10.113Z"
+    },
+    {
+      "id": "0ROMalDdNg3L2HoZP4qFyJ",
+      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
+      "duration_ms": 201853,
+      "played_at": "2026-04-26T19:22:02.394Z"
+    },
+    {
+      "id": "7fss5WF5vuXRHvMsYRQXQH",
+      "name": "Темная ночь",
+      "artists": [
+        "Mark Bernes"
+      ],
+      "album": "Русское наследие",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
+      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
+      "duration_ms": 175480,
+      "played_at": "2026-04-26T19:18:39.120Z"
+    },
+    {
       "id": "0BWJNm4TrO6H3qgiCmDBjM",
       "name": "Toccata and Fugue in D minor",
       "artists": [
@@ -265,56 +317,7 @@
       "url": "https://open.spotify.com/track/2WFvqKn2p8350YeiisTFRm",
       "duration_ms": 121500,
       "played_at": "2026-04-23T22:38:12.695Z"
-    },
-    {
-      "id": "5lWGB63YgWOVKoHE5ujXYZ",
-      "name": "black roses",
-      "artists": [
-        "mood."
-      ],
-      "album": "letting go",
-      "image": "https://i.scdn.co/image/ab67616d00001e02124286a26ca7885fc8262165",
-      "url": "https://open.spotify.com/track/5lWGB63YgWOVKoHE5ujXYZ",
-      "duration_ms": 113892,
-      "played_at": "2026-04-23T22:24:47.532Z"
-    },
-    {
-      "id": "4dNjRute8DjdUWArEjuUVR",
-      "name": "should have never met you",
-      "artists": [
-        "Ngyn",
-        "nitsua."
-      ],
-      "album": "should have never met you",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e6265b9e4fdcee8b6d925aca",
-      "url": "https://open.spotify.com/track/4dNjRute8DjdUWArEjuUVR",
-      "duration_ms": 114868,
-      "played_at": "2026-04-23T21:37:36.491Z"
-    },
-    {
-      "id": "3uB67VihZlyUKqaG9bs34M",
-      "name": "Shibuya",
-      "artists": [
-        "LoFi Waiter"
-      ],
-      "album": "Shibuya",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f3abf1583ec56ed9c3803c25",
-      "url": "https://open.spotify.com/track/3uB67VihZlyUKqaG9bs34M",
-      "duration_ms": 104078,
-      "played_at": "2026-04-23T21:35:42.157Z"
-    },
-    {
-      "id": "5lWGB63YgWOVKoHE5ujXYZ",
-      "name": "black roses",
-      "artists": [
-        "mood."
-      ],
-      "album": "letting go",
-      "image": "https://i.scdn.co/image/ab67616d00001e02124286a26ca7885fc8262165",
-      "url": "https://open.spotify.com/track/5lWGB63YgWOVKoHE5ujXYZ",
-      "duration_ms": 113892,
-      "played_at": "2026-04-23T21:34:03.293Z"
     }
   ],
-  "fetched_at": "2026-04-25T03:39:24.892Z"
+  "fetched_at": "2026-04-26T19:44:52.147Z"
 }
