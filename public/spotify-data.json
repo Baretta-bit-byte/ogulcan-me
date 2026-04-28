@@ -25,22 +25,6 @@
       "genres": []
     },
     {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "preview_url": null,
-      "duration_ms": 892266,
-      "genres": []
-    },
-    {
       "id": "08B8Ki7qlUoT58Zd1trxkl",
       "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
       "artists": [
@@ -72,6 +56,22 @@
       "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
       "preview_url": null,
       "duration_ms": 175480,
+      "genres": []
+    },
+    {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "preview_url": null,
+      "duration_ms": 892266,
       "genres": []
     },
     {
@@ -113,6 +113,21 @@
       "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
       "preview_url": null,
       "duration_ms": 167346,
+      "genres": []
+    },
+    {
+      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
+      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
+      "preview_url": null,
+      "duration_ms": 167880,
       "genres": []
     },
     {
@@ -168,22 +183,68 @@
       "preview_url": null,
       "duration_ms": 185000,
       "genres": []
-    },
-    {
-      "id": "619p8Frf2gdv76xeN7At76",
-      "name": "I Can Do Anything / Finale",
-      "artists": [
-        "Christopher Lennertz"
-      ],
-      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
-      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
-      "preview_url": null,
-      "duration_ms": 65728,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
+      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
+      "duration_ms": 167880,
+      "played_at": "2026-04-28T22:41:32.451Z"
+    },
+    {
+      "id": "08B8Ki7qlUoT58Zd1trxkl",
+      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "artists": [
+        "Slovak Philharmonic",
+        "Jaroslava Horska",
+        "Vladimir Ruso",
+        "Peter Mikulas",
+        "Stefan Klimo",
+        "Slovak Philharmonic Chorus",
+        "Jozef Kundlák",
+        "Magdaléna Hajóssyová",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "album": "Mozart: Requiem In D Minor",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
+      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
+      "duration_ms": 198666,
+      "played_at": "2026-04-28T22:39:56.763Z"
+    },
+    {
+      "id": "0MvjUr7fKzchb49tt3OrMS",
+      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
+      "artists": [
+        "Baroque Festival Orchestra",
+        "Alberto Lizzio"
+      ],
+      "album": "Vivaldi - The Four Seasons",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
+      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
+      "duration_ms": 176040,
+      "played_at": "2026-04-28T22:36:37.232Z"
+    },
+    {
+      "id": "7fss5WF5vuXRHvMsYRQXQH",
+      "name": "Темная ночь",
+      "artists": [
+        "Mark Bernes"
+      ],
+      "album": "Русское наследие",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
+      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
+      "duration_ms": 175480,
+      "played_at": "2026-04-28T22:33:46.521Z"
+    },
     {
       "id": "1zyUz3eZ3sytdaR9lfW17q",
       "name": "Écoute Chérie",
@@ -257,58 +318,7 @@
       "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
       "duration_ms": 307826,
       "played_at": "2026-04-26T19:27:10.113Z"
-    },
-    {
-      "id": "0ROMalDdNg3L2HoZP4qFyJ",
-      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
-      "duration_ms": 201853,
-      "played_at": "2026-04-26T19:22:02.394Z"
-    },
-    {
-      "id": "7fss5WF5vuXRHvMsYRQXQH",
-      "name": "Темная ночь",
-      "artists": [
-        "Mark Bernes"
-      ],
-      "album": "Русское наследие",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
-      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
-      "duration_ms": 175480,
-      "played_at": "2026-04-26T19:18:39.120Z"
-    },
-    {
-      "id": "0BWJNm4TrO6H3qgiCmDBjM",
-      "name": "Toccata and Fugue in D minor",
-      "artists": [
-        "Johann Sebastian Bach",
-        "William McVicker"
-      ],
-      "album": "Great Organ Classics",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
-      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
-      "duration_ms": 567466,
-      "played_at": "2026-04-24T23:27:34.362Z"
-    },
-    {
-      "id": "6DEQrAxmm8myanLuFTtFqt",
-      "name": "Luminary",
-      "artists": [
-        "Joel Sunny"
-      ],
-      "album": "Luminary",
-      "image": "https://i.scdn.co/image/ab67616d00001e024a20baf44ef5f1c82afcdc3a",
-      "url": "https://open.spotify.com/track/6DEQrAxmm8myanLuFTtFqt",
-      "duration_ms": 189000,
-      "played_at": "2026-04-24T22:26:59.144Z"
     }
   ],
-  "fetched_at": "2026-04-27T02:38:53.624Z"
+  "fetched_at": "2026-04-28T23:54:19.709Z"
 }
