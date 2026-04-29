@@ -172,20 +172,41 @@
       "genres": []
     },
     {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
+      "id": "0BWJNm4TrO6H3qgiCmDBjM",
+      "name": "Toccata and Fugue in D minor",
       "artists": [
-        "Soap&Skin"
+        "Johann Sebastian Bach",
+        "William McVicker"
       ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
+      "album": "Great Organ Classics",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
       "preview_url": null,
-      "duration_ms": 185000,
+      "duration_ms": 567466,
       "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "08B8Ki7qlUoT58Zd1trxkl",
+      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "artists": [
+        "Slovak Philharmonic",
+        "Jaroslava Horska",
+        "Vladimir Ruso",
+        "Peter Mikulas",
+        "Stefan Klimo",
+        "Slovak Philharmonic Chorus",
+        "Jozef Kundlák",
+        "Magdaléna Hajóssyová",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "album": "Mozart: Requiem In D Minor",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
+      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
+      "duration_ms": 198666,
+      "played_at": "2026-04-29T22:36:17.633Z"
+    },
     {
       "id": "3By9jCy6b4dv5XnlhvIWwx",
       "name": "Dies Irae",
@@ -310,19 +331,7 @@
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
       "duration_ms": 134853,
       "played_at": "2026-04-26T20:27:29.609Z"
-    },
-    {
-      "id": "48BWlWj0AwFi0Tc3yaKxuU",
-      "name": "Für Elise",
-      "artists": [
-        "The Regency House Orchestra"
-      ],
-      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
-      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
-      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
-      "duration_ms": 167346,
-      "played_at": "2026-04-26T19:29:57.216Z"
     }
   ],
-  "fetched_at": "2026-04-29T22:29:50.114Z"
+  "fetched_at": "2026-04-29T23:29:20.914Z"
 }
