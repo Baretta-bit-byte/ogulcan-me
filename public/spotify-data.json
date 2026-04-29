@@ -187,6 +187,24 @@
   ],
   "recently_played": [
     {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-04-29T21:35:47.737Z"
+    },
+    {
       "id": "1Ojz92vyPK4fJ5K8RVnV5u",
       "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
       "artists": [
@@ -304,21 +322,7 @@
       "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
       "duration_ms": 167346,
       "played_at": "2026-04-26T19:29:57.216Z"
-    },
-    {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
-      ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
-      "duration_ms": 307826,
-      "played_at": "2026-04-26T19:27:10.113Z"
     }
   ],
-  "fetched_at": "2026-04-28T23:54:19.709Z"
+  "fetched_at": "2026-04-29T22:29:50.114Z"
 }
