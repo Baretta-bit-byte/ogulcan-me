@@ -25,6 +25,19 @@
       "genres": []
     },
     {
+      "id": "7fss5WF5vuXRHvMsYRQXQH",
+      "name": "Темная ночь",
+      "artists": [
+        "Mark Bernes"
+      ],
+      "album": "Русское наследие",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
+      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
+      "preview_url": null,
+      "duration_ms": 175480,
+      "genres": []
+    },
+    {
       "id": "08B8Ki7qlUoT58Zd1trxkl",
       "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
       "artists": [
@@ -46,16 +59,18 @@
       "genres": []
     },
     {
-      "id": "7fss5WF5vuXRHvMsYRQXQH",
-      "name": "Темная ночь",
+      "id": "0ROMalDdNg3L2HoZP4qFyJ",
+      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
       "artists": [
-        "Mark Bernes"
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
       ],
-      "album": "Русское наследие",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
-      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
       "preview_url": null,
-      "duration_ms": 175480,
+      "duration_ms": 201853,
       "genres": []
     },
     {
@@ -75,47 +90,6 @@
       "genres": []
     },
     {
-      "id": "0ROMalDdNg3L2HoZP4qFyJ",
-      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
-      "preview_url": null,
-      "duration_ms": 201853,
-      "genres": []
-    },
-    {
-      "id": "4iqF5rU8LW2pYs1uBg43js",
-      "name": "Ego",
-      "artists": [
-        "Julia Beautx"
-      ],
-      "album": "Ego",
-      "image": "https://i.scdn.co/image/ab6742d3000053b76f8a45ba0e22c2676e80c364",
-      "url": "https://open.spotify.com/track/4iqF5rU8LW2pYs1uBg43js",
-      "preview_url": null,
-      "duration_ms": 173610,
-      "genres": []
-    },
-    {
-      "id": "48BWlWj0AwFi0Tc3yaKxuU",
-      "name": "Für Elise",
-      "artists": [
-        "The Regency House Orchestra"
-      ],
-      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
-      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
-      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
-      "preview_url": null,
-      "duration_ms": 167346,
-      "genres": []
-    },
-    {
       "id": "1Ojz92vyPK4fJ5K8RVnV5u",
       "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
       "artists": [
@@ -131,31 +105,16 @@
       "genres": []
     },
     {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
+      "id": "4iqF5rU8LW2pYs1uBg43js",
+      "name": "Ego",
       "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
+        "Julia Beautx"
       ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
+      "album": "Ego",
+      "image": "https://i.scdn.co/image/ab6742d3000053b76f8a45ba0e22c2676e80c364",
+      "url": "https://open.spotify.com/track/4iqF5rU8LW2pYs1uBg43js",
       "preview_url": null,
-      "duration_ms": 307826,
-      "genres": []
-    },
-    {
-      "id": "5Zf25eS8E1znm9mez4cGsm",
-      "name": "Reflections",
-      "artists": [
-        "Toshifumi Hinata"
-      ],
-      "album": "ひとつぶの海",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
-      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
-      "preview_url": null,
-      "duration_ms": 130693,
+      "duration_ms": 173610,
       "genres": []
     },
     {
@@ -184,53 +143,85 @@
       "preview_url": null,
       "duration_ms": 567466,
       "genres": []
+    },
+    {
+      "id": "2LiWNkeUOAeibGxJKxmjsD",
+      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
+      "artists": [
+        "Sergei Prokofiev",
+        "The Cleveland Orchestra",
+        "Lorin Maazel"
+      ],
+      "album": "Prokofiev: Romeo & Juliet",
+      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
+      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
+      "preview_url": null,
+      "duration_ms": 307826,
+      "genres": []
+    },
+    {
+      "id": "619p8Frf2gdv76xeN7At76",
+      "name": "I Can Do Anything / Finale",
+      "artists": [
+        "Christopher Lennertz"
+      ],
+      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
+      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
+      "preview_url": null,
+      "duration_ms": 65728,
+      "genres": []
+    },
+    {
+      "id": "6DEQrAxmm8myanLuFTtFqt",
+      "name": "Luminary",
+      "artists": [
+        "Joel Sunny"
+      ],
+      "album": "Luminary",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a20baf44ef5f1c82afcdc3a",
+      "url": "https://open.spotify.com/track/6DEQrAxmm8myanLuFTtFqt",
+      "preview_url": null,
+      "duration_ms": 189000,
+      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "7ccC26pJ3aDG81sS4FwdXF",
-      "name": "Remember the Name (feat. Styles of Beyond)",
+      "id": "48BWlWj0AwFi0Tc3yaKxuU",
+      "name": "Für Elise",
       "artists": [
-        "Fort Minor",
-        "Styles Of Beyond"
+        "The Regency House Orchestra"
       ],
-      "album": "The Rising Tied (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "duration_ms": 230493,
-      "played_at": "2026-04-30T22:20:27.580Z"
+      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
+      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
+      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
+      "duration_ms": 167346,
+      "played_at": "2026-04-30T23:18:09.923Z"
     },
     {
-      "id": "7fss5WF5vuXRHvMsYRQXQH",
-      "name": "Темная ночь",
+      "id": "5Zf25eS8E1znm9mez4cGsm",
+      "name": "Reflections",
       "artists": [
-        "Mark Bernes"
+        "Toshifumi Hinata"
       ],
-      "album": "Русское наследие",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
-      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
-      "duration_ms": 175480,
-      "played_at": "2026-04-30T22:10:57.416Z"
+      "album": "ひとつぶの海",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
+      "duration_ms": 130693,
+      "played_at": "2026-04-30T23:15:22.334Z"
     },
     {
-      "id": "08B8Ki7qlUoT58Zd1trxkl",
-      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "id": "6z1APkc8qQnsLpeN7FCoZD",
+      "name": "Waltz No.2",
       "artists": [
-        "Slovak Philharmonic",
-        "Jaroslava Horska",
-        "Vladimir Ruso",
-        "Peter Mikulas",
-        "Stefan Klimo",
-        "Slovak Philharmonic Chorus",
-        "Jozef Kundlák",
-        "Magdaléna Hajóssyová",
-        "Wolfgang Amadeus Mozart"
+        "Cihat Aşkın"
       ],
-      "album": "Mozart: Requiem In D Minor",
-      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
-      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
-      "duration_ms": 198666,
-      "played_at": "2026-04-29T22:36:17.633Z"
+      "album": "Türk Valsleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
+      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
+      "duration_ms": 240306,
+      "played_at": "2026-04-30T23:13:11.196Z"
     },
     {
       "id": "3By9jCy6b4dv5XnlhvIWwx",
@@ -248,11 +239,52 @@
       "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
       "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
       "duration_ms": 134746,
-      "played_at": "2026-04-29T21:35:47.737Z"
+      "played_at": "2026-04-30T23:09:10.536Z"
     },
     {
-      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
-      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
+      "id": "3hj6jHDmZfoQdukMi6bWF6",
+      "name": "Mozart : Requiem K. 626 - Lacrimosa",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Jordi Savall",
+        "Le Concert Des Nations"
+      ],
+      "album": "Mozart : Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e028ea6e00ea3edc44ffe6e20d1",
+      "url": "https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6",
+      "duration_ms": 183813,
+      "played_at": "2026-04-30T23:06:55.289Z"
+    },
+    {
+      "id": "2xizRhme7pYeITbH1NLLGt",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+      "artists": [
+        "Pyotr Ilyich Tchaikovsky",
+        "André Previn",
+        "London Symphony Orchestra"
+      ],
+      "album": "Tchaikovsky: Swan Lake",
+      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
+      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+      "duration_ms": 166866,
+      "played_at": "2026-04-30T23:03:50.759Z"
+    },
+    {
+      "id": "0BWJNm4TrO6H3qgiCmDBjM",
+      "name": "Toccata and Fugue in D minor",
+      "artists": [
+        "Johann Sebastian Bach",
+        "William McVicker"
+      ],
+      "album": "Great Organ Classics",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
+      "duration_ms": 567466,
+      "played_at": "2026-04-30T23:01:03.309Z"
+    },
+    {
+      "id": "0ROMalDdNg3L2HoZP4qFyJ",
+      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
       "artists": [
         "Antonio Vivaldi",
         "Adrian Chandler",
@@ -260,79 +292,35 @@
       ],
       "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
       "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
-      "duration_ms": 167880,
-      "played_at": "2026-04-28T22:41:32.451Z"
+      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
+      "duration_ms": 201853,
+      "played_at": "2026-04-30T22:51:34.998Z"
     },
     {
-      "id": "08B8Ki7qlUoT58Zd1trxkl",
-      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "id": "6DEQrAxmm8myanLuFTtFqt",
+      "name": "Luminary",
       "artists": [
-        "Slovak Philharmonic",
-        "Jaroslava Horska",
-        "Vladimir Ruso",
-        "Peter Mikulas",
-        "Stefan Klimo",
-        "Slovak Philharmonic Chorus",
-        "Jozef Kundlák",
-        "Magdaléna Hajóssyová",
-        "Wolfgang Amadeus Mozart"
+        "Joel Sunny"
       ],
-      "album": "Mozart: Requiem In D Minor",
-      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
-      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
-      "duration_ms": 198666,
-      "played_at": "2026-04-28T22:39:56.763Z"
+      "album": "Luminary",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a20baf44ef5f1c82afcdc3a",
+      "url": "https://open.spotify.com/track/6DEQrAxmm8myanLuFTtFqt",
+      "duration_ms": 189000,
+      "played_at": "2026-04-30T22:48:12.892Z"
     },
     {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
+      "id": "40gRh2ZURv5tYBo8yB9Lu3",
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
+        "Ludwig van Beethoven",
+        "Paul Lewis"
       ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
-      "duration_ms": 176040,
-      "played_at": "2026-04-28T22:36:37.232Z"
-    },
-    {
-      "id": "7fss5WF5vuXRHvMsYRQXQH",
-      "name": "Темная ночь",
-      "artists": [
-        "Mark Bernes"
-      ],
-      "album": "Русское наследие",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
-      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
-      "duration_ms": 175480,
-      "played_at": "2026-04-28T22:33:46.521Z"
-    },
-    {
-      "id": "1zyUz3eZ3sytdaR9lfW17q",
-      "name": "Écoute Chérie",
-      "artists": [
-        "Vendredi sur Mer"
-      ],
-      "album": "Premiers émois",
-      "image": "https://i.scdn.co/image/ab67616d00001e026c3207ba7949291a8114b491",
-      "url": "https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q",
-      "duration_ms": 224933,
-      "played_at": "2026-04-26T23:50:35.830Z"
-    },
-    {
-      "id": "4DzlxEYJrbUsEyKkPXD6a9",
-      "name": "Écoute chérie",
-      "artists": [
-        "Vendredi sur Mer"
-      ],
-      "album": "Écoute chérie",
-      "image": "https://i.scdn.co/image/ab6742d3000053b70b46d0e9c9f87996937d65ed",
-      "url": "https://open.spotify.com/track/4DzlxEYJrbUsEyKkPXD6a9",
-      "duration_ms": 226560,
-      "played_at": "2026-04-26T22:50:16.731Z"
+      "album": "Beethoven: Piano Sonatas, Vol. 3",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
+      "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
+      "duration_ms": 315426,
+      "played_at": "2026-04-30T22:45:03.597Z"
     }
   ],
-  "fetched_at": "2026-04-30T22:27:24.428Z"
+  "fetched_at": "2026-04-30T23:27:53.526Z"
 }
