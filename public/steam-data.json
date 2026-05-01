@@ -12,13 +12,13 @@
     {
       "appid": 779340,
       "name": "Total War: THREE KINGDOMS",
-      "playtime_2weeks": 213,
-      "playtime_forever": 4654,
+      "playtime_2weeks": 327,
+      "playtime_forever": 4768,
       "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 619065,
-  "fetched_at": "2026-04-30T22:01:23.456Z"
+  "totalPlaytime": 619179,
+  "fetched_at": "2026-05-01T03:55:56.836Z"
 }
