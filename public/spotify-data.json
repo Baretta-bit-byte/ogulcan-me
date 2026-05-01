@@ -188,6 +188,44 @@
   ],
   "recently_played": [
     {
+      "id": "7rAr4Ai9dysthnfNRRC55Q",
+      "name": "Bring Your Love",
+      "artists": [
+        "Madonna",
+        "Sabrina Carpenter"
+      ],
+      "album": "Bring Your Love",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e80775d80a049e6a9608f91d",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q",
+      "duration_ms": 216400,
+      "played_at": "2026-05-01T13:42:07.139Z"
+    },
+    {
+      "id": "16Cn3tlpdhLH66ZArTgDAE",
+      "name": "GÜLİSTAN",
+      "artists": [
+        "Murat Boz"
+      ],
+      "album": "GÜLİSTAN",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a3f57c36df74c38756b3a139",
+      "url": "https://open.spotify.com/track/16Cn3tlpdhLH66ZArTgDAE",
+      "duration_ms": 218302,
+      "played_at": "2026-05-01T13:37:55.394Z"
+    },
+    {
+      "id": "0wx08CQnNntQhnkhEq9h2r",
+      "name": "YENİ BİRİ",
+      "artists": [
+        "Zeki Arkun",
+        "Simge"
+      ],
+      "album": "YENİ BİRİ",
+      "image": "https://i.scdn.co/image/ab67616d00001e020d8aefe321ebaa1ee3486351",
+      "url": "https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r",
+      "duration_ms": 153796,
+      "played_at": "2026-05-01T13:34:22.425Z"
+    },
+    {
       "id": "7gymMiUpp1AOYR5EiRDDrO",
       "name": "Ethereal",
       "artists": [
@@ -276,49 +314,7 @@
       "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
       "duration_ms": 167346,
       "played_at": "2026-04-30T23:18:09.923Z"
-    },
-    {
-      "id": "5Zf25eS8E1znm9mez4cGsm",
-      "name": "Reflections",
-      "artists": [
-        "Toshifumi Hinata"
-      ],
-      "album": "ひとつぶの海",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
-      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
-      "duration_ms": 130693,
-      "played_at": "2026-04-30T23:15:22.334Z"
-    },
-    {
-      "id": "6z1APkc8qQnsLpeN7FCoZD",
-      "name": "Waltz No.2",
-      "artists": [
-        "Cihat Aşkın"
-      ],
-      "album": "Türk Valsleri",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
-      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
-      "duration_ms": 240306,
-      "played_at": "2026-04-30T23:13:11.196Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-04-30T23:09:10.536Z"
     }
   ],
-  "fetched_at": "2026-05-01T01:21:12.991Z"
+  "fetched_at": "2026-05-01T13:59:06.397Z"
 }
