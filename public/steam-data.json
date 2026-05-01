@@ -4,7 +4,7 @@
     "personaname": "Babagi",
     "avatarfull": "https://avatars.steamstatic.com/ea978cd9c52cef376b59ded765b73cf17e719bb0_full.jpg",
     "profileurl": "https://steamcommunity.com/id/ogi4535/",
-    "personastate": 1,
+    "personastate": 0,
     "gameid": null,
     "gameextrainfo": null
   },
@@ -28,5 +28,5 @@
   ],
   "totalGames": 125,
   "totalPlaytime": 619181,
-  "fetched_at": "2026-05-01T19:19:35.061Z"
+  "fetched_at": "2026-05-01T21:57:19.003Z"
 }
