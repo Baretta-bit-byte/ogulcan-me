@@ -188,6 +188,19 @@
   ],
   "recently_played": [
     {
+      "id": "25P9EcttXxSTTRESdfTWoT",
+      "name": "BOMBA",
+      "artists": [
+        "RAF Camora",
+        "Lvbel C5"
+      ],
+      "album": "BOMBA",
+      "image": "https://i.scdn.co/image/ab67616d00001e023772b0416998fcf46ac696d8",
+      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT",
+      "duration_ms": 165799,
+      "played_at": "2026-05-01T14:45:42.067Z"
+    },
+    {
       "id": "7rAr4Ai9dysthnfNRRC55Q",
       "name": "Bring Your Love",
       "artists": [
@@ -302,19 +315,7 @@
       "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
       "duration_ms": 892266,
       "played_at": "2026-04-30T23:33:03.095Z"
-    },
-    {
-      "id": "48BWlWj0AwFi0Tc3yaKxuU",
-      "name": "Für Elise",
-      "artists": [
-        "The Regency House Orchestra"
-      ],
-      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
-      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
-      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
-      "duration_ms": 167346,
-      "played_at": "2026-04-30T23:18:09.923Z"
     }
   ],
-  "fetched_at": "2026-05-01T13:59:06.397Z"
+  "fetched_at": "2026-05-01T15:05:22.069Z"
 }
