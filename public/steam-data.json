@@ -1,10 +1,10 @@
 {
   "player": {
     "steamid": "76561198182166766",
-    "personaname": "Babagi",
+    "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/ea978cd9c52cef376b59ded765b73cf17e719bb0_full.jpg",
-    "profileurl": "https://steamcommunity.com/id/ogi4535/",
-    "personastate": 0,
+    "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
+    "personastate": 3,
     "gameid": null,
     "gameextrainfo": null
   },
@@ -28,5 +28,5 @@
   ],
   "totalGames": 125,
   "totalPlaytime": 619244,
-  "fetched_at": "2026-05-03T13:24:12.833Z"
+  "fetched_at": "2026-05-03T15:53:55.107Z"
 }
