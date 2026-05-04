@@ -2,13 +2,14 @@ import Link from "next/link";
 import { ArrowRight, MapPin, Calendar, ExternalLink, Download, GraduationCap, Heart, Users, Brain, Trophy } from "lucide-react";
 import LinkedTerm from "@/components/LinkedTerm";
 import Backlinks from "@/components/Backlinks";
+import { hr } from "framer-motion/client";
 
 const timeline = [
   {
-    year: "2023 — present",
-    title: "Computer Science",
+    year: "2022 — present",
+    title: "Mathematics (Computer Science Track)",
     place: "University",
-    description: "Algorithms, systems, applied mathematics. Primary languages: Python, C++.",
+    description: "Algorithms, Systems, Applied Mathematics, Web Development. Primary languages: C,Python, HTML, CSS, JavaScript, Typescript.",
     type: "education",
     icon: GraduationCap,
     href: undefined as string | undefined,
@@ -17,7 +18,7 @@ const timeline = [
   {
     year: "Mar 2026 — present",
     title: "AFAD & LÖSEV Volunteer",
-    place: "Turkey",
+    place: "Türkiye",
     description: "Disaster & emergency management (AFAD) and children's leukemia foundation (LÖSEV).",
     type: "community",
     icon: Heart,
@@ -26,33 +27,46 @@ const timeline = [
   },
   {
     year: "2025 — present",
-    title: "Turkish Informatics Association",
-    place: "Turkey",
-    description: "Active member of TBA — national non-profit promoting CS education and digital literacy since 1971.",
+    title: "Türkiye Bilişim Derneği (TBD) Member",
+    place: "Türkiye",
+    description: "Active member of TBD — national non-profit promoting CS education and digital literacy since 1971.",
     type: "community",
     icon: Users,
-    href: "/community/tba",
+    href: "/community/tbd",
     badge: "Member",
   },
   {
     year: "2025",
     title: "Game Theory — Ali Nesin Mathematics Village",
     place: "Şirince, İzmir",
-    description: "Intensive training covering Nash equilibria, minimax theorem, Shapley value, and mechanism design.",
+    description: "I had the opportunity to take a course from Ali Nesin and visit the Mathematics Village on a day trip.",
     type: "math",
     icon: Brain,
-    href: "/math/game-theory",
-    badge: "Certificate",
+    href: "/math/ali-nesin-mathematics-village",
+    badge: "Education & Travelling",
   },
   {
-    year: "2024",
-    title: "Izmir Mathematics Festival",
+    year: "March 2026- Present(until 16-17th of May 2026)",
+    title: "İzmir Mathematics Festival",
     place: "İzmir",
-    description: "Olympiad rounds, puzzle workshops, and research lectures for undergraduates.",
+    description: (
+      <>
+        The festival lets you explore math through play.The Horse's Journey table uses only the knight's move—try to visit every square once. Last but not least, I had the chance to create this website so that it would be accessible to everyone:{" "}
+        <a
+          href="https://www.atingezisi.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-violet-400 hover:text-violet-300 underline transition-colors"
+        >
+          www.atingezisi.com
+        </a>
+        .
+      </>
+    ),
     type: "math",
     icon: Trophy,
-    href: "/math/izmir-festival",
-    badge: "Participant",
+    href: "/math/izmir-mathematics-festival-atin-gezisi",
+    badge: "Team Leader",
   },
 ];
 
@@ -76,14 +90,38 @@ const typeIconText: Record<string, string> = {
 
 const projects = [
   {
+    href: "/projects/atingezisi-websitegames",
+    name: "Atın Gezisi Web Tabanlı Oyunu",
+    description: (
+      <>
+        İzmir Mathematics Festival 2026 project. 'Atın Gezisi', it is a knight's tour puzzle. Built with React, Tailwind CSS, and TypeScript for accessibility and performance. Simple UI, responsive design, and engaging gameplay. Try it out:{" "}
+        <a
+          href="https://www.atingezisi.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-violet-400 hover:text-violet-300 underline transition-colors"
+        >
+          https://www.atingezisi.com
+        </a>
+      </>
+    ),
+    tags: ["Typescript", "Web", "Game Development"],
+  },
+  {
+    href: "/projects/ogulcantokmak.me-website",
+    name: "ogulcantokmak.me Website",
+    description: "Personal website showcasing projects and experiences. Built with Next.js, Tailwind CSS, and TypeScript. Features a clean design, responsive layout, and interactive elements.",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+  },
+  {
     href: "/projects/secureexam-generator",
     name: "SecureExam-Generator",
     description: "Tamper-proof exam generation for educators. Cryptographic watermarking meets educational tooling.",
     tags: ["Python", "Security", "Education"],
   },
   {
-    href: "/projects/notepadio",
-    name: "NotePadIo",
+    href: "/projects/notepadneo",
+    name: "NotePadNeo",
     description: "Real-time collaborative notes. Low-code architecture, WebSocket sync, zero-friction sharing.",
     tags: ["Low-code", "Realtime", "Web"],
   },
@@ -108,7 +146,7 @@ export default function AboutPage() {
           </span>
         </div>
         <div className="flex items-center gap-4 text-xs text-slate-400 font-mono">
-          <span className="flex items-center gap-1"><MapPin size={11} /> Turkey</span>
+          <span className="flex items-center gap-1"><MapPin size={11} /> Türkiye/İzmir</span>
           <span className="flex items-center gap-1"><Calendar size={11} /> Available Summer 2026</span>
           <a
             href="/cv.pdf"
@@ -124,26 +162,23 @@ export default function AboutPage() {
       {/* Narrative */}
       <section className="mb-12 space-y-4">
         <p className="text-slate-600 dark:text-slate-300 leading-7">
-          I&apos;m a computer science student drawn to problems where a clean formal model produces a
-          surprisingly practical result — where the boundary between theory and engineering dissolves.
-          My work primarily lives at the intersection of <span className="text-sky-400 font-medium">education</span>,{" "}
-          <span className="text-sky-400 font-medium">security</span>, and{" "}
-          <span className="text-violet-400 font-medium">mathematical rigour</span>.
+          I&apos;m a mathematics department student.  Recently, I have been focusing on developing websites and web applications, which has been a rewarding way to apply my problem-solving skills to real-world projects.
+          My work primarily lives at the intersection of <span className="text-sky-400 font-medium">theoretical mathematics</span>,{" "}
+          <span className="text-sky-400 font-medium">applied mathematics</span>, and{" "}
+          <span className="text-violet-400 font-medium">computer science</span>.
         </p>
         <p className="text-slate-600 dark:text-slate-300 leading-7">
-          I write Python for data pipelines and rapid prototyping, C++ when performance
-          and memory control matter. I build tools I actually want to use — not demos, but software
-          with genuine edge cases that need to be handled.
+          As I mentioned I am currently focused on web development, I also trying to create an application for my recent web games and puzzles. I am passionate about building tools that are not only functional but also accessible and enjoyable to use. I believe that good software should be inclusive and designed with the user in mind, which is a principle I strive to uphold in all my projects.
         </p>
         <p className="text-slate-600 dark:text-slate-300 leading-7">
           Beyond code, I&apos;m an active member of the{" "}
           <LinkedTerm
-            href="/community/tba"
+            href="/community/tbd"
             variant="tech"
-            title="Turkish Informatics Association"
-            content="A national non-profit promoting CS education and digital literacy in Turkey since 1971."
+            title="Türkiye Bilişim Derneği (TBD) Member"
+            content="A national non-profit promoting CS education and digital literacy in Türkiye since 1971."
           >
-            Turkish Informatics Association
+            Türkiye Bilişim Derneği
           </LinkedTerm>{" "}
           and volunteer at{" "}
           <LinkedTerm
@@ -180,9 +215,9 @@ export default function AboutPage() {
                   </span>
                   <ExternalLink size={12} className="text-slate-400 mt-0.5 opacity-0 group-hover:opacity-100 transition-opacity" />
                 </div>
-                <p className="mt-1 text-sm text-slate-500 dark:text-slate-400 leading-6">
+                <div className="mt-1 text-sm text-slate-500 dark:text-slate-400 leading-6">
                   {p.description}
-                </p>
+                </div>
                 <div className="mt-3 flex gap-2">
                   {p.tags.map((t) => (
                     <span
@@ -208,15 +243,15 @@ export default function AboutPage() {
           <div className="space-y-6">
             {timeline.map((item, i) => {
               const Icon = item.icon;
-              const content = (
-                <div key={i} className={`flex gap-5 ${item.href ? "group cursor-pointer" : ""}`}>
+              return (
+                <div key={i} className="flex gap-5">
                   {/* Icon dot */}
                   <div className="relative mt-1 shrink-0">
                     <div className={`h-8 w-8 rounded-full ${typeIconBg[item.type]} ring-2 ring-white dark:ring-slate-900 flex items-center justify-center`}>
                       <Icon size={14} className={typeIconText[item.type]} />
                     </div>
                   </div>
-                  <div>
+                  <div className="min-w-0">
                     <div className="flex items-center gap-2 mb-0.5">
                       <span className="font-mono text-xs text-slate-400">{item.year}</span>
                       {item.badge && (
@@ -229,16 +264,21 @@ export default function AboutPage() {
                         </span>
                       )}
                     </div>
-                    <p className={`text-sm font-semibold text-slate-900 dark:text-slate-100 ${item.href ? "group-hover:text-sky-400 transition-colors" : ""}`}>{item.title}</p>
+                    {item.href ? (
+                      <Link
+                        href={item.href}
+                        className="group inline-flex items-center gap-1 text-sm font-semibold text-slate-900 dark:text-slate-100 hover:text-sky-400 transition-colors"
+                      >
+                        {item.title}
+                        <ArrowRight size={12} className="opacity-0 -translate-x-1 group-hover:opacity-100 group-hover:translate-x-0 transition-all" />
+                      </Link>
+                    ) : (
+                      <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">{item.title}</p>
+                    )}
                     <p className="text-xs text-slate-400 font-mono mb-1">{item.place}</p>
-                    <p className="text-sm text-slate-500 dark:text-slate-400 leading-6">{item.description}</p>
+                    <div className="text-sm text-slate-500 dark:text-slate-400 leading-6">{item.description}</div>
                   </div>
                 </div>
-              );
-              return item.href ? (
-                <Link key={i} href={item.href}>{content}</Link>
-              ) : (
-                content
               );
             })}
           </div>
@@ -257,7 +297,7 @@ export default function AboutPage() {
             title="Izmir Mathematics Festival"
             content="A regional celebration of mathematical thinking for K–12 students and undergraduates — olympiad rounds, puzzle workshops, and research lectures."
           >
-            Izmir Mathematics Festival
+            İzmir Mathematics Festival(current)
           </LinkedTerm>{" "}
           and completed{" "}
           <LinkedTerm
@@ -288,7 +328,9 @@ export default function AboutPage() {
         <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-300">
           <li className="flex items-center gap-2">
             <span className="h-1 w-1 rounded-full bg-sky-400 shrink-0" />
-            Studying CS — algorithms, systems, applied mathematics
+            Studying web development — building projects that blend form and function, with a focus on accessibility and user experience.
+            Studying CS — algorithms, systems, applied mathematics.
+            Studying Mathematics — game theory, combinatorics, and problem-solving techniques.
           </li>
           <li className="flex items-center gap-2">
             <span className="h-1 w-1 rounded-full bg-emerald-400 shrink-0" />
@@ -296,7 +338,20 @@ export default function AboutPage() {
           </li>
           <li className="flex items-center gap-2">
             <span className="h-1 w-1 rounded-full bg-violet-400 shrink-0" />
-            Building this digital garden
+            <span>
+              Building{" "}
+              <a
+                href="https://www.atingezisi.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-violet-400 hover:text-violet-300 underline transition-colors"
+              >
+                www.atingezisi.com
+              </a>
+              {" "}— a web-based version of the Atın Gezisi puzzle from the İzmir Mathematics Festival, designed for accessibility and performance.
+              <br />
+              Building this digital garden — a personal knowledge graph to document and share my learning journey in software, math, and beyond.
+            </span>
           </li>
           <li className="flex items-center gap-2">
             <span className="h-1 w-1 rounded-full bg-amber-400 shrink-0" />

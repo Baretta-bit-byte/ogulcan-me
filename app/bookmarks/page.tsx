@@ -43,6 +43,16 @@ const channels: Bookmark[] = [
     url: "https://www.youtube.com/@t3dotgg",
     description: "Web dev opinions and Next.js ecosystem.",
   },
+  {
+    title: "https://www.youtube.com/@BroCodez",
+    url: "https://www.youtube.com/@BroCodez",
+    description: "Programming tutorials and tech news.",
+  },
+  {
+    title: "itch.io",
+    url: "https://www.youtube.com/@itchiogames",
+    description: "Indie game development and community.",
+  }
 ];
 
 const dailyPuzzles: PuzzleItem[] = [
@@ -75,7 +85,7 @@ const dailyPuzzles: PuzzleItem[] = [
   },
   {
     title: "Mini Sudoku",
-    url: "https://sudoku.com",
+    url: "https://www.linkedin.com/games/mini-sudoku/",
     emoji: "🔢",
     color: "text-violet-500",
     bg: "bg-violet-500/10",
@@ -135,7 +145,7 @@ export default function BookmarksPage() {
             Daily Puzzles
           </h2>
           <span className="ml-auto inline-flex items-center gap-1 rounded-full border border-emerald-500/20 bg-emerald-500/10 px-2.5 py-0.5 text-[10px] font-mono text-emerald-500">
-            <Flame size={10} /> every day
+            <Flame size={10} /> For 212 days and counting...
           </span>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -170,7 +180,7 @@ export default function BookmarksPage() {
             Coding Platforms
           </h2>
           <span className="ml-auto inline-flex items-center gap-1 rounded-full border border-sky-500/20 bg-sky-500/10 px-2.5 py-0.5 text-[10px] font-mono text-sky-500">
-            <Flame size={10} /> daily practice
+            <Flame size={10} /> Weekly Practices (Unfortunately not daily like the puzzles...)
           </span>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
