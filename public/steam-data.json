@@ -4,11 +4,19 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/ea978cd9c52cef376b59ded765b73cf17e719bb0_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 0,
-    "gameid": null,
-    "gameextrainfo": null
+    "personastate": 1,
+    "gameid": "1158310",
+    "gameextrainfo": "Crusader Kings III"
   },
   "recentGames": [
+    {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "playtime_2weeks": 242,
+      "playtime_forever": 42245,
+      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
+    },
     {
       "appid": 779340,
       "name": "Total War: THREE KINGDOMS",
@@ -16,17 +24,9 @@
       "playtime_forever": 4768,
       "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
-    },
-    {
-      "appid": 1158310,
-      "name": "Crusader Kings III",
-      "playtime_2weeks": 182,
-      "playtime_forever": 42185,
-      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 619361,
-  "fetched_at": "2026-05-06T16:47:12.282Z"
+  "totalPlaytime": 619421,
+  "fetched_at": "2026-05-06T19:53:23.246Z"
 }
