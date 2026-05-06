@@ -188,6 +188,31 @@
   ],
   "recently_played": [
     {
+      "id": "0BWJNm4TrO6H3qgiCmDBjM",
+      "name": "Toccata and Fugue in D minor",
+      "artists": [
+        "Johann Sebastian Bach",
+        "William McVicker"
+      ],
+      "album": "Great Organ Classics",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
+      "duration_ms": 567466,
+      "played_at": "2026-05-06T19:08:07.083Z"
+    },
+    {
+      "id": "619p8Frf2gdv76xeN7At76",
+      "name": "I Can Do Anything / Finale",
+      "artists": [
+        "Christopher Lennertz"
+      ],
+      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
+      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
+      "duration_ms": 65728,
+      "played_at": "2026-05-06T18:58:39.263Z"
+    },
+    {
       "id": "25P9EcttXxSTTRESdfTWoT",
       "name": "BOMBA",
       "artists": [
@@ -286,36 +311,7 @@
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
       "duration_ms": 185000,
       "played_at": "2026-04-30T23:41:16.560Z"
-    },
-    {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
-      ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
-      "duration_ms": 307826,
-      "played_at": "2026-04-30T23:38:11.081Z"
-    },
-    {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "duration_ms": 892266,
-      "played_at": "2026-04-30T23:33:03.095Z"
     }
   ],
-  "fetched_at": "2026-05-01T15:05:22.069Z"
+  "fetched_at": "2026-05-06T19:09:23.942Z"
 }
