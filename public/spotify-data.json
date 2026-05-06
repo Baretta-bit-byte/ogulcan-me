@@ -75,21 +75,6 @@
       "genres": []
     },
     {
-      "id": "0ROMalDdNg3L2HoZP4qFyJ",
-      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
-      "preview_url": null,
-      "duration_ms": 201853,
-      "genres": []
-    },
-    {
       "id": "2LiWNkeUOAeibGxJKxmjsD",
       "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
       "artists": [
@@ -105,16 +90,29 @@
       "genres": []
     },
     {
-      "id": "48BWlWj0AwFi0Tc3yaKxuU",
-      "name": "Für Elise",
+      "id": "619p8Frf2gdv76xeN7At76",
+      "name": "I Can Do Anything / Finale",
       "artists": [
-        "The Regency House Orchestra"
+        "Christopher Lennertz"
       ],
-      "album": "Classical Masterpieces : Timeless Pieces from the Great Composers",
-      "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
-      "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
+      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
+      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
       "preview_url": null,
-      "duration_ms": 167346,
+      "duration_ms": 65728,
+      "genres": []
+    },
+    {
+      "id": "0wrWxW18WK2MkrfDpRHkyh",
+      "name": "Me and the Devil",
+      "artists": [
+        "Soap&Skin"
+      ],
+      "album": "Sugarbread",
+      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
+      "preview_url": null,
+      "duration_ms": 185000,
       "genres": []
     },
     {
@@ -146,16 +144,18 @@
       "genres": []
     },
     {
-      "id": "4iqF5rU8LW2pYs1uBg43js",
-      "name": "Ego",
+      "id": "0ROMalDdNg3L2HoZP4qFyJ",
+      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
       "artists": [
-        "Julia Beautx"
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
       ],
-      "album": "Ego",
-      "image": "https://i.scdn.co/image/ab6742d3000053b76f8a45ba0e22c2676e80c364",
-      "url": "https://open.spotify.com/track/4iqF5rU8LW2pYs1uBg43js",
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
       "preview_url": null,
-      "duration_ms": 173610,
+      "duration_ms": 201853,
       "genres": []
     },
     {
@@ -188,92 +188,76 @@
   ],
   "recently_played": [
     {
-      "id": "0BWJNm4TrO6H3qgiCmDBjM",
-      "name": "Toccata and Fugue in D minor",
+      "id": "6z1APkc8qQnsLpeN7FCoZD",
+      "name": "Waltz No.2",
       "artists": [
-        "Johann Sebastian Bach",
-        "William McVicker"
+        "Cihat Aşkın"
       ],
-      "album": "Great Organ Classics",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
-      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
-      "duration_ms": 567466,
-      "played_at": "2026-05-06T19:08:07.083Z"
+      "album": "Türk Valsleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
+      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
+      "duration_ms": 240306,
+      "played_at": "2026-05-06T20:43:30.356Z"
     },
     {
-      "id": "619p8Frf2gdv76xeN7At76",
-      "name": "I Can Do Anything / Finale",
+      "id": "08B8Ki7qlUoT58Zd1trxkl",
+      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
       "artists": [
-        "Christopher Lennertz"
+        "Slovak Philharmonic",
+        "Jaroslava Horska",
+        "Vladimir Ruso",
+        "Peter Mikulas",
+        "Stefan Klimo",
+        "Slovak Philharmonic Chorus",
+        "Jozef Kundlák",
+        "Magdaléna Hajóssyová",
+        "Wolfgang Amadeus Mozart"
       ],
-      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
-      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
-      "duration_ms": 65728,
-      "played_at": "2026-05-06T18:58:39.263Z"
+      "album": "Mozart: Requiem In D Minor",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
+      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
+      "duration_ms": 198666,
+      "played_at": "2026-05-06T19:42:41.308Z"
     },
     {
-      "id": "25P9EcttXxSTTRESdfTWoT",
-      "name": "BOMBA",
+      "id": "3hj6jHDmZfoQdukMi6bWF6",
+      "name": "Mozart : Requiem K. 626 - Lacrimosa",
       "artists": [
-        "RAF Camora",
-        "Lvbel C5"
+        "Wolfgang Amadeus Mozart",
+        "Jordi Savall",
+        "Le Concert Des Nations"
       ],
-      "album": "BOMBA",
-      "image": "https://i.scdn.co/image/ab67616d00001e023772b0416998fcf46ac696d8",
-      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT",
-      "duration_ms": 165799,
-      "played_at": "2026-05-01T14:45:42.067Z"
+      "album": "Mozart : Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e028ea6e00ea3edc44ffe6e20d1",
+      "url": "https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6",
+      "duration_ms": 183813,
+      "played_at": "2026-05-06T19:39:22.064Z"
     },
     {
-      "id": "7rAr4Ai9dysthnfNRRC55Q",
-      "name": "Bring Your Love",
+      "id": "2LiWNkeUOAeibGxJKxmjsD",
+      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
       "artists": [
-        "Madonna",
-        "Sabrina Carpenter"
+        "Sergei Prokofiev",
+        "The Cleveland Orchestra",
+        "Lorin Maazel"
       ],
-      "album": "Bring Your Love",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e80775d80a049e6a9608f91d",
-      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q",
-      "duration_ms": 216400,
-      "played_at": "2026-05-01T13:42:07.139Z"
+      "album": "Prokofiev: Romeo & Juliet",
+      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
+      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
+      "duration_ms": 307826,
+      "played_at": "2026-05-06T19:36:18.442Z"
     },
     {
-      "id": "16Cn3tlpdhLH66ZArTgDAE",
-      "name": "GÜLİSTAN",
+      "id": "5Zf25eS8E1znm9mez4cGsm",
+      "name": "Reflections",
       "artists": [
-        "Murat Boz"
+        "Toshifumi Hinata"
       ],
-      "album": "GÜLİSTAN",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a3f57c36df74c38756b3a139",
-      "url": "https://open.spotify.com/track/16Cn3tlpdhLH66ZArTgDAE",
-      "duration_ms": 218302,
-      "played_at": "2026-05-01T13:37:55.394Z"
-    },
-    {
-      "id": "0wx08CQnNntQhnkhEq9h2r",
-      "name": "YENİ BİRİ",
-      "artists": [
-        "Zeki Arkun",
-        "Simge"
-      ],
-      "album": "YENİ BİRİ",
-      "image": "https://i.scdn.co/image/ab67616d00001e020d8aefe321ebaa1ee3486351",
-      "url": "https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r",
-      "duration_ms": 153796,
-      "played_at": "2026-05-01T13:34:22.425Z"
-    },
-    {
-      "id": "7gymMiUpp1AOYR5EiRDDrO",
-      "name": "Ethereal",
-      "artists": [
-        "Txmy"
-      ],
-      "album": "Ethereal",
-      "image": "https://i.scdn.co/image/ab67616d00001e023ecfb69038cb68d0302099f3",
-      "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO",
-      "duration_ms": 168000,
-      "played_at": "2026-04-30T23:49:57.313Z"
+      "album": "ひとつぶの海",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
+      "duration_ms": 130693,
+      "played_at": "2026-05-06T19:31:09.747Z"
     },
     {
       "id": "0MvjUr7fKzchb49tt3OrMS",
@@ -286,7 +270,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
       "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
       "duration_ms": 176040,
-      "played_at": "2026-04-30T23:47:09.504Z"
+      "played_at": "2026-05-06T19:28:58.548Z"
     },
     {
       "id": "7fss5WF5vuXRHvMsYRQXQH",
@@ -298,20 +282,53 @@
       "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
       "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
       "duration_ms": 175480,
-      "played_at": "2026-04-30T23:44:12.665Z"
+      "played_at": "2026-05-06T19:26:02.418Z"
     },
     {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
       "artists": [
-        "Soap&Skin"
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
       ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "duration_ms": 185000,
-      "played_at": "2026-04-30T23:41:16.560Z"
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-05-06T19:23:06.622Z"
+    },
+    {
+      "id": "6xez71zpAqQ6N5i8E1jHlD",
+      "name": "Carmina Burana: O Fortuna",
+      "artists": [
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
+      ],
+      "album": "Orff: Carmina Burana",
+      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
+      "duration_ms": 144360,
+      "played_at": "2026-05-06T19:20:51.291Z"
+    },
+    {
+      "id": "4mOMTUl8XiaqILHwh8zm4H",
+      "name": "Le Monde - From Talk to Me",
+      "artists": [
+        "Richard Carter"
+      ],
+      "album": "Le Monde (From Talk to Me)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0217251768e34c93e9c45f44ee",
+      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
+      "duration_ms": 134853,
+      "played_at": "2026-05-06T19:18:27.339Z"
     }
   ],
-  "fetched_at": "2026-05-06T19:09:23.942Z"
+  "fetched_at": "2026-05-06T20:52:13.504Z"
 }
