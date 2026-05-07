@@ -188,6 +188,71 @@
   ],
   "recently_played": [
     {
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "duration_ms": 322226,
+      "played_at": "2026-05-07T16:40:51.099Z"
+    },
+    {
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
+      "artists": [
+        "Eminem",
+        "Nate Dogg"
+      ],
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "duration_ms": 297786,
+      "played_at": "2026-05-07T16:37:26.325Z"
+    },
+    {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "duration_ms": 269554,
+      "played_at": "2026-05-07T16:32:28.350Z"
+    },
+    {
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        "Fort Minor",
+        "Styles Of Beyond"
+      ],
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "duration_ms": 230493,
+      "played_at": "2026-05-07T16:27:59.347Z"
+    },
+    {
+      "id": "6M47gaKejso9772SKTa3yH",
+      "name": "Face Off",
+      "artists": [
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
+      ],
+      "album": "ASIN9NE",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "duration_ms": 219802,
+      "played_at": "2026-05-07T16:24:07.423Z"
+    },
+    {
       "id": "6z1APkc8qQnsLpeN7FCoZD",
       "name": "Waltz No.2",
       "artists": [
@@ -258,77 +323,7 @@
       "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
       "duration_ms": 130693,
       "played_at": "2026-05-06T19:31:09.747Z"
-    },
-    {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
-      "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
-      ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
-      "duration_ms": 176040,
-      "played_at": "2026-05-06T19:28:58.548Z"
-    },
-    {
-      "id": "7fss5WF5vuXRHvMsYRQXQH",
-      "name": "Темная ночь",
-      "artists": [
-        "Mark Bernes"
-      ],
-      "album": "Русское наследие",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
-      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
-      "duration_ms": 175480,
-      "played_at": "2026-05-06T19:26:02.418Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-05-06T19:23:06.622Z"
-    },
-    {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
-      "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
-      ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "duration_ms": 144360,
-      "played_at": "2026-05-06T19:20:51.291Z"
-    },
-    {
-      "id": "4mOMTUl8XiaqILHwh8zm4H",
-      "name": "Le Monde - From Talk to Me",
-      "artists": [
-        "Richard Carter"
-      ],
-      "album": "Le Monde (From Talk to Me)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0217251768e34c93e9c45f44ee",
-      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
-      "duration_ms": 134853,
-      "played_at": "2026-05-06T19:18:27.339Z"
     }
   ],
-  "fetched_at": "2026-05-06T20:52:13.504Z"
+  "fetched_at": "2026-05-07T17:46:32.271Z"
 }
