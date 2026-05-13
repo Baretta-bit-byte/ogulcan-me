@@ -188,6 +188,95 @@
   ],
   "recently_played": [
     {
+      "id": "6dWWOi8PvMJPOl60TwQxKP",
+      "name": "Fight Back",
+      "artists": [
+        "NEFFEX"
+      ],
+      "album": "Fight Back: The Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
+      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
+      "duration_ms": 200571,
+      "played_at": "2026-05-13T18:53:12.405Z"
+    },
+    {
+      "id": "66orjI5vOkyxOZLHWrPklh",
+      "name": "X Gon' Give It To Ya - Int'l Bonus track",
+      "artists": [
+        "DMX"
+      ],
+      "album": "Grand Champ",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
+      "duration_ms": 219733,
+      "played_at": "2026-05-13T18:43:22.639Z"
+    },
+    {
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "duration_ms": 322226,
+      "played_at": "2026-05-13T18:39:52.679Z"
+    },
+    {
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
+      "artists": [
+        "Eminem",
+        "Nate Dogg"
+      ],
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "duration_ms": 297786,
+      "played_at": "2026-05-13T18:34:22.732Z"
+    },
+    {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "duration_ms": 269554,
+      "played_at": "2026-05-13T18:24:52.704Z"
+    },
+    {
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        "Fort Minor",
+        "Styles Of Beyond"
+      ],
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "duration_ms": 230493,
+      "played_at": "2026-05-13T18:20:22.639Z"
+    },
+    {
+      "id": "6M47gaKejso9772SKTa3yH",
+      "name": "Face Off",
+      "artists": [
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
+      ],
+      "album": "ASIN9NE",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "duration_ms": 219802,
+      "played_at": "2026-05-13T18:16:22.843Z"
+    },
+    {
       "id": "1v7L65Lzy0j0vdpRjJewt1",
       "name": "Lose Yourself",
       "artists": [
@@ -223,107 +312,7 @@
       "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
       "duration_ms": 269554,
       "played_at": "2026-05-07T16:32:28.350Z"
-    },
-    {
-      "id": "7ccC26pJ3aDG81sS4FwdXF",
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "artists": [
-        "Fort Minor",
-        "Styles Of Beyond"
-      ],
-      "album": "The Rising Tied (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "duration_ms": 230493,
-      "played_at": "2026-05-07T16:27:59.347Z"
-    },
-    {
-      "id": "6M47gaKejso9772SKTa3yH",
-      "name": "Face Off",
-      "artists": [
-        "Tech N9ne",
-        "Joey Cool",
-        "King Iso",
-        "Dwayne Johnson"
-      ],
-      "album": "ASIN9NE",
-      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
-      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
-      "duration_ms": 219802,
-      "played_at": "2026-05-07T16:24:07.423Z"
-    },
-    {
-      "id": "6z1APkc8qQnsLpeN7FCoZD",
-      "name": "Waltz No.2",
-      "artists": [
-        "Cihat Aşkın"
-      ],
-      "album": "Türk Valsleri",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
-      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
-      "duration_ms": 240306,
-      "played_at": "2026-05-06T20:43:30.356Z"
-    },
-    {
-      "id": "08B8Ki7qlUoT58Zd1trxkl",
-      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
-      "artists": [
-        "Slovak Philharmonic",
-        "Jaroslava Horska",
-        "Vladimir Ruso",
-        "Peter Mikulas",
-        "Stefan Klimo",
-        "Slovak Philharmonic Chorus",
-        "Jozef Kundlák",
-        "Magdaléna Hajóssyová",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "album": "Mozart: Requiem In D Minor",
-      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
-      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
-      "duration_ms": 198666,
-      "played_at": "2026-05-06T19:42:41.308Z"
-    },
-    {
-      "id": "3hj6jHDmZfoQdukMi6bWF6",
-      "name": "Mozart : Requiem K. 626 - Lacrimosa",
-      "artists": [
-        "Wolfgang Amadeus Mozart",
-        "Jordi Savall",
-        "Le Concert Des Nations"
-      ],
-      "album": "Mozart : Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e028ea6e00ea3edc44ffe6e20d1",
-      "url": "https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6",
-      "duration_ms": 183813,
-      "played_at": "2026-05-06T19:39:22.064Z"
-    },
-    {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
-      ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
-      "duration_ms": 307826,
-      "played_at": "2026-05-06T19:36:18.442Z"
-    },
-    {
-      "id": "5Zf25eS8E1znm9mez4cGsm",
-      "name": "Reflections",
-      "artists": [
-        "Toshifumi Hinata"
-      ],
-      "album": "ひとつぶの海",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
-      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
-      "duration_ms": 130693,
-      "played_at": "2026-05-06T19:31:09.747Z"
     }
   ],
-  "fetched_at": "2026-05-07T17:46:32.271Z"
+  "fetched_at": "2026-05-13T19:52:23.803Z"
 }
