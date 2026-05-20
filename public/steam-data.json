@@ -12,8 +12,8 @@
     {
       "appid": 1158310,
       "name": "Crusader Kings III",
-      "playtime_2weeks": 1168,
-      "playtime_forever": 43354,
+      "playtime_2weeks": 1167,
+      "playtime_forever": 43445,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     },
@@ -27,6 +27,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 620578,
-  "fetched_at": "2026-05-20T15:37:39.552Z"
+  "totalPlaytime": 620669,
+  "fetched_at": "2026-05-20T20:24:47.224Z"
 }
