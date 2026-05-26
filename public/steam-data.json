@@ -18,20 +18,20 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     },
     {
+      "appid": 224260,
+      "name": "No More Room in Hell",
+      "playtime_2weeks": 305,
+      "playtime_forever": 9348,
+      "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
+    },
+    {
       "appid": 779340,
       "name": "Total War: THREE KINGDOMS",
       "playtime_2weeks": 288,
       "playtime_forever": 5057,
       "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
-    },
-    {
-      "appid": 224260,
-      "name": "No More Room in Hell",
-      "playtime_2weeks": 275,
-      "playtime_forever": 9318,
-      "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
     },
     {
       "appid": 304390,
@@ -43,6 +43,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 621833,
-  "fetched_at": "2026-05-26T10:07:42.842Z"
+  "totalPlaytime": 621863,
+  "fetched_at": "2026-05-26T15:54:09.702Z"
 }
