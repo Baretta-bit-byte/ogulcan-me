@@ -56,53 +56,6 @@
       "genres": []
     },
     {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
-      "artists": [
-        "Soap&Skin"
-      ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "preview_url": null,
-      "duration_ms": 185000,
-      "genres": []
-    },
-    {
-      "id": "2LiWNkeUOAeibGxJKxmjsD",
-      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
-      "artists": [
-        "Sergei Prokofiev",
-        "The Cleveland Orchestra",
-        "Lorin Maazel"
-      ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
-      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
-      "preview_url": null,
-      "duration_ms": 307826,
-      "genres": []
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "preview_url": null,
-      "duration_ms": 134746,
-      "genres": []
-    },
-    {
       "id": "0MvjUr7fKzchb49tt3OrMS",
       "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
       "artists": [
@@ -132,16 +85,19 @@
       "genres": []
     },
     {
-      "id": "4mOMTUl8XiaqILHwh8zm4H",
-      "name": "Le Monde - From Talk to Me",
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
       "artists": [
-        "Richard Carter"
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
       ],
-      "album": "Le Monde (From Talk to Me)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0217251768e34c93e9c45f44ee",
-      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
       "preview_url": null,
-      "duration_ms": 134853,
+      "duration_ms": 892266,
       "genres": []
     },
     {
@@ -158,6 +114,22 @@
       "genres": []
     },
     {
+      "id": "6xez71zpAqQ6N5i8E1jHlD",
+      "name": "Carmina Burana: O Fortuna",
+      "artists": [
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
+      ],
+      "album": "Orff: Carmina Burana",
+      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
+      "preview_url": null,
+      "duration_ms": 144360,
+      "genres": []
+    },
+    {
       "id": "7ccC26pJ3aDG81sS4FwdXF",
       "name": "Remember the Name (feat. Styles of Beyond)",
       "artists": [
@@ -169,6 +141,34 @@
       "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
       "preview_url": null,
       "duration_ms": 230493,
+      "genres": []
+    },
+    {
+      "id": "0wrWxW18WK2MkrfDpRHkyh",
+      "name": "Me and the Devil",
+      "artists": [
+        "Soap&Skin"
+      ],
+      "album": "Sugarbread",
+      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
+      "preview_url": null,
+      "duration_ms": 185000,
+      "genres": []
+    },
+    {
+      "id": "2LiWNkeUOAeibGxJKxmjsD",
+      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
+      "artists": [
+        "Sergei Prokofiev",
+        "The Cleveland Orchestra",
+        "Lorin Maazel"
+      ],
+      "album": "Prokofiev: Romeo & Juliet",
+      "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
+      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
+      "preview_url": null,
+      "duration_ms": 307826,
       "genres": []
     },
     {
@@ -187,134 +187,130 @@
   ],
   "recently_played": [
     {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
+      "id": "1el1feH98jWUrPpYmu5jN8",
+      "name": "Sunshine",
       "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
+        "Cleo Sol"
       ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-05-23T12:55:08.801Z"
+      "album": "Mother",
+      "image": "https://i.scdn.co/image/ab67616d00001e023335e63f35e6cd4d0e8f8aa8",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8",
+      "duration_ms": 262960,
+      "played_at": "2026-05-26T12:57:49.708Z"
     },
     {
-      "id": "2OQJKTtrH482waGFmOfJni",
-      "name": "We Own It (Fast & Furious)",
+      "id": "4gO4OomMLvV3l9KoyMpeft",
+      "name": "Some Place Else",
       "artists": [
-        "2 Chainz",
-        "Wiz Khalifa"
+        "MorMor"
       ],
-      "album": "B.O.A.T.S. II #METIME (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b4366694590f7164fad21fc7",
-      "url": "https://open.spotify.com/track/2OQJKTtrH482waGFmOfJni",
-      "duration_ms": 227906,
-      "played_at": "2026-05-20T16:13:13.623Z"
+      "album": "Some Place Else",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e78563014efc74e6eda2db44",
+      "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft",
+      "duration_ms": 214885,
+      "played_at": "2026-05-26T12:33:54.335Z"
     },
     {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
+      "id": "5J59tqY0Ad4r27tJJajzyB",
+      "name": "Rose Pink Cadillac",
       "artists": [
-        "Kanye West"
+        "DOPE LEMON"
       ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "duration_ms": 311866,
-      "played_at": "2026-05-20T15:09:52.341Z"
+      "album": "Rose Pink Cadillac",
+      "image": "https://i.scdn.co/image/ab67616d00001e024e2ac74342d72cad3d1fb747",
+      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB",
+      "duration_ms": 261911,
+      "played_at": "2026-05-26T12:30:19.017Z"
     },
     {
-      "id": "5zsHmE2gO3RefVsPyw2e3T",
-      "name": "What's Up Danger (with Black Caviar)",
+      "id": "4Goj7amQLl2PiPYaiB0VlV",
+      "name": "Tidal Wave",
       "artists": [
-        "Blackway",
-        "Black Caviar"
+        "Tom Misch",
+        "Yussef Dayes"
       ],
-      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
-      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
-      "duration_ms": 222306,
-      "played_at": "2026-05-18T17:28:32.138Z"
+      "album": "What Kinda Music",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bd93bbf0c3df5e0242b84831",
+      "url": "https://open.spotify.com/track/4Goj7amQLl2PiPYaiB0VlV",
+      "duration_ms": 249427,
+      "played_at": "2026-05-26T12:25:56.748Z"
     },
     {
-      "id": "6dWWOi8PvMJPOl60TwQxKP",
-      "name": "Fight Back",
+      "id": "4S6PolgPZ5OLph314ww8Fg",
+      "name": "Eugene",
       "artists": [
-        "NEFFEX"
+        "Arlo Parks"
       ],
-      "album": "Fight Back: The Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
-      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
-      "duration_ms": 200571,
-      "played_at": "2026-05-18T17:21:15.611Z"
+      "album": "Eugene",
+      "image": "https://i.scdn.co/image/ab67616d00001e025fcd8793a97f15b365235441",
+      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg",
+      "duration_ms": 221804,
+      "played_at": "2026-05-26T12:21:47.236Z"
     },
     {
-      "id": "6dWWOi8PvMJPOl60TwQxKP",
-      "name": "Fight Back",
+      "id": "1KjLbuPsJmYdZJt0CsyVAg",
+      "name": "405 - Metronomy x Biig Piig",
       "artists": [
-        "NEFFEX"
+        "Metronomy",
+        "Biig Piig"
       ],
-      "album": "Fight Back: The Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
-      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
-      "duration_ms": 200571,
-      "played_at": "2026-05-13T18:53:12.405Z"
+      "album": "405 - Metronomy x Biig Piig",
+      "image": "https://i.scdn.co/image/ab67616d00001e0285eb4a284e25f67b3bd46f9d",
+      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg",
+      "duration_ms": 265505,
+      "played_at": "2026-05-26T12:18:04.696Z"
     },
     {
-      "id": "66orjI5vOkyxOZLHWrPklh",
-      "name": "X Gon' Give It To Ya - Int'l Bonus track",
+      "id": "4RkQzVNxEt6JwOXCWolXsr",
+      "name": "I'm a Kid",
       "artists": [
-        "DMX"
+        "Jadu Heart"
       ],
-      "album": "Grand Champ",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
-      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
-      "duration_ms": 219733,
-      "played_at": "2026-05-13T18:43:22.639Z"
+      "album": "Melt Away",
+      "image": "https://i.scdn.co/image/ab67616d00001e02851abb191c8785030d49db34",
+      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr",
+      "duration_ms": 206500,
+      "played_at": "2026-05-26T12:13:38.712Z"
     },
     {
-      "id": "1v7L65Lzy0j0vdpRjJewt1",
-      "name": "Lose Yourself",
+      "id": "7Kl5wPMTXal1ZUMqSSKVa0",
+      "name": "U&ME",
       "artists": [
-        "Eminem"
+        "alt-J"
       ],
-      "album": "Just Lose It",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
-      "duration_ms": 322226,
-      "played_at": "2026-05-13T18:39:52.679Z"
+      "album": "The Dream",
+      "image": "https://i.scdn.co/image/ab67616d00001e0295b1bbaa45a5f8a5175b78fd",
+      "url": "https://open.spotify.com/track/7Kl5wPMTXal1ZUMqSSKVa0",
+      "duration_ms": 198840,
+      "played_at": "2026-05-26T12:10:11.873Z"
     },
     {
-      "id": "4xkOaSrkexMciUUogZKVTS",
-      "name": "Till I Collapse",
+      "id": "5OplD6jkrUT7XJFFIM6mph",
+      "name": "Oh No",
       "artists": [
-        "Eminem",
-        "Nate Dogg"
+        "Biig Piig"
       ],
-      "album": "The Eminem Show",
-      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-      "duration_ms": 297786,
-      "played_at": "2026-05-13T18:34:22.732Z"
+      "album": "Oh No / Liahr",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ad6f70c141bec2321e022e9a",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph",
+      "duration_ms": 164946,
+      "played_at": "2026-05-26T12:06:52.573Z"
     },
     {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
+      "id": "6xez71zpAqQ6N5i8E1jHlD",
+      "name": "Carmina Burana: O Fortuna",
       "artists": [
-        "Eminem"
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
       ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "duration_ms": 269554,
-      "played_at": "2026-05-13T18:24:52.704Z"
+      "album": "Orff: Carmina Burana",
+      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
+      "duration_ms": 144360,
+      "played_at": "2026-05-26T11:42:21.778Z"
     }
   ],
-  "fetched_at": "2026-05-23T13:55:37.065Z"
+  "fetched_at": "2026-05-26T13:52:47.923Z"
 }
