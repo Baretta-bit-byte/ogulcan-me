@@ -56,32 +56,22 @@
       "genres": []
     },
     {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
       "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
       ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
       "preview_url": null,
-      "duration_ms": 176040,
-      "genres": []
-    },
-    {
-      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
-      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
-      "preview_url": null,
-      "duration_ms": 167880,
+      "duration_ms": 134746,
       "genres": []
     },
     {
@@ -111,6 +101,19 @@
       "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
       "preview_url": null,
       "duration_ms": 65728,
+      "genres": []
+    },
+    {
+      "id": "0wrWxW18WK2MkrfDpRHkyh",
+      "name": "Me and the Devil",
+      "artists": [
+        "Soap&Skin"
+      ],
+      "album": "Sugarbread",
+      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
+      "preview_url": null,
+      "duration_ms": 185000,
       "genres": []
     },
     {
@@ -144,19 +147,6 @@
       "genres": []
     },
     {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
-      "artists": [
-        "Soap&Skin"
-      ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "preview_url": null,
-      "duration_ms": 185000,
-      "genres": []
-    },
-    {
       "id": "2LiWNkeUOAeibGxJKxmjsD",
       "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
       "artists": [
@@ -183,9 +173,126 @@
       "preview_url": null,
       "duration_ms": 269554,
       "genres": []
+    },
+    {
+      "id": "0BWJNm4TrO6H3qgiCmDBjM",
+      "name": "Toccata and Fugue in D minor",
+      "artists": [
+        "Johann Sebastian Bach",
+        "William McVicker"
+      ],
+      "album": "Great Organ Classics",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
+      "preview_url": null,
+      "duration_ms": 567466,
+      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "2xizRhme7pYeITbH1NLLGt",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+      "artists": [
+        "Pyotr Ilyich Tchaikovsky",
+        "André Previn",
+        "London Symphony Orchestra"
+      ],
+      "album": "Tchaikovsky: Swan Lake",
+      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
+      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+      "duration_ms": 166866,
+      "played_at": "2026-05-28T14:01:55.413Z"
+    },
+    {
+      "id": "619p8Frf2gdv76xeN7At76",
+      "name": "I Can Do Anything / Finale",
+      "artists": [
+        "Christopher Lennertz"
+      ],
+      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
+      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
+      "duration_ms": 65728,
+      "played_at": "2026-05-28T14:00:54.518Z"
+    },
+    {
+      "id": "7fss5WF5vuXRHvMsYRQXQH",
+      "name": "Темная ночь",
+      "artists": [
+        "Mark Bernes"
+      ],
+      "album": "Русское наследие",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
+      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
+      "duration_ms": 175480,
+      "played_at": "2026-05-28T13:59:48.546Z"
+    },
+    {
+      "id": "08B8Ki7qlUoT58Zd1trxkl",
+      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "artists": [
+        "Slovak Philharmonic",
+        "Jaroslava Horska",
+        "Vladimir Ruso",
+        "Peter Mikulas",
+        "Stefan Klimo",
+        "Slovak Philharmonic Chorus",
+        "Jozef Kundlák",
+        "Magdaléna Hajóssyová",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "album": "Mozart: Requiem In D Minor",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
+      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
+      "duration_ms": 198666,
+      "played_at": "2026-05-28T13:56:52.760Z"
+    },
+    {
+      "id": "0wrWxW18WK2MkrfDpRHkyh",
+      "name": "Me and the Devil",
+      "artists": [
+        "Soap&Skin"
+      ],
+      "album": "Sugarbread",
+      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
+      "duration_ms": 185000,
+      "played_at": "2026-05-28T13:53:33.695Z"
+    },
+    {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "duration_ms": 892266,
+      "played_at": "2026-05-28T13:50:28.340Z"
+    },
+    {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-05-28T13:34:08.261Z"
+    },
     {
       "id": "1el1feH98jWUrPpYmu5jN8",
       "name": "Sunshine",
@@ -221,96 +328,7 @@
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB",
       "duration_ms": 261911,
       "played_at": "2026-05-26T12:30:19.017Z"
-    },
-    {
-      "id": "4Goj7amQLl2PiPYaiB0VlV",
-      "name": "Tidal Wave",
-      "artists": [
-        "Tom Misch",
-        "Yussef Dayes"
-      ],
-      "album": "What Kinda Music",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bd93bbf0c3df5e0242b84831",
-      "url": "https://open.spotify.com/track/4Goj7amQLl2PiPYaiB0VlV",
-      "duration_ms": 249427,
-      "played_at": "2026-05-26T12:25:56.748Z"
-    },
-    {
-      "id": "4S6PolgPZ5OLph314ww8Fg",
-      "name": "Eugene",
-      "artists": [
-        "Arlo Parks"
-      ],
-      "album": "Eugene",
-      "image": "https://i.scdn.co/image/ab67616d00001e025fcd8793a97f15b365235441",
-      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg",
-      "duration_ms": 221804,
-      "played_at": "2026-05-26T12:21:47.236Z"
-    },
-    {
-      "id": "1KjLbuPsJmYdZJt0CsyVAg",
-      "name": "405 - Metronomy x Biig Piig",
-      "artists": [
-        "Metronomy",
-        "Biig Piig"
-      ],
-      "album": "405 - Metronomy x Biig Piig",
-      "image": "https://i.scdn.co/image/ab67616d00001e0285eb4a284e25f67b3bd46f9d",
-      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg",
-      "duration_ms": 265505,
-      "played_at": "2026-05-26T12:18:04.696Z"
-    },
-    {
-      "id": "4RkQzVNxEt6JwOXCWolXsr",
-      "name": "I'm a Kid",
-      "artists": [
-        "Jadu Heart"
-      ],
-      "album": "Melt Away",
-      "image": "https://i.scdn.co/image/ab67616d00001e02851abb191c8785030d49db34",
-      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr",
-      "duration_ms": 206500,
-      "played_at": "2026-05-26T12:13:38.712Z"
-    },
-    {
-      "id": "7Kl5wPMTXal1ZUMqSSKVa0",
-      "name": "U&ME",
-      "artists": [
-        "alt-J"
-      ],
-      "album": "The Dream",
-      "image": "https://i.scdn.co/image/ab67616d00001e0295b1bbaa45a5f8a5175b78fd",
-      "url": "https://open.spotify.com/track/7Kl5wPMTXal1ZUMqSSKVa0",
-      "duration_ms": 198840,
-      "played_at": "2026-05-26T12:10:11.873Z"
-    },
-    {
-      "id": "5OplD6jkrUT7XJFFIM6mph",
-      "name": "Oh No",
-      "artists": [
-        "Biig Piig"
-      ],
-      "album": "Oh No / Liahr",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ad6f70c141bec2321e022e9a",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph",
-      "duration_ms": 164946,
-      "played_at": "2026-05-26T12:06:52.573Z"
-    },
-    {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
-      "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
-      ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "duration_ms": 144360,
-      "played_at": "2026-05-26T11:42:21.778Z"
     }
   ],
-  "fetched_at": "2026-05-26T13:52:47.923Z"
+  "fetched_at": "2026-05-28T14:43:06.063Z"
 }
