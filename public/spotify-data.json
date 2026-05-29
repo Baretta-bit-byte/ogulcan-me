@@ -41,22 +41,6 @@
       "genres": []
     },
     {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
-      "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
-      ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "preview_url": null,
-      "duration_ms": 144360,
-      "genres": []
-    },
-    {
       "id": "619p8Frf2gdv76xeN7At76",
       "name": "I Can Do Anything / Finale",
       "artists": [
@@ -67,22 +51,6 @@
       "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
       "preview_url": null,
       "duration_ms": 65728,
-      "genres": []
-    },
-    {
-      "id": "6M47gaKejso9772SKTa3yH",
-      "name": "Face Off",
-      "artists": [
-        "Tech N9ne",
-        "Joey Cool",
-        "King Iso",
-        "Dwayne Johnson"
-      ],
-      "album": "ASIN9NE",
-      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
-      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
-      "preview_url": null,
-      "duration_ms": 219802,
       "genres": []
     },
     {
@@ -99,24 +67,19 @@
       "genres": []
     },
     {
-      "id": "08B8Ki7qlUoT58Zd1trxkl",
-      "name": "Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa",
+      "id": "6xez71zpAqQ6N5i8E1jHlD",
+      "name": "Carmina Burana: O Fortuna",
       "artists": [
-        "Slovak Philharmonic",
-        "Jaroslava Horska",
-        "Vladimir Ruso",
-        "Peter Mikulas",
-        "Stefan Klimo",
-        "Slovak Philharmonic Chorus",
-        "Jozef Kundlák",
-        "Magdaléna Hajóssyová",
-        "Wolfgang Amadeus Mozart"
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
       ],
-      "album": "Mozart: Requiem In D Minor",
-      "image": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093",
-      "url": "https://open.spotify.com/track/08B8Ki7qlUoT58Zd1trxkl",
+      "album": "Orff: Carmina Burana",
+      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
       "preview_url": null,
-      "duration_ms": 198666,
+      "duration_ms": 144360,
       "genres": []
     },
     {
@@ -149,19 +112,6 @@
       "genres": []
     },
     {
-      "id": "1v7L65Lzy0j0vdpRjJewt1",
-      "name": "Lose Yourself",
-      "artists": [
-        "Eminem"
-      ],
-      "album": "Just Lose It",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
-      "preview_url": null,
-      "duration_ms": 322226,
-      "genres": []
-    },
-    {
       "id": "2LiWNkeUOAeibGxJKxmjsD",
       "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
       "artists": [
@@ -177,103 +127,46 @@
       "genres": []
     },
     {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
+      "id": "3hj6jHDmZfoQdukMi6bWF6",
+      "name": "Mozart : Requiem K. 626 - Lacrimosa",
       "artists": [
-        "Eminem"
+        "Wolfgang Amadeus Mozart",
+        "Jordi Savall",
+        "Le Concert Des Nations"
       ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "album": "Mozart : Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e028ea6e00ea3edc44ffe6e20d1",
+      "url": "https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6",
       "preview_url": null,
-      "duration_ms": 269554,
+      "duration_ms": 183813,
       "genres": []
-    }
-  ],
-  "recently_played": [
-    {
-      "id": "619p8Frf2gdv76xeN7At76",
-      "name": "I Can Do Anything / Finale",
-      "artists": [
-        "Christopher Lennertz"
-      ],
-      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
-      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
-      "duration_ms": 65728,
-      "played_at": "2026-05-29T11:36:27.835Z"
     },
     {
-      "id": "7fss5WF5vuXRHvMsYRQXQH",
-      "name": "Темная ночь",
+      "id": "40gRh2ZURv5tYBo8yB9Lu3",
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "artists": [
-        "Mark Bernes"
+        "Ludwig van Beethoven",
+        "Paul Lewis"
       ],
-      "album": "Русское наследие",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
-      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
-      "duration_ms": 175480,
-      "played_at": "2026-05-29T11:35:22.149Z"
+      "album": "Beethoven: Piano Sonatas, Vol. 3",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
+      "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
+      "preview_url": null,
+      "duration_ms": 315426,
+      "genres": []
     },
     {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
+      "id": "4mOMTUl8XiaqILHwh8zm4H",
+      "name": "Le Monde - From Talk to Me",
       "artists": [
-        "Soap&Skin"
+        "Richard Carter"
       ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "duration_ms": 185000,
-      "played_at": "2026-05-29T11:29:50.257Z"
-    },
-    {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "duration_ms": 892266,
-      "played_at": "2026-05-29T00:33:14.460Z"
-    },
-    {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
-      "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
-      ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "duration_ms": 144360,
-      "played_at": "2026-05-29T00:29:07.379Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-05-29T00:26:42.633Z"
+      "album": "Le Monde (From Talk to Me)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0217251768e34c93e9c45f44ee",
+      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
+      "preview_url": null,
+      "duration_ms": 134853,
+      "genres": []
     },
     {
       "id": "5Zf25eS8E1znm9mez4cGsm",
@@ -284,8 +177,23 @@
       "album": "ひとつぶの海",
       "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
       "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
+      "preview_url": null,
       "duration_ms": 130693,
-      "played_at": "2026-05-28T23:28:32.039Z"
+      "genres": []
+    }
+  ],
+  "recently_played": [
+    {
+      "id": "5Zf25eS8E1znm9mez4cGsm",
+      "name": "Reflections",
+      "artists": [
+        "Toshifumi Hinata"
+      ],
+      "album": "ひとつぶの海",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
+      "duration_ms": 130693,
+      "played_at": "2026-05-29T13:24:05.446Z"
     },
     {
       "id": "48BWlWj0AwFi0Tc3yaKxuU",
@@ -297,7 +205,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e023b27fcac9bb8540768b4ba7d",
       "url": "https://open.spotify.com/track/48BWlWj0AwFi0Tc3yaKxuU",
       "duration_ms": 167346,
-      "played_at": "2026-05-28T23:26:21.113Z"
+      "played_at": "2026-05-29T13:21:54.394Z"
     },
     {
       "id": "40gRh2ZURv5tYBo8yB9Lu3",
@@ -310,7 +218,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
       "url": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
       "duration_ms": 315426,
-      "played_at": "2026-05-28T23:23:33.522Z"
+      "played_at": "2026-05-29T13:19:06.702Z"
     },
     {
       "id": "2LiWNkeUOAeibGxJKxmjsD",
@@ -324,8 +232,85 @@
       "image": "https://i.scdn.co/image/ab67616d00001e028af0e6e8cd90c28749ccbcd9",
       "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
       "duration_ms": 307826,
-      "played_at": "2026-05-28T23:18:17.801Z"
+      "played_at": "2026-05-29T13:13:50.910Z"
+    },
+    {
+      "id": "4820SC1xnUaabzzYQTDkP2",
+      "name": "Gnossienne: No. 1",
+      "artists": [
+        "Erik Satie",
+        "Alexandre Tharaud"
+      ],
+      "album": "Satie: Avant-dernières pensées (Bonus Track Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02949cc0e6728be2f6601eb7ea",
+      "url": "https://open.spotify.com/track/4820SC1xnUaabzzYQTDkP2",
+      "duration_ms": 214133,
+      "played_at": "2026-05-29T13:08:42.643Z"
+    },
+    {
+      "id": "0MvjUr7fKzchb49tt3OrMS",
+      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
+      "artists": [
+        "Baroque Festival Orchestra",
+        "Alberto Lizzio"
+      ],
+      "album": "Vivaldi - The Four Seasons",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
+      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
+      "duration_ms": 176040,
+      "played_at": "2026-05-29T13:05:08.188Z"
+    },
+    {
+      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
+      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
+      "duration_ms": 167880,
+      "played_at": "2026-05-29T13:02:11.813Z"
+    },
+    {
+      "id": "0BWJNm4TrO6H3qgiCmDBjM",
+      "name": "Toccata and Fugue in D minor",
+      "artists": [
+        "Johann Sebastian Bach",
+        "William McVicker"
+      ],
+      "album": "Great Organ Classics",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d46d75c2d65ac06cb3185c22",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM",
+      "duration_ms": 567466,
+      "played_at": "2026-05-29T12:59:23.566Z"
+    },
+    {
+      "id": "7gymMiUpp1AOYR5EiRDDrO",
+      "name": "Ethereal",
+      "artists": [
+        "Txmy"
+      ],
+      "album": "Ethereal",
+      "image": "https://i.scdn.co/image/ab67616d00001e023ecfb69038cb68d0302099f3",
+      "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO",
+      "duration_ms": 168000,
+      "played_at": "2026-05-29T12:49:55.844Z"
+    },
+    {
+      "id": "6z1APkc8qQnsLpeN7FCoZD",
+      "name": "Waltz No.2",
+      "artists": [
+        "Cihat Aşkın"
+      ],
+      "album": "Türk Valsleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
+      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
+      "duration_ms": 240306,
+      "played_at": "2026-05-29T12:47:07.528Z"
     }
   ],
-  "fetched_at": "2026-05-29T12:13:48.313Z"
+  "fetched_at": "2026-05-29T16:13:47.283Z"
 }
