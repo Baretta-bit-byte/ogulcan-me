@@ -192,6 +192,42 @@
   ],
   "recently_played": [
     {
+      "id": "619p8Frf2gdv76xeN7At76",
+      "name": "I Can Do Anything / Finale",
+      "artists": [
+        "Christopher Lennertz"
+      ],
+      "album": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e026e752e2a440ea3f22c7c7011",
+      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76",
+      "duration_ms": 65728,
+      "played_at": "2026-05-29T11:36:27.835Z"
+    },
+    {
+      "id": "7fss5WF5vuXRHvMsYRQXQH",
+      "name": "Темная ночь",
+      "artists": [
+        "Mark Bernes"
+      ],
+      "album": "Русское наследие",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a338b726ec57e2796e7d7f4",
+      "url": "https://open.spotify.com/track/7fss5WF5vuXRHvMsYRQXQH",
+      "duration_ms": 175480,
+      "played_at": "2026-05-29T11:35:22.149Z"
+    },
+    {
+      "id": "0wrWxW18WK2MkrfDpRHkyh",
+      "name": "Me and the Devil",
+      "artists": [
+        "Soap&Skin"
+      ],
+      "album": "Sugarbread",
+      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
+      "duration_ms": 185000,
+      "played_at": "2026-05-29T11:29:50.257Z"
+    },
+    {
       "id": "3ozeGGXwEZW5uVdFkYGyDr",
       "name": "Devil`s Trills, Sonata in G Minor",
       "artists": [
@@ -289,47 +325,7 @@
       "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
       "duration_ms": 307826,
       "played_at": "2026-05-28T23:18:17.801Z"
-    },
-    {
-      "id": "4820SC1xnUaabzzYQTDkP2",
-      "name": "Gnossienne: No. 1",
-      "artists": [
-        "Erik Satie",
-        "Alexandre Tharaud"
-      ],
-      "album": "Satie: Avant-dernières pensées (Bonus Track Version)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02949cc0e6728be2f6601eb7ea",
-      "url": "https://open.spotify.com/track/4820SC1xnUaabzzYQTDkP2",
-      "duration_ms": 214133,
-      "played_at": "2026-05-28T23:13:09.712Z"
-    },
-    {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
-      "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
-      ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
-      "duration_ms": 176040,
-      "played_at": "2026-05-28T23:09:35.352Z"
-    },
-    {
-      "id": "1Ojz92vyPK4fJ5K8RVnV5u",
-      "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u",
-      "duration_ms": 167880,
-      "played_at": "2026-05-28T23:06:39.041Z"
     }
   ],
-  "fetched_at": "2026-05-29T04:52:16.885Z"
+  "fetched_at": "2026-05-29T12:13:48.313Z"
 }
