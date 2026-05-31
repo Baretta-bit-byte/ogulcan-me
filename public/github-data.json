@@ -11,7 +11,7 @@
       "name": "ogulcan-me",
       "description": "Personal Digital Garden & Portfolio — Next.js 16, Tailwind, Framer Motion, react-force-graph-2d",
       "html_url": "https://github.com/Baretta-bit-byte/ogulcan-me",
-      "pushed_at": "2026-05-30T19:13:07Z",
+      "pushed_at": "2026-05-31T03:41:39Z",
       "stargazers_count": 2,
       "forks_count": 0,
       "language": "TypeScript"
@@ -43,41 +43,6 @@
       "lastYear": 33
     },
     "contributions": [
-      {
-        "date": "2025-05-25",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-05-26",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-05-27",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-05-28",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-05-29",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-05-30",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-05-31",
-        "count": 0,
-        "level": 0
-      },
       {
         "date": "2025-06-01",
         "count": 0,
@@ -1897,8 +1862,13 @@
         "date": "2026-05-30",
         "count": 0,
         "level": 0
+      },
+      {
+        "date": "2026-05-31",
+        "count": 0,
+        "level": 0
       }
     ]
   },
-  "fetched_at": "2026-05-30T19:19:53.774Z"
+  "fetched_at": "2026-05-31T04:05:05.594Z"
 }
