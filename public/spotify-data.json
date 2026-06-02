@@ -193,6 +193,18 @@
   ],
   "recently_played": [
     {
+      "id": "0YVWlJfAtGWsJgA7fa37xU",
+      "name": "Bestie, Move On",
+      "artists": [
+        "Jea Mira"
+      ],
+      "album": "Bestie, Move On",
+      "image": "https://i.scdn.co/image/ab67616d00001e0264bea820775bc8de4e2973e4",
+      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU",
+      "duration_ms": 211581,
+      "played_at": "2026-06-02T11:29:41.966Z"
+    },
+    {
       "id": "3MklLppNRhuAupVGO3uNW2",
       "name": "Care",
       "artists": [
@@ -302,19 +314,7 @@
       "url": "https://open.spotify.com/track/4Goj7amQLl2PiPYaiB0VlV",
       "duration_ms": 249427,
       "played_at": "2026-06-02T10:28:24.243Z"
-    },
-    {
-      "id": "5J59tqY0Ad4r27tJJajzyB",
-      "name": "Rose Pink Cadillac",
-      "artists": [
-        "DOPE LEMON"
-      ],
-      "album": "Rose Pink Cadillac",
-      "image": "https://i.scdn.co/image/ab67616d00001e024e2ac74342d72cad3d1fb747",
-      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB",
-      "duration_ms": 261911,
-      "played_at": "2026-06-02T10:24:14.443Z"
     }
   ],
-  "fetched_at": "2026-06-02T14:00:04.193Z"
+  "fetched_at": "2026-06-02T18:08:52.991Z"
 }
