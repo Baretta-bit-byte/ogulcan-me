@@ -18,23 +18,23 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
     },
     {
-      "appid": 779340,
-      "name": "Total War: THREE KINGDOMS",
-      "playtime_2weeks": 241,
-      "playtime_forever": 5057,
-      "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
-    },
-    {
       "appid": 304390,
       "name": "FOR HONOR",
       "playtime_2weeks": 151,
       "playtime_forever": 1102,
       "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
+    },
+    {
+      "appid": 779340,
+      "name": "Total War: THREE KINGDOMS",
+      "playtime_2weeks": 116,
+      "playtime_forever": 5057,
+      "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg"
     }
   ],
   "totalGames": 125,
   "totalPlaytime": 622402,
-  "fetched_at": "2026-06-06T10:56:16.920Z"
+  "fetched_at": "2026-06-06T13:56:08.374Z"
 }
