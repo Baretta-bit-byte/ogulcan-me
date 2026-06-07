@@ -191,6 +191,24 @@
   ],
   "recently_played": [
     {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-06-07T22:22:12.203Z"
+    },
+    {
       "id": "5ZpAU5f4jxj6i9XoKK0RaI",
       "name": "Burning Pile",
       "artists": [
@@ -298,19 +316,7 @@
       "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP",
       "duration_ms": 274423,
       "played_at": "2026-06-02T18:32:23.354Z"
-    },
-    {
-      "id": "0YVWlJfAtGWsJgA7fa37xU",
-      "name": "Bestie, Move On",
-      "artists": [
-        "Jea Mira"
-      ],
-      "album": "Bestie, Move On",
-      "image": "https://i.scdn.co/image/ab67616d00001e0264bea820775bc8de4e2973e4",
-      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU",
-      "duration_ms": 211581,
-      "played_at": "2026-06-02T18:27:48.608Z"
     }
   ],
-  "fetched_at": "2026-06-02T21:30:27.720Z"
+  "fetched_at": "2026-06-07T22:35:46.800Z"
 }
