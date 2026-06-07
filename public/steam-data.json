@@ -12,7 +12,7 @@
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 798,
+      "playtime_2weeks": 625,
       "playtime_forever": 9841,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
@@ -20,7 +20,7 @@
     {
       "appid": 304390,
       "name": "FOR HONOR",
-      "playtime_2weeks": 51,
+      "playtime_2weeks": 45,
       "playtime_forever": 1102,
       "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
@@ -28,5 +28,5 @@
   ],
   "totalGames": 125,
   "totalPlaytime": 622402,
-  "fetched_at": "2026-06-07T16:21:42.050Z"
+  "fetched_at": "2026-06-07T19:40:20.313Z"
 }
