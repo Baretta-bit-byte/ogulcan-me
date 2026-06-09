@@ -304,19 +304,7 @@
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz",
       "duration_ms": 231266,
       "played_at": "2026-06-02T18:36:14.935Z"
-    },
-    {
-      "id": "4RJYhQEGxI42b2OkiA6eYP",
-      "name": "Low",
-      "artists": [
-        "Chet Faker"
-      ],
-      "album": "Hotel Surrender",
-      "image": "https://i.scdn.co/image/ab67616d00001e0237608c354c36a4a3e12d548c",
-      "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP",
-      "duration_ms": 274423,
-      "played_at": "2026-06-02T18:32:23.354Z"
     }
   ],
-  "fetched_at": "2026-06-08T00:05:25.066Z"
+  "fetched_at": "2026-06-09T18:32:38.613Z"
 }
