@@ -4,16 +4,16 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 0,
-    "gameid": null,
-    "gameextrainfo": null
+    "personastate": 1,
+    "gameid": "224260",
+    "gameextrainfo": "No More Room in Hell"
   },
   "recentGames": [
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 568,
-      "playtime_forever": 9956,
+      "playtime_2weeks": 658,
+      "playtime_forever": 10046,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
     },
@@ -27,6 +27,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 622517,
-  "fetched_at": "2026-06-10T15:51:20.888Z"
+  "totalPlaytime": 622607,
+  "fetched_at": "2026-06-10T20:38:04.552Z"
 }
