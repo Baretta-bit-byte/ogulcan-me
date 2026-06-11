@@ -12,8 +12,8 @@
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 711,
-      "playtime_forever": 10099,
+      "playtime_2weeks": 743,
+      "playtime_forever": 10210,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
     },
@@ -27,6 +27,6 @@
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 622660,
-  "fetched_at": "2026-06-11T10:47:42.922Z"
+  "totalPlaytime": 622771,
+  "fetched_at": "2026-06-11T16:12:52.460Z"
 }
