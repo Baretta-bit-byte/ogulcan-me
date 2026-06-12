@@ -12,8 +12,8 @@
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 694,
-      "playtime_forever": 10270,
+      "playtime_2weeks": 729,
+      "playtime_forever": 10304,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
     },
@@ -24,9 +24,17 @@
       "playtime_forever": 1102,
       "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
+    },
+    {
+      "appid": 313120,
+      "name": "Stranded Deep",
+      "playtime_2weeks": 38,
+      "playtime_forever": 1316,
+      "img_icon_url": "1d2f450f4cf55ecf0275f49f68a3440eef93ad27",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/313120/header.jpg"
     }
   ],
   "totalGames": 125,
-  "totalPlaytime": 622831,
-  "fetched_at": "2026-06-12T15:28:25.463Z"
+  "totalPlaytime": 622903,
+  "fetched_at": "2026-06-12T20:18:40.350Z"
 }
