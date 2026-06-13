@@ -12,10 +12,18 @@
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 688,
-      "playtime_forever": 10410,
+      "playtime_2weeks": 720,
+      "playtime_forever": 10443,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
+    },
+    {
+      "appid": 466560,
+      "name": "Northgard: Definitive Edition",
+      "playtime_2weeks": 162,
+      "playtime_forever": 3483,
+      "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
     },
     {
       "appid": 304390,
@@ -32,9 +40,17 @@
       "playtime_forever": 1316,
       "img_icon_url": "1d2f450f4cf55ecf0275f49f68a3440eef93ad27",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/313120/header.jpg"
+    },
+    {
+      "appid": 389570,
+      "name": "Mitos.is: The Game",
+      "playtime_2weeks": 1,
+      "playtime_forever": 2284,
+      "img_icon_url": "821e8021beb0b77f04ed8b236d4b3166642a8433",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389570/header.jpg"
     }
   ],
-  "totalGames": 125,
-  "totalPlaytime": 623009,
-  "fetched_at": "2026-06-13T16:19:06.300Z"
+  "totalGames": 124,
+  "totalPlaytime": 620923,
+  "fetched_at": "2026-06-13T19:44:06.188Z"
 }
