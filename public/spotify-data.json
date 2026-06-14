@@ -246,25 +246,7 @@
       "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
       "duration_ms": 134746,
       "played_at": "2026-06-12T19:49:36.132Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-06-07T22:22:12.203Z"
     }
   ],
-  "fetched_at": "2026-06-12T22:56:02.868Z"
+  "fetched_at": "2026-06-14T23:08:12.305Z"
 }
