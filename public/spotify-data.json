@@ -191,6 +191,54 @@
   ],
   "recently_played": [
     {
+      "id": "4vOQ55pOMyE6bQJJzm3kei",
+      "name": "Watermark",
+      "artists": [
+        "Enya"
+      ],
+      "album": "Themes From \"Calmi Cuori Appassionati\"",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f904999277431f39e3698976",
+      "url": "https://open.spotify.com/track/4vOQ55pOMyE6bQJJzm3kei",
+      "duration_ms": 145439,
+      "played_at": "2026-06-15T18:03:56.031Z"
+    },
+    {
+      "id": "7gEky4JRrXUQdImEldIUlT",
+      "name": "Mellomaniac - Chillout Mix",
+      "artists": [
+        "DJ Shah"
+      ],
+      "album": "The Ultimate Chillout Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d84ff45d35183d0be285515b",
+      "url": "https://open.spotify.com/track/7gEky4JRrXUQdImEldIUlT",
+      "duration_ms": 338678,
+      "played_at": "2026-06-15T18:02:43.486Z"
+    },
+    {
+      "id": "4c5NPPndaEkb0dUVYFlKlT",
+      "name": "Electra - Religion Cut",
+      "artists": [
+        "Airstream"
+      ],
+      "album": "The Book of Sounds",
+      "image": "https://i.scdn.co/image/ab67616d00001e022e58b31df7eee3a26aa3d851",
+      "url": "https://open.spotify.com/track/4c5NPPndaEkb0dUVYFlKlT",
+      "duration_ms": 371612,
+      "played_at": "2026-06-15T17:57:04.584Z"
+    },
+    {
+      "id": "6kkwzB6hXLIONkEk9JciA6",
+      "name": "Weightless",
+      "artists": [
+        "Marconi Union"
+      ],
+      "album": "The Ambient Zone Just Music Cafe Vol 4",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f399efa20097105e9db88560",
+      "url": "https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6",
+      "duration_ms": 480106,
+      "played_at": "2026-06-15T17:50:52.790Z"
+    },
+    {
       "id": "0wrWxW18WK2MkrfDpRHkyh",
       "name": "Me and the Devil",
       "artists": [
@@ -248,5 +296,5 @@
       "played_at": "2026-06-12T19:49:36.132Z"
     }
   ],
-  "fetched_at": "2026-06-14T23:08:12.305Z"
+  "fetched_at": "2026-06-15T18:23:45.546Z"
 }
