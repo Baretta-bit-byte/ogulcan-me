@@ -12,7 +12,7 @@
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 720,
+      "playtime_2weeks": 601,
       "playtime_forever": 10443,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
@@ -20,18 +20,10 @@
     {
       "appid": 466560,
       "name": "Northgard: Definitive Edition",
-      "playtime_2weeks": 511,
-      "playtime_forever": 3831,
+      "playtime_2weeks": 538,
+      "playtime_forever": 3859,
       "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
-    },
-    {
-      "appid": 304390,
-      "name": "FOR HONOR",
-      "playtime_2weeks": 45,
-      "playtime_forever": 1102,
-      "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg"
     },
     {
       "appid": 313120,
@@ -51,6 +43,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 621271,
-  "fetched_at": "2026-06-16T17:06:07.307Z"
+  "totalPlaytime": 621299,
+  "fetched_at": "2026-06-16T21:09:45.367Z"
 }
