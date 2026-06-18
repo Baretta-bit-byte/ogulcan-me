@@ -20,8 +20,8 @@
     {
       "appid": 466560,
       "name": "Northgard: Definitive Edition",
-      "playtime_2weeks": 538,
-      "playtime_forever": 3859,
+      "playtime_2weeks": 552,
+      "playtime_forever": 3873,
       "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
     },
@@ -43,6 +43,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 621299,
-  "fetched_at": "2026-06-18T10:38:51.146Z"
+  "totalPlaytime": 621313,
+  "fetched_at": "2026-06-18T15:38:32.402Z"
 }
