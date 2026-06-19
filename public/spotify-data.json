@@ -237,31 +237,7 @@
       "url": "https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6",
       "duration_ms": 480106,
       "played_at": "2026-06-15T17:50:52.790Z"
-    },
-    {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
-      "artists": [
-        "Soap&Skin"
-      ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "duration_ms": 185000,
-      "played_at": "2026-06-12T21:35:05.989Z"
-    },
-    {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
-      "artists": [
-        "Soap&Skin"
-      ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "duration_ms": 185000,
-      "played_at": "2026-06-12T21:07:46.839Z"
     }
   ],
-  "fetched_at": "2026-06-19T20:13:41.781Z"
+  "fetched_at": "2026-06-19T21:42:57.224Z"
 }
