@@ -4,7 +4,7 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 1,
+    "personastate": 3,
     "gameid": null,
     "gameextrainfo": null
   },
@@ -44,5 +44,5 @@
   ],
   "totalGames": 124,
   "totalPlaytime": 621761,
-  "fetched_at": "2026-06-20T19:45:48.311Z"
+  "fetched_at": "2026-06-20T22:14:28.151Z"
 }
