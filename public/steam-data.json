@@ -10,20 +10,20 @@
   },
   "recentGames": [
     {
+      "appid": 466560,
+      "name": "Northgard: Definitive Edition",
+      "playtime_2weeks": 644,
+      "playtime_forever": 3965,
+      "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
+    },
+    {
       "appid": 224260,
       "name": "No More Room in Hell",
       "playtime_2weeks": 601,
       "playtime_forever": 10443,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
-    },
-    {
-      "appid": 466560,
-      "name": "Northgard: Definitive Edition",
-      "playtime_2weeks": 552,
-      "playtime_forever": 3873,
-      "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
     },
     {
       "appid": 313120,
@@ -43,6 +43,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 621313,
-  "fetched_at": "2026-06-19T22:09:00.514Z"
+  "totalPlaytime": 621405,
+  "fetched_at": "2026-06-20T04:12:42.021Z"
 }
