@@ -191,6 +191,30 @@
   ],
   "recently_played": [
     {
+      "id": "0oijnNaaOsATfhz3y4O2ci",
+      "name": "Are We Alone?",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/0oijnNaaOsATfhz3y4O2ci",
+      "duration_ms": 233784,
+      "played_at": "2026-06-21T18:01:53.719Z"
+    },
+    {
+      "id": "4NyQ0OXI7INpOw4xV0lkYU",
+      "name": "Frostpunk Theme",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/4NyQ0OXI7INpOw4xV0lkYU",
+      "duration_ms": 186215,
+      "played_at": "2026-06-21T17:57:59.590Z"
+    },
+    {
       "id": "4vOQ55pOMyE6bQJJzm3kei",
       "name": "Watermark",
       "artists": [
@@ -239,5 +263,5 @@
       "played_at": "2026-06-15T17:50:52.790Z"
     }
   ],
-  "fetched_at": "2026-06-19T21:42:57.224Z"
+  "fetched_at": "2026-06-21T18:04:11.067Z"
 }
