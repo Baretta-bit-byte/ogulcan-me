@@ -6,25 +6,6 @@
   },
   "tracks": [
     {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "preview_url": null,
-      "duration_ms": 134746,
-      "genres": []
-    },
-    {
       "id": "6xez71zpAqQ6N5i8E1jHlD",
       "name": "Carmina Burana: O Fortuna",
       "artists": [
@@ -51,6 +32,25 @@
       "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
       "preview_url": null,
       "duration_ms": 215040,
+      "genres": []
+    },
+    {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "preview_url": null,
+      "duration_ms": 134746,
       "genres": []
     },
     {
@@ -191,6 +191,114 @@
   ],
   "recently_played": [
     {
+      "id": "0P4MKHKC2Q0b4WTN7oT29j",
+      "name": "The Still, Cold World (Bonus Track)",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/0P4MKHKC2Q0b4WTN7oT29j",
+      "duration_ms": 149405,
+      "played_at": "2026-06-21T18:39:16.599Z"
+    },
+    {
+      "id": "6on2Zv6pzTXIKLor7HTdjg",
+      "name": "Damned Souls",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/6on2Zv6pzTXIKLor7HTdjg",
+      "duration_ms": 278735,
+      "played_at": "2026-06-21T18:36:46.863Z"
+    },
+    {
+      "id": "78Krp041ua3HWk1eQttsUy",
+      "name": "The City Must Survive",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/78Krp041ua3HWk1eQttsUy",
+      "duration_ms": 250937,
+      "played_at": "2026-06-21T18:32:07.872Z"
+    },
+    {
+      "id": "5tp512nGYz007b1zCofFIK",
+      "name": "Into the Storm",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/5tp512nGYz007b1zCofFIK",
+      "duration_ms": 274498,
+      "played_at": "2026-06-21T18:27:56.616Z"
+    },
+    {
+      "id": "732WsIAKgt9r4XAlpNsx8P",
+      "name": "The Shepherd",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/732WsIAKgt9r4XAlpNsx8P",
+      "duration_ms": 244251,
+      "played_at": "2026-06-21T18:23:21.860Z"
+    },
+    {
+      "id": "01ygBGB3uHq59Ct0NTXXqJ",
+      "name": "The Last Flame",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/01ygBGB3uHq59Ct0NTXXqJ",
+      "duration_ms": 280932,
+      "played_at": "2026-06-21T18:19:17.324Z"
+    },
+    {
+      "id": "1qiSgTZJlPtwo97GdLx9Jl",
+      "name": "Brave New World",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/1qiSgTZJlPtwo97GdLx9Jl",
+      "duration_ms": 241152,
+      "played_at": "2026-06-21T18:14:36.077Z"
+    },
+    {
+      "id": "1TOfRFYOr4xGrrTW4laPb9",
+      "name": "Streets of New London",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/1TOfRFYOr4xGrrTW4laPb9",
+      "duration_ms": 238387,
+      "played_at": "2026-06-21T18:10:34.626Z"
+    },
+    {
+      "id": "4yOw22Wzs6fJqixWJxh0IG",
+      "name": "The Darkest of Days",
+      "artists": [
+        "Piotr Musiał"
+      ],
+      "album": "Frostpunk (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
+      "url": "https://open.spotify.com/track/4yOw22Wzs6fJqixWJxh0IG",
+      "duration_ms": 281917,
+      "played_at": "2026-06-21T18:06:35.952Z"
+    },
+    {
       "id": "0oijnNaaOsATfhz3y4O2ci",
       "name": "Are We Alone?",
       "artists": [
@@ -201,67 +309,7 @@
       "url": "https://open.spotify.com/track/0oijnNaaOsATfhz3y4O2ci",
       "duration_ms": 233784,
       "played_at": "2026-06-21T18:01:53.719Z"
-    },
-    {
-      "id": "4NyQ0OXI7INpOw4xV0lkYU",
-      "name": "Frostpunk Theme",
-      "artists": [
-        "Piotr Musiał"
-      ],
-      "album": "Frostpunk (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
-      "url": "https://open.spotify.com/track/4NyQ0OXI7INpOw4xV0lkYU",
-      "duration_ms": 186215,
-      "played_at": "2026-06-21T17:57:59.590Z"
-    },
-    {
-      "id": "4vOQ55pOMyE6bQJJzm3kei",
-      "name": "Watermark",
-      "artists": [
-        "Enya"
-      ],
-      "album": "Themes From \"Calmi Cuori Appassionati\"",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f904999277431f39e3698976",
-      "url": "https://open.spotify.com/track/4vOQ55pOMyE6bQJJzm3kei",
-      "duration_ms": 145439,
-      "played_at": "2026-06-15T18:03:56.031Z"
-    },
-    {
-      "id": "7gEky4JRrXUQdImEldIUlT",
-      "name": "Mellomaniac - Chillout Mix",
-      "artists": [
-        "DJ Shah"
-      ],
-      "album": "The Ultimate Chillout Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d84ff45d35183d0be285515b",
-      "url": "https://open.spotify.com/track/7gEky4JRrXUQdImEldIUlT",
-      "duration_ms": 338678,
-      "played_at": "2026-06-15T18:02:43.486Z"
-    },
-    {
-      "id": "4c5NPPndaEkb0dUVYFlKlT",
-      "name": "Electra - Religion Cut",
-      "artists": [
-        "Airstream"
-      ],
-      "album": "The Book of Sounds",
-      "image": "https://i.scdn.co/image/ab67616d00001e022e58b31df7eee3a26aa3d851",
-      "url": "https://open.spotify.com/track/4c5NPPndaEkb0dUVYFlKlT",
-      "duration_ms": 371612,
-      "played_at": "2026-06-15T17:57:04.584Z"
-    },
-    {
-      "id": "6kkwzB6hXLIONkEk9JciA6",
-      "name": "Weightless",
-      "artists": [
-        "Marconi Union"
-      ],
-      "album": "The Ambient Zone Just Music Cafe Vol 4",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f399efa20097105e9db88560",
-      "url": "https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6",
-      "duration_ms": 480106,
-      "played_at": "2026-06-15T17:50:52.790Z"
     }
   ],
-  "fetched_at": "2026-06-21T18:04:11.067Z"
+  "fetched_at": "2026-06-21T20:11:27.861Z"
 }
