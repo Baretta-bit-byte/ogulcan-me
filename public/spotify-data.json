@@ -200,6 +200,19 @@
       "image": "https://i.scdn.co/image/ab6742d3000053b7e70a518e0f5efde17e2f7e52",
       "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
       "duration_ms": 220640,
+      "played_at": "2026-06-23T11:58:45.770Z"
+    },
+    {
+      "id": "3rVaOQfc8d1moQ47S5tHMw",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Go",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7e70a518e0f5efde17e2f7e52",
+      "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
+      "duration_ms": 220640,
       "played_at": "2026-06-23T08:58:54.190Z"
     },
     {
@@ -305,19 +318,7 @@
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
       "duration_ms": 260696,
       "played_at": "2026-06-22T18:19:11.822Z"
-    },
-    {
-      "id": "0P4MKHKC2Q0b4WTN7oT29j",
-      "name": "The Still, Cold World (Bonus Track)",
-      "artists": [
-        "Piotr Musiał"
-      ],
-      "album": "Frostpunk (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ba2d2ef7bab9b8c321160bd4",
-      "url": "https://open.spotify.com/track/0P4MKHKC2Q0b4WTN7oT29j",
-      "duration_ms": 149405,
-      "played_at": "2026-06-21T18:39:16.599Z"
     }
   ],
-  "fetched_at": "2026-06-23T09:35:41.938Z"
+  "fetched_at": "2026-06-23T12:31:02.912Z"
 }
