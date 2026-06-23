@@ -4,9 +4,9 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 0,
-    "gameid": null,
-    "gameextrainfo": null
+    "personastate": 1,
+    "gameid": "1158310",
+    "gameextrainfo": "Crusader Kings III"
   },
   "recentGames": [
     {
@@ -60,5 +60,5 @@
   ],
   "totalGames": 124,
   "totalPlaytime": 622505,
-  "fetched_at": "2026-06-23T15:13:24.091Z"
+  "fetched_at": "2026-06-23T20:12:20.391Z"
 }
