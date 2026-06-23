@@ -4,9 +4,9 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 1,
-    "gameid": "1158310",
-    "gameextrainfo": "Crusader Kings III"
+    "personastate": 0,
+    "gameid": null,
+    "gameextrainfo": null
   },
   "recentGames": [
     {
@@ -36,8 +36,8 @@
     {
       "appid": 1158310,
       "name": "Crusader Kings III",
-      "playtime_2weeks": 299,
-      "playtime_forever": 44285,
+      "playtime_2weeks": 343,
+      "playtime_forever": 44329,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     },
@@ -59,6 +59,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 622505,
-  "fetched_at": "2026-06-23T20:12:20.391Z"
+  "totalPlaytime": 622549,
+  "fetched_at": "2026-06-23T22:18:30.038Z"
 }
