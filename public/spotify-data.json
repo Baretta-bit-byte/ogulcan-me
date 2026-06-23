@@ -20,22 +20,6 @@
       "genres": []
     },
     {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
-      "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
-      ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "preview_url": null,
-      "duration_ms": 144360,
-      "genres": []
-    },
-    {
       "id": "0kYMwaQWABTkFff8AZjmYI",
       "name": "Hayloft II",
       "artists": [
@@ -68,22 +52,6 @@
       "genres": []
     },
     {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "preview_url": null,
-      "duration_ms": 892266,
-      "genres": []
-    },
-    {
       "id": "0wrWxW18WK2MkrfDpRHkyh",
       "name": "Me and the Devil",
       "artists": [
@@ -109,6 +77,52 @@
       "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
       "preview_url": null,
       "duration_ms": 166866,
+      "genres": []
+    },
+    {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "preview_url": null,
+      "duration_ms": 892266,
+      "genres": []
+    },
+    {
+      "id": "6xez71zpAqQ6N5i8E1jHlD",
+      "name": "Carmina Burana: O Fortuna",
+      "artists": [
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
+      ],
+      "album": "Orff: Carmina Burana",
+      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
+      "preview_url": null,
+      "duration_ms": 144360,
+      "genres": []
+    },
+    {
+      "id": "2Xhd1kYKj2aee7JR3nIlRe",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e025c75a31fa9fe49e63b4829ee",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe",
+      "preview_url": null,
+      "duration_ms": 260696,
       "genres": []
     },
     {
@@ -171,24 +185,35 @@
       "preview_url": null,
       "duration_ms": 176040,
       "genres": []
-    },
-    {
-      "id": "0ROMalDdNg3L2HoZP4qFyJ",
-      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
-      "preview_url": null,
-      "duration_ms": 201853,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
+      "played_at": "2026-06-23T13:59:44.986Z"
+    },
+    {
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
+      "played_at": "2026-06-23T12:57:09.646Z"
+    },
     {
       "id": "3rVaOQfc8d1moQ47S5tHMw",
       "name": "Go",
@@ -292,33 +317,7 @@
       "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
       "duration_ms": 220640,
       "played_at": "2026-06-22T18:26:28.645Z"
-    },
-    {
-      "id": "3rVaOQfc8d1moQ47S5tHMw",
-      "name": "Go",
-      "artists": [
-        "The Chemical Brothers",
-        "Q-Tip"
-      ],
-      "album": "Go",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7e70a518e0f5efde17e2f7e52",
-      "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
-      "duration_ms": 220640,
-      "played_at": "2026-06-22T18:20:05.484Z"
-    },
-    {
-      "id": "2cNjgoSh1TBHFQIhfzRJUE",
-      "name": "Go",
-      "artists": [
-        "The Chemical Brothers",
-        "Q-Tip"
-      ],
-      "album": "Born In The Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
-      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
-      "duration_ms": 260696,
-      "played_at": "2026-06-22T18:19:11.822Z"
     }
   ],
-  "fetched_at": "2026-06-23T12:31:02.912Z"
+  "fetched_at": "2026-06-23T15:46:02.058Z"
 }
