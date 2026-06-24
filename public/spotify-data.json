@@ -189,6 +189,32 @@
   ],
   "recently_played": [
     {
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
+      "played_at": "2026-06-24T09:17:50.816Z"
+    },
+    {
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
+      "played_at": "2026-06-24T08:49:04.773Z"
+    },
+    {
       "id": "70UOP3QnOs5Q4xMNg28Man",
       "name": "Shape Of My Heart",
       "artists": [
@@ -287,31 +313,7 @@
       "url": "https://open.spotify.com/track/2EBIJeMwY8m7LiM9HLH5qF",
       "duration_ms": 287466,
       "played_at": "2026-06-23T17:36:39.995Z"
-    },
-    {
-      "id": "3haGnPkVtrUvAuAtodMFKx",
-      "name": "La Valse au Paranoia",
-      "artists": [
-        "Pianza"
-      ],
-      "album": "La Valse au Paranoia",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f141e9aeb4bc728dcd07edbe",
-      "url": "https://open.spotify.com/track/3haGnPkVtrUvAuAtodMFKx",
-      "duration_ms": 188219,
-      "played_at": "2026-06-23T17:31:47.789Z"
-    },
-    {
-      "id": "3XCveEutwTaDiekRkkfdp9",
-      "name": "Liquid Smooth",
-      "artists": [
-        "Mitski"
-      ],
-      "album": "Lush",
-      "image": "https://i.scdn.co/image/ab67616d00001e0218bbdba0da26e4ae050fb1b8",
-      "url": "https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9",
-      "duration_ms": 169773,
-      "played_at": "2026-06-23T17:28:12.270Z"
     }
   ],
-  "fetched_at": "2026-06-23T20:01:26.039Z"
+  "fetched_at": "2026-06-24T09:25:43.154Z"
 }
