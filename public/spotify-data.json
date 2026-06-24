@@ -189,136 +189,130 @@
   ],
   "recently_played": [
     {
-      "id": "2igwFfvr1OAGX9SKDCPBwO",
-      "name": "Empire State Of Mind",
+      "id": "2zYzyRzz6pRmhPzyfMEC8s",
+      "name": "Highway to Hell",
       "artists": [
-        "JAŸ-Z",
-        "Alicia Keys"
+        "AC/DC"
       ],
-      "album": "The Blueprint 3",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10",
-      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
-      "duration_ms": 276920,
-      "played_at": "2026-06-24T21:06:14.278Z"
+      "album": "Highway to Hell",
+      "image": "https://i.scdn.co/image/ab67616d00001e0243058ea096fa35ac33c43587",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "duration_ms": 208110,
+      "played_at": "2026-06-24T22:31:39.246Z"
     },
     {
-      "id": "7Ie9W94M7OjPoZVV216Xus",
-      "name": "Not Afraid",
+      "id": "1zB4vmk8tFRmM9UULNzbLB",
+      "name": "Thunder",
       "artists": [
-        "Eminem"
+        "Imagine Dragons"
       ],
-      "album": "Recovery",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus",
-      "duration_ms": 248133,
-      "played_at": "2026-06-24T21:01:37.069Z"
+      "album": "Evolve",
+      "image": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
+      "duration_ms": 187146,
+      "played_at": "2026-06-24T22:28:10.819Z"
     },
     {
-      "id": "0upFohXrGxIIAjyaJmCkMU",
-      "name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+      "id": "3cHyrEgdyYRjgJKSOiOtcS",
+      "name": "Timber",
       "artists": [
-        "Teriyaki Boyz"
+        "Pitbull",
+        "Kesha"
       ],
-      "album": "Tokyo Drift (Fast & Furious)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02aac3b3863e8f7a43a9b65a19",
-      "url": "https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU",
-      "duration_ms": 255946,
-      "played_at": "2026-06-24T20:57:28.570Z"
+      "album": "Global Warming: Meltdown (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e022ffc2c580b6595a3e675a730",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS",
+      "duration_ms": 204134,
+      "played_at": "2026-06-24T22:25:03.336Z"
     },
     {
-      "id": "62yJjFtgkhUrXktIoSjgP2",
-      "name": "Radioactive",
+      "id": "0pqnGHJpmpxLKifKRmU6WP",
+      "name": "Believer",
+      "artists": [
+        "Imagine Dragons"
+      ],
+      "album": "Evolve",
+      "image": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "duration_ms": 204346,
+      "played_at": "2026-06-24T22:21:38.884Z"
+    },
+    {
+      "id": "3CIyK1V4JEJkg02E4EJnDl",
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "artists": [
+        "Imagine Dragons",
+        "JID",
+        "Arcane",
+        "League of Legends"
+      ],
+      "album": "Mercury - Acts 1 & 2",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fc915b69600dce2991a61f13",
+      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
+      "duration_ms": 173381,
+      "played_at": "2026-06-24T22:18:14.172Z"
+    },
+    {
+      "id": "2JzZzZUQj3Qff7wapcbKjc",
+      "name": "See You Again (feat. Charlie Puth)",
+      "artists": [
+        "Wiz Khalifa",
+        "Charlie Puth"
+      ],
+      "album": "See You Again (feat. Charlie Puth)",
+      "image": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8",
+      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
+      "duration_ms": 229525,
+      "played_at": "2026-06-24T22:15:20.316Z"
+    },
+    {
+      "id": "4v7DCN09hgXkKazefkznDQ",
+      "name": "Lonely",
+      "artists": [
+        "Akon"
+      ],
+      "album": "Trouble Deluxe Edition",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ec7ab30397ea37295340a41",
+      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ",
+      "duration_ms": 235800,
+      "played_at": "2026-06-24T22:11:30.384Z"
+    },
+    {
+      "id": "5qaEfEh1AtSdrdrByCP7qR",
+      "name": "Demons",
       "artists": [
         "Imagine Dragons"
       ],
       "album": "Night Visions",
       "image": "https://i.scdn.co/image/ab67616d00001e02407bd04707c463bbb3410737",
-      "url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2",
-      "duration_ms": 186813,
-      "played_at": "2026-06-24T20:53:12.212Z"
+      "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR",
+      "duration_ms": 177506,
+      "played_at": "2026-06-24T22:07:34.337Z"
     },
     {
-      "id": "4dASQiO1Eoo3RJvt74FtXB",
-      "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "id": "0VgkVdmE4gld66l8iyGjgx",
+      "name": "Mask Off",
       "artists": [
-        "Lil Wayne",
-        "Wiz Khalifa",
-        "Imagine Dragons",
-        "X Ambassadors",
-        "Logic",
-        "Ty Dolla $ign"
+        "Future"
       ],
-      "album": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d8dfcfd507069d7f2062caf",
-      "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
-      "duration_ms": 243490,
-      "played_at": "2026-06-24T20:50:05.109Z"
+      "album": "FUTURE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e0b64c8be3c4e804abcb2696",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx",
+      "duration_ms": 204600,
+      "played_at": "2026-06-24T22:04:36.496Z"
     },
     {
-      "id": "2ygMBIctKIAfbEBcT9065L",
-      "name": "Pump It",
+      "id": "7L93GESzq43UkKUt5FsOCq",
+      "name": "Jump Around - 30 Years Remaster",
       "artists": [
-        "Black Eyed Peas"
+        "House Of Pain"
       ],
-      "album": "Monkey Business",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c6710b4a52539506c30e5354",
-      "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L",
-      "duration_ms": 213066,
-      "played_at": "2026-06-24T20:46:01.024Z"
-    },
-    {
-      "id": "04aAxqtGp5pv12UXAg4pkq",
-      "name": "Centuries",
-      "artists": [
-        "Fall Out Boy"
-      ],
-      "album": "American Beauty/American Psycho",
-      "image": "https://i.scdn.co/image/ab67616d00001e023cf1c1dbcfa3f1ab7282719b",
-      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq",
-      "duration_ms": 228360,
-      "played_at": "2026-06-24T20:42:27.645Z"
-    },
-    {
-      "id": "3zmduBNsQ6BPDTZAkXzG5K",
-      "name": "Can't Be Touched",
-      "artists": [
-        "Body Head Bangerz",
-        "Roy Jones Jr.",
-        "Mr Magic",
-        "Trouble"
-      ],
-      "album": "Body Head Bangerz, Vol. 1",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ed925ecab0ae4a3dea65a510",
-      "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "duration_ms": 214400,
-      "played_at": "2026-06-24T20:38:39.042Z"
-    },
-    {
-      "id": "5sNESr6pQfIhL3krM8CtZn",
-      "name": "Numb / Encore",
-      "artists": [
-        "JAŸ-Z",
-        "Linkin Park"
-      ],
-      "album": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-      "image": "https://i.scdn.co/image/ab67616d00001e027282412ad025c14f7039f516",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn",
-      "duration_ms": 205733,
-      "played_at": "2026-06-24T20:35:04.358Z"
-    },
-    {
-      "id": "7FIWs0pqAYbP91WWM0vlTQ",
-      "name": "Godzilla (feat. Juice WRLD)",
-      "artists": [
-        "Eminem",
-        "Juice WRLD"
-      ],
-      "album": "Music To Be Murdered By",
-      "image": "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ",
-      "duration_ms": 210800,
-      "played_at": "2026-06-24T20:31:38.241Z"
+      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+      "image": "https://i.scdn.co/image/ab67616d00001e0279606c79fde418c0bc458abb",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
+      "duration_ms": 218546,
+      "played_at": "2026-06-24T22:01:11.544Z"
     }
   ],
-  "fetched_at": "2026-06-24T21:09:17.377Z"
+  "fetched_at": "2026-06-24T22:46:14.919Z"
 }
