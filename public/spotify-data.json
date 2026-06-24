@@ -199,6 +199,19 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
       "duration_ms": 260696,
+      "played_at": "2026-06-24T12:32:24.029Z"
+    },
+    {
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
       "played_at": "2026-06-24T09:17:50.816Z"
     },
     {
@@ -301,19 +314,7 @@
       "url": "https://open.spotify.com/track/7uEwckYdZwNe644r0RHi9H",
       "duration_ms": 226333,
       "played_at": "2026-06-23T17:40:27.038Z"
-    },
-    {
-      "id": "2EBIJeMwY8m7LiM9HLH5qF",
-      "name": "Say What You Will",
-      "artists": [
-        "James Blake"
-      ],
-      "album": "Say What You Will",
-      "image": "https://i.scdn.co/image/ab6742d3000053b71fb09453ea28c23d5e88a4de",
-      "url": "https://open.spotify.com/track/2EBIJeMwY8m7LiM9HLH5qF",
-      "duration_ms": 287466,
-      "played_at": "2026-06-23T17:36:39.995Z"
     }
   ],
-  "fetched_at": "2026-06-24T12:05:06.152Z"
+  "fetched_at": "2026-06-24T15:17:22.340Z"
 }
