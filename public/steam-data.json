@@ -18,14 +18,6 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
     },
     {
-      "appid": 224260,
-      "name": "No More Room in Hell",
-      "playtime_2weeks": 504,
-      "playtime_forever": 10603,
-      "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
-    },
-    {
       "appid": 1158310,
       "name": "Crusader Kings III",
       "playtime_2weeks": 462,
@@ -40,6 +32,14 @@
       "playtime_forever": 51132,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
+    },
+    {
+      "appid": 224260,
+      "name": "No More Room in Hell",
+      "playtime_2weeks": 437,
+      "playtime_forever": 10603,
+      "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
     },
     {
       "appid": 313120,
@@ -60,5 +60,5 @@
   ],
   "totalGames": 124,
   "totalPlaytime": 622737,
-  "fetched_at": "2026-06-25T09:33:03.540Z"
+  "fetched_at": "2026-06-25T14:42:55.567Z"
 }
