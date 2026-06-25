@@ -4,9 +4,9 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 1,
-    "gameid": "381210",
-    "gameextrainfo": "Dead by Daylight"
+    "personastate": 0,
+    "gameid": null,
+    "gameextrainfo": null
   },
   "recentGames": [
     {
@@ -18,20 +18,20 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
     },
     {
+      "appid": 381210,
+      "name": "Dead by Daylight",
+      "playtime_2weeks": 558,
+      "playtime_forever": 51232,
+      "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
+    },
+    {
       "appid": 1158310,
       "name": "Crusader Kings III",
       "playtime_2weeks": 462,
       "playtime_forever": 44448,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
-    },
-    {
-      "appid": 381210,
-      "name": "Dead by Daylight",
-      "playtime_2weeks": 458,
-      "playtime_forever": 51132,
-      "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
     {
       "appid": 224260,
@@ -59,6 +59,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 622737,
-  "fetched_at": "2026-06-25T17:17:26.478Z"
+  "totalPlaytime": 622837,
+  "fetched_at": "2026-06-25T20:09:05.769Z"
 }
