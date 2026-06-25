@@ -6,20 +6,6 @@
   },
   "tracks": [
     {
-      "id": "3rVaOQfc8d1moQ47S5tHMw",
-      "name": "Go",
-      "artists": [
-        "The Chemical Brothers",
-        "Q-Tip"
-      ],
-      "album": "Go",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7e70a518e0f5efde17e2f7e52",
-      "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
-      "preview_url": null,
-      "duration_ms": 220640,
-      "genres": []
-    },
-    {
       "id": "2Xhd1kYKj2aee7JR3nIlRe",
       "name": "Go",
       "artists": [
@@ -31,6 +17,20 @@
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe",
       "preview_url": null,
       "duration_ms": 260696,
+      "genres": []
+    },
+    {
+      "id": "3rVaOQfc8d1moQ47S5tHMw",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Go",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7e70a518e0f5efde17e2f7e52",
+      "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
+      "preview_url": null,
+      "duration_ms": 220640,
       "genres": []
     },
     {
@@ -314,5 +314,5 @@
       "played_at": "2026-06-24T22:01:11.544Z"
     }
   ],
-  "fetched_at": "2026-06-24T22:46:14.919Z"
+  "fetched_at": "2026-06-25T04:44:21.999Z"
 }
