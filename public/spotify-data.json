@@ -189,6 +189,30 @@
   ],
   "recently_played": [
     {
+      "id": "51jVzNcOXpVOfzFv7jH8MA",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Voilà",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
+      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
+      "duration_ms": 179010,
+      "played_at": "2026-06-25T08:18:13.239Z"
+    },
+    {
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "duration_ms": 177426,
+      "played_at": "2026-06-25T08:15:29.872Z"
+    },
+    {
       "id": "2zYzyRzz6pRmhPzyfMEC8s",
       "name": "Highway to Hell",
       "artists": [
@@ -288,31 +312,7 @@
       "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR",
       "duration_ms": 177506,
       "played_at": "2026-06-24T22:07:34.337Z"
-    },
-    {
-      "id": "0VgkVdmE4gld66l8iyGjgx",
-      "name": "Mask Off",
-      "artists": [
-        "Future"
-      ],
-      "album": "FUTURE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e0b64c8be3c4e804abcb2696",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx",
-      "duration_ms": 204600,
-      "played_at": "2026-06-24T22:04:36.496Z"
-    },
-    {
-      "id": "7L93GESzq43UkKUt5FsOCq",
-      "name": "Jump Around - 30 Years Remaster",
-      "artists": [
-        "House Of Pain"
-      ],
-      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-      "image": "https://i.scdn.co/image/ab67616d00001e0279606c79fde418c0bc458abb",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
-      "duration_ms": 218546,
-      "played_at": "2026-06-24T22:01:11.544Z"
     }
   ],
-  "fetched_at": "2026-06-25T04:44:21.999Z"
+  "fetched_at": "2026-06-25T08:21:15.304Z"
 }
