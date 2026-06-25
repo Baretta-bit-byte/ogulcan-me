@@ -95,21 +95,6 @@
       "genres": []
     },
     {
-      "id": "2xizRhme7pYeITbH1NLLGt",
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
-      "artists": [
-        "Pyotr Ilyich Tchaikovsky",
-        "André Previn",
-        "London Symphony Orchestra"
-      ],
-      "album": "Tchaikovsky: Swan Lake",
-      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
-      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-      "preview_url": null,
-      "duration_ms": 166866,
-      "genres": []
-    },
-    {
       "id": "3ozeGGXwEZW5uVdFkYGyDr",
       "name": "Devil`s Trills, Sonata in G Minor",
       "artists": [
@@ -139,35 +124,6 @@
       "genres": []
     },
     {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
-      "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
-      ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
-      "preview_url": null,
-      "duration_ms": 176040,
-      "genres": []
-    },
-    {
-      "id": "0ROMalDdNg3L2HoZP4qFyJ",
-      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
-      "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
-      ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
-      "preview_url": null,
-      "duration_ms": 201853,
-      "genres": []
-    },
-    {
       "id": "0d28khcov6AiegSCpG5TuT",
       "name": "Feel Good Inc.",
       "artists": [
@@ -179,6 +135,47 @@
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
       "preview_url": null,
       "duration_ms": 222640,
+      "genres": []
+    },
+    {
+      "id": "0j2T0R9dR9qdJYsB7ciXhf",
+      "name": "Stronger",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
+      "preview_url": null,
+      "duration_ms": 311866,
+      "genres": []
+    },
+    {
+      "id": "0upFohXrGxIIAjyaJmCkMU",
+      "name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+      "artists": [
+        "Teriyaki Boyz"
+      ],
+      "album": "Tokyo Drift (Fast & Furious)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02aac3b3863e8f7a43a9b65a19",
+      "url": "https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU",
+      "preview_url": null,
+      "duration_ms": 255946,
+      "genres": []
+    },
+    {
+      "id": "1SWVDBtw6h3tm9OehOkDhv",
+      "name": "What's The Difference",
+      "artists": [
+        "Dr. Dre",
+        "Eminem",
+        "Xzibit"
+      ],
+      "album": "2001",
+      "image": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv",
+      "preview_url": null,
+      "duration_ms": 244200,
       "genres": []
     }
   ],
@@ -312,5 +309,5 @@
       "played_at": "2026-06-25T16:19:49.113Z"
     }
   ],
-  "fetched_at": "2026-06-25T22:19:51.333Z"
+  "fetched_at": "2026-06-25T23:51:45.912Z"
 }
