@@ -53,19 +53,6 @@
       "genres": []
     },
     {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "preview_url": null,
-      "duration_ms": 215040,
-      "genres": []
-    },
-    {
       "id": "0j2T0R9dR9qdJYsB7ciXhf",
       "name": "Stronger",
       "artists": [
@@ -174,131 +161,149 @@
       "preview_url": null,
       "duration_ms": 222306,
       "genres": []
+    },
+    {
+      "id": "66orjI5vOkyxOZLHWrPklh",
+      "name": "X Gon' Give It To Ya - Int'l Bonus track",
+      "artists": [
+        "DMX"
+      ],
+      "album": "Grand Champ",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
+      "preview_url": null,
+      "duration_ms": 219733,
+      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "7q9vs73hCbPuFLF4o6nvih",
-      "name": "Six Days - Radio Edit",
+      "id": "4L9Ds4mpD3SuYoWwFUlv16",
+      "name": "Simple",
       "artists": [
-        "DJ Shadow"
+        "Florida Georgia Line"
       ],
-      "album": "Six Days",
-      "image": "https://i.scdn.co/image/ab67616d00001e02201b70d118d7b23f19040f11",
-      "url": "https://open.spotify.com/track/7q9vs73hCbPuFLF4o6nvih",
-      "duration_ms": 218133,
-      "played_at": "2026-06-26T15:40:25.972Z"
+      "album": "Can't Say I Ain't Country",
+      "image": "https://i.scdn.co/image/ab67616d00001e0242f67892edff211325a54db4",
+      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16",
+      "duration_ms": 185200,
+      "played_at": "2026-06-26T19:25:53.330Z"
     },
     {
-      "id": "3Vuv2DNWcexDwda2auaWzj",
-      "name": "Another Brick in the Wall, Pt. 2",
+      "id": "5BrfqCzFP7TQL7YgugogJd",
+      "name": "bizden olsun isterdim",
       "artists": [
-        "Pink Floyd"
+        "Boramess"
       ],
-      "album": "Another Brick in the Wall, Pt. 2",
-      "image": "https://i.scdn.co/image/ab6742d3000053b705fe4dba4083b20b24c949ae",
-      "url": "https://open.spotify.com/track/3Vuv2DNWcexDwda2auaWzj",
-      "duration_ms": 198400,
-      "played_at": "2026-06-26T15:38:49.584Z"
+      "album": "bizden olsun isterdim",
+      "image": "https://i.scdn.co/image/ab67616d00001e02783a20ac501a11d8914c6f84",
+      "url": "https://open.spotify.com/track/5BrfqCzFP7TQL7YgugogJd",
+      "duration_ms": 190000,
+      "played_at": "2026-06-26T19:23:52.559Z"
     },
     {
-      "id": "3qVKp0bGG2uEkrkMOtwb5F",
-      "name": "Fitzpleasure",
+      "id": "2MbdDtCv5LUVjYy9RuGTgC",
+      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "artists": [
-        "alt-J"
+        "Jack Harlow",
+        "Tory Lanez",
+        "DaBaby",
+        "Lil Wayne"
       ],
-      "album": "An Awesome Wave",
-      "image": "https://i.scdn.co/image/ab67616d00001e021e1ca90cd8fdbb0ac890a926",
-      "url": "https://open.spotify.com/track/3qVKp0bGG2uEkrkMOtwb5F",
-      "duration_ms": 219400,
-      "played_at": "2026-06-26T15:35:30.035Z"
+      "album": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a3d47958d824c257a13aec3b",
+      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC",
+      "duration_ms": 227478,
+      "played_at": "2026-06-26T19:20:42.070Z"
     },
     {
-      "id": "5RCo8gwmcHB8cRyKrOVOOk",
-      "name": "Bestie, Move On",
+      "id": "0k57YxE0rmnpyo0ag5a7NP",
+      "name": "All Worked Out",
       "artists": [
-        "Jea Mira"
+        "Bryan Elijah Smith"
       ],
-      "album": "girl's notes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b1bbb004319f22a08464e3c0",
-      "url": "https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk",
-      "duration_ms": 211581,
-      "played_at": "2026-06-26T15:31:50.210Z"
+      "album": "All Worked Out",
+      "image": "https://i.scdn.co/image/ab67616d00001e023a4bf3433db7422a54f01146",
+      "url": "https://open.spotify.com/track/0k57YxE0rmnpyo0ag5a7NP",
+      "duration_ms": 151718,
+      "played_at": "2026-06-26T19:16:54.204Z"
     },
     {
-      "id": "6Wqei6kTTJkf7YH6VXqWQg",
-      "name": "Take Me To Church",
+      "id": "0tXzxt3aJcfKu9L5i7tgfK",
+      "name": "Renegade",
       "artists": [
-        "Hozier"
+        "Kavinsky",
+        "Cautious Clay"
       ],
-      "album": "Take Me To Church",
-      "image": "https://i.scdn.co/image/ab6742d3000053b79c9c824f574727112b7b6a41",
-      "url": "https://open.spotify.com/track/6Wqei6kTTJkf7YH6VXqWQg",
-      "duration_ms": 240288,
-      "played_at": "2026-06-26T15:28:18.221Z"
+      "album": "Reborn",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d54c7c424d1b095611771530",
+      "url": "https://open.spotify.com/track/0tXzxt3aJcfKu9L5i7tgfK",
+      "duration_ms": 198760,
+      "played_at": "2026-06-26T19:14:22.008Z"
     },
     {
-      "id": "2JGOtqIA0i5aFkK03Ktt8Z",
-      "name": "Nocturne",
+      "id": "3SWqGa1J0M7hSBUDM0KePD",
+      "name": "Legend",
       "artists": [
-        "Bor Pro"
+        "The Score"
       ],
-      "album": "Subliminal",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a6f643a47cf49d5c45f3760",
-      "url": "https://open.spotify.com/track/2JGOtqIA0i5aFkK03Ktt8Z",
-      "duration_ms": 168045,
-      "played_at": "2026-06-26T15:24:16.629Z"
+      "album": "ATLAS",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c469e75608b59994c1c422be",
+      "url": "https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD",
+      "duration_ms": 189120,
+      "played_at": "2026-06-26T19:11:02.825Z"
     },
     {
-      "id": "2IWtloZYQDcP8Ashwx8QEF",
-      "name": "Black Out Days",
+      "id": "15JINEqzVMv3SvJTAXAKED",
+      "name": "Love The Way You Lie",
       "artists": [
-        "Phantogram"
+        "Eminem",
+        "Rihanna"
       ],
-      "album": "Voices",
-      "image": "https://i.scdn.co/image/ab67616d00001e024a02353678a4f62a9d2e3d2b",
-      "url": "https://open.spotify.com/track/2IWtloZYQDcP8Ashwx8QEF",
-      "duration_ms": 227160,
-      "played_at": "2026-06-26T15:21:28.113Z"
+      "album": "Recovery",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100",
+      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
+      "duration_ms": 263373,
+      "played_at": "2026-06-26T19:07:53.440Z"
     },
     {
-      "id": "3byTF0jZuyKGYJUE55Kft1",
-      "name": "Stressed Out",
+      "id": "13b3kZAjZGltp76ed4u1m3",
+      "name": "Somebody That I Used To Know",
       "artists": [
-        "Twenty One Pilots"
+        "Gotye",
+        "Kimbra"
       ],
-      "album": "Stressed Out",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7f443a750d30f352507414275",
-      "url": "https://open.spotify.com/track/3byTF0jZuyKGYJUE55Kft1",
-      "duration_ms": 218346,
-      "played_at": "2026-06-26T15:17:40.477Z"
+      "album": "Somebody That I Used To Know",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b15ef9b8dcb9f4ed3248ee42",
+      "url": "https://open.spotify.com/track/13b3kZAjZGltp76ed4u1m3",
+      "duration_ms": 244884,
+      "played_at": "2026-06-26T19:03:29.590Z"
     },
     {
-      "id": "60SvhHtwefT0e2G7i7kOH3",
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "id": "782VcXkRqyevFaJlcoIIEz",
+      "name": "Танцевать",
       "artists": [
-        "Gorillaz",
-        "Tame Impala",
-        "Bootie Brown"
+        "Molchat Doma"
       ],
-      "album": "Cracker Island",
-      "image": "https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "duration_ms": 215149,
-      "played_at": "2026-06-26T15:14:00.580Z"
+      "album": "Этажи",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+      "url": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz",
+      "duration_ms": 202845,
+      "played_at": "2026-06-26T18:59:24.483Z"
     },
     {
-      "id": "4uvg9atUhMUhKSTxg6cg6H",
-      "name": "Roi",
+      "id": "4zMG9g2uKXm1ezuFyrMHzh",
+      "name": "Ultimatum",
       "artists": [
-        "Videoclub"
+        "KSLV Noh",
+        "FRESHER"
       ],
-      "album": "Roi",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7b359921828194388d13e72b6",
-      "url": "https://open.spotify.com/track/4uvg9atUhMUhKSTxg6cg6H",
-      "duration_ms": 230080,
-      "played_at": "2026-06-26T15:10:24.958Z"
+      "album": "Ultimatum",
+      "image": "https://i.scdn.co/image/ab67616d00001e0274f6d1c878c70eee3a45efa1",
+      "url": "https://open.spotify.com/track/4zMG9g2uKXm1ezuFyrMHzh",
+      "duration_ms": 153000,
+      "played_at": "2026-06-26T18:56:01.208Z"
     }
   ],
-  "fetched_at": "2026-06-26T17:45:25.210Z"
+  "fetched_at": "2026-06-26T19:44:19.892Z"
 }
