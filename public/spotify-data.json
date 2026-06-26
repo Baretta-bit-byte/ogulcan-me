@@ -34,6 +34,19 @@
       "genres": []
     },
     {
+      "id": "51jVzNcOXpVOfzFv7jH8MA",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Voilà",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
+      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
+      "preview_url": null,
+      "duration_ms": 179010,
+      "genres": []
+    },
+    {
       "id": "3By9jCy6b4dv5XnlhvIWwx",
       "name": "Dies Irae",
       "artists": [
@@ -76,6 +89,19 @@
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
       "preview_url": null,
       "duration_ms": 322226,
+      "genres": []
+    },
+    {
+      "id": "23HLSBxcLAPywORaXb65yi",
+      "name": "Prière pour reconstruire",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Prière pour reconstruire",
+      "image": "https://i.scdn.co/image/ab6742d3000053b714df514c6c46d3a5e33b3ce8",
+      "url": "https://open.spotify.com/track/23HLSBxcLAPywORaXb65yi",
+      "preview_url": null,
+      "duration_ms": 216768,
       "genres": []
     },
     {
@@ -147,163 +173,131 @@
       "preview_url": null,
       "duration_ms": 297786,
       "genres": []
-    },
-    {
-      "id": "5zsHmE2gO3RefVsPyw2e3T",
-      "name": "What's Up Danger (with Black Caviar)",
-      "artists": [
-        "Blackway",
-        "Black Caviar"
-      ],
-      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
-      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
-      "preview_url": null,
-      "duration_ms": 222306,
-      "genres": []
-    },
-    {
-      "id": "66orjI5vOkyxOZLHWrPklh",
-      "name": "X Gon' Give It To Ya - Int'l Bonus track",
-      "artists": [
-        "DMX"
-      ],
-      "album": "Grand Champ",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
-      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
-      "preview_url": null,
-      "duration_ms": 219733,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "4L9Ds4mpD3SuYoWwFUlv16",
-      "name": "Simple",
+      "id": "7rmEKrH6C0rt9j0y2bsJiW",
+      "name": "On The Floor",
       "artists": [
-        "Florida Georgia Line"
+        "Jennifer Lopez",
+        "Pitbull"
       ],
-      "album": "Can't Say I Ain't Country",
-      "image": "https://i.scdn.co/image/ab67616d00001e0242f67892edff211325a54db4",
-      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16",
-      "duration_ms": 185200,
-      "played_at": "2026-06-26T19:25:53.330Z"
+      "album": "On The Floor",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7ad59ae7e9917de3dafbf25f2",
+      "url": "https://open.spotify.com/track/7rmEKrH6C0rt9j0y2bsJiW",
+      "duration_ms": 267350,
+      "played_at": "2026-06-26T21:00:30.819Z"
     },
     {
-      "id": "5BrfqCzFP7TQL7YgugogJd",
-      "name": "bizden olsun isterdim",
+      "id": "0v3bE3WxQnMcYqV147WfSu",
+      "name": "Can't Get You out of My Head",
       "artists": [
-        "Boramess"
+        "Kylie Minogue"
       ],
-      "album": "bizden olsun isterdim",
-      "image": "https://i.scdn.co/image/ab67616d00001e02783a20ac501a11d8914c6f84",
-      "url": "https://open.spotify.com/track/5BrfqCzFP7TQL7YgugogJd",
-      "duration_ms": 190000,
-      "played_at": "2026-06-26T19:23:52.559Z"
+      "album": "Can't Get You out of My Head",
+      "image": "https://i.scdn.co/image/ab6742d3000053b792a1a59d609b8b42d147ab28",
+      "url": "https://open.spotify.com/track/0v3bE3WxQnMcYqV147WfSu",
+      "duration_ms": 230250,
+      "played_at": "2026-06-26T20:57:36.114Z"
     },
     {
-      "id": "2MbdDtCv5LUVjYy9RuGTgC",
-      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+      "id": "1sJaGWr2bW0bofwFUJAmfL",
+      "name": "My Moon My Man",
       "artists": [
-        "Jack Harlow",
-        "Tory Lanez",
-        "DaBaby",
-        "Lil Wayne"
+        "Feist"
       ],
-      "album": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a3d47958d824c257a13aec3b",
-      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC",
-      "duration_ms": 227478,
-      "played_at": "2026-06-26T19:20:42.070Z"
+      "album": "My Moon My Man",
+      "image": "https://i.scdn.co/image/ab6742d3000053b737cd8549bf6401e74dff5632",
+      "url": "https://open.spotify.com/track/1sJaGWr2bW0bofwFUJAmfL",
+      "duration_ms": 219177,
+      "played_at": "2026-06-26T20:53:45.005Z"
     },
     {
-      "id": "0k57YxE0rmnpyo0ag5a7NP",
-      "name": "All Worked Out",
+      "id": "3idrvUQYONMAJ6EgZZqiL8",
+      "name": "hate that i made you love me",
       "artists": [
-        "Bryan Elijah Smith"
+        "Ariana Grande"
       ],
-      "album": "All Worked Out",
-      "image": "https://i.scdn.co/image/ab67616d00001e023a4bf3433db7422a54f01146",
-      "url": "https://open.spotify.com/track/0k57YxE0rmnpyo0ag5a7NP",
-      "duration_ms": 151718,
-      "played_at": "2026-06-26T19:16:54.204Z"
+      "album": "hate that i made you love me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e0353cfc435c3abdda59a25a",
+      "url": "https://open.spotify.com/track/3idrvUQYONMAJ6EgZZqiL8",
+      "duration_ms": 300091,
+      "played_at": "2026-06-26T20:50:04.798Z"
     },
     {
-      "id": "0tXzxt3aJcfKu9L5i7tgfK",
-      "name": "Renegade",
+      "id": "2qw6rdcxJaj89OMTH0dANU",
+      "name": "Girl Like Me",
       "artists": [
-        "Kavinsky",
-        "Cautious Clay"
+        "PinkPantheress"
       ],
-      "album": "Reborn",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d54c7c424d1b095611771530",
-      "url": "https://open.spotify.com/track/0tXzxt3aJcfKu9L5i7tgfK",
-      "duration_ms": 198760,
-      "played_at": "2026-06-26T19:14:22.008Z"
+      "album": "Girl Like Me",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7933e3a7aa393e91a8cead895",
+      "url": "https://open.spotify.com/track/2qw6rdcxJaj89OMTH0dANU",
+      "duration_ms": 156970,
+      "played_at": "2026-06-26T20:45:03.687Z"
     },
     {
-      "id": "3SWqGa1J0M7hSBUDM0KePD",
-      "name": "Legend",
+      "id": "4g9I4CSbPn5XREMrr0TNyF",
+      "name": "stupid song",
       "artists": [
-        "The Score"
+        "Olivia Rodrigo"
       ],
-      "album": "ATLAS",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c469e75608b59994c1c422be",
-      "url": "https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD",
-      "duration_ms": 189120,
-      "played_at": "2026-06-26T19:11:02.825Z"
+      "album": "stupid song",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7635e6444bb9c711f42dfb388",
+      "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF",
+      "duration_ms": 216925,
+      "played_at": "2026-06-26T20:42:25.515Z"
     },
     {
-      "id": "15JINEqzVMv3SvJTAXAKED",
-      "name": "Love The Way You Lie",
+      "id": "40oYjPdjvFBCZH1Smsk46H",
+      "name": "Back Home",
       "artists": [
-        "Eminem",
-        "Rihanna"
+        "Yeat",
+        "Joji"
       ],
-      "album": "Recovery",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100",
-      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
-      "duration_ms": 263373,
-      "played_at": "2026-06-26T19:07:53.440Z"
+      "album": "ADL",
+      "image": "https://i.scdn.co/image/ab67616d00001e0288fc1b9c89137e73c62d216f",
+      "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H",
+      "duration_ms": 193684,
+      "played_at": "2026-06-26T20:38:46.807Z"
     },
     {
-      "id": "13b3kZAjZGltp76ed4u1m3",
-      "name": "Somebody That I Used To Know",
+      "id": "5Z4kLuTMKYkpO5zU6fFcwi",
+      "name": "Treat You Better",
       "artists": [
-        "Gotye",
-        "Kimbra"
+        "Shawn Mendes"
       ],
-      "album": "Somebody That I Used To Know",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b15ef9b8dcb9f4ed3248ee42",
-      "url": "https://open.spotify.com/track/13b3kZAjZGltp76ed4u1m3",
-      "duration_ms": 244884,
-      "played_at": "2026-06-26T19:03:29.590Z"
+      "album": "Treat You Better",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7a3db85256eebf1244f8c2d87",
+      "url": "https://open.spotify.com/track/5Z4kLuTMKYkpO5zU6fFcwi",
+      "duration_ms": 257298,
+      "played_at": "2026-06-26T20:35:32.594Z"
     },
     {
-      "id": "782VcXkRqyevFaJlcoIIEz",
-      "name": "Танцевать",
+      "id": "0eAuGrXyGFYwur9ARUe7LJ",
+      "name": "Earrings",
       "artists": [
-        "Molchat Doma"
+        "Malcolm Todd"
       ],
-      "album": "Этажи",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
-      "url": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz",
-      "duration_ms": 202845,
-      "played_at": "2026-06-26T18:59:24.483Z"
+      "album": "Sweet Boy",
+      "image": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+      "duration_ms": 151500,
+      "played_at": "2026-06-26T20:31:13.260Z"
     },
     {
-      "id": "4zMG9g2uKXm1ezuFyrMHzh",
-      "name": "Ultimatum",
+      "id": "33KU9huHP1Lv1UWWVkuTYd",
+      "name": "Impostor Syndrome",
       "artists": [
-        "KSLV Noh",
-        "FRESHER"
+        "Sidney Gish"
       ],
-      "album": "Ultimatum",
-      "image": "https://i.scdn.co/image/ab67616d00001e0274f6d1c878c70eee3a45efa1",
-      "url": "https://open.spotify.com/track/4zMG9g2uKXm1ezuFyrMHzh",
-      "duration_ms": 153000,
-      "played_at": "2026-06-26T18:56:01.208Z"
+      "album": "No Dogs Allowed",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f7832bb86831bdec9848acda",
+      "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd",
+      "duration_ms": 294260,
+      "played_at": "2026-06-26T20:28:41.285Z"
     }
   ],
-  "fetched_at": "2026-06-26T19:44:19.892Z"
+  "fetched_at": "2026-06-26T21:16:55.466Z"
 }
