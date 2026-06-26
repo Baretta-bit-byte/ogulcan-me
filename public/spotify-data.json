@@ -34,19 +34,6 @@
       "genres": []
     },
     {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "preview_url": null,
-      "duration_ms": 215040,
-      "genres": []
-    },
-    {
       "id": "3By9jCy6b4dv5XnlhvIWwx",
       "name": "Dies Irae",
       "artists": [
@@ -66,75 +53,16 @@
       "genres": []
     },
     {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
+      "id": "0kYMwaQWABTkFff8AZjmYI",
+      "name": "Hayloft II",
       "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
+        "Mother Mother"
       ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
+      "album": "Inside (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
       "preview_url": null,
-      "duration_ms": 144360,
-      "genres": []
-    },
-    {
-      "id": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
-      "artists": [
-        "Soap&Skin"
-      ],
-      "album": "Sugarbread",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276016873b8c84a5ee37d34d6",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh",
-      "preview_url": null,
-      "duration_ms": 185000,
-      "genres": []
-    },
-    {
-      "id": "3ozeGGXwEZW5uVdFkYGyDr",
-      "name": "Devil`s Trills, Sonata in G Minor",
-      "artists": [
-        "Giuseppe Tartini",
-        "David Oistrakh",
-        "Frieda Bauer",
-        "Джузеппе Тартини"
-      ],
-      "album": "Tartini, Prokofiev & Janáček: Sonatas",
-      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
-      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
-      "preview_url": null,
-      "duration_ms": 892266,
-      "genres": []
-    },
-    {
-      "id": "51jVzNcOXpVOfzFv7jH8MA",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Voilà",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
-      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
-      "preview_url": null,
-      "duration_ms": 179010,
-      "genres": []
-    },
-    {
-      "id": "0d28khcov6AiegSCpG5TuT",
-      "name": "Feel Good Inc.",
-      "artists": [
-        "Gorillaz",
-        "De La Soul"
-      ],
-      "album": "Demon Days",
-      "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
-      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-      "preview_url": null,
-      "duration_ms": 222640,
+      "duration_ms": 215040,
       "genres": []
     },
     {
@@ -151,46 +79,30 @@
       "genres": []
     },
     {
-      "id": "0upFohXrGxIIAjyaJmCkMU",
-      "name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
       "artists": [
-        "Teriyaki Boyz"
+        "Eminem"
       ],
-      "album": "Tokyo Drift (Fast & Furious)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02aac3b3863e8f7a43a9b65a19",
-      "url": "https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU",
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
       "preview_url": null,
-      "duration_ms": 255946,
+      "duration_ms": 322226,
       "genres": []
     },
     {
-      "id": "1SWVDBtw6h3tm9OehOkDhv",
-      "name": "What's The Difference",
-      "artists": [
-        "Dr. Dre",
-        "Eminem",
-        "Xzibit"
-      ],
-      "album": "2001",
-      "image": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
-      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv",
-      "preview_url": null,
-      "duration_ms": 244200,
-      "genres": []
-    }
-  ],
-  "recently_played": [
-    {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
+      "id": "2Efzv3bhKwgOuvJSEdBv8T",
+      "name": "Bravo",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "duration_ms": 177426,
-      "played_at": "2026-06-26T10:47:41.797Z"
+      "album": "Bravo",
+      "image": "https://i.scdn.co/image/ab6742d3000053b798340bc0f2a66e1e4921cd2d",
+      "url": "https://open.spotify.com/track/2Efzv3bhKwgOuvJSEdBv8T",
+      "preview_url": null,
+      "duration_ms": 203450,
+      "genres": []
     },
     {
       "id": "2OQJKTtrH482waGFmOfJni",
@@ -202,69 +114,38 @@
       "album": "B.O.A.T.S. II #METIME (Deluxe)",
       "image": "https://i.scdn.co/image/ab67616d00001e02b4366694590f7164fad21fc7",
       "url": "https://open.spotify.com/track/2OQJKTtrH482waGFmOfJni",
+      "preview_url": null,
       "duration_ms": 227906,
-      "played_at": "2026-06-26T10:42:58.402Z"
+      "genres": []
     },
     {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "duration_ms": 311866,
-      "played_at": "2026-06-26T10:39:10.131Z"
-    },
-    {
-      "id": "5zsHmE2gO3RefVsPyw2e3T",
-      "name": "What's Up Danger (with Black Caviar)",
-      "artists": [
-        "Blackway",
-        "Black Caviar"
-      ],
-      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
-      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
-      "duration_ms": 222306,
-      "played_at": "2026-06-26T10:33:57.884Z"
-    },
-    {
-      "id": "6dWWOi8PvMJPOl60TwQxKP",
-      "name": "Fight Back",
-      "artists": [
-        "NEFFEX"
-      ],
-      "album": "Fight Back: The Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
-      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
-      "duration_ms": 200571,
-      "played_at": "2026-06-26T10:30:15.164Z"
-    },
-    {
-      "id": "66orjI5vOkyxOZLHWrPklh",
-      "name": "X Gon' Give It To Ya - Int'l Bonus track",
-      "artists": [
-        "DMX"
-      ],
-      "album": "Grand Champ",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
-      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
-      "duration_ms": 219733,
-      "played_at": "2026-06-26T10:26:54.179Z"
-    },
-    {
-      "id": "1v7L65Lzy0j0vdpRjJewt1",
-      "name": "Lose Yourself",
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
       "artists": [
         "Eminem"
       ],
-      "album": "Just Lose It",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
-      "duration_ms": 322226,
-      "played_at": "2026-06-26T10:23:14.077Z"
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "preview_url": null,
+      "duration_ms": 269554,
+      "genres": []
+    },
+    {
+      "id": "4gvIHkUkkXlfuyZvmVVLl4",
+      "name": "Face Off",
+      "artists": [
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
+      ],
+      "album": "Face Off",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7faead4d3950b84e03ccec582",
+      "url": "https://open.spotify.com/track/4gvIHkUkkXlfuyZvmVVLl4",
+      "preview_url": null,
+      "duration_ms": 247466,
+      "genres": []
     },
     {
       "id": "4xkOaSrkexMciUUogZKVTS",
@@ -276,34 +157,152 @@
       "album": "The Eminem Show",
       "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "preview_url": null,
       "duration_ms": 297786,
-      "played_at": "2026-06-26T10:17:51.509Z"
+      "genres": []
     },
     {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
+      "id": "5zsHmE2gO3RefVsPyw2e3T",
+      "name": "What's Up Danger (with Black Caviar)",
       "artists": [
-        "Eminem"
+        "Blackway",
+        "Black Caviar"
       ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "duration_ms": 269554,
-      "played_at": "2026-06-26T10:12:53.373Z"
-    },
-    {
-      "id": "7ccC26pJ3aDG81sS4FwdXF",
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "artists": [
-        "Fort Minor",
-        "Styles Of Beyond"
-      ],
-      "album": "The Rising Tied (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "duration_ms": 230493,
-      "played_at": "2026-06-26T10:08:23.339Z"
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
+      "preview_url": null,
+      "duration_ms": 222306,
+      "genres": []
     }
   ],
-  "fetched_at": "2026-06-26T10:49:32.464Z"
+  "recently_played": [
+    {
+      "id": "0NdTUS4UiNYCNn5FgVqKQY",
+      "name": "Snap Out Of It",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY",
+      "duration_ms": 193030,
+      "played_at": "2026-06-26T13:08:14.476Z"
+    },
+    {
+      "id": "0mEdbdeRFQwBhN4xfyIeUM",
+      "name": "Can't Tell Me Nothing",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600,
+      "played_at": "2026-06-26T13:05:01.005Z"
+    },
+    {
+      "id": "0U0ldCRmgCqhVvD6ksG63j",
+      "name": "Nightcall",
+      "artists": [
+        "Kavinsky"
+      ],
+      "album": "Nightcall",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
+      "duration_ms": 258413,
+      "played_at": "2026-06-26T13:00:28.968Z"
+    },
+    {
+      "id": "7gymMiUpp1AOYR5EiRDDrO",
+      "name": "Ethereal",
+      "artists": [
+        "Txmy"
+      ],
+      "album": "Ethereal",
+      "image": "https://i.scdn.co/image/ab67616d00001e023ecfb69038cb68d0302099f3",
+      "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO",
+      "duration_ms": 168000,
+      "played_at": "2026-06-26T12:56:26.969Z"
+    },
+    {
+      "id": "6z1APkc8qQnsLpeN7FCoZD",
+      "name": "Waltz No.2",
+      "artists": [
+        "Cihat Aşkın"
+      ],
+      "album": "Türk Valsleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
+      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
+      "duration_ms": 240306,
+      "played_at": "2026-06-26T11:55:55.387Z"
+    },
+    {
+      "id": "4mOMTUl8XiaqILHwh8zm4H",
+      "name": "Le Monde - From Talk to Me",
+      "artists": [
+        "Richard Carter"
+      ],
+      "album": "Le Monde (From Talk to Me)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0217251768e34c93e9c45f44ee",
+      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
+      "duration_ms": 134853,
+      "played_at": "2026-06-26T11:51:54.353Z"
+    },
+    {
+      "id": "3OXWfx20ZcRYrxxckvnMk1",
+      "name": "Luminary",
+      "artists": [
+        "Joel Sunny"
+      ],
+      "album": "Luminary",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7e4775e2ae003fb59ee476976",
+      "url": "https://open.spotify.com/track/3OXWfx20ZcRYrxxckvnMk1",
+      "duration_ms": 193326,
+      "played_at": "2026-06-26T11:49:38.684Z"
+    },
+    {
+      "id": "3hj6jHDmZfoQdukMi6bWF6",
+      "name": "Mozart : Requiem K. 626 - Lacrimosa",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Jordi Savall",
+        "Le Concert Des Nations"
+      ],
+      "album": "Mozart : Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e028ea6e00ea3edc44ffe6e20d1",
+      "url": "https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6",
+      "duration_ms": 183813,
+      "played_at": "2026-06-26T11:46:22.726Z"
+    },
+    {
+      "id": "0ROMalDdNg3L2HoZP4qFyJ",
+      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
+      "artists": [
+        "Antonio Vivaldi",
+        "Adrian Chandler",
+        "La Serenissima"
+      ],
+      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
+      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
+      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
+      "duration_ms": 201853,
+      "played_at": "2026-06-26T11:43:18.090Z"
+    },
+    {
+      "id": "2xizRhme7pYeITbH1NLLGt",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+      "artists": [
+        "Pyotr Ilyich Tchaikovsky",
+        "André Previn",
+        "London Symphony Orchestra"
+      ],
+      "album": "Tchaikovsky: Swan Lake",
+      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
+      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+      "duration_ms": 166866,
+      "played_at": "2026-06-26T11:39:55.185Z"
+    }
+  ],
+  "fetched_at": "2026-06-26T13:09:41.027Z"
 }
