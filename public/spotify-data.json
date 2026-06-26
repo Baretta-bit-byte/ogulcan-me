@@ -181,133 +181,129 @@
   ],
   "recently_played": [
     {
-      "id": "4gvIHkUkkXlfuyZvmVVLl4",
-      "name": "Face Off",
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
       "artists": [
-        "Tech N9ne",
-        "Joey Cool",
-        "King Iso",
-        "Dwayne Johnson"
+        "Barbara Pravi"
       ],
-      "album": "Face Off",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7faead4d3950b84e03ccec582",
-      "url": "https://open.spotify.com/track/4gvIHkUkkXlfuyZvmVVLl4",
-      "duration_ms": 247466,
-      "played_at": "2026-06-25T21:33:20.283Z"
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "duration_ms": 177426,
+      "played_at": "2026-06-26T10:47:41.797Z"
     },
     {
-      "id": "6TASYphP31stW3r7XPzSPt",
-      "name": "Highway to Hell",
+      "id": "2OQJKTtrH482waGFmOfJni",
+      "name": "We Own It (Fast & Furious)",
       "artists": [
-        "AC/DC"
+        "2 Chainz",
+        "Wiz Khalifa"
       ],
-      "album": "Highway to Hell",
-      "image": "https://i.scdn.co/image/ab6742d3000053b754edc018583ea33b635fbe52",
-      "url": "https://open.spotify.com/track/6TASYphP31stW3r7XPzSPt",
-      "duration_ms": 207018,
-      "played_at": "2026-06-25T16:49:30.144Z"
+      "album": "B.O.A.T.S. II #METIME (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b4366694590f7164fad21fc7",
+      "url": "https://open.spotify.com/track/2OQJKTtrH482waGFmOfJni",
+      "duration_ms": 227906,
+      "played_at": "2026-06-26T10:42:58.402Z"
     },
     {
-      "id": "4Ss0J2ykdKZzoUjKhoZ5Ls",
-      "name": "Thunder",
+      "id": "0j2T0R9dR9qdJYsB7ciXhf",
+      "name": "Stronger",
       "artists": [
-        "Imagine Dragons"
+        "Kanye West"
       ],
-      "album": "Thunder",
-      "image": "https://i.scdn.co/image/ab6742d3000053b79803a5c11c91d7d4d038f231",
-      "url": "https://open.spotify.com/track/4Ss0J2ykdKZzoUjKhoZ5Ls",
-      "duration_ms": 204954,
-      "played_at": "2026-06-25T16:46:00.926Z"
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
+      "duration_ms": 311866,
+      "played_at": "2026-06-26T10:39:10.131Z"
     },
     {
-      "id": "1J06YRlD6bxIva49tzYrLb",
-      "name": "Timber",
+      "id": "5zsHmE2gO3RefVsPyw2e3T",
+      "name": "What's Up Danger (with Black Caviar)",
       "artists": [
-        "Pitbull",
-        "Kesha"
+        "Blackway",
+        "Black Caviar"
       ],
-      "album": "Timber",
-      "image": "https://i.scdn.co/image/ab6742d3000053b74fe268ae3e5fa0e7b61abb45",
-      "url": "https://open.spotify.com/track/1J06YRlD6bxIva49tzYrLb",
-      "duration_ms": 209322,
-      "played_at": "2026-06-25T16:42:33.718Z"
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
+      "duration_ms": 222306,
+      "played_at": "2026-06-26T10:33:57.884Z"
     },
     {
-      "id": "65k1LTdnajS30LWsnH1GIi",
-      "name": "Believer",
+      "id": "6dWWOi8PvMJPOl60TwQxKP",
+      "name": "Fight Back",
       "artists": [
-        "Imagine Dragons"
+        "NEFFEX"
       ],
-      "album": "Believer",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7eb53ef76e562e122a53de3b5",
-      "url": "https://open.spotify.com/track/65k1LTdnajS30LWsnH1GIi",
-      "duration_ms": 217508,
-      "played_at": "2026-06-25T16:39:02.928Z"
+      "album": "Fight Back: The Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
+      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
+      "duration_ms": 200571,
+      "played_at": "2026-06-26T10:30:15.164Z"
     },
     {
-      "id": "4hvxxbOHOTGlzZRZ7SIKdw",
-      "name": "Enemy - from the series Arcane League of Legends",
+      "id": "66orjI5vOkyxOZLHWrPklh",
+      "name": "X Gon' Give It To Ya - Int'l Bonus track",
       "artists": [
-        "Imagine Dragons",
-        "JID",
-        "Arcane",
-        "League of Legends"
+        "DMX"
       ],
-      "album": "Enemy (from the series Arcane League of Legends)",
-      "image": "https://i.scdn.co/image/ab6742d3000053b74c02901d5437e3f5f4dcd930",
-      "url": "https://open.spotify.com/track/4hvxxbOHOTGlzZRZ7SIKdw",
-      "duration_ms": 213258,
-      "played_at": "2026-06-25T16:35:23.343Z"
+      "album": "Grand Champ",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
+      "duration_ms": 219733,
+      "played_at": "2026-06-26T10:26:54.179Z"
     },
     {
-      "id": "6RzdX6VsZoksKz2MM2LkPO",
-      "name": "See You Again (feat. Charlie Puth)",
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
       "artists": [
-        "Wiz Khalifa",
-        "Charlie Puth"
+        "Eminem"
       ],
-      "album": "See You Again (feat. Charlie Puth)",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7d71a6c2e5a5b42a0d9882d22",
-      "url": "https://open.spotify.com/track/6RzdX6VsZoksKz2MM2LkPO",
-      "duration_ms": 240042,
-      "played_at": "2026-06-25T16:31:48.327Z"
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "duration_ms": 322226,
+      "played_at": "2026-06-26T10:23:14.077Z"
     },
     {
-      "id": "4v7DCN09hgXkKazefkznDQ",
-      "name": "Lonely",
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
       "artists": [
-        "Akon"
+        "Eminem",
+        "Nate Dogg"
       ],
-      "album": "Trouble Deluxe Edition",
-      "image": "https://i.scdn.co/image/ab67616d00001e026ec7ab30397ea37295340a41",
-      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ",
-      "duration_ms": 235800,
-      "played_at": "2026-06-25T16:27:44.632Z"
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "duration_ms": 297786,
+      "played_at": "2026-06-26T10:17:51.509Z"
     },
     {
-      "id": "3sZOcxZcLY6bX34Rn4aCHW",
-      "name": "Demons",
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
       "artists": [
-        "Imagine Dragons"
+        "Eminem"
       ],
-      "album": "Demons",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7d258974d3b63209ec236b194",
-      "url": "https://open.spotify.com/track/3sZOcxZcLY6bX34Rn4aCHW",
-      "duration_ms": 237111,
-      "played_at": "2026-06-25T16:23:47.738Z"
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "duration_ms": 269554,
+      "played_at": "2026-06-26T10:12:53.373Z"
     },
     {
-      "id": "14LCl25SCyk8kFmnCc2uQx",
-      "name": "Mask Off",
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
       "artists": [
-        "Future"
+        "Fort Minor",
+        "Styles Of Beyond"
       ],
-      "album": "Mask Off",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ff6a08b41a714dd357094c71",
-      "url": "https://open.spotify.com/track/14LCl25SCyk8kFmnCc2uQx",
-      "duration_ms": 289216,
-      "played_at": "2026-06-25T16:19:49.113Z"
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "duration_ms": 230493,
+      "played_at": "2026-06-26T10:08:23.339Z"
     }
   ],
-  "fetched_at": "2026-06-25T23:51:45.912Z"
+  "fetched_at": "2026-06-26T10:49:32.464Z"
 }
