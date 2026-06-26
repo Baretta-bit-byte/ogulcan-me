@@ -4,9 +4,9 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 0,
-    "gameid": null,
-    "gameextrainfo": null
+    "personastate": 1,
+    "gameid": "381210",
+    "gameextrainfo": "Dead by Daylight"
   },
   "recentGames": [
     {
@@ -20,8 +20,8 @@
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 558,
-      "playtime_forever": 51232,
+      "playtime_2weeks": 588,
+      "playtime_forever": 51262,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
@@ -36,7 +36,7 @@
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 289,
+      "playtime_2weeks": 192,
       "playtime_forever": 10603,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
@@ -51,6 +51,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 622837,
-  "fetched_at": "2026-06-26T19:58:10.406Z"
+  "totalPlaytime": 622867,
+  "fetched_at": "2026-06-26T22:18:02.810Z"
 }
