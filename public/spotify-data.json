@@ -178,131 +178,128 @@
   ],
   "recently_played": [
     {
-      "id": "0NdTUS4UiNYCNn5FgVqKQY",
-      "name": "Snap Out Of It",
+      "id": "3qVKp0bGG2uEkrkMOtwb5F",
+      "name": "Fitzpleasure",
       "artists": [
-        "Arctic Monkeys"
+        "alt-J"
       ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY",
-      "duration_ms": 193030,
-      "played_at": "2026-06-26T13:08:14.476Z"
+      "album": "An Awesome Wave",
+      "image": "https://i.scdn.co/image/ab67616d00001e021e1ca90cd8fdbb0ac890a926",
+      "url": "https://open.spotify.com/track/3qVKp0bGG2uEkrkMOtwb5F",
+      "duration_ms": 219400,
+      "played_at": "2026-06-26T15:35:30.035Z"
     },
     {
-      "id": "0mEdbdeRFQwBhN4xfyIeUM",
-      "name": "Can't Tell Me Nothing",
+      "id": "5RCo8gwmcHB8cRyKrOVOOk",
+      "name": "Bestie, Move On",
       "artists": [
-        "Kanye West"
+        "Jea Mira"
       ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-      "duration_ms": 271600,
-      "played_at": "2026-06-26T13:05:01.005Z"
+      "album": "girl's notes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b1bbb004319f22a08464e3c0",
+      "url": "https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk",
+      "duration_ms": 211581,
+      "played_at": "2026-06-26T15:31:50.210Z"
     },
     {
-      "id": "0U0ldCRmgCqhVvD6ksG63j",
-      "name": "Nightcall",
+      "id": "6Wqei6kTTJkf7YH6VXqWQg",
+      "name": "Take Me To Church",
       "artists": [
-        "Kavinsky"
+        "Hozier"
       ],
-      "album": "Nightcall",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
-      "duration_ms": 258413,
-      "played_at": "2026-06-26T13:00:28.968Z"
+      "album": "Take Me To Church",
+      "image": "https://i.scdn.co/image/ab6742d3000053b79c9c824f574727112b7b6a41",
+      "url": "https://open.spotify.com/track/6Wqei6kTTJkf7YH6VXqWQg",
+      "duration_ms": 240288,
+      "played_at": "2026-06-26T15:28:18.221Z"
     },
     {
-      "id": "7gymMiUpp1AOYR5EiRDDrO",
-      "name": "Ethereal",
+      "id": "2JGOtqIA0i5aFkK03Ktt8Z",
+      "name": "Nocturne",
       "artists": [
-        "Txmy"
+        "Bor Pro"
       ],
-      "album": "Ethereal",
-      "image": "https://i.scdn.co/image/ab67616d00001e023ecfb69038cb68d0302099f3",
-      "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO",
-      "duration_ms": 168000,
-      "played_at": "2026-06-26T12:56:26.969Z"
+      "album": "Subliminal",
+      "image": "https://i.scdn.co/image/ab67616d00001e021a6f643a47cf49d5c45f3760",
+      "url": "https://open.spotify.com/track/2JGOtqIA0i5aFkK03Ktt8Z",
+      "duration_ms": 168045,
+      "played_at": "2026-06-26T15:24:16.629Z"
     },
     {
-      "id": "6z1APkc8qQnsLpeN7FCoZD",
-      "name": "Waltz No.2",
+      "id": "2IWtloZYQDcP8Ashwx8QEF",
+      "name": "Black Out Days",
       "artists": [
-        "Cihat Aşkın"
+        "Phantogram"
       ],
-      "album": "Türk Valsleri",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b04e3687bf3a7395ce1e65",
-      "url": "https://open.spotify.com/track/6z1APkc8qQnsLpeN7FCoZD",
-      "duration_ms": 240306,
-      "played_at": "2026-06-26T11:55:55.387Z"
+      "album": "Voices",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a02353678a4f62a9d2e3d2b",
+      "url": "https://open.spotify.com/track/2IWtloZYQDcP8Ashwx8QEF",
+      "duration_ms": 227160,
+      "played_at": "2026-06-26T15:21:28.113Z"
     },
     {
-      "id": "4mOMTUl8XiaqILHwh8zm4H",
-      "name": "Le Monde - From Talk to Me",
+      "id": "3byTF0jZuyKGYJUE55Kft1",
+      "name": "Stressed Out",
       "artists": [
-        "Richard Carter"
+        "Twenty One Pilots"
       ],
-      "album": "Le Monde (From Talk to Me)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0217251768e34c93e9c45f44ee",
-      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H",
-      "duration_ms": 134853,
-      "played_at": "2026-06-26T11:51:54.353Z"
+      "album": "Stressed Out",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7f443a750d30f352507414275",
+      "url": "https://open.spotify.com/track/3byTF0jZuyKGYJUE55Kft1",
+      "duration_ms": 218346,
+      "played_at": "2026-06-26T15:17:40.477Z"
     },
     {
-      "id": "3OXWfx20ZcRYrxxckvnMk1",
-      "name": "Luminary",
+      "id": "60SvhHtwefT0e2G7i7kOH3",
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "artists": [
-        "Joel Sunny"
+        "Gorillaz",
+        "Tame Impala",
+        "Bootie Brown"
       ],
-      "album": "Luminary",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7e4775e2ae003fb59ee476976",
-      "url": "https://open.spotify.com/track/3OXWfx20ZcRYrxxckvnMk1",
-      "duration_ms": 193326,
-      "played_at": "2026-06-26T11:49:38.684Z"
+      "album": "Cracker Island",
+      "image": "https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "duration_ms": 215149,
+      "played_at": "2026-06-26T15:14:00.580Z"
     },
     {
-      "id": "3hj6jHDmZfoQdukMi6bWF6",
-      "name": "Mozart : Requiem K. 626 - Lacrimosa",
+      "id": "4uvg9atUhMUhKSTxg6cg6H",
+      "name": "Roi",
       "artists": [
-        "Wolfgang Amadeus Mozart",
-        "Jordi Savall",
-        "Le Concert Des Nations"
+        "Videoclub"
       ],
-      "album": "Mozart : Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e028ea6e00ea3edc44ffe6e20d1",
-      "url": "https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6",
-      "duration_ms": 183813,
-      "played_at": "2026-06-26T11:46:22.726Z"
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7b359921828194388d13e72b6",
+      "url": "https://open.spotify.com/track/4uvg9atUhMUhKSTxg6cg6H",
+      "duration_ms": 230080,
+      "played_at": "2026-06-26T15:10:24.958Z"
     },
     {
-      "id": "0ROMalDdNg3L2HoZP4qFyJ",
-      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
+      "id": "65QhRih4FdJ0P73XToANS7",
+      "name": "Voilà",
       "artists": [
-        "Antonio Vivaldi",
-        "Adrian Chandler",
-        "La Serenissima"
+        "Emilio Piano",
+        "Lucie"
       ],
-      "album": "Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",
-      "image": "https://i.scdn.co/image/ab67616d00001e02577bb481664d06b0b5d5ba58",
-      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ",
-      "duration_ms": 201853,
-      "played_at": "2026-06-26T11:43:18.090Z"
+      "album": "Voilà",
+      "image": "https://i.scdn.co/image/ab67616d00001e021e66f73980b8313090a89c6f",
+      "url": "https://open.spotify.com/track/65QhRih4FdJ0P73XToANS7",
+      "duration_ms": 145895,
+      "played_at": "2026-06-26T15:06:33.767Z"
     },
     {
-      "id": "2xizRhme7pYeITbH1NLLGt",
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+      "id": "7wCmS9TTVUcIhRalDYFgPy",
+      "name": "Where Is My Mind? - 2007 Remaster",
       "artists": [
-        "Pyotr Ilyich Tchaikovsky",
-        "André Previn",
-        "London Symphony Orchestra"
+        "Pixies"
       ],
-      "album": "Tchaikovsky: Swan Lake",
-      "image": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
-      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-      "duration_ms": 166866,
-      "played_at": "2026-06-26T11:39:55.185Z"
+      "album": "Surfer Rosa (2007 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d00001e028aa545a0ea869940cce358b5",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
+      "duration_ms": 234973,
+      "played_at": "2026-06-26T15:04:07.436Z"
     }
   ],
-  "fetched_at": "2026-06-26T13:09:41.027Z"
+  "fetched_at": "2026-06-26T15:37:53.162Z"
 }
