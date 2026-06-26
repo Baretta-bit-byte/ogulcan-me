@@ -178,6 +178,30 @@
   ],
   "recently_played": [
     {
+      "id": "7q9vs73hCbPuFLF4o6nvih",
+      "name": "Six Days - Radio Edit",
+      "artists": [
+        "DJ Shadow"
+      ],
+      "album": "Six Days",
+      "image": "https://i.scdn.co/image/ab67616d00001e02201b70d118d7b23f19040f11",
+      "url": "https://open.spotify.com/track/7q9vs73hCbPuFLF4o6nvih",
+      "duration_ms": 218133,
+      "played_at": "2026-06-26T15:40:25.972Z"
+    },
+    {
+      "id": "3Vuv2DNWcexDwda2auaWzj",
+      "name": "Another Brick in the Wall, Pt. 2",
+      "artists": [
+        "Pink Floyd"
+      ],
+      "album": "Another Brick in the Wall, Pt. 2",
+      "image": "https://i.scdn.co/image/ab6742d3000053b705fe4dba4083b20b24c949ae",
+      "url": "https://open.spotify.com/track/3Vuv2DNWcexDwda2auaWzj",
+      "duration_ms": 198400,
+      "played_at": "2026-06-26T15:38:49.584Z"
+    },
+    {
       "id": "3qVKp0bGG2uEkrkMOtwb5F",
       "name": "Fitzpleasure",
       "artists": [
@@ -274,32 +298,7 @@
       "url": "https://open.spotify.com/track/4uvg9atUhMUhKSTxg6cg6H",
       "duration_ms": 230080,
       "played_at": "2026-06-26T15:10:24.958Z"
-    },
-    {
-      "id": "65QhRih4FdJ0P73XToANS7",
-      "name": "Voilà",
-      "artists": [
-        "Emilio Piano",
-        "Lucie"
-      ],
-      "album": "Voilà",
-      "image": "https://i.scdn.co/image/ab67616d00001e021e66f73980b8313090a89c6f",
-      "url": "https://open.spotify.com/track/65QhRih4FdJ0P73XToANS7",
-      "duration_ms": 145895,
-      "played_at": "2026-06-26T15:06:33.767Z"
-    },
-    {
-      "id": "7wCmS9TTVUcIhRalDYFgPy",
-      "name": "Where Is My Mind? - 2007 Remaster",
-      "artists": [
-        "Pixies"
-      ],
-      "album": "Surfer Rosa (2007 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d00001e028aa545a0ea869940cce358b5",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
-      "duration_ms": 234973,
-      "played_at": "2026-06-26T15:04:07.436Z"
     }
   ],
-  "fetched_at": "2026-06-26T15:37:53.162Z"
+  "fetched_at": "2026-06-26T17:45:25.210Z"
 }
