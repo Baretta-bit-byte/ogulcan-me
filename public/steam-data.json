@@ -4,19 +4,11 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 3,
-    "gameid": "1158310",
-    "gameextrainfo": "Crusader Kings III"
+    "personastate": 0,
+    "gameid": null,
+    "gameextrainfo": null
   },
   "recentGames": [
-    {
-      "appid": 466560,
-      "name": "Northgard: Definitive Edition",
-      "playtime_2weeks": 897,
-      "playtime_forever": 4217,
-      "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
-    },
     {
       "appid": 381210,
       "name": "Dead by Daylight",
@@ -26,31 +18,31 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
     {
+      "appid": 466560,
+      "name": "Northgard: Definitive Edition",
+      "playtime_2weeks": 727,
+      "playtime_forever": 4217,
+      "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
+    },
+    {
       "appid": 1158310,
       "name": "Crusader Kings III",
-      "playtime_2weeks": 462,
-      "playtime_forever": 44448,
+      "playtime_2weeks": 639,
+      "playtime_forever": 44625,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     },
     {
       "appid": 224260,
       "name": "No More Room in Hell",
-      "playtime_2weeks": 172,
+      "playtime_2weeks": 160,
       "playtime_forever": 10603,
       "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224260/header.jpg"
-    },
-    {
-      "appid": 389570,
-      "name": "Mitos.is: The Game",
-      "playtime_2weeks": 1,
-      "playtime_forever": 2284,
-      "img_icon_url": "821e8021beb0b77f04ed8b236d4b3166642a8433",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389570/header.jpg"
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 623018,
-  "fetched_at": "2026-06-27T16:10:02.939Z"
+  "totalPlaytime": 623195,
+  "fetched_at": "2026-06-27T19:36:41.325Z"
 }
