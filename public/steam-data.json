@@ -4,23 +4,23 @@
     "personaname": "Centroid Vertexian",
     "avatarfull": "https://avatars.steamstatic.com/0610f73b3238df6cb2ca33ec9a7e14d1ff9eeb2d_full.jpg",
     "profileurl": "https://steamcommunity.com/id/centroidvertexian/",
-    "personastate": 0,
-    "gameid": null,
-    "gameextrainfo": null
+    "personastate": 1,
+    "gameid": "381210",
+    "gameextrainfo": "Dead by Daylight"
   },
   "recentGames": [
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 739,
-      "playtime_forever": 51413,
+      "playtime_2weeks": 834,
+      "playtime_forever": 51508,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
     {
       "appid": 466560,
       "name": "Northgard: Definitive Edition",
-      "playtime_2weeks": 727,
+      "playtime_2weeks": 713,
       "playtime_forever": 4217,
       "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
@@ -43,6 +43,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 623195,
-  "fetched_at": "2026-06-27T19:36:41.325Z"
+  "totalPlaytime": 623290,
+  "fetched_at": "2026-06-27T22:07:27.716Z"
 }
