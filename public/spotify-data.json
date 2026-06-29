@@ -177,127 +177,126 @@
   ],
   "recently_played": [
     {
-      "id": "7rmEKrH6C0rt9j0y2bsJiW",
-      "name": "On The Floor",
+      "id": "7d5Y18ScoxofFpA3hgq4JG",
+      "name": "Exister",
       "artists": [
-        "Jennifer Lopez",
-        "Pitbull"
+        "Barbara Pravi"
       ],
-      "album": "On The Floor",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ad59ae7e9917de3dafbf25f2",
-      "url": "https://open.spotify.com/track/7rmEKrH6C0rt9j0y2bsJiW",
-      "duration_ms": 267350,
-      "played_at": "2026-06-26T21:00:30.819Z"
+      "album": "Exister",
+      "image": "https://i.scdn.co/image/ab6742d3000053b79d462f70fbcb2811100b4fd2",
+      "url": "https://open.spotify.com/track/7d5Y18ScoxofFpA3hgq4JG",
+      "duration_ms": 200610,
+      "played_at": "2026-06-29T20:20:43.396Z"
     },
     {
-      "id": "0v3bE3WxQnMcYqV147WfSu",
-      "name": "Can't Get You out of My Head",
+      "id": "3cTQKBuij308DIVVfNG0MG",
+      "name": "L'armure",
       "artists": [
-        "Kylie Minogue"
+        "Barbara Pravi"
       ],
-      "album": "Can't Get You out of My Head",
-      "image": "https://i.scdn.co/image/ab6742d3000053b792a1a59d609b8b42d147ab28",
-      "url": "https://open.spotify.com/track/0v3bE3WxQnMcYqV147WfSu",
-      "duration_ms": 230250,
-      "played_at": "2026-06-26T20:57:36.114Z"
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/3cTQKBuij308DIVVfNG0MG",
+      "duration_ms": 196560,
+      "played_at": "2026-06-29T20:17:21.401Z"
     },
     {
-      "id": "1sJaGWr2bW0bofwFUJAmfL",
-      "name": "My Moon My Man",
+      "id": "5ZU9qKhpS1qyZULDgJ7hb8",
+      "name": "Les ruines",
       "artists": [
-        "Feist"
+        "Barbara Pravi"
       ],
-      "album": "My Moon My Man",
-      "image": "https://i.scdn.co/image/ab6742d3000053b737cd8549bf6401e74dff5632",
-      "url": "https://open.spotify.com/track/1sJaGWr2bW0bofwFUJAmfL",
-      "duration_ms": 219177,
-      "played_at": "2026-06-26T20:53:45.005Z"
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/5ZU9qKhpS1qyZULDgJ7hb8",
+      "duration_ms": 224053,
+      "played_at": "2026-06-29T20:14:04.298Z"
     },
     {
-      "id": "3idrvUQYONMAJ6EgZZqiL8",
-      "name": "hate that i made you love me",
+      "id": "6YGLmLYgKmAprJDyHXj7sH",
+      "name": "Fantasme moi",
       "artists": [
-        "Ariana Grande"
+        "Barbara Pravi"
       ],
-      "album": "hate that i made you love me",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e0353cfc435c3abdda59a25a",
-      "url": "https://open.spotify.com/track/3idrvUQYONMAJ6EgZZqiL8",
-      "duration_ms": 300091,
-      "played_at": "2026-06-26T20:50:04.798Z"
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/6YGLmLYgKmAprJDyHXj7sH",
+      "duration_ms": 198386,
+      "played_at": "2026-06-29T20:10:19.836Z"
     },
     {
-      "id": "2qw6rdcxJaj89OMTH0dANU",
-      "name": "Girl Like Me",
+      "id": "4WFdS0fI0MUtBvPAaeAqsq",
+      "name": "Vivante",
       "artists": [
-        "PinkPantheress"
+        "Barbara Pravi"
       ],
-      "album": "Girl Like Me",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7933e3a7aa393e91a8cead895",
-      "url": "https://open.spotify.com/track/2qw6rdcxJaj89OMTH0dANU",
-      "duration_ms": 156970,
-      "played_at": "2026-06-26T20:45:03.687Z"
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/4WFdS0fI0MUtBvPAaeAqsq",
+      "duration_ms": 188560,
+      "played_at": "2026-06-29T20:07:00.931Z"
     },
     {
-      "id": "4g9I4CSbPn5XREMrr0TNyF",
-      "name": "stupid song",
+      "id": "2SOSQqhTC48UjXNUELPZIt",
+      "name": "Maman",
       "artists": [
-        "Olivia Rodrigo"
+        "Barbara Pravi"
       ],
-      "album": "stupid song",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7635e6444bb9c711f42dfb388",
-      "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF",
-      "duration_ms": 216925,
-      "played_at": "2026-06-26T20:42:25.515Z"
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/2SOSQqhTC48UjXNUELPZIt",
+      "duration_ms": 196360,
+      "played_at": "2026-06-29T20:03:51.869Z"
     },
     {
-      "id": "40oYjPdjvFBCZH1Smsk46H",
-      "name": "Back Home",
+      "id": "2Efzv3bhKwgOuvJSEdBv8T",
+      "name": "Bravo",
       "artists": [
-        "Yeat",
-        "Joji"
+        "Barbara Pravi"
       ],
-      "album": "ADL",
-      "image": "https://i.scdn.co/image/ab67616d00001e0288fc1b9c89137e73c62d216f",
-      "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H",
-      "duration_ms": 193684,
-      "played_at": "2026-06-26T20:38:46.807Z"
+      "album": "Bravo",
+      "image": "https://i.scdn.co/image/ab6742d3000053b798340bc0f2a66e1e4921cd2d",
+      "url": "https://open.spotify.com/track/2Efzv3bhKwgOuvJSEdBv8T",
+      "duration_ms": 203450,
+      "played_at": "2026-06-29T20:00:35.023Z"
     },
     {
-      "id": "5Z4kLuTMKYkpO5zU6fFcwi",
-      "name": "Treat You Better",
+      "id": "1OfPbzL7YPxf4aiI5pkPwL",
+      "name": "Qui j'étais",
       "artists": [
-        "Shawn Mendes"
+        "Barbara Pravi"
       ],
-      "album": "Treat You Better",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7a3db85256eebf1244f8c2d87",
-      "url": "https://open.spotify.com/track/5Z4kLuTMKYkpO5zU6fFcwi",
-      "duration_ms": 257298,
-      "played_at": "2026-06-26T20:35:32.594Z"
+      "album": "Qui j'étais",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7cc29484c953206bc74c9f4c2",
+      "url": "https://open.spotify.com/track/1OfPbzL7YPxf4aiI5pkPwL",
+      "duration_ms": 167570,
+      "played_at": "2026-06-29T19:57:10.600Z"
     },
     {
-      "id": "0eAuGrXyGFYwur9ARUe7LJ",
-      "name": "Earrings",
+      "id": "26bFNT0RkAk1WQVXMNhnZf",
+      "name": "Je l'aime, je l'aime, je l'aime",
       "artists": [
-        "Malcolm Todd"
+        "Barbara Pravi"
       ],
-      "album": "Sweet Boy",
-      "image": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
-      "duration_ms": 151500,
-      "played_at": "2026-06-26T20:31:13.260Z"
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
+      "duration_ms": 201026,
+      "played_at": "2026-06-29T19:54:22.039Z"
     },
     {
-      "id": "33KU9huHP1Lv1UWWVkuTYd",
-      "name": "Impostor Syndrome",
+      "id": "1kEFFbgk2bRhR7GUan5lqP",
+      "name": "Lève-toi",
       "artists": [
-        "Sidney Gish"
+        "Barbara Pravi",
+        "EMEL"
       ],
-      "album": "No Dogs Allowed",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f7832bb86831bdec9848acda",
-      "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd",
-      "duration_ms": 294260,
-      "played_at": "2026-06-26T20:28:41.285Z"
+      "album": "Lève-toi",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7b176ae20fab5e1fec3f7c410",
+      "url": "https://open.spotify.com/track/1kEFFbgk2bRhR7GUan5lqP",
+      "duration_ms": 213650,
+      "played_at": "2026-06-29T19:51:00.649Z"
     }
   ],
-  "fetched_at": "2026-06-26T21:16:55.466Z"
+  "fetched_at": "2026-06-29T20:23:02.853Z"
 }
