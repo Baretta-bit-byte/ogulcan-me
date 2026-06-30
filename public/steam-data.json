@@ -12,8 +12,8 @@
     {
       "appid": 1158310,
       "name": "Crusader Kings III",
-      "playtime_2weeks": 1113,
-      "playtime_forever": 45099,
+      "playtime_2weeks": 1203,
+      "playtime_forever": 45189,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     },
@@ -28,7 +28,7 @@
     {
       "appid": 466560,
       "name": "Northgard: Definitive Edition",
-      "playtime_2weeks": 359,
+      "playtime_2weeks": 358,
       "playtime_forever": 4217,
       "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg"
@@ -43,6 +43,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 623834,
-  "fetched_at": "2026-06-30T17:08:28.086Z"
+  "totalPlaytime": 623924,
+  "fetched_at": "2026-06-30T20:05:25.692Z"
 }
