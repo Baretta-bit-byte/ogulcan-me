@@ -60,6 +60,25 @@
       "genres": []
     },
     {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "preview_url": null,
+      "duration_ms": 134746,
+      "genres": []
+    },
+    {
       "id": "51jVzNcOXpVOfzFv7jH8MA",
       "name": "Voilà",
       "artists": [
@@ -96,25 +115,6 @@
       "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
       "preview_url": null,
       "duration_ms": 207226,
-      "genres": []
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "preview_url": null,
-      "duration_ms": 134746,
       "genres": []
     },
     {
@@ -173,6 +173,126 @@
   ],
   "recently_played": [
     {
+      "id": "3ozeGGXwEZW5uVdFkYGyDr",
+      "name": "Devil`s Trills, Sonata in G Minor",
+      "artists": [
+        "Giuseppe Tartini",
+        "David Oistrakh",
+        "Frieda Bauer",
+        "Джузеппе Тартини"
+      ],
+      "album": "Tartini, Prokofiev & Janáček: Sonatas",
+      "image": "https://i.scdn.co/image/ab67616d00001e022aa9d1750b85315b26ffbe9c",
+      "url": "https://open.spotify.com/track/3ozeGGXwEZW5uVdFkYGyDr",
+      "duration_ms": 892266,
+      "played_at": "2026-07-01T21:56:29.403Z"
+    },
+    {
+      "id": "6xez71zpAqQ6N5i8E1jHlD",
+      "name": "Carmina Burana: O Fortuna",
+      "artists": [
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
+      ],
+      "album": "Orff: Carmina Burana",
+      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
+      "duration_ms": 144360,
+      "played_at": "2026-07-01T21:41:36.737Z"
+    },
+    {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "duration_ms": 134746,
+      "played_at": "2026-07-01T21:39:11.990Z"
+    },
+    {
+      "id": "2zXbLJiS5099aDVyTHIDU4",
+      "name": "Body",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "O My Heart",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bf77ec4fe60aa3163d91e767",
+      "url": "https://open.spotify.com/track/2zXbLJiS5099aDVyTHIDU4",
+      "duration_ms": 213573,
+      "played_at": "2026-07-01T21:36:40.799Z"
+    },
+    {
+      "id": "5ZpAU5f4jxj6i9XoKK0RaI",
+      "name": "Burning Pile",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "O My Heart",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bf77ec4fe60aa3163d91e767",
+      "url": "https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI",
+      "duration_ms": 262173,
+      "played_at": "2026-07-01T21:33:06.810Z"
+    },
+    {
+      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
+      "name": "Verbatim",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Touch Up",
+      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
+      "duration_ms": 168320,
+      "played_at": "2026-07-01T21:28:44.166Z"
+    },
+    {
+      "id": "2kKkl59fY6Cic1CmhvSEZK",
+      "name": "Hayloft",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "O My Heart",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bf77ec4fe60aa3163d91e767",
+      "url": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK",
+      "duration_ms": 181680,
+      "played_at": "2026-07-01T21:25:55.222Z"
+    },
+    {
+      "id": "0kYMwaQWABTkFff8AZjmYI",
+      "name": "Hayloft II",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Inside (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
+      "duration_ms": 215040,
+      "played_at": "2026-07-01T21:22:53.067Z"
+    },
+    {
+      "id": "2cVDAfs2im0s2AdOkC7XS2",
+      "name": "Deda",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2cVDAfs2im0s2AdOkC7XS2",
+      "duration_ms": 223546,
+      "played_at": "2026-07-01T20:41:19.271Z"
+    },
+    {
       "id": "2eLXzrFLwWC46pbrRkaXPJ",
       "name": "Saint-Raphaël",
       "artists": [
@@ -183,115 +303,7 @@
       "url": "https://open.spotify.com/track/2eLXzrFLwWC46pbrRkaXPJ",
       "duration_ms": 199666,
       "played_at": "2026-07-01T19:40:03.638Z"
-    },
-    {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "duration_ms": 207226,
-      "played_at": "2026-07-01T19:36:43.590Z"
-    },
-    {
-      "id": "3CyX6ZuwNkScfsPzHs63Wr",
-      "name": "Je sers",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/3CyX6ZuwNkScfsPzHs63Wr",
-      "duration_ms": 199173,
-      "played_at": "2026-07-01T19:33:15.918Z"
-    },
-    {
-      "id": "3YWXwvtQyhEyZdvQPh36wd",
-      "name": "Pas grandir",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/3YWXwvtQyhEyZdvQPh36wd",
-      "duration_ms": 200080,
-      "played_at": "2026-07-01T19:29:56.416Z"
-    },
-    {
-      "id": "1Ejfgj0B3WBVptuBJDFC2C",
-      "name": "Prière pour rester belle",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/1Ejfgj0B3WBVptuBJDFC2C",
-      "duration_ms": 284746,
-      "played_at": "2026-07-01T19:26:35.930Z"
-    },
-    {
-      "id": "529GLw2Luh4A1FzyjRnlkX",
-      "name": "La ritournelle",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/529GLw2Luh4A1FzyjRnlkX",
-      "duration_ms": 277746,
-      "played_at": "2026-07-01T19:21:50.783Z"
-    },
-    {
-      "id": "4SuKgTndafPEKfQJf84uen",
-      "name": "Mes maladroits",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/4SuKgTndafPEKfQJf84uen",
-      "duration_ms": 223040,
-      "played_at": "2026-07-01T19:17:12.669Z"
-    },
-    {
-      "id": "4NVqCzW4qu6ZsgycHM8aGM",
-      "name": "La femme",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/4NVqCzW4qu6ZsgycHM8aGM",
-      "duration_ms": 186146,
-      "played_at": "2026-07-01T19:13:29.267Z"
-    },
-    {
-      "id": "6S7JW84ZhklgpQjdlPIwuu",
-      "name": "La vague",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/6S7JW84ZhklgpQjdlPIwuu",
-      "duration_ms": 185960,
-      "played_at": "2026-07-01T19:10:22.776Z"
-    },
-    {
-      "id": "26bFNT0RkAk1WQVXMNhnZf",
-      "name": "Je l'aime, je l'aime, je l'aime",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
-      "duration_ms": 201026,
-      "played_at": "2026-07-01T19:07:16.506Z"
     }
   ],
-  "fetched_at": "2026-07-01T20:23:27.943Z"
+  "fetched_at": "2026-07-01T21:59:13.338Z"
 }
