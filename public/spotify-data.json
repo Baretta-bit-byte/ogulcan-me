@@ -92,6 +92,19 @@
       "genres": []
     },
     {
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "preview_url": null,
+      "duration_ms": 177426,
+      "genres": []
+    },
+    {
       "id": "2Efzv3bhKwgOuvJSEdBv8T",
       "name": "Bravo",
       "artists": [
@@ -155,19 +168,6 @@
       "url": "https://open.spotify.com/track/2pv1i7575BQdvCSfmqskVQ",
       "preview_url": null,
       "duration_ms": 222650,
-      "genres": []
-    },
-    {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "preview_url": null,
-      "duration_ms": 311866,
       "genres": []
     }
   ],
@@ -294,5 +294,5 @@
       "played_at": "2026-06-30T15:54:53.292Z"
     }
   ],
-  "fetched_at": "2026-07-01T13:18:14.883Z"
+  "fetched_at": "2026-07-01T16:04:19.316Z"
 }
