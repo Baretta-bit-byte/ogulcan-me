@@ -173,6 +173,18 @@
   ],
   "recently_played": [
     {
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "duration_ms": 177426,
+      "played_at": "2026-07-01T12:59:28.464Z"
+    },
+    {
       "id": "3kN2Z8e8QbBjnjc46h07Pu",
       "name": "cigarette smoke",
       "artists": [
@@ -280,19 +292,7 @@
       "url": "https://open.spotify.com/track/6ZIMMWWjupzMw7Qy4d52Vy",
       "duration_ms": 247687,
       "played_at": "2026-06-30T15:54:53.292Z"
-    },
-    {
-      "id": "6jfiwkcwt8iYCdkbLukxeI",
-      "name": "maggots for brains",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI",
-      "duration_ms": 240100,
-      "played_at": "2026-06-30T15:50:45.380Z"
     }
   ],
-  "fetched_at": "2026-06-30T18:21:28.526Z"
+  "fetched_at": "2026-07-01T13:18:14.883Z"
 }
