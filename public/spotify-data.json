@@ -173,126 +173,127 @@
   ],
   "recently_played": [
     {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
+      "id": "2SOSQqhTC48UjXNUELPZIt",
+      "name": "Maman",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/2SOSQqhTC48UjXNUELPZIt",
+      "duration_ms": 196360,
+      "played_at": "2026-07-01T18:21:21.194Z"
+    },
+    {
+      "id": "0UCPztxUqVbip5OTomgoRl",
+      "name": "Bravo",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/0UCPztxUqVbip5OTomgoRl",
+      "duration_ms": 193733,
+      "played_at": "2026-07-01T18:18:04.371Z"
+    },
+    {
+      "id": "5FMRfzp9GVLtTX9Pg1i5Gp",
+      "name": "Qui j'étais",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp",
+      "duration_ms": 168960,
+      "played_at": "2026-07-01T18:14:50.288Z"
+    },
+    {
+      "id": "26bFNT0RkAk1WQVXMNhnZf",
+      "name": "Je l'aime, je l'aime, je l'aime",
       "artists": [
         "Barbara Pravi"
       ],
       "album": "On n’enferme pas les oiseaux",
       "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "duration_ms": 177426,
-      "played_at": "2026-07-01T12:59:28.464Z"
+      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
+      "duration_ms": 201026,
+      "played_at": "2026-07-01T18:12:00.941Z"
     },
     {
-      "id": "3kN2Z8e8QbBjnjc46h07Pu",
-      "name": "cigarette smoke",
+      "id": "5YgSiBZIZIpARpzzISiWsb",
+      "name": "Lève-toi",
       "artists": [
-        "Olivia Rodrigo"
+        "Barbara Pravi",
+        "EMEL"
       ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/3kN2Z8e8QbBjnjc46h07Pu",
-      "duration_ms": 340942,
-      "played_at": "2026-06-30T17:23:24.222Z"
+      "album": "Lève-toi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c0e665eb498c5c6672b31407",
+      "url": "https://open.spotify.com/track/5YgSiBZIZIpARpzzISiWsb",
+      "duration_ms": 214296,
+      "played_at": "2026-07-01T18:08:39.496Z"
     },
     {
-      "id": "4bkClAuofJULiaIZsuL3gT",
-      "name": "expectations",
+      "id": "73jau1m4RjoVDzwxgj01Oj",
+      "name": "Prière aux rêves",
       "artists": [
-        "Olivia Rodrigo"
+        "Barbara Pravi"
       ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT",
-      "duration_ms": 221958,
-      "played_at": "2026-06-30T16:21:12.176Z"
+      "album": "Les prières",
+      "image": "https://i.scdn.co/image/ab67616d00001e0289bc25f4302920dcc61f6f77",
+      "url": "https://open.spotify.com/track/73jau1m4RjoVDzwxgj01Oj",
+      "duration_ms": 141653,
+      "played_at": "2026-07-01T18:05:04.863Z"
     },
     {
-      "id": "16xRAbH0vI3iKvDEhWQ4ZO",
-      "name": "less",
+      "id": "5aiqoNZ96QBe683WrYHsYd",
+      "name": "You Are The Reason - French Duet Version",
       "artists": [
-        "Olivia Rodrigo"
+        "Calum Scott",
+        "Barbara Pravi"
       ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO",
-      "duration_ms": 193848,
-      "played_at": "2026-06-30T16:17:30.508Z"
+      "album": "You Are The Reason (French Duet Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4756c636e88c0e7c0b41709",
+      "url": "https://open.spotify.com/track/5aiqoNZ96QBe683WrYHsYd",
+      "duration_ms": 189418,
+      "played_at": "2026-07-01T18:02:42.921Z"
     },
     {
-      "id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
-      "name": "what’s wrong with me",
+      "id": "42SA5yn5ImejMdGeIAEDmV",
+      "name": "l'homme et l'oiseau",
       "artists": [
-        "Olivia Rodrigo",
-        "Robert Smith"
+        "Barbara Pravi"
       ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
-      "duration_ms": 224906,
-      "played_at": "2026-06-30T16:14:15.706Z"
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
+      "duration_ms": 215440,
+      "played_at": "2026-07-01T17:59:33.102Z"
     },
     {
-      "id": "2duvkmcQAezPigFEGlERuA",
-      "name": "begged",
+      "id": "6RPIHSSgY4dNZSOgbqHAG1",
+      "name": "Le jour se lève",
       "artists": [
-        "Olivia Rodrigo"
+        "Barbara Pravi"
       ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA",
-      "duration_ms": 217869,
-      "played_at": "2026-06-30T16:10:30.426Z"
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
+      "duration_ms": 181493,
+      "played_at": "2026-07-01T17:55:57.271Z"
     },
     {
-      "id": "77JxSDvDcZVXNptwJOTX3m",
-      "name": "the cure",
+      "id": "0qqNRmKYAC9BQj1RQKUwUB",
+      "name": "CHAIR",
       "artists": [
-        "Olivia Rodrigo"
+        "Barbara Pravi"
       ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
-      "duration_ms": 297127,
-      "played_at": "2026-06-30T16:06:52.225Z"
-    },
-    {
-      "id": "5Ndn1irZG8l6xpcLMGeNvc",
-      "name": "purple",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc",
-      "duration_ms": 240115,
-      "played_at": "2026-06-30T16:01:54.811Z"
-    },
-    {
-      "id": "4ZaELPTGSaJo2lueR8fUpD",
-      "name": "my way",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/4ZaELPTGSaJo2lueR8fUpD",
-      "duration_ms": 180720,
-      "played_at": "2026-06-30T15:57:54.366Z"
-    },
-    {
-      "id": "6ZIMMWWjupzMw7Qy4d52Vy",
-      "name": "u + me = <3",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-      "url": "https://open.spotify.com/track/6ZIMMWWjupzMw7Qy4d52Vy",
-      "duration_ms": 247687,
-      "played_at": "2026-06-30T15:54:53.292Z"
+      "album": "CHAIR",
+      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
+      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
+      "duration_ms": 187097,
+      "played_at": "2026-07-01T17:52:55.449Z"
     }
   ],
-  "fetched_at": "2026-07-01T16:04:19.316Z"
+  "fetched_at": "2026-07-01T18:24:05.776Z"
 }
