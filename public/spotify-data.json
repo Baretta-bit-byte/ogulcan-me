@@ -34,19 +34,6 @@
       "genres": []
     },
     {
-      "id": "51jVzNcOXpVOfzFv7jH8MA",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Voilà",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
-      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
-      "preview_url": null,
-      "duration_ms": 179010,
-      "genres": []
-    },
-    {
       "id": "26bFNT0RkAk1WQVXMNhnZf",
       "name": "Je l'aime, je l'aime, je l'aime",
       "artists": [
@@ -70,6 +57,45 @@
       "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
       "preview_url": null,
       "duration_ms": 215440,
+      "genres": []
+    },
+    {
+      "id": "51jVzNcOXpVOfzFv7jH8MA",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Voilà",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
+      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
+      "preview_url": null,
+      "duration_ms": 179010,
+      "genres": []
+    },
+    {
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "preview_url": null,
+      "duration_ms": 177426,
+      "genres": []
+    },
+    {
+      "id": "2jybzMt9CTcpJs0ZfFgQyt",
+      "name": "Louis",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
+      "preview_url": null,
+      "duration_ms": 207226,
       "genres": []
     },
     {
@@ -92,58 +118,6 @@
       "genres": []
     },
     {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "preview_url": null,
-      "duration_ms": 177426,
-      "genres": []
-    },
-    {
-      "id": "2Efzv3bhKwgOuvJSEdBv8T",
-      "name": "Bravo",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Bravo",
-      "image": "https://i.scdn.co/image/ab6742d3000053b798340bc0f2a66e1e4921cd2d",
-      "url": "https://open.spotify.com/track/2Efzv3bhKwgOuvJSEdBv8T",
-      "preview_url": null,
-      "duration_ms": 203450,
-      "genres": []
-    },
-    {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "preview_url": null,
-      "duration_ms": 207226,
-      "genres": []
-    },
-    {
-      "id": "47gVjSxJvy0EeiqVVgAOiT",
-      "name": "Le jour se lève",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Le jour se lève",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7d4e33a879232cdeda897662d",
-      "url": "https://open.spotify.com/track/47gVjSxJvy0EeiqVVgAOiT",
-      "preview_url": null,
-      "duration_ms": 182924,
-      "genres": []
-    },
-    {
       "id": "7IbtDJENQJwWUZYhzTK4az",
       "name": "You Are The Reason - French Duet Version",
       "artists": [
@@ -158,55 +132,153 @@
       "genres": []
     },
     {
-      "id": "2pv1i7575BQdvCSfmqskVQ",
-      "name": "Saute",
+      "id": "0qqNRmKYAC9BQj1RQKUwUB",
+      "name": "CHAIR",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "Saute",
-      "image": "https://i.scdn.co/image/ab6742d3000053b775edf518059c27d8332999a8",
-      "url": "https://open.spotify.com/track/2pv1i7575BQdvCSfmqskVQ",
+      "album": "CHAIR",
+      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
+      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
       "preview_url": null,
-      "duration_ms": 222650,
+      "duration_ms": 187097,
+      "genres": []
+    },
+    {
+      "id": "1ZECryQfwWfn9fazdggYNy",
+      "name": "Interlude",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/1ZECryQfwWfn9fazdggYNy",
+      "preview_url": null,
+      "duration_ms": 86680,
+      "genres": []
+    },
+    {
+      "id": "2Efzv3bhKwgOuvJSEdBv8T",
+      "name": "Bravo",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Bravo",
+      "image": "https://i.scdn.co/image/ab6742d3000053b798340bc0f2a66e1e4921cd2d",
+      "url": "https://open.spotify.com/track/2Efzv3bhKwgOuvJSEdBv8T",
+      "preview_url": null,
+      "duration_ms": 203450,
       "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "2SOSQqhTC48UjXNUELPZIt",
-      "name": "Maman",
+      "id": "2eLXzrFLwWC46pbrRkaXPJ",
+      "name": "Saint-Raphaël",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "La Pieva",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
-      "url": "https://open.spotify.com/track/2SOSQqhTC48UjXNUELPZIt",
-      "duration_ms": 196360,
-      "played_at": "2026-07-01T18:21:21.194Z"
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2eLXzrFLwWC46pbrRkaXPJ",
+      "duration_ms": 199666,
+      "played_at": "2026-07-01T19:40:03.638Z"
     },
     {
-      "id": "0UCPztxUqVbip5OTomgoRl",
-      "name": "Bravo",
+      "id": "2jybzMt9CTcpJs0ZfFgQyt",
+      "name": "Louis",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "La Pieva",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
-      "url": "https://open.spotify.com/track/0UCPztxUqVbip5OTomgoRl",
-      "duration_ms": 193733,
-      "played_at": "2026-07-01T18:18:04.371Z"
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
+      "duration_ms": 207226,
+      "played_at": "2026-07-01T19:36:43.590Z"
     },
     {
-      "id": "5FMRfzp9GVLtTX9Pg1i5Gp",
-      "name": "Qui j'étais",
+      "id": "3CyX6ZuwNkScfsPzHs63Wr",
+      "name": "Je sers",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "La Pieva",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
-      "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp",
-      "duration_ms": 168960,
-      "played_at": "2026-07-01T18:14:50.288Z"
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/3CyX6ZuwNkScfsPzHs63Wr",
+      "duration_ms": 199173,
+      "played_at": "2026-07-01T19:33:15.918Z"
+    },
+    {
+      "id": "3YWXwvtQyhEyZdvQPh36wd",
+      "name": "Pas grandir",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/3YWXwvtQyhEyZdvQPh36wd",
+      "duration_ms": 200080,
+      "played_at": "2026-07-01T19:29:56.416Z"
+    },
+    {
+      "id": "1Ejfgj0B3WBVptuBJDFC2C",
+      "name": "Prière pour rester belle",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/1Ejfgj0B3WBVptuBJDFC2C",
+      "duration_ms": 284746,
+      "played_at": "2026-07-01T19:26:35.930Z"
+    },
+    {
+      "id": "529GLw2Luh4A1FzyjRnlkX",
+      "name": "La ritournelle",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/529GLw2Luh4A1FzyjRnlkX",
+      "duration_ms": 277746,
+      "played_at": "2026-07-01T19:21:50.783Z"
+    },
+    {
+      "id": "4SuKgTndafPEKfQJf84uen",
+      "name": "Mes maladroits",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/4SuKgTndafPEKfQJf84uen",
+      "duration_ms": 223040,
+      "played_at": "2026-07-01T19:17:12.669Z"
+    },
+    {
+      "id": "4NVqCzW4qu6ZsgycHM8aGM",
+      "name": "La femme",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/4NVqCzW4qu6ZsgycHM8aGM",
+      "duration_ms": 186146,
+      "played_at": "2026-07-01T19:13:29.267Z"
+    },
+    {
+      "id": "6S7JW84ZhklgpQjdlPIwuu",
+      "name": "La vague",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/6S7JW84ZhklgpQjdlPIwuu",
+      "duration_ms": 185960,
+      "played_at": "2026-07-01T19:10:22.776Z"
     },
     {
       "id": "26bFNT0RkAk1WQVXMNhnZf",
@@ -218,82 +290,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
       "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
       "duration_ms": 201026,
-      "played_at": "2026-07-01T18:12:00.941Z"
-    },
-    {
-      "id": "5YgSiBZIZIpARpzzISiWsb",
-      "name": "Lève-toi",
-      "artists": [
-        "Barbara Pravi",
-        "EMEL"
-      ],
-      "album": "Lève-toi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c0e665eb498c5c6672b31407",
-      "url": "https://open.spotify.com/track/5YgSiBZIZIpARpzzISiWsb",
-      "duration_ms": 214296,
-      "played_at": "2026-07-01T18:08:39.496Z"
-    },
-    {
-      "id": "73jau1m4RjoVDzwxgj01Oj",
-      "name": "Prière aux rêves",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Les prières",
-      "image": "https://i.scdn.co/image/ab67616d00001e0289bc25f4302920dcc61f6f77",
-      "url": "https://open.spotify.com/track/73jau1m4RjoVDzwxgj01Oj",
-      "duration_ms": 141653,
-      "played_at": "2026-07-01T18:05:04.863Z"
-    },
-    {
-      "id": "5aiqoNZ96QBe683WrYHsYd",
-      "name": "You Are The Reason - French Duet Version",
-      "artists": [
-        "Calum Scott",
-        "Barbara Pravi"
-      ],
-      "album": "You Are The Reason (French Duet Version)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4756c636e88c0e7c0b41709",
-      "url": "https://open.spotify.com/track/5aiqoNZ96QBe683WrYHsYd",
-      "duration_ms": 189418,
-      "played_at": "2026-07-01T18:02:42.921Z"
-    },
-    {
-      "id": "42SA5yn5ImejMdGeIAEDmV",
-      "name": "l'homme et l'oiseau",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
-      "duration_ms": 215440,
-      "played_at": "2026-07-01T17:59:33.102Z"
-    },
-    {
-      "id": "6RPIHSSgY4dNZSOgbqHAG1",
-      "name": "Le jour se lève",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
-      "duration_ms": 181493,
-      "played_at": "2026-07-01T17:55:57.271Z"
-    },
-    {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
-      "duration_ms": 187097,
-      "played_at": "2026-07-01T17:52:55.449Z"
+      "played_at": "2026-07-01T19:07:16.506Z"
     }
   ],
-  "fetched_at": "2026-07-01T18:24:05.776Z"
+  "fetched_at": "2026-07-01T20:23:27.943Z"
 }
