@@ -105,19 +105,6 @@
       "genres": []
     },
     {
-      "id": "51jVzNcOXpVOfzFv7jH8MA",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Voilà",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
-      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
-      "preview_url": null,
-      "duration_ms": 179010,
-      "genres": []
-    },
-    {
       "id": "0qqNRmKYAC9BQj1RQKUwUB",
       "name": "CHAIR",
       "artists": [
@@ -131,19 +118,6 @@
       "genres": []
     },
     {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "preview_url": null,
-      "duration_ms": 215040,
-      "genres": []
-    },
-    {
       "id": "6RPIHSSgY4dNZSOgbqHAG1",
       "name": "Le jour se lève",
       "artists": [
@@ -154,6 +128,19 @@
       "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
       "preview_url": null,
       "duration_ms": 181493,
+      "genres": []
+    },
+    {
+      "id": "51jVzNcOXpVOfzFv7jH8MA",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Voilà",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
+      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
+      "preview_url": null,
+      "duration_ms": 179010,
       "genres": []
     },
     {
@@ -169,131 +156,145 @@
       "preview_url": null,
       "duration_ms": 189418,
       "genres": []
+    },
+    {
+      "id": "0kYMwaQWABTkFff8AZjmYI",
+      "name": "Hayloft II",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Inside (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
+      "preview_url": null,
+      "duration_ms": 215040,
+      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "5FMRfzp9GVLtTX9Pg1i5Gp",
-      "name": "Qui j'étais",
+      "id": "1uXGjH7Fga2o5Ni5mT06EY",
+      "name": "The Only Thing",
       "artists": [
-        "Barbara Pravi"
+        "No More Lullabies"
       ],
-      "album": "La Pieva",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
-      "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp",
-      "duration_ms": 168960,
-      "played_at": "2026-07-03T20:09:44.622Z"
+      "album": "The Only Thing",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fa2fc39d054d6d22008aea90",
+      "url": "https://open.spotify.com/track/1uXGjH7Fga2o5Ni5mT06EY",
+      "duration_ms": 192000,
+      "played_at": "2026-07-03T21:02:39.385Z"
     },
     {
-      "id": "26bFNT0RkAk1WQVXMNhnZf",
-      "name": "Je l'aime, je l'aime, je l'aime",
+      "id": "0U0ldCRmgCqhVvD6ksG63j",
+      "name": "Nightcall",
       "artists": [
-        "Barbara Pravi"
+        "Kavinsky"
       ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
-      "duration_ms": 201026,
-      "played_at": "2026-07-03T20:06:55.284Z"
+      "album": "Nightcall",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
+      "duration_ms": 258413,
+      "played_at": "2026-07-03T21:02:38.220Z"
     },
     {
-      "id": "5YgSiBZIZIpARpzzISiWsb",
-      "name": "Lève-toi",
+      "id": "53wflg8tyNORMUzqJgUGAh",
+      "name": "Answer Phone",
+      "artists": [
+        "Tom Odell"
+      ],
+      "album": "Black Friday",
+      "image": "https://i.scdn.co/image/ab67616d00001e021b0de2abcdc89c8dc76c917e",
+      "url": "https://open.spotify.com/track/53wflg8tyNORMUzqJgUGAh",
+      "duration_ms": 160019,
+      "played_at": "2026-07-03T20:58:19.421Z"
+    },
+    {
+      "id": "2xxbKWwjfxNMRCbuXAQ6XP",
+      "name": "Waltz of the Bone King",
+      "artists": [
+        "Peter Gundry"
+      ],
+      "album": "Waltz of the Bone King",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f62ec89a4ee8bfeb2719b5fe",
+      "url": "https://open.spotify.com/track/2xxbKWwjfxNMRCbuXAQ6XP",
+      "duration_ms": 201576,
+      "played_at": "2026-07-03T20:54:06.868Z"
+    },
+    {
+      "id": "72St1by54otvwjNgShyYWa",
+      "name": "Marianne",
       "artists": [
         "Barbara Pravi",
-        "EMEL"
+        "Golshifteh Farahani"
       ],
-      "album": "Lève-toi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c0e665eb498c5c6672b31407",
-      "url": "https://open.spotify.com/track/5YgSiBZIZIpARpzzISiWsb",
-      "duration_ms": 214296,
-      "played_at": "2026-07-03T20:03:33.939Z"
+      "album": "Marianne",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7380d6b1ab804f173b93e396b",
+      "url": "https://open.spotify.com/track/72St1by54otvwjNgShyYWa",
+      "duration_ms": 220290,
+      "played_at": "2026-07-03T20:50:44.878Z"
     },
     {
-      "id": "73jau1m4RjoVDzwxgj01Oj",
-      "name": "Prière aux rêves",
+      "id": "7kAA7NbINuaJ6TM89lwaLz",
+      "name": "Marianne",
       "artists": [
-        "Barbara Pravi"
+        "Barbara Pravi",
+        "Golshifteh Farahani"
       ],
-      "album": "Les prières",
-      "image": "https://i.scdn.co/image/ab67616d00001e0289bc25f4302920dcc61f6f77",
-      "url": "https://open.spotify.com/track/73jau1m4RjoVDzwxgj01Oj",
-      "duration_ms": 141653,
-      "played_at": "2026-07-03T19:59:59.326Z"
+      "album": "Marianne",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e0fcb6aedad445c8e9aa17ab",
+      "url": "https://open.spotify.com/track/7kAA7NbINuaJ6TM89lwaLz",
+      "duration_ms": 221006,
+      "played_at": "2026-07-03T20:47:04.983Z"
     },
     {
-      "id": "5aiqoNZ96QBe683WrYHsYd",
-      "name": "You Are The Reason - French Duet Version",
+      "id": "2ygwfzyVJG2NPgAYg3Hl3G",
+      "name": "Pictures of You",
       "artists": [
-        "Calum Scott",
-        "Barbara Pravi"
+        "Buffalo Traffic Jam"
       ],
-      "album": "You Are The Reason (French Duet Version)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4756c636e88c0e7c0b41709",
-      "url": "https://open.spotify.com/track/5aiqoNZ96QBe683WrYHsYd",
-      "duration_ms": 189418,
-      "played_at": "2026-07-03T19:57:37.357Z"
+      "album": "Pictures of You",
+      "image": "https://i.scdn.co/image/ab67616d00001e0211535c65d36189e50176dfac",
+      "url": "https://open.spotify.com/track/2ygwfzyVJG2NPgAYg3Hl3G",
+      "duration_ms": 214165,
+      "played_at": "2026-07-03T20:38:58.428Z"
     },
     {
-      "id": "42SA5yn5ImejMdGeIAEDmV",
-      "name": "l'homme et l'oiseau",
+      "id": "3vEznOTV6qVU4GO7kmB1GK",
+      "name": "Armor",
       "artists": [
-        "Barbara Pravi"
+        "Medium Build"
       ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
-      "duration_ms": 215440,
-      "played_at": "2026-07-03T19:54:27.576Z"
+      "album": "Armor",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c7c3815c895001834545b205",
+      "url": "https://open.spotify.com/track/3vEznOTV6qVU4GO7kmB1GK",
+      "duration_ms": 198433,
+      "played_at": "2026-07-03T20:33:26.852Z"
     },
     {
-      "id": "6RPIHSSgY4dNZSOgbqHAG1",
-      "name": "Le jour se lève",
+      "id": "3GlMFqzWLkpeBpKbcPZgcH",
+      "name": "Sun Has Set",
       "artists": [
-        "Barbara Pravi"
+        "beabadoobee"
       ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
-      "duration_ms": 181493,
-      "played_at": "2026-07-03T19:50:51.765Z"
+      "album": "Sun Has Set",
+      "image": "https://i.scdn.co/image/ab6742d3000053b785775b342231a14a347ad47c",
+      "url": "https://open.spotify.com/track/3GlMFqzWLkpeBpKbcPZgcH",
+      "duration_ms": 156446,
+      "played_at": "2026-07-03T20:30:07.791Z"
     },
     {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
+      "id": "0OcCTvv3tpZBSZxP889Ijs",
+      "name": "Hush",
       "artists": [
-        "Barbara Pravi"
+        "Muse",
+        "Ellie Goulding"
       ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
-      "duration_ms": 187097,
-      "played_at": "2026-07-03T19:47:49.832Z"
-    },
-    {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "duration_ms": 207226,
-      "played_at": "2026-07-03T19:44:42.314Z"
-    },
-    {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "duration_ms": 177426,
-      "played_at": "2026-07-03T19:41:14.548Z"
+      "album": "The Wow! Signal",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b295bd39e098e7b68d57aacf",
+      "url": "https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs",
+      "duration_ms": 235743,
+      "played_at": "2026-07-03T20:27:29.868Z"
     }
   ],
-  "fetched_at": "2026-07-03T20:12:48.178Z"
+  "fetched_at": "2026-07-03T21:39:38.402Z"
 }
