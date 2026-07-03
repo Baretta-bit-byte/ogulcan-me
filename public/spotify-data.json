@@ -34,6 +34,19 @@
       "genres": []
     },
     {
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "preview_url": null,
+      "duration_ms": 177426,
+      "genres": []
+    },
+    {
       "id": "26bFNT0RkAk1WQVXMNhnZf",
       "name": "Je l'aime, je l'aime, je l'aime",
       "artists": [
@@ -44,6 +57,19 @@
       "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
       "preview_url": null,
       "duration_ms": 201026,
+      "genres": []
+    },
+    {
+      "id": "2jybzMt9CTcpJs0ZfFgQyt",
+      "name": "Louis",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
+      "preview_url": null,
+      "duration_ms": 207226,
       "genres": []
     },
     {
@@ -79,19 +105,6 @@
       "genres": []
     },
     {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "preview_url": null,
-      "duration_ms": 207226,
-      "genres": []
-    },
-    {
       "id": "51jVzNcOXpVOfzFv7jH8MA",
       "name": "Voilà",
       "artists": [
@@ -105,16 +118,16 @@
       "genres": []
     },
     {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
+      "id": "0qqNRmKYAC9BQj1RQKUwUB",
+      "name": "CHAIR",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "album": "CHAIR",
+      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
+      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
       "preview_url": null,
-      "duration_ms": 177426,
+      "duration_ms": 187097,
       "genres": []
     },
     {
@@ -128,19 +141,6 @@
       "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
       "preview_url": null,
       "duration_ms": 215040,
-      "genres": []
-    },
-    {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
-      "preview_url": null,
-      "duration_ms": 187097,
       "genres": []
     },
     {
@@ -173,65 +173,78 @@
   ],
   "recently_played": [
     {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
+      "id": "5FMRfzp9GVLtTX9Pg1i5Gp",
+      "name": "Qui j'étais",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
-      "duration_ms": 187097,
-      "played_at": "2026-07-03T18:27:49.689Z"
+      "album": "La Pieva",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f4a5944ff0b3d6ee4529181e",
+      "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp",
+      "duration_ms": 168960,
+      "played_at": "2026-07-03T20:09:44.622Z"
     },
     {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "duration_ms": 207226,
-      "played_at": "2026-07-03T18:24:42.114Z"
-    },
-    {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
+      "id": "26bFNT0RkAk1WQVXMNhnZf",
+      "name": "Je l'aime, je l'aime, je l'aime",
       "artists": [
         "Barbara Pravi"
       ],
       "album": "On n’enferme pas les oiseaux",
       "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "duration_ms": 177426,
-      "played_at": "2026-07-03T18:21:14.423Z"
+      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
+      "duration_ms": 201026,
+      "played_at": "2026-07-03T20:06:55.284Z"
     },
     {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
+      "id": "5YgSiBZIZIpARpzzISiWsb",
+      "name": "Lève-toi",
       "artists": [
-        "Mother Mother"
+        "Barbara Pravi",
+        "EMEL"
       ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "duration_ms": 215040,
-      "played_at": "2026-07-03T15:48:01.520Z"
+      "album": "Lève-toi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c0e665eb498c5c6672b31407",
+      "url": "https://open.spotify.com/track/5YgSiBZIZIpARpzzISiWsb",
+      "duration_ms": 214296,
+      "played_at": "2026-07-03T20:03:33.939Z"
     },
     {
-      "id": "2cNjgoSh1TBHFQIhfzRJUE",
-      "name": "Go",
+      "id": "73jau1m4RjoVDzwxgj01Oj",
+      "name": "Prière aux rêves",
       "artists": [
-        "The Chemical Brothers",
-        "Q-Tip"
+        "Barbara Pravi"
       ],
-      "album": "Born In The Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
-      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
-      "duration_ms": 260696,
-      "played_at": "2026-07-03T12:55:15.946Z"
+      "album": "Les prières",
+      "image": "https://i.scdn.co/image/ab67616d00001e0289bc25f4302920dcc61f6f77",
+      "url": "https://open.spotify.com/track/73jau1m4RjoVDzwxgj01Oj",
+      "duration_ms": 141653,
+      "played_at": "2026-07-03T19:59:59.326Z"
+    },
+    {
+      "id": "5aiqoNZ96QBe683WrYHsYd",
+      "name": "You Are The Reason - French Duet Version",
+      "artists": [
+        "Calum Scott",
+        "Barbara Pravi"
+      ],
+      "album": "You Are The Reason (French Duet Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4756c636e88c0e7c0b41709",
+      "url": "https://open.spotify.com/track/5aiqoNZ96QBe683WrYHsYd",
+      "duration_ms": 189418,
+      "played_at": "2026-07-03T19:57:37.357Z"
+    },
+    {
+      "id": "42SA5yn5ImejMdGeIAEDmV",
+      "name": "l'homme et l'oiseau",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
+      "duration_ms": 215440,
+      "played_at": "2026-07-03T19:54:27.576Z"
     },
     {
       "id": "6RPIHSSgY4dNZSOgbqHAG1",
@@ -243,19 +256,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
       "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
       "duration_ms": 181493,
-      "played_at": "2026-07-03T12:27:46.447Z"
-    },
-    {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "duration_ms": 215040,
-      "played_at": "2026-07-03T12:25:18.883Z"
+      "played_at": "2026-07-03T19:50:51.765Z"
     },
     {
       "id": "0qqNRmKYAC9BQj1RQKUwUB",
@@ -267,7 +268,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
       "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
       "duration_ms": 187097,
-      "played_at": "2026-07-03T11:27:17.094Z"
+      "played_at": "2026-07-03T19:47:49.832Z"
     },
     {
       "id": "2jybzMt9CTcpJs0ZfFgQyt",
@@ -279,7 +280,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
       "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
       "duration_ms": 207226,
-      "played_at": "2026-07-03T11:24:09.632Z"
+      "played_at": "2026-07-03T19:44:42.314Z"
     },
     {
       "id": "0UVlOQ3EEiTVOctUOnJ00w",
@@ -291,8 +292,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
       "duration_ms": 177426,
-      "played_at": "2026-07-03T11:20:41.941Z"
+      "played_at": "2026-07-03T19:41:14.548Z"
     }
   ],
-  "fetched_at": "2026-07-03T18:45:58.420Z"
+  "fetched_at": "2026-07-03T20:12:48.178Z"
 }
