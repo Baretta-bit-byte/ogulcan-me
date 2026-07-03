@@ -79,6 +79,19 @@
       "genres": []
     },
     {
+      "id": "2jybzMt9CTcpJs0ZfFgQyt",
+      "name": "Louis",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
+      "preview_url": null,
+      "duration_ms": 207226,
+      "genres": []
+    },
+    {
       "id": "51jVzNcOXpVOfzFv7jH8MA",
       "name": "Voilà",
       "artists": [
@@ -105,16 +118,29 @@
       "genres": []
     },
     {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
+      "id": "0qqNRmKYAC9BQj1RQKUwUB",
+      "name": "CHAIR",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
+      "album": "CHAIR",
+      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
+      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
       "preview_url": null,
-      "duration_ms": 207226,
+      "duration_ms": 187097,
+      "genres": []
+    },
+    {
+      "id": "6RPIHSSgY4dNZSOgbqHAG1",
+      "name": "Le jour se lève",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
+      "preview_url": null,
+      "duration_ms": 181493,
       "genres": []
     },
     {
@@ -132,46 +158,57 @@
       "genres": []
     },
     {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
+      "id": "0kYMwaQWABTkFff8AZjmYI",
+      "name": "Hayloft II",
       "artists": [
-        "Barbara Pravi"
+        "Mother Mother"
       ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
+      "album": "Inside (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
       "preview_url": null,
-      "duration_ms": 187097,
+      "duration_ms": 215040,
       "genres": []
+    }
+  ],
+  "recently_played": [
+    {
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
+      "artists": [
+        "The Chemical Brothers",
+        "Q-Tip"
+      ],
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
+      "played_at": "2026-07-03T12:55:15.946Z"
     },
     {
-      "id": "1ZECryQfwWfn9fazdggYNy",
-      "name": "Interlude",
+      "id": "6RPIHSSgY4dNZSOgbqHAG1",
+      "name": "Le jour se lève",
       "artists": [
         "Barbara Pravi"
       ],
       "album": "On n’enferme pas les oiseaux",
       "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/1ZECryQfwWfn9fazdggYNy",
-      "preview_url": null,
-      "duration_ms": 86680,
-      "genres": []
+      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
+      "duration_ms": 181493,
+      "played_at": "2026-07-03T12:27:46.447Z"
     },
     {
-      "id": "2Efzv3bhKwgOuvJSEdBv8T",
-      "name": "Bravo",
+      "id": "0kYMwaQWABTkFff8AZjmYI",
+      "name": "Hayloft II",
       "artists": [
-        "Barbara Pravi"
+        "Mother Mother"
       ],
-      "album": "Bravo",
-      "image": "https://i.scdn.co/image/ab6742d3000053b798340bc0f2a66e1e4921cd2d",
-      "url": "https://open.spotify.com/track/2Efzv3bhKwgOuvJSEdBv8T",
-      "preview_url": null,
-      "duration_ms": 203450,
-      "genres": []
-    }
-  ],
-  "recently_played": [
+      "album": "Inside (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
+      "duration_ms": 215040,
+      "played_at": "2026-07-03T12:25:18.883Z"
+    },
     {
       "id": "0qqNRmKYAC9BQj1RQKUwUB",
       "name": "CHAIR",
@@ -262,49 +299,7 @@
       "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
       "duration_ms": 144360,
       "played_at": "2026-07-01T21:41:36.737Z"
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-07-01T21:39:11.990Z"
-    },
-    {
-      "id": "2zXbLJiS5099aDVyTHIDU4",
-      "name": "Body",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "O My Heart",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bf77ec4fe60aa3163d91e767",
-      "url": "https://open.spotify.com/track/2zXbLJiS5099aDVyTHIDU4",
-      "duration_ms": 213573,
-      "played_at": "2026-07-01T21:36:40.799Z"
-    },
-    {
-      "id": "5ZpAU5f4jxj6i9XoKK0RaI",
-      "name": "Burning Pile",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "O My Heart",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bf77ec4fe60aa3163d91e767",
-      "url": "https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI",
-      "duration_ms": 262173,
-      "played_at": "2026-07-01T21:33:06.810Z"
     }
   ],
-  "fetched_at": "2026-07-03T11:30:28.278Z"
+  "fetched_at": "2026-07-03T13:59:21.822Z"
 }
