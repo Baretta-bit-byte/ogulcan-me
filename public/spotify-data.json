@@ -173,6 +173,42 @@
   ],
   "recently_played": [
     {
+      "id": "0qqNRmKYAC9BQj1RQKUwUB",
+      "name": "CHAIR",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "CHAIR",
+      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
+      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
+      "duration_ms": 187097,
+      "played_at": "2026-07-03T11:27:17.094Z"
+    },
+    {
+      "id": "2jybzMt9CTcpJs0ZfFgQyt",
+      "name": "Louis",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
+      "duration_ms": 207226,
+      "played_at": "2026-07-03T11:24:09.632Z"
+    },
+    {
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "duration_ms": 177426,
+      "played_at": "2026-07-03T11:20:41.941Z"
+    },
+    {
       "id": "20gd8x3Qo2sdnZsjhVXeF5",
       "name": "Philharmonia Orchestra perform Mozart's Lacrymosa dies Illa from Requiem - Remastered 2025",
       "artists": [
@@ -268,43 +304,7 @@
       "url": "https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI",
       "duration_ms": 262173,
       "played_at": "2026-07-01T21:33:06.810Z"
-    },
-    {
-      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
-      "name": "Verbatim",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Touch Up",
-      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
-      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
-      "duration_ms": 168320,
-      "played_at": "2026-07-01T21:28:44.166Z"
-    },
-    {
-      "id": "2kKkl59fY6Cic1CmhvSEZK",
-      "name": "Hayloft",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "O My Heart",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bf77ec4fe60aa3163d91e767",
-      "url": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK",
-      "duration_ms": 181680,
-      "played_at": "2026-07-01T21:25:55.222Z"
-    },
-    {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "duration_ms": 215040,
-      "played_at": "2026-07-01T21:22:53.067Z"
     }
   ],
-  "fetched_at": "2026-07-01T23:23:14.629Z"
+  "fetched_at": "2026-07-03T11:30:28.278Z"
 }
