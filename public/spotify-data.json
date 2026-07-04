@@ -47,19 +47,6 @@
       "genres": []
     },
     {
-      "id": "26bFNT0RkAk1WQVXMNhnZf",
-      "name": "Je l'aime, je l'aime, je l'aime",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
-      "preview_url": null,
-      "duration_ms": 201026,
-      "genres": []
-    },
-    {
       "id": "2jybzMt9CTcpJs0ZfFgQyt",
       "name": "Louis",
       "artists": [
@@ -70,19 +57,6 @@
       "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
       "preview_url": null,
       "duration_ms": 207226,
-      "genres": []
-    },
-    {
-      "id": "42SA5yn5ImejMdGeIAEDmV",
-      "name": "l'homme et l'oiseau",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
-      "preview_url": null,
-      "duration_ms": 215440,
       "genres": []
     },
     {
@@ -102,6 +76,32 @@
       "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
       "preview_url": null,
       "duration_ms": 134746,
+      "genres": []
+    },
+    {
+      "id": "26bFNT0RkAk1WQVXMNhnZf",
+      "name": "Je l'aime, je l'aime, je l'aime",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
+      "preview_url": null,
+      "duration_ms": 201026,
+      "genres": []
+    },
+    {
+      "id": "42SA5yn5ImejMdGeIAEDmV",
+      "name": "l'homme et l'oiseau",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
+      "preview_url": null,
+      "duration_ms": 215440,
       "genres": []
     },
     {
@@ -173,136 +173,136 @@
   ],
   "recently_played": [
     {
-      "id": "0qCW7ZKFznGcQRoHLBsBWf",
-      "name": "Beautiful Is Boring",
+      "id": "62oylXM8wSMlaaPRRxoctY",
+      "name": "My Salsa",
       "artists": [
-        "BONES UK"
+        "D12"
       ],
-      "album": "Bones UK",
-      "image": "https://i.scdn.co/image/ab67616d00001e0247f239d845b0ae01652f5d29",
-      "url": "https://open.spotify.com/track/0qCW7ZKFznGcQRoHLBsBWf",
-      "duration_ms": 231000,
-      "played_at": "2026-07-04T16:50:36.940Z"
+      "album": "D12 Forever (Vol. 1)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02243cf0f7da3b1fe8d40d4280",
+      "url": "https://open.spotify.com/track/62oylXM8wSMlaaPRRxoctY",
+      "duration_ms": 170000,
+      "played_at": "2026-07-04T17:55:31.788Z"
     },
     {
-      "id": "3rVaOQfc8d1moQ47S5tHMw",
-      "name": "Go",
+      "id": "2DT5tTK1CIDy2xcKPqSrDi",
+      "name": "edamame",
       "artists": [
-        "The Chemical Brothers",
-        "Q-Tip"
+        "bbno$",
+        "Rich Brian"
       ],
-      "album": "Go",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7e70a518e0f5efde17e2f7e52",
-      "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
-      "duration_ms": 220640,
-      "played_at": "2026-07-04T16:48:00.896Z"
+      "album": "edamame",
+      "image": "https://i.scdn.co/image/ab6742d3000053b77af66091e4f8ed6b1e93c9fb",
+      "url": "https://open.spotify.com/track/2DT5tTK1CIDy2xcKPqSrDi",
+      "duration_ms": 141034,
+      "played_at": "2026-07-04T17:52:41.107Z"
     },
     {
-      "id": "2cNjgoSh1TBHFQIhfzRJUE",
-      "name": "Go",
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
       "artists": [
-        "The Chemical Brothers",
-        "Q-Tip"
+        "Fort Minor",
+        "Styles Of Beyond"
       ],
-      "album": "Born In The Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
-      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
-      "duration_ms": 260696,
-      "played_at": "2026-07-04T16:44:18.784Z"
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "duration_ms": 230493,
+      "played_at": "2026-07-04T17:50:18.375Z"
     },
     {
-      "id": "6xez71zpAqQ6N5i8E1jHlD",
-      "name": "Carmina Burana: O Fortuna",
+      "id": "4v7DCN09hgXkKazefkznDQ",
+      "name": "Lonely",
       "artists": [
-        "Carl Orff",
-        "Michael Tilson Thomas",
-        "The Cleveland Orchestra Chorus",
-        "The Cleveland Orchestra"
+        "Akon"
       ],
-      "album": "Orff: Carmina Burana",
-      "image": "https://i.scdn.co/image/ab67616d00001e023686b13292710df04021acaa",
-      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD",
-      "duration_ms": 144360,
-      "played_at": "2026-07-04T16:39:02.719Z"
+      "album": "Trouble Deluxe Edition",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ec7ab30397ea37295340a41",
+      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ",
+      "duration_ms": 235800,
+      "played_at": "2026-07-04T17:46:27.069Z"
     },
     {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
+      "id": "2kHnjvUOJzT81S4uSLQfM9",
+      "name": "Shoot",
       "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
+        "Yamê"
       ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "duration_ms": 134746,
-      "played_at": "2026-07-04T16:36:37.936Z"
+      "album": "ÉBĒM",
+      "image": "https://i.scdn.co/image/ab67616d00001e02153d9113264fb55b034f959c",
+      "url": "https://open.spotify.com/track/2kHnjvUOJzT81S4uSLQfM9",
+      "duration_ms": 214146,
+      "played_at": "2026-07-04T17:42:30.734Z"
     },
     {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
+      "id": "66orjI5vOkyxOZLHWrPklh",
+      "name": "X Gon' Give It To Ya - Int'l Bonus track",
       "artists": [
-        "Barbara Pravi"
+        "DMX"
       ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "duration_ms": 207226,
-      "played_at": "2026-07-04T16:33:56.591Z"
+      "album": "Grand Champ",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
+      "duration_ms": 219733,
+      "played_at": "2026-07-04T17:38:55.830Z"
     },
     {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
+      "id": "4bUaIFL2l4wMR8473aEqZS",
+      "name": "Hypnotize",
       "artists": [
-        "Barbara Pravi"
+        "The Notorious B.I.G."
       ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "duration_ms": 177426,
-      "played_at": "2026-07-04T16:28:29.309Z"
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7d10ebe38bda7283ca6bfa5e8",
+      "url": "https://open.spotify.com/track/4bUaIFL2l4wMR8473aEqZS",
+      "duration_ms": 338880,
+      "played_at": "2026-07-04T17:35:15.250Z"
     },
     {
-      "id": "4EtgDIWb8Wm5mnaK701c0C",
-      "name": "affection",
+      "id": "0d28khcov6AiegSCpG5TuT",
+      "name": "Feel Good Inc.",
       "artists": [
-        "BETWEEN FRIENDS"
+        "Gorillaz",
+        "De La Soul"
       ],
-      "album": "we just need some time together",
-      "image": "https://i.scdn.co/image/ab67616d00001e028d9d93cf95ef819563e021ff",
-      "url": "https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C",
-      "duration_ms": 235225,
-      "played_at": "2026-07-04T11:41:01.460Z"
+      "album": "Demon Days",
+      "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+      "duration_ms": 222640,
+      "played_at": "2026-07-04T17:29:34.513Z"
     },
     {
-      "id": "4EtgDIWb8Wm5mnaK701c0C",
-      "name": "affection",
+      "id": "4gvIHkUkkXlfuyZvmVVLl4",
+      "name": "Face Off",
       "artists": [
-        "BETWEEN FRIENDS"
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
       ],
-      "album": "we just need some time together",
-      "image": "https://i.scdn.co/image/ab67616d00001e028d9d93cf95ef819563e021ff",
-      "url": "https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C",
-      "duration_ms": 235225,
-      "played_at": "2026-07-04T10:33:53.788Z"
+      "album": "Face Off",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7faead4d3950b84e03ccec582",
+      "url": "https://open.spotify.com/track/4gvIHkUkkXlfuyZvmVVLl4",
+      "duration_ms": 247466,
+      "played_at": "2026-07-04T17:25:51.205Z"
     },
     {
-      "id": "4H8o2Xd10sJSgAUugTGrWw",
-      "name": "Your Love is Killing Me",
+      "id": "4dASQiO1Eoo3RJvt74FtXB",
+      "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
       "artists": [
-        "Sharon Van Etten"
+        "Lil Wayne",
+        "Wiz Khalifa",
+        "Imagine Dragons",
+        "X Ambassadors",
+        "Logic",
+        "Ty Dolla $ign"
       ],
-      "album": "Are We There",
-      "image": "https://i.scdn.co/image/ab67616d00001e0221e7e202974e7d0ee0ec4e60",
-      "url": "https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw",
-      "duration_ms": 378186,
-      "played_at": "2026-07-04T09:31:55.958Z"
+      "album": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d8dfcfd507069d7f2062caf",
+      "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "duration_ms": 243490,
+      "played_at": "2026-07-04T17:21:41.788Z"
     }
   ],
-  "fetched_at": "2026-07-04T17:02:27.320Z"
+  "fetched_at": "2026-07-04T18:30:43.453Z"
 }
