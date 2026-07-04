@@ -173,6 +173,30 @@
   ],
   "recently_played": [
     {
+      "id": "4EtgDIWb8Wm5mnaK701c0C",
+      "name": "affection",
+      "artists": [
+        "BETWEEN FRIENDS"
+      ],
+      "album": "we just need some time together",
+      "image": "https://i.scdn.co/image/ab67616d00001e028d9d93cf95ef819563e021ff",
+      "url": "https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C",
+      "duration_ms": 235225,
+      "played_at": "2026-07-04T11:41:01.460Z"
+    },
+    {
+      "id": "4EtgDIWb8Wm5mnaK701c0C",
+      "name": "affection",
+      "artists": [
+        "BETWEEN FRIENDS"
+      ],
+      "album": "we just need some time together",
+      "image": "https://i.scdn.co/image/ab67616d00001e028d9d93cf95ef819563e021ff",
+      "url": "https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C",
+      "duration_ms": 235225,
+      "played_at": "2026-07-04T10:33:53.788Z"
+    },
+    {
       "id": "4H8o2Xd10sJSgAUugTGrWw",
       "name": "Your Love is Killing Me",
       "artists": [
@@ -267,32 +291,7 @@
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3",
       "duration_ms": 187723,
       "played_at": "2026-07-04T09:09:07.121Z"
-    },
-    {
-      "id": "6DB2KOEwHnjkgEnBt5SdeJ",
-      "name": "Mask Off (feat. Kendrick Lamar) - Remix",
-      "artists": [
-        "Future",
-        "Kendrick Lamar"
-      ],
-      "album": "Mask Off (feat. Kendrick Lamar) [Remix]",
-      "image": "https://i.scdn.co/image/ab67616d00001e020cf32251bdb54d0131f2eade",
-      "url": "https://open.spotify.com/track/6DB2KOEwHnjkgEnBt5SdeJ",
-      "duration_ms": 257986,
-      "played_at": "2026-07-04T09:05:59.017Z"
-    },
-    {
-      "id": "3717eMglfGPYr9YKzdsiho",
-      "name": "Serseri",
-      "artists": [
-        "Teoman"
-      ],
-      "album": "Eski Bir Rüya Uğruna...",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a8d2d4187ec1a616d97b57d2",
-      "url": "https://open.spotify.com/track/3717eMglfGPYr9YKzdsiho",
-      "duration_ms": 221155,
-      "played_at": "2026-07-04T09:01:40.549Z"
     }
   ],
-  "fetched_at": "2026-07-04T10:32:10.148Z"
+  "fetched_at": "2026-07-04T12:05:48.023Z"
 }
