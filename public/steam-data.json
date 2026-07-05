@@ -10,20 +10,20 @@
   },
   "recentGames": [
     {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "playtime_2weeks": 1551,
+      "playtime_forever": 45537,
+      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
+    },
+    {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 1406,
+      "playtime_2weeks": 1300,
       "playtime_forever": 52080,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
-    },
-    {
-      "appid": 1158310,
-      "name": "Crusader Kings III",
-      "playtime_2weeks": 1368,
-      "playtime_forever": 45354,
-      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
     },
     {
       "appid": 224260,
@@ -35,6 +35,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 624591,
-  "fetched_at": "2026-07-04T22:02:28.424Z"
+  "totalPlaytime": 624774,
+  "fetched_at": "2026-07-05T03:59:44.875Z"
 }
