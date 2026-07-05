@@ -173,131 +173,134 @@
   ],
   "recently_played": [
     {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
+      "id": "0qOnSQQF0yzuPWsXrQ9paz",
+      "name": "Stereo Hearts (feat. Adam Levine)",
+      "artists": [
+        "Gym Class Heroes",
+        "Adam Levine"
+      ],
+      "album": "The Papercut Chronicles II",
+      "image": "https://i.scdn.co/image/ab67616d00001e0218b8088fe0c3dbf78398b55a",
+      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz",
+      "duration_ms": 210960,
+      "played_at": "2026-07-05T20:33:57.250Z"
+    },
+    {
+      "id": "6i0V12jOa3mr6uu4WYhUBr",
+      "name": "Heathens",
+      "artists": [
+        "Twenty One Pilots"
+      ],
+      "album": "Heathens",
+      "image": "https://i.scdn.co/image/ab67616d00001e022ca3ba8f334ca5a5f0312efb",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr",
+      "duration_ms": 195920,
+      "played_at": "2026-07-05T20:30:25.934Z"
+    },
+    {
+      "id": "0mEdbdeRFQwBhN4xfyIeUM",
+      "name": "Can't Tell Me Nothing",
       "artists": [
         "Kanye West"
       ],
       "album": "Graduation",
       "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "duration_ms": 311866,
-      "played_at": "2026-07-05T19:13:05.302Z"
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+      "duration_ms": 271600,
+      "played_at": "2026-07-05T20:27:09.620Z"
     },
     {
-      "id": "6dWWOi8PvMJPOl60TwQxKP",
-      "name": "Fight Back",
-      "artists": [
-        "NEFFEX"
-      ],
-      "album": "Fight Back: The Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
-      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
-      "duration_ms": 200571,
-      "played_at": "2026-07-05T19:06:31.142Z"
-    },
-    {
-      "id": "1v7L65Lzy0j0vdpRjJewt1",
-      "name": "Lose Yourself",
+      "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+      "name": "Without Me",
       "artists": [
         "Eminem"
-      ],
-      "album": "Just Lose It",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
-      "duration_ms": 322226,
-      "played_at": "2026-07-05T19:02:49.778Z"
-    },
-    {
-      "id": "4xkOaSrkexMciUUogZKVTS",
-      "name": "Till I Collapse",
-      "artists": [
-        "Eminem",
-        "Nate Dogg"
       ],
       "album": "The Eminem Show",
       "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-      "duration_ms": 297786,
-      "played_at": "2026-07-05T18:57:27.157Z"
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "duration_ms": 290320,
+      "played_at": "2026-07-05T20:22:37.747Z"
     },
     {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
+      "id": "1SWVDBtw6h3tm9OehOkDhv",
+      "name": "What's The Difference",
       "artists": [
-        "Eminem"
+        "Dr. Dre",
+        "Eminem",
+        "Xzibit"
       ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "duration_ms": 269554,
-      "played_at": "2026-07-05T18:52:28.919Z"
+      "album": "2001",
+      "image": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv",
+      "duration_ms": 244200,
+      "played_at": "2026-07-05T20:17:46.965Z"
     },
     {
-      "id": "7ccC26pJ3aDG81sS4FwdXF",
-      "name": "Remember the Name (feat. Styles of Beyond)",
+      "id": "60a0Rd6pjrkxjPbaKzXjfq",
+      "name": "In the End",
       "artists": [
-        "Fort Minor",
-        "Styles Of Beyond"
+        "Linkin Park"
       ],
-      "album": "The Rising Tied (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "duration_ms": 230493,
-      "played_at": "2026-07-05T18:47:58.943Z"
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a",
+      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq",
+      "duration_ms": 216880,
+      "played_at": "2026-07-05T20:13:42.381Z"
     },
     {
-      "id": "6M47gaKejso9772SKTa3yH",
-      "name": "Face Off",
+      "id": "2igwFfvr1OAGX9SKDCPBwO",
+      "name": "Empire State Of Mind",
       "artists": [
-        "Tech N9ne",
-        "Joey Cool",
-        "King Iso",
-        "Dwayne Johnson"
+        "JAŸ-Z",
+        "Alicia Keys"
       ],
-      "album": "ASIN9NE",
-      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
-      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
-      "duration_ms": 219802,
-      "played_at": "2026-07-05T18:44:08.008Z"
+      "album": "The Blueprint 3",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10",
+      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "duration_ms": 276920,
+      "played_at": "2026-07-05T20:10:05.122Z"
     },
     {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
+      "id": "62yJjFtgkhUrXktIoSjgP2",
+      "name": "Radioactive",
       "artists": [
-        "Barbara Pravi"
+        "Imagine Dragons"
       ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "duration_ms": 207226,
-      "played_at": "2026-07-05T18:29:33.004Z"
+      "album": "Night Visions",
+      "image": "https://i.scdn.co/image/ab67616d00001e02407bd04707c463bbb3410737",
+      "url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2",
+      "duration_ms": 186813,
+      "played_at": "2026-07-05T20:03:00.612Z"
     },
     {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
+      "id": "4dASQiO1Eoo3RJvt74FtXB",
+      "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
       "artists": [
-        "Barbara Pravi"
+        "Lil Wayne",
+        "Wiz Khalifa",
+        "Imagine Dragons",
+        "X Ambassadors",
+        "Logic",
+        "Ty Dolla $ign"
       ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "duration_ms": 177426,
-      "played_at": "2026-07-05T18:26:05.416Z"
+      "album": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d8dfcfd507069d7f2062caf",
+      "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "duration_ms": 243490,
+      "played_at": "2026-07-05T19:41:50.544Z"
     },
     {
-      "id": "3rVaOQfc8d1moQ47S5tHMw",
-      "name": "Go",
+      "id": "2ygMBIctKIAfbEBcT9065L",
+      "name": "Pump It",
       "artists": [
-        "The Chemical Brothers",
-        "Q-Tip"
+        "Black Eyed Peas"
       ],
-      "album": "Go",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7e70a518e0f5efde17e2f7e52",
-      "url": "https://open.spotify.com/track/3rVaOQfc8d1moQ47S5tHMw",
-      "duration_ms": 220640,
-      "played_at": "2026-07-05T18:23:07.318Z"
+      "album": "Monkey Business",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c6710b4a52539506c30e5354",
+      "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L",
+      "duration_ms": 213066,
+      "played_at": "2026-07-05T19:37:46.543Z"
     }
   ],
-  "fetched_at": "2026-07-05T19:14:46.624Z"
+  "fetched_at": "2026-07-05T20:35:03.844Z"
 }
