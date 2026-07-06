@@ -176,6 +176,33 @@
   ],
   "recently_played": [
     {
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "duration_ms": 322226,
+      "played_at": "2026-07-06T21:05:14.296Z"
+    },
+    {
+      "id": "6M47gaKejso9772SKTa3yH",
+      "name": "Face Off",
+      "artists": [
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
+      ],
+      "album": "ASIN9NE",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "duration_ms": 219802,
+      "played_at": "2026-07-06T20:56:05.936Z"
+    },
+    {
       "id": "2zYzyRzz6pRmhPzyfMEC8s",
       "name": "Highway to Hell",
       "artists": [
@@ -275,31 +302,7 @@
       "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR",
       "duration_ms": 177506,
       "played_at": "2026-07-06T16:44:21.440Z"
-    },
-    {
-      "id": "0VgkVdmE4gld66l8iyGjgx",
-      "name": "Mask Off",
-      "artists": [
-        "Future"
-      ],
-      "album": "FUTURE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e0b64c8be3c4e804abcb2696",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx",
-      "duration_ms": 204600,
-      "played_at": "2026-07-06T16:41:23.631Z"
-    },
-    {
-      "id": "7L93GESzq43UkKUt5FsOCq",
-      "name": "Jump Around - 30 Years Remaster",
-      "artists": [
-        "House Of Pain"
-      ],
-      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-      "image": "https://i.scdn.co/image/ab67616d00001e0279606c79fde418c0bc458abb",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
-      "duration_ms": 218546,
-      "played_at": "2026-07-06T16:37:58.741Z"
     }
   ],
-  "fetched_at": "2026-07-06T17:19:46.726Z"
+  "fetched_at": "2026-07-06T21:09:33.726Z"
 }
