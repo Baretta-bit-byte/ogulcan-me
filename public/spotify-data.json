@@ -118,19 +118,6 @@
       "genres": []
     },
     {
-      "id": "51jVzNcOXpVOfzFv7jH8MA",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Voilà",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
-      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
-      "preview_url": null,
-      "duration_ms": 179010,
-      "genres": []
-    },
-    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -144,6 +131,32 @@
       "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
       "preview_url": null,
       "duration_ms": 219802,
+      "genres": []
+    },
+    {
+      "id": "51jVzNcOXpVOfzFv7jH8MA",
+      "name": "Voilà",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Voilà",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
+      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
+      "preview_url": null,
+      "duration_ms": 179010,
+      "genres": []
+    },
+    {
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "preview_url": null,
+      "duration_ms": 322226,
       "genres": []
     },
     {
@@ -158,151 +171,133 @@
       "preview_url": null,
       "duration_ms": 181493,
       "genres": []
-    },
-    {
-      "id": "7IbtDJENQJwWUZYhzTK4az",
-      "name": "You Are The Reason - French Duet Version",
-      "artists": [
-        "Calum Scott",
-        "Barbara Pravi"
-      ],
-      "album": "Only Human (Special Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e025b6e905a03d363cfcd3b882d",
-      "url": "https://open.spotify.com/track/7IbtDJENQJwWUZYhzTK4az",
-      "preview_url": null,
-      "duration_ms": 189418,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "1v7L65Lzy0j0vdpRjJewt1",
-      "name": "Lose Yourself",
+      "id": "3JG1uFc40wfyrqaWC7iv0e",
+      "name": "i like the way you kiss me",
       "artists": [
-        "Eminem"
+        "Artemas"
       ],
-      "album": "Just Lose It",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
-      "duration_ms": 322226,
-      "played_at": "2026-07-06T21:05:14.296Z"
+      "album": "yustyna",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c9cd12dd361f5d40ca435868",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e",
+      "duration_ms": 142514,
+      "played_at": "2026-07-06T22:42:15.246Z"
     },
     {
-      "id": "6M47gaKejso9772SKTa3yH",
-      "name": "Face Off",
+      "id": "2W3EgJst61RLZtPPm3EQim",
+      "name": "TERRITORY",
       "artists": [
-        "Tech N9ne",
-        "Joey Cool",
-        "King Iso",
-        "Dwayne Johnson"
+        "The Blaze"
       ],
-      "album": "ASIN9NE",
-      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
-      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
-      "duration_ms": 219802,
-      "played_at": "2026-07-06T20:56:05.936Z"
+      "album": "TERRITORY",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cdc2c370800cad705c9ed05d",
+      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim",
+      "duration_ms": 276373,
+      "played_at": "2026-07-06T22:39:52.324Z"
     },
     {
-      "id": "2zYzyRzz6pRmhPzyfMEC8s",
-      "name": "Highway to Hell",
+      "id": "7DzQAoFm8oJIZjXXif6mcn",
+      "name": "Do It, Try It",
       "artists": [
-        "AC/DC"
+        "M83"
       ],
-      "album": "Highway to Hell",
-      "image": "https://i.scdn.co/image/ab67616d00001e0243058ea096fa35ac33c43587",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
-      "duration_ms": 208110,
-      "played_at": "2026-07-06T17:08:25.956Z"
+      "album": "Junk",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f5839f46c8b6bba8aceeb6e2",
+      "url": "https://open.spotify.com/track/7DzQAoFm8oJIZjXXif6mcn",
+      "duration_ms": 217440,
+      "played_at": "2026-07-06T22:35:15.517Z"
     },
     {
-      "id": "1zB4vmk8tFRmM9UULNzbLB",
-      "name": "Thunder",
+      "id": "0qKX14YZHptDWiEN0CgxGz",
+      "name": "Zenith",
       "artists": [
-        "Imagine Dragons"
+        "Kavinsky",
+        "Olivia Merilahti",
+        "Morgan Phalen"
       ],
-      "album": "Evolve",
-      "image": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
-      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
-      "duration_ms": 187146,
-      "played_at": "2026-07-06T17:04:57.563Z"
+      "album": "Reborn",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d54c7c424d1b095611771530",
+      "url": "https://open.spotify.com/track/0qKX14YZHptDWiEN0CgxGz",
+      "duration_ms": 281106,
+      "played_at": "2026-07-06T22:31:37.613Z"
     },
     {
-      "id": "3cHyrEgdyYRjgJKSOiOtcS",
-      "name": "Timber",
+      "id": "60SvhHtwefT0e2G7i7kOH3",
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "artists": [
-        "Pitbull",
-        "Kesha"
+        "Gorillaz",
+        "Tame Impala",
+        "Bootie Brown"
       ],
-      "album": "Global Warming: Meltdown (Deluxe Version)",
-      "image": "https://i.scdn.co/image/ab67616d00001e022ffc2c580b6595a3e675a730",
-      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS",
-      "duration_ms": 204134,
-      "played_at": "2026-07-06T17:01:50.131Z"
+      "album": "Cracker Island",
+      "image": "https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "duration_ms": 215149,
+      "played_at": "2026-07-06T22:26:56.126Z"
     },
     {
-      "id": "0pqnGHJpmpxLKifKRmU6WP",
-      "name": "Believer",
+      "id": "0LtOwyZoSNZKJWHqjzADpW",
+      "name": "Feels Like We Only Go Backwards",
       "artists": [
-        "Imagine Dragons"
+        "Tame Impala"
       ],
-      "album": "Evolve",
-      "image": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
-      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
-      "duration_ms": 204346,
-      "played_at": "2026-07-06T16:58:25.708Z"
+      "album": "Lonerism",
+      "image": "https://i.scdn.co/image/ab67616d00001e02370c12f82872c9cfaee80193",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW",
+      "duration_ms": 192960,
+      "played_at": "2026-07-06T22:23:20.681Z"
     },
     {
-      "id": "3CIyK1V4JEJkg02E4EJnDl",
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "id": "3T1CEAG5ukgdqGvQuXWzqI",
+      "name": "Odd Look",
       "artists": [
-        "Imagine Dragons",
-        "JID",
-        "Arcane",
-        "League of Legends"
+        "Kavinsky"
       ],
-      "album": "Mercury - Acts 1 & 2",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fc915b69600dce2991a61f13",
-      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
-      "duration_ms": 173381,
-      "played_at": "2026-07-06T16:55:01.055Z"
+      "album": "OutRun",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c08bca073e89ae32c68ffaa",
+      "url": "https://open.spotify.com/track/3T1CEAG5ukgdqGvQuXWzqI",
+      "duration_ms": 289773,
+      "played_at": "2026-07-06T22:17:44.054Z"
     },
     {
-      "id": "2JzZzZUQj3Qff7wapcbKjc",
-      "name": "See You Again (feat. Charlie Puth)",
+      "id": "3YBhpMB3m8w6bjBkjI6zwa",
+      "name": "Goth",
       "artists": [
-        "Wiz Khalifa",
-        "Charlie Puth"
+        "Sidewalks and Skeletons"
       ],
-      "album": "See You Again (feat. Charlie Puth)",
-      "image": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8",
-      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
-      "duration_ms": 229525,
-      "played_at": "2026-07-06T16:52:07.378Z"
+      "album": "Goth",
+      "image": "https://i.scdn.co/image/ab6742d3000053b74ebdd6f4d22422bfe3a5cd93",
+      "url": "https://open.spotify.com/track/3YBhpMB3m8w6bjBkjI6zwa",
+      "duration_ms": 208405,
+      "played_at": "2026-07-06T22:12:48.044Z"
     },
     {
-      "id": "4v7DCN09hgXkKazefkznDQ",
-      "name": "Lonely",
+      "id": "0uMZbmAAgOhdMrv25iPEH6",
+      "name": "Goth",
       "artists": [
-        "Akon"
+        "Sidewalks and Skeletons"
       ],
-      "album": "Trouble Deluxe Edition",
-      "image": "https://i.scdn.co/image/ab67616d00001e026ec7ab30397ea37295340a41",
-      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ",
-      "duration_ms": 235800,
-      "played_at": "2026-07-06T16:48:17.529Z"
+      "album": "White Light",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bbaf9de6c418a0aa6cb7b938",
+      "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6",
+      "duration_ms": 207120,
+      "played_at": "2026-07-06T22:12:41.285Z"
     },
     {
-      "id": "5qaEfEh1AtSdrdrByCP7qR",
-      "name": "Demons",
+      "id": "2H7F7EfsVhy0jNLsVz8MLH",
+      "name": "Paris",
       "artists": [
-        "Imagine Dragons"
+        "Else"
       ],
-      "album": "Night Visions",
-      "image": "https://i.scdn.co/image/ab67616d00001e02407bd04707c463bbb3410737",
-      "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR",
-      "duration_ms": 177506,
-      "played_at": "2026-07-06T16:44:21.440Z"
+      "album": "Paris",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ddf4df172bd6c51173989e9",
+      "url": "https://open.spotify.com/track/2H7F7EfsVhy0jNLsVz8MLH",
+      "duration_ms": 209708,
+      "played_at": "2026-07-06T22:08:28.080Z"
     }
   ],
-  "fetched_at": "2026-07-06T21:09:33.726Z"
+  "fetched_at": "2026-07-06T22:45:08.142Z"
 }
