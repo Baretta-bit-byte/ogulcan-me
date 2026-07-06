@@ -60,25 +60,6 @@
       "genres": []
     },
     {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "preview_url": null,
-      "duration_ms": 134746,
-      "genres": []
-    },
-    {
       "id": "26bFNT0RkAk1WQVXMNhnZf",
       "name": "Je l'aime, je l'aime, je l'aime",
       "artists": [
@@ -102,6 +83,25 @@
       "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
       "preview_url": null,
       "duration_ms": 215440,
+      "genres": []
+    },
+    {
+      "id": "3By9jCy6b4dv5XnlhvIWwx",
+      "name": "Dies Irae",
+      "artists": [
+        "Giuseppe Verdi",
+        "Carmen Giannattasio",
+        "Veronica Simeoni",
+        "Alxander Timchenko",
+        "Carlo Colombara",
+        "Yuri Temirkanov",
+        "St. Petersburg Philharmonic Orchestra"
+      ],
+      "album": "Verdi Requiem",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
+      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
+      "preview_url": null,
+      "duration_ms": 134746,
       "genres": []
     },
     {
@@ -295,5 +295,5 @@
       "played_at": "2026-07-05T21:29:43.536Z"
     }
   ],
-  "fetched_at": "2026-07-05T23:11:35.074Z"
+  "fetched_at": "2026-07-06T01:14:51.670Z"
 }
