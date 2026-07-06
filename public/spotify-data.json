@@ -131,6 +131,22 @@
       "genres": []
     },
     {
+      "id": "6M47gaKejso9772SKTa3yH",
+      "name": "Face Off",
+      "artists": [
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
+      ],
+      "album": "ASIN9NE",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "preview_url": null,
+      "duration_ms": 219802,
+      "genres": []
+    },
+    {
       "id": "6RPIHSSgY4dNZSOgbqHAG1",
       "name": "Le jour se lève",
       "artists": [
@@ -156,144 +172,136 @@
       "preview_url": null,
       "duration_ms": 189418,
       "genres": []
-    },
-    {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "preview_url": null,
-      "duration_ms": 215040,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "2vWBUC9djv6BtiGlmKiQaH",
-      "name": "YKWIM?",
+      "id": "6dWWOi8PvMJPOl60TwQxKP",
+      "name": "Fight Back",
       "artists": [
-        "Yot Club"
+        "NEFFEX"
       ],
-      "album": "Bipolar",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a72818330a056c9d3556a68",
-      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH",
-      "duration_ms": 212750,
-      "played_at": "2026-07-05T22:53:02.268Z"
+      "album": "Fight Back: The Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
+      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
+      "duration_ms": 200571,
+      "played_at": "2026-07-06T13:14:57.871Z"
     },
     {
-      "id": "2k47MKPoBLFbKwqP796ZAA",
-      "name": "rises the moon",
+      "id": "66orjI5vOkyxOZLHWrPklh",
+      "name": "X Gon' Give It To Ya - Int'l Bonus track",
       "artists": [
-        "Liana Flores"
+        "DMX"
       ],
-      "album": "recently",
-      "image": "https://i.scdn.co/image/ab67616d00001e02effe26bfdf05230a512f68f2",
-      "url": "https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA",
-      "duration_ms": 161929,
-      "played_at": "2026-07-05T21:52:58.656Z"
+      "album": "Grand Champ",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
+      "duration_ms": 219733,
+      "played_at": "2026-07-06T13:11:36.986Z"
     },
     {
-      "id": "1v1oIWf2Xgh54kIWuKsDf6",
-      "name": "Runaway",
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
       "artists": [
-        "AURORA"
+        "Eminem"
       ],
-      "album": "All My Demons Greeting Me As A Friend (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c379325088c2845fe85cd70a",
-      "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6",
-      "duration_ms": 248826,
-      "played_at": "2026-07-05T21:50:16.379Z"
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "duration_ms": 322226,
+      "played_at": "2026-07-06T13:07:56.798Z"
     },
     {
-      "id": "0u2P5u6lvoDfwTYjAADbn4",
-      "name": "lovely (with Khalid)",
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
       "artists": [
-        "Billie Eilish",
-        "Khalid"
+        "Eminem",
+        "Nate Dogg"
       ],
-      "album": "lovely (with Khalid)",
-      "image": "https://i.scdn.co/image/ab67616d00001e028a3f0a3ca7929dea23cd274c",
-      "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4",
-      "duration_ms": 200185,
-      "played_at": "2026-07-05T21:46:07.209Z"
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "duration_ms": 297786,
+      "played_at": "2026-07-06T13:02:34.239Z"
     },
     {
-      "id": "5gDWsRxpJ2lZAffh5p7K0w",
-      "name": "Stargirl Interlude",
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
       "artists": [
-        "The Weeknd",
-        "Lana Del Rey"
+        "Eminem"
       ],
-      "album": "Starboy",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a048415db06a5b6fa7ec4e1a",
-      "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w",
-      "duration_ms": 111626,
-      "played_at": "2026-07-05T21:42:46.595Z"
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "duration_ms": 269554,
+      "played_at": "2026-07-06T12:57:36.105Z"
     },
     {
-      "id": "6pWgRkpqVfxnj3WuIcJ7WP",
-      "name": "Cornfield Chase",
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
       "artists": [
-        "Hans Zimmer"
+        "Fort Minor",
+        "Styles Of Beyond"
       ],
-      "album": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
-      "image": "https://i.scdn.co/image/ab67616d00001e0247e0ec015e2360ea18038bd9",
-      "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP",
-      "duration_ms": 126959,
-      "played_at": "2026-07-05T21:40:54.618Z"
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "duration_ms": 230493,
+      "played_at": "2026-07-06T12:53:06.248Z"
     },
     {
-      "id": "2Y1kGjAic94r4tEohhSDZ4",
-      "name": "Roi - Instrumental Slowed",
+      "id": "6M47gaKejso9772SKTa3yH",
+      "name": "Face Off",
       "artists": [
-        "Mckyyy"
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
       ],
-      "album": "Roi",
-      "image": "https://i.scdn.co/image/ab67616d00001e027655d2dbe3a254cba972db9c",
-      "url": "https://open.spotify.com/track/2Y1kGjAic94r4tEohhSDZ4",
-      "duration_ms": 92589,
-      "played_at": "2026-07-05T21:38:47.350Z"
+      "album": "ASIN9NE",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "duration_ms": 219802,
+      "played_at": "2026-07-06T12:49:15.455Z"
     },
     {
-      "id": "56eSclzdXaWU5jOJ7DX7Vp",
-      "name": "Silver Soul",
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
       "artists": [
-        "Beach House"
+        "The Chemical Brothers",
+        "Q-Tip"
       ],
-      "album": "Teen Dream",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a9a2f4dbb6ce31157d2e4783",
-      "url": "https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp",
-      "duration_ms": 298680,
-      "played_at": "2026-07-05T21:37:14.401Z"
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
+      "played_at": "2026-07-06T12:43:06.374Z"
     },
     {
-      "id": "0eAuGrXyGFYwur9ARUe7LJ",
-      "name": "Earrings",
+      "id": "2cNjgoSh1TBHFQIhfzRJUE",
+      "name": "Go",
       "artists": [
-        "Malcolm Todd"
+        "The Chemical Brothers",
+        "Q-Tip"
       ],
-      "album": "Sweet Boy",
-      "image": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
-      "duration_ms": 151500,
-      "played_at": "2026-07-05T21:32:15.395Z"
+      "album": "Born In The Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02befecaa2c30a3302c88cbe88",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "duration_ms": 260696,
+      "played_at": "2026-07-06T12:38:42.070Z"
     },
     {
-      "id": "3Z0qLOS0cqWKPHXkbTXmNF",
-      "name": "Gilded Lily",
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
       "artists": [
-        "Cults"
+        "Barbara Pravi"
       ],
-      "album": "Offering",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d0349cd631791ca446be337a",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF",
-      "duration_ms": 212736,
-      "played_at": "2026-07-05T21:29:43.536Z"
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "duration_ms": 177426,
+      "played_at": "2026-07-06T12:30:28.117Z"
     }
   ],
-  "fetched_at": "2026-07-06T01:14:51.670Z"
+  "fetched_at": "2026-07-06T14:05:40.802Z"
 }
