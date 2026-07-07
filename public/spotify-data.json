@@ -175,6 +175,18 @@
   ],
   "recently_played": [
     {
+      "id": "40sRwFjfrRnaTdYPJIg4CP",
+      "name": "Hometown",
+      "artists": [
+        "Twenty One Pilots"
+      ],
+      "album": "Blurryface",
+      "image": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
+      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP",
+      "duration_ms": 234946,
+      "played_at": "2026-07-07T00:15:08.129Z"
+    },
+    {
       "id": "4Hff1IjRbLGeLgFgxvHflk",
       "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
       "artists": [
@@ -285,19 +297,7 @@
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e",
       "duration_ms": 142514,
       "played_at": "2026-07-06T22:42:15.246Z"
-    },
-    {
-      "id": "2W3EgJst61RLZtPPm3EQim",
-      "name": "TERRITORY",
-      "artists": [
-        "The Blaze"
-      ],
-      "album": "TERRITORY",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cdc2c370800cad705c9ed05d",
-      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim",
-      "duration_ms": 276373,
-      "played_at": "2026-07-06T22:39:52.324Z"
     }
   ],
-  "fetched_at": "2026-07-07T00:06:53.770Z"
+  "fetched_at": "2026-07-07T04:32:04.082Z"
 }
