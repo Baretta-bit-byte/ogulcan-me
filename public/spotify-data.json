@@ -175,6 +175,106 @@
   ],
   "recently_played": [
     {
+      "id": "4Hff1IjRbLGeLgFgxvHflk",
+      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "artists": [
+        "Gorillaz",
+        "Shaun Ryder",
+        "Roses Gabor"
+      ],
+      "album": "Demon Days",
+      "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
+      "duration_ms": 244999,
+      "played_at": "2026-07-06T23:14:37.540Z"
+    },
+    {
+      "id": "4GRMPDD3V6rM2BlmRdYCUJ",
+      "name": "Pulsar",
+      "artists": [
+        "Kavinsky"
+      ],
+      "album": "Reborn",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d54c7c424d1b095611771530",
+      "url": "https://open.spotify.com/track/4GRMPDD3V6rM2BlmRdYCUJ",
+      "duration_ms": 214000,
+      "played_at": "2026-07-06T23:10:31.943Z"
+    },
+    {
+      "id": "6K4t31amVTZDgR3sKmwUJJ",
+      "name": "The Less I Know The Better",
+      "artists": [
+        "Tame Impala"
+      ],
+      "album": "Currents",
+      "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
+      "duration_ms": 216320,
+      "played_at": "2026-07-06T23:06:57.582Z"
+    },
+    {
+      "id": "1CLZzeLWqdhz5IfR5vHy4u",
+      "name": "Hot Blooded",
+      "artists": [
+        "New Constellations"
+      ],
+      "album": "It Comes in Waves",
+      "image": "https://i.scdn.co/image/ab67616d00001e02debbc97cbabb7e91e224d4db",
+      "url": "https://open.spotify.com/track/1CLZzeLWqdhz5IfR5vHy4u",
+      "duration_ms": 287000,
+      "played_at": "2026-07-06T23:03:20.881Z"
+    },
+    {
+      "id": "4hYF6lnVkeVpFWQQoSZc7T",
+      "name": "Distance",
+      "artists": [
+        "Else",
+        "Neanticønes"
+      ],
+      "album": "Distance",
+      "image": "https://i.scdn.co/image/ab67616d00001e024b794a95d067c7f41c4e6d72",
+      "url": "https://open.spotify.com/track/4hYF6lnVkeVpFWQQoSZc7T",
+      "duration_ms": 194851,
+      "played_at": "2026-07-06T22:58:33.486Z"
+    },
+    {
+      "id": "1RaOOqtnsjJ7FjrL35ii8p",
+      "name": "Between the Buttons",
+      "artists": [
+        "French 79"
+      ],
+      "album": "Olympic",
+      "image": "https://i.scdn.co/image/ab67616d00001e02deab2912ba0a17c4b34cb27d",
+      "url": "https://open.spotify.com/track/1RaOOqtnsjJ7FjrL35ii8p",
+      "duration_ms": 317520,
+      "played_at": "2026-07-06T22:55:18.363Z"
+    },
+    {
+      "id": "1VVxgl7Xr1W7qsMe9yjsWx",
+      "name": "Endless",
+      "artists": [
+        "Kavinsky"
+      ],
+      "album": "OutRun",
+      "image": "https://i.scdn.co/image/ab67616d00001e021c08bca073e89ae32c68ffaa",
+      "url": "https://open.spotify.com/track/1VVxgl7Xr1W7qsMe9yjsWx",
+      "duration_ms": 179133,
+      "played_at": "2026-07-06T22:50:00.423Z"
+    },
+    {
+      "id": "4HMHYwye2TQmb3oN307oHw",
+      "name": "Purple Eyes",
+      "artists": [
+        "The Toxic Avenger",
+        "Sophie-Tith"
+      ],
+      "album": "Globe, Vol. 1",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f05e6dfa0d716bfc8e6aa7a4",
+      "url": "https://open.spotify.com/track/4HMHYwye2TQmb3oN307oHw",
+      "duration_ms": 285272,
+      "played_at": "2026-07-06T22:47:00.966Z"
+    },
+    {
       "id": "3JG1uFc40wfyrqaWC7iv0e",
       "name": "i like the way you kiss me",
       "artists": [
@@ -197,107 +297,7 @@
       "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim",
       "duration_ms": 276373,
       "played_at": "2026-07-06T22:39:52.324Z"
-    },
-    {
-      "id": "7DzQAoFm8oJIZjXXif6mcn",
-      "name": "Do It, Try It",
-      "artists": [
-        "M83"
-      ],
-      "album": "Junk",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f5839f46c8b6bba8aceeb6e2",
-      "url": "https://open.spotify.com/track/7DzQAoFm8oJIZjXXif6mcn",
-      "duration_ms": 217440,
-      "played_at": "2026-07-06T22:35:15.517Z"
-    },
-    {
-      "id": "0qKX14YZHptDWiEN0CgxGz",
-      "name": "Zenith",
-      "artists": [
-        "Kavinsky",
-        "Olivia Merilahti",
-        "Morgan Phalen"
-      ],
-      "album": "Reborn",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d54c7c424d1b095611771530",
-      "url": "https://open.spotify.com/track/0qKX14YZHptDWiEN0CgxGz",
-      "duration_ms": 281106,
-      "played_at": "2026-07-06T22:31:37.613Z"
-    },
-    {
-      "id": "60SvhHtwefT0e2G7i7kOH3",
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "artists": [
-        "Gorillaz",
-        "Tame Impala",
-        "Bootie Brown"
-      ],
-      "album": "Cracker Island",
-      "image": "https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "duration_ms": 215149,
-      "played_at": "2026-07-06T22:26:56.126Z"
-    },
-    {
-      "id": "0LtOwyZoSNZKJWHqjzADpW",
-      "name": "Feels Like We Only Go Backwards",
-      "artists": [
-        "Tame Impala"
-      ],
-      "album": "Lonerism",
-      "image": "https://i.scdn.co/image/ab67616d00001e02370c12f82872c9cfaee80193",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW",
-      "duration_ms": 192960,
-      "played_at": "2026-07-06T22:23:20.681Z"
-    },
-    {
-      "id": "3T1CEAG5ukgdqGvQuXWzqI",
-      "name": "Odd Look",
-      "artists": [
-        "Kavinsky"
-      ],
-      "album": "OutRun",
-      "image": "https://i.scdn.co/image/ab67616d00001e021c08bca073e89ae32c68ffaa",
-      "url": "https://open.spotify.com/track/3T1CEAG5ukgdqGvQuXWzqI",
-      "duration_ms": 289773,
-      "played_at": "2026-07-06T22:17:44.054Z"
-    },
-    {
-      "id": "3YBhpMB3m8w6bjBkjI6zwa",
-      "name": "Goth",
-      "artists": [
-        "Sidewalks and Skeletons"
-      ],
-      "album": "Goth",
-      "image": "https://i.scdn.co/image/ab6742d3000053b74ebdd6f4d22422bfe3a5cd93",
-      "url": "https://open.spotify.com/track/3YBhpMB3m8w6bjBkjI6zwa",
-      "duration_ms": 208405,
-      "played_at": "2026-07-06T22:12:48.044Z"
-    },
-    {
-      "id": "0uMZbmAAgOhdMrv25iPEH6",
-      "name": "Goth",
-      "artists": [
-        "Sidewalks and Skeletons"
-      ],
-      "album": "White Light",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bbaf9de6c418a0aa6cb7b938",
-      "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6",
-      "duration_ms": 207120,
-      "played_at": "2026-07-06T22:12:41.285Z"
-    },
-    {
-      "id": "2H7F7EfsVhy0jNLsVz8MLH",
-      "name": "Paris",
-      "artists": [
-        "Else"
-      ],
-      "album": "Paris",
-      "image": "https://i.scdn.co/image/ab67616d00001e024ddf4df172bd6c51173989e9",
-      "url": "https://open.spotify.com/track/2H7F7EfsVhy0jNLsVz8MLH",
-      "duration_ms": 209708,
-      "played_at": "2026-07-06T22:08:28.080Z"
     }
   ],
-  "fetched_at": "2026-07-06T22:45:08.142Z"
+  "fetched_at": "2026-07-07T00:06:53.770Z"
 }
