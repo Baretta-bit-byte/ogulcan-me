@@ -24,9 +24,17 @@
       "playtime_forever": 52080,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
+    },
+    {
+      "appid": 431730,
+      "name": "Aseprite",
+      "playtime_2weeks": 48,
+      "playtime_forever": 70,
+      "img_icon_url": "da61bd2806f69205a97609dcdd4ca27df3baf800",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/431730/header.jpg"
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 625096,
-  "fetched_at": "2026-07-06T22:18:28.476Z"
+  "totalPlaytime": 625145,
+  "fetched_at": "2026-07-07T03:56:44.859Z"
 }
