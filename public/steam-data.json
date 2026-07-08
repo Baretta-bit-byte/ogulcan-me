@@ -20,8 +20,8 @@
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 1123,
-      "playtime_forever": 52187,
+      "playtime_2weeks": 1129,
+      "playtime_forever": 52193,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
@@ -35,6 +35,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 625597,
-  "fetched_at": "2026-07-08T03:23:00.506Z"
+  "totalPlaytime": 625603,
+  "fetched_at": "2026-07-08T08:37:00.646Z"
 }
