@@ -2,7 +2,7 @@
   "profile": {
     "name": "Ogi",
     "followers": 6,
-    "playlists": 77
+    "playlists": 0
   },
   "tracks": [
     {
@@ -299,5 +299,5 @@
       "played_at": "2026-07-06T22:42:15.246Z"
     }
   ],
-  "fetched_at": "2026-07-07T04:32:04.082Z"
+  "fetched_at": "2026-07-08T07:27:19.786Z"
 }
