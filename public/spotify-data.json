@@ -175,132 +175,127 @@
   ],
   "recently_played": [
     {
-      "id": "3CIyK1V4JEJkg02E4EJnDl",
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "id": "3YUmaXADZY1wdTrGCF4Fdw",
+      "name": "Romeo and Juliet, Op. 64: No. 13 Dance of the Knights",
       "artists": [
-        "Imagine Dragons",
-        "JID",
-        "Arcane",
-        "League of Legends"
+        "Sergei Prokofiev",
+        "Orchestra of the Royal Opera House, Covent Garden",
+        "Mark Ermler"
       ],
-      "album": "Mercury - Acts 1 & 2",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fc915b69600dce2991a61f13",
-      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
-      "duration_ms": 173381,
-      "played_at": "2026-07-09T19:05:43.045Z"
+      "album": "Prokofiev: Romeo & Juliet",
+      "image": "https://i.scdn.co/image/ab67616d00001e02685509b5f4b89b6e85cbc189",
+      "url": "https://open.spotify.com/track/3YUmaXADZY1wdTrGCF4Fdw",
+      "duration_ms": 344600,
+      "played_at": "2026-07-09T21:00:52.345Z"
     },
     {
-      "id": "5ruzrDWcT0vuJIOMW7gMnW",
-      "name": "The Adults Are Talking",
+      "id": "6lvJDlBrtabJWiBlMTGxKs",
+      "name": "For the Damaged Coda",
       "artists": [
-        "The Strokes"
+        "Blonde Redhead"
       ],
-      "album": "The New Abnormal",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-      "duration_ms": 309053,
-      "played_at": "2026-07-09T03:02:12.578Z"
+      "album": "Melody of Certain Damaged Lemons",
+      "image": "https://i.scdn.co/image/ab67616d00001e025d03db2dbc21ba11e3e00330",
+      "url": "https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs",
+      "duration_ms": 157000,
+      "played_at": "2026-07-09T20:55:07.355Z"
     },
     {
-      "id": "4fCgs9QWdr1pGEnukqGAju",
-      "name": "Back to 8",
+      "id": "5lCqi1duvzahzMzW7RfLDI",
+      "name": "Rhinestone Eyes",
       "artists": [
-        "Else"
+        "Gorillaz"
       ],
-      "album": "Sequence, Pt. I",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a28752fcf5d966c3ef9e6f2d",
-      "url": "https://open.spotify.com/track/4fCgs9QWdr1pGEnukqGAju",
-      "duration_ms": 181346,
-      "played_at": "2026-07-09T02:57:03.205Z"
+      "album": "Plastic Beach (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e024960e8b13691e5570337d4d8",
+      "url": "https://open.spotify.com/track/5lCqi1duvzahzMzW7RfLDI",
+      "duration_ms": 200173,
+      "played_at": "2026-07-09T20:52:30.098Z"
     },
     {
-      "id": "59wlTaYOL5tDUgXnbBQ3my",
-      "name": "A Moment Apart",
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
       "artists": [
-        "ODESZA"
+        "The Plot In You"
       ],
-      "album": "A Moment Apart",
-      "image": "https://i.scdn.co/image/ab67616d00001e0245951a69fe39a6e163122eab",
-      "url": "https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my",
-      "duration_ms": 234244,
-      "played_at": "2026-07-09T02:54:01.508Z"
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-07-09T20:49:09.659Z"
     },
     {
-      "id": "4Hff1IjRbLGeLgFgxvHflk",
-      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "id": "04aAxqtGp5pv12UXAg4pkq",
+      "name": "Centuries",
       "artists": [
-        "Gorillaz",
-        "Shaun Ryder",
-        "Roses Gabor"
+        "Fall Out Boy"
       ],
-      "album": "Demon Days",
-      "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
-      "duration_ms": 244999,
-      "played_at": "2026-07-09T02:50:06.876Z"
+      "album": "American Beauty/American Psycho",
+      "image": "https://i.scdn.co/image/ab67616d00001e023cf1c1dbcfa3f1ab7282719b",
+      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq",
+      "duration_ms": 228360,
+      "played_at": "2026-07-09T20:45:32.466Z"
     },
     {
-      "id": "4GRMPDD3V6rM2BlmRdYCUJ",
-      "name": "Pulsar",
+      "id": "5rPNVwYjVEgkq6YNPki4Zc",
+      "name": "BABYDOLL",
       "artists": [
-        "Kavinsky"
+        "Ari Abdul"
       ],
-      "album": "Reborn",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d54c7c424d1b095611771530",
-      "url": "https://open.spotify.com/track/4GRMPDD3V6rM2BlmRdYCUJ",
-      "duration_ms": 214000,
-      "played_at": "2026-07-09T02:46:01.506Z"
+      "album": "BABYDOLL",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ef2703ce223d63435928571",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc",
+      "duration_ms": 196235,
+      "played_at": "2026-07-09T20:41:43.833Z"
     },
     {
-      "id": "3JG1uFc40wfyrqaWC7iv0e",
-      "name": "i like the way you kiss me",
+      "id": "2Fxmhks0bxGSBdJ92vM42m",
+      "name": "bad guy",
       "artists": [
-        "Artemas"
+        "Billie Eilish"
       ],
-      "album": "yustyna",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c9cd12dd361f5d40ca435868",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e",
-      "duration_ms": 142514,
-      "played_at": "2026-07-09T02:42:27.192Z"
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "image": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m",
+      "duration_ms": 194087,
+      "played_at": "2026-07-09T20:38:27.307Z"
     },
     {
-      "id": "69KJdmmh75OrQnj5bFWt4T",
-      "name": "Niemand",
+      "id": "0m5xMNMK48sQVjASd4YPPt",
+      "name": "Brutus (Instrumental)",
       "artists": [
-        "KOMPROMAT",
-        "Vitalic",
-        "Rebeka Warrior"
+        "The Buttress"
       ],
-      "album": "Traum und Existenz",
-      "image": "https://i.scdn.co/image/ab67616d00001e0257c3d153f5d17b8a69e3db14",
-      "url": "https://open.spotify.com/track/69KJdmmh75OrQnj5bFWt4T",
-      "duration_ms": 243846,
-      "played_at": "2026-07-09T02:40:04.366Z"
+      "album": "Brutus (Instrumental)",
+      "image": "https://i.scdn.co/image/ab67616d00001e024689abc811f92fc406725ab8",
+      "url": "https://open.spotify.com/track/0m5xMNMK48sQVjASd4YPPt",
+      "duration_ms": 200000,
+      "played_at": "2026-07-09T20:35:12.955Z"
     },
     {
-      "id": "5RBOcBpJXaNnHCGViJmYhh",
-      "name": "The Perfect Girl",
+      "id": "6Rqn2GFlmvmV4w9Ala0I1e",
+      "name": "Feeling Good",
       "artists": [
-        "Mareux"
+        "Nina Simone"
       ],
-      "album": "The Perfect Girl",
-      "image": "https://i.scdn.co/image/ab67616d00001e023d54a30e59638f60f56dd4e6",
-      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh",
-      "duration_ms": 194423,
-      "played_at": "2026-07-09T02:36:00.109Z"
+      "album": "I Put A Spell On You",
+      "image": "https://i.scdn.co/image/ab67616d00001e02892abb1ade35b4863b29e051",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "duration_ms": 174000,
+      "played_at": "2026-07-09T20:31:52.685Z"
     },
     {
-      "id": "2X485T9Z5Ly0xyaghN73ed",
-      "name": "Let It Happen",
+      "id": "4Pxm8GR4lQT1WnhvN2qNvx",
+      "name": "void - super slowed",
       "artists": [
-        "Tame Impala"
+        "isq"
       ],
-      "album": "Currents",
-      "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
-      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed",
-      "duration_ms": 467586,
-      "played_at": "2026-07-09T02:32:45.351Z"
+      "album": "void",
+      "image": "https://i.scdn.co/image/ab67616d00001e02479c9842be5a7b9dd0b7454c",
+      "url": "https://open.spotify.com/track/4Pxm8GR4lQT1WnhvN2qNvx",
+      "duration_ms": 101420,
+      "played_at": "2026-07-09T20:28:58.396Z"
     }
   ],
-  "fetched_at": "2026-07-09T19:06:58.916Z"
+  "fetched_at": "2026-07-09T21:02:27.725Z"
 }
