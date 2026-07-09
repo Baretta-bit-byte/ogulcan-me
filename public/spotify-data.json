@@ -134,6 +134,19 @@
       "genres": []
     },
     {
+      "id": "6RPIHSSgY4dNZSOgbqHAG1",
+      "name": "Le jour se lève",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
+      "preview_url": null,
+      "duration_ms": 181493,
+      "genres": []
+    },
+    {
       "id": "51jVzNcOXpVOfzFv7jH8MA",
       "name": "Voilà",
       "artists": [
@@ -158,96 +171,44 @@
       "preview_url": null,
       "duration_ms": 322226,
       "genres": []
-    },
-    {
-      "id": "6RPIHSSgY4dNZSOgbqHAG1",
-      "name": "Le jour se lève",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
-      "preview_url": null,
-      "duration_ms": 181493,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "12Ypr3PCVJ2i7Uwz93q1Vl",
-      "name": "Opr",
+      "id": "5ruzrDWcT0vuJIOMW7gMnW",
+      "name": "The Adults Are Talking",
       "artists": [
-        "Gesaffelstein"
+        "The Strokes"
       ],
-      "album": "Conspiracy Pt.2",
-      "image": "https://i.scdn.co/image/ab67616d00001e029c11e6241d59940a0157c75a",
-      "url": "https://open.spotify.com/track/12Ypr3PCVJ2i7Uwz93q1Vl",
-      "duration_ms": 233965,
-      "played_at": "2026-07-09T00:05:49.252Z"
+      "album": "The New Abnormal",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+      "duration_ms": 309053,
+      "played_at": "2026-07-09T03:02:12.578Z"
     },
     {
-      "id": "5fcIg2K2fGHToWOC8pvuX2",
-      "name": "Origine",
+      "id": "4fCgs9QWdr1pGEnukqGAju",
+      "name": "Back to 8",
       "artists": [
         "Else"
       ],
       "album": "Sequence, Pt. I",
       "image": "https://i.scdn.co/image/ab67616d00001e02a28752fcf5d966c3ef9e6f2d",
-      "url": "https://open.spotify.com/track/5fcIg2K2fGHToWOC8pvuX2",
-      "duration_ms": 234706,
-      "played_at": "2026-07-09T00:01:54.969Z"
+      "url": "https://open.spotify.com/track/4fCgs9QWdr1pGEnukqGAju",
+      "duration_ms": 181346,
+      "played_at": "2026-07-09T02:57:03.205Z"
     },
     {
-      "id": "7pM9cLbrgRGX1hHElTX92m",
-      "name": "Acid Rain",
+      "id": "59wlTaYOL5tDUgXnbBQ3my",
+      "name": "A Moment Apart",
       "artists": [
-        "Lorn"
+        "ODESZA"
       ],
-      "album": "The Maze To Nowhere",
-      "image": "https://i.scdn.co/image/ab67616d00001e024e7be339cee55cf14e6bc50f",
-      "url": "https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m",
-      "duration_ms": 172473,
-      "played_at": "2026-07-08T23:57:59.923Z"
-    },
-    {
-      "id": "6RK3IsiUW6YaSMEodbO4tk",
-      "name": "Solitude - Felsmann + Tiley Reinterpretation",
-      "artists": [
-        "M83",
-        "Felsmann + Tiley"
-      ],
-      "album": "Solitude (Felsmann + Tiley Reinterpretation)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fe2c5d2fa20c15dbb06a606b",
-      "url": "https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk",
-      "duration_ms": 222354,
-      "played_at": "2026-07-08T23:55:07.097Z"
-    },
-    {
-      "id": "2KejCKgm7l3uefW9cFt8cH",
-      "name": "Nightcall",
-      "artists": [
-        "Kavinsky",
-        "Angèle",
-        "Phoenix"
-      ],
-      "album": "Nightcall",
-      "image": "https://i.scdn.co/image/ab67616d00001e0282e856e42426e69b8bb43461",
-      "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH",
-      "duration_ms": 179306,
-      "played_at": "2026-07-08T23:51:24.388Z"
-    },
-    {
-      "id": "40sRwFjfrRnaTdYPJIg4CP",
-      "name": "Hometown",
-      "artists": [
-        "Twenty One Pilots"
-      ],
-      "album": "Blurryface",
-      "image": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
-      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP",
-      "duration_ms": 234946,
-      "played_at": "2026-07-07T00:15:08.129Z"
+      "album": "A Moment Apart",
+      "image": "https://i.scdn.co/image/ab67616d00001e0245951a69fe39a6e163122eab",
+      "url": "https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my",
+      "duration_ms": 234244,
+      "played_at": "2026-07-09T02:54:01.508Z"
     },
     {
       "id": "4Hff1IjRbLGeLgFgxvHflk",
@@ -261,7 +222,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
       "duration_ms": 244999,
-      "played_at": "2026-07-06T23:14:37.540Z"
+      "played_at": "2026-07-09T02:50:06.876Z"
     },
     {
       "id": "4GRMPDD3V6rM2BlmRdYCUJ",
@@ -273,32 +234,70 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02d54c7c424d1b095611771530",
       "url": "https://open.spotify.com/track/4GRMPDD3V6rM2BlmRdYCUJ",
       "duration_ms": 214000,
-      "played_at": "2026-07-06T23:10:31.943Z"
+      "played_at": "2026-07-09T02:46:01.506Z"
     },
     {
-      "id": "6K4t31amVTZDgR3sKmwUJJ",
-      "name": "The Less I Know The Better",
+      "id": "3JG1uFc40wfyrqaWC7iv0e",
+      "name": "i like the way you kiss me",
+      "artists": [
+        "Artemas"
+      ],
+      "album": "yustyna",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c9cd12dd361f5d40ca435868",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e",
+      "duration_ms": 142514,
+      "played_at": "2026-07-09T02:42:27.192Z"
+    },
+    {
+      "id": "69KJdmmh75OrQnj5bFWt4T",
+      "name": "Niemand",
+      "artists": [
+        "KOMPROMAT",
+        "Vitalic",
+        "Rebeka Warrior"
+      ],
+      "album": "Traum und Existenz",
+      "image": "https://i.scdn.co/image/ab67616d00001e0257c3d153f5d17b8a69e3db14",
+      "url": "https://open.spotify.com/track/69KJdmmh75OrQnj5bFWt4T",
+      "duration_ms": 243846,
+      "played_at": "2026-07-09T02:40:04.366Z"
+    },
+    {
+      "id": "5RBOcBpJXaNnHCGViJmYhh",
+      "name": "The Perfect Girl",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "The Perfect Girl",
+      "image": "https://i.scdn.co/image/ab67616d00001e023d54a30e59638f60f56dd4e6",
+      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh",
+      "duration_ms": 194423,
+      "played_at": "2026-07-09T02:36:00.109Z"
+    },
+    {
+      "id": "2X485T9Z5Ly0xyaghN73ed",
+      "name": "Let It Happen",
       "artists": [
         "Tame Impala"
       ],
       "album": "Currents",
       "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
-      "duration_ms": 216320,
-      "played_at": "2026-07-06T23:06:57.582Z"
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed",
+      "duration_ms": 467586,
+      "played_at": "2026-07-09T02:32:45.351Z"
     },
     {
-      "id": "1CLZzeLWqdhz5IfR5vHy4u",
-      "name": "Hot Blooded",
+      "id": "5GDzL9A3IihC8zm00RlH6Q",
+      "name": "Pacific Coast Highway",
       "artists": [
-        "New Constellations"
+        "Kavinsky"
       ],
-      "album": "It Comes in Waves",
-      "image": "https://i.scdn.co/image/ab67616d00001e02debbc97cbabb7e91e224d4db",
-      "url": "https://open.spotify.com/track/1CLZzeLWqdhz5IfR5vHy4u",
-      "duration_ms": 287000,
-      "played_at": "2026-07-06T23:03:20.881Z"
+      "album": "Nightcall",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7",
+      "url": "https://open.spotify.com/track/5GDzL9A3IihC8zm00RlH6Q",
+      "duration_ms": 344266,
+      "played_at": "2026-07-09T02:24:57.389Z"
     }
   ],
-  "fetched_at": "2026-07-09T00:07:11.184Z"
+  "fetched_at": "2026-07-09T04:29:16.158Z"
 }
