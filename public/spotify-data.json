@@ -175,6 +175,21 @@
   ],
   "recently_played": [
     {
+      "id": "3CIyK1V4JEJkg02E4EJnDl",
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "artists": [
+        "Imagine Dragons",
+        "JID",
+        "Arcane",
+        "League of Legends"
+      ],
+      "album": "Mercury - Acts 1 & 2",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fc915b69600dce2991a61f13",
+      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
+      "duration_ms": 173381,
+      "played_at": "2026-07-09T19:05:43.045Z"
+    },
+    {
       "id": "5ruzrDWcT0vuJIOMW7gMnW",
       "name": "The Adults Are Talking",
       "artists": [
@@ -285,19 +300,7 @@
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed",
       "duration_ms": 467586,
       "played_at": "2026-07-09T02:32:45.351Z"
-    },
-    {
-      "id": "5GDzL9A3IihC8zm00RlH6Q",
-      "name": "Pacific Coast Highway",
-      "artists": [
-        "Kavinsky"
-      ],
-      "album": "Nightcall",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7",
-      "url": "https://open.spotify.com/track/5GDzL9A3IihC8zm00RlH6Q",
-      "duration_ms": 344266,
-      "played_at": "2026-07-09T02:24:57.389Z"
     }
   ],
-  "fetched_at": "2026-07-09T04:29:16.158Z"
+  "fetched_at": "2026-07-09T19:06:58.916Z"
 }
