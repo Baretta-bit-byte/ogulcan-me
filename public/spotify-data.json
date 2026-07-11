@@ -175,6 +175,18 @@
   ],
   "recently_played": [
     {
+      "id": "53iuhJlwXhSER5J2IYYv1W",
+      "name": "The Fate of Ophelia",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "The Life of a Showgirl",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
+      "duration_ms": 226073,
+      "played_at": "2026-07-11T12:29:39.693Z"
+    },
+    {
       "id": "221eHga9f9Ne4f8D7WVgPT",
       "name": "Mystical Magical",
       "artists": [
@@ -281,19 +293,7 @@
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U",
       "duration_ms": 224998,
       "played_at": "2026-07-10T23:14:56.589Z"
-    },
-    {
-      "id": "3qhlB30KknSejmIvZZLjOD",
-      "name": "End of Beginning",
-      "artists": [
-        "Djo"
-      ],
-      "album": "DECIDE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "duration_ms": 159245,
-      "played_at": "2026-07-10T23:11:11.254Z"
     }
   ],
-  "fetched_at": "2026-07-11T00:55:56.507Z"
+  "fetched_at": "2026-07-11T12:31:26.792Z"
 }
