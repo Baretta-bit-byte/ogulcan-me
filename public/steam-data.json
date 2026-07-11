@@ -20,8 +20,8 @@
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 1342,
-      "playtime_forever": 52755,
+      "playtime_2weeks": 1401,
+      "playtime_forever": 52814,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
@@ -36,13 +36,13 @@
     {
       "appid": 108600,
       "name": "Project Zomboid",
-      "playtime_2weeks": 16,
-      "playtime_forever": 4106,
+      "playtime_2weeks": 76,
+      "playtime_forever": 4166,
       "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg"
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 627182,
-  "fetched_at": "2026-07-11T10:18:56.517Z"
+  "totalPlaytime": 627301,
+  "fetched_at": "2026-07-11T13:38:50.030Z"
 }
