@@ -12,7 +12,7 @@
     {
       "appid": 1158310,
       "name": "Crusader Kings III",
-      "playtime_2weeks": 2894,
+      "playtime_2weeks": 2772,
       "playtime_forever": 47520,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
@@ -28,8 +28,8 @@
     {
       "appid": 108600,
       "name": "Project Zomboid",
-      "playtime_2weeks": 318,
-      "playtime_forever": 4408,
+      "playtime_2weeks": 479,
+      "playtime_forever": 4569,
       "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg"
     },
@@ -43,6 +43,6 @@
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 627895,
-  "fetched_at": "2026-07-12T10:37:55.538Z"
+  "totalPlaytime": 628056,
+  "fetched_at": "2026-07-12T13:39:06.922Z"
 }
