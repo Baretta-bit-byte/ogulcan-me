@@ -184,6 +184,18 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
       "duration_ms": 226073,
+      "played_at": "2026-07-14T13:32:56.533Z"
+    },
+    {
+      "id": "53iuhJlwXhSER5J2IYYv1W",
+      "name": "The Fate of Ophelia",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "The Life of a Showgirl",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
+      "duration_ms": 226073,
       "played_at": "2026-07-11T12:29:39.693Z"
     },
     {
@@ -281,19 +293,7 @@
       "url": "https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV",
       "duration_ms": 189898,
       "played_at": "2026-07-10T23:18:06.699Z"
-    },
-    {
-      "id": "7Hc6qcJG4NtyZgbNvQyd8U",
-      "name": "drop dead",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "album": "drop dead (taken that eurostar to france video)",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a1495ff41046065b9475366",
-      "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U",
-      "duration_ms": 224998,
-      "played_at": "2026-07-10T23:14:56.589Z"
     }
   ],
-  "fetched_at": "2026-07-11T12:31:26.792Z"
+  "fetched_at": "2026-07-14T14:23:22.639Z"
 }
