@@ -175,6 +175,18 @@
   ],
   "recently_played": [
     {
+      "id": "6g8bTcPOpvBK2LXbF0Q0s6",
+      "name": "The Fate of Ophelia",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "The Fate of Ophelia",
+      "image": "https://i.scdn.co/image/ab6742d3000053b74d4d140547a3ce98af7cdb33",
+      "url": "https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6",
+      "duration_ms": 238162,
+      "played_at": "2026-07-14T14:32:56.703Z"
+    },
+    {
       "id": "53iuhJlwXhSER5J2IYYv1W",
       "name": "The Fate of Ophelia",
       "artists": [
@@ -281,19 +293,7 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
       "duration_ms": 176453,
       "played_at": "2026-07-10T23:21:03.431Z"
-    },
-    {
-      "id": "7N1GSHGlLwXY3lN5gv3QLV",
-      "name": "Midnight Sun",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "Midnight Sun",
-      "image": "https://i.scdn.co/image/ab67616d00001e0293872dded9b6fe861ac52752",
-      "url": "https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV",
-      "duration_ms": 189898,
-      "played_at": "2026-07-10T23:18:06.699Z"
     }
   ],
-  "fetched_at": "2026-07-14T14:23:22.639Z"
+  "fetched_at": "2026-07-14T15:55:54.008Z"
 }
