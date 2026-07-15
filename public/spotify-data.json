@@ -175,6 +175,67 @@
   ],
   "recently_played": [
     {
+      "id": "1rQdkZYzQNGM1j0L1TOohe",
+      "name": "Sleepy",
+      "artists": [
+        "Mg."
+      ],
+      "album": "Don't You Worry",
+      "image": "https://i.scdn.co/image/ab67616d00001e0253aad79965d5ad7e53482bc9",
+      "url": "https://open.spotify.com/track/1rQdkZYzQNGM1j0L1TOohe",
+      "duration_ms": 90937,
+      "played_at": "2026-07-15T17:25:05.225Z"
+    },
+    {
+      "id": "5IeQw2PZRe9pUXh3gYM7WZ",
+      "name": "Green Field",
+      "artists": [
+        "Mujo",
+        "Hakone"
+      ],
+      "album": "Kinomoto",
+      "image": "https://i.scdn.co/image/ab67616d00001e024cad577a80321645faaf9aae",
+      "url": "https://open.spotify.com/track/5IeQw2PZRe9pUXh3gYM7WZ",
+      "duration_ms": 85432,
+      "played_at": "2026-07-15T16:25:02.748Z"
+    },
+    {
+      "id": "7517GXwPtvDRKkuq6EIqhY",
+      "name": "the WORLD (Death Note)",
+      "artists": [
+        "Ren Avel"
+      ],
+      "album": "Eternal Ride",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
+      "url": "https://open.spotify.com/track/7517GXwPtvDRKkuq6EIqhY",
+      "duration_ms": 112300,
+      "played_at": "2026-07-15T16:23:36.982Z"
+    },
+    {
+      "id": "2NspidNR9L5CejFgoaEs0F",
+      "name": "Yama",
+      "artists": [
+        "Urushi"
+      ],
+      "album": "Sanpo",
+      "image": "https://i.scdn.co/image/ab67616d00001e0238cc1920030a32dc5d51d3aa",
+      "url": "https://open.spotify.com/track/2NspidNR9L5CejFgoaEs0F",
+      "duration_ms": 108000,
+      "played_at": "2026-07-15T16:21:44.350Z"
+    },
+    {
+      "id": "4UrViON0OGcsZ7vuFxzAH9",
+      "name": "Blue Garnet",
+      "artists": [
+        "Azido 88"
+      ],
+      "album": "Rare Gems",
+      "image": "https://i.scdn.co/image/ab67616d00001e022443749c3ea6b98bf26574ad",
+      "url": "https://open.spotify.com/track/4UrViON0OGcsZ7vuFxzAH9",
+      "duration_ms": 101273,
+      "played_at": "2026-07-15T16:19:56.039Z"
+    },
+    {
       "id": "1WVQjhIZZjhiwHTAN7BoOA",
       "name": "Get Some",
       "artists": [
@@ -233,70 +294,7 @@
       "url": "https://open.spotify.com/track/6pGvmUg6b6EaxNR4957CmD",
       "duration_ms": 138035,
       "played_at": "2026-07-15T16:09:51.989Z"
-    },
-    {
-      "id": "2MMuIrRETm4UgGjL1PPxMZ",
-      "name": "Safie",
-      "artists": [
-        "Azido 88",
-        "Moon Ghetto",
-        "KO WIN"
-      ],
-      "album": "Dusty by Nature",
-      "image": "https://i.scdn.co/image/ab67616d00001e0217573fac8220f5b1959677bc",
-      "url": "https://open.spotify.com/track/2MMuIrRETm4UgGjL1PPxMZ",
-      "duration_ms": 144015,
-      "played_at": "2026-07-15T16:07:33.660Z"
-    },
-    {
-      "id": "4eYXm5kNSqS5W1YApJXg8w",
-      "name": "Lost Woods (The Legend of Zelda)",
-      "artists": [
-        "Ren Avel"
-      ],
-      "album": "Eternal Ride",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
-      "url": "https://open.spotify.com/track/4eYXm5kNSqS5W1YApJXg8w",
-      "duration_ms": 86210,
-      "played_at": "2026-07-15T16:05:09.308Z"
-    },
-    {
-      "id": "0G4fFrZhC5ftEtqHAauOmA",
-      "name": "Have a Nice Day",
-      "artists": [
-        "LoFi Waiter"
-      ],
-      "album": "Coffee Sunrise",
-      "image": "https://i.scdn.co/image/ab67616d00001e0210004bdd8790cf5c0a27a42c",
-      "url": "https://open.spotify.com/track/0G4fFrZhC5ftEtqHAauOmA",
-      "duration_ms": 72015,
-      "played_at": "2026-07-15T16:03:42.673Z"
-    },
-    {
-      "id": "5JOWASuEfaKXMAJS7pQrxm",
-      "name": "Midnat Zon",
-      "artists": [
-        "Shierro",
-        "Hoffy Beats"
-      ],
-      "album": "Feel Again",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b929e63b1e8a9a206b9a18e2",
-      "url": "https://open.spotify.com/track/5JOWASuEfaKXMAJS7pQrxm",
-      "duration_ms": 117283,
-      "played_at": "2026-07-15T16:02:30.144Z"
-    },
-    {
-      "id": "10hweQwWcUhBcpipYEvCYD",
-      "name": "I Fell in Love with You One Night in September",
-      "artists": [
-        "Rook1e"
-      ],
-      "album": "Dreams for Two",
-      "image": "https://i.scdn.co/image/ab67616d00001e028392d967b03df224e9eb7753",
-      "url": "https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD",
-      "duration_ms": 96004,
-      "played_at": "2026-07-15T16:00:32.393Z"
     }
   ],
-  "fetched_at": "2026-07-15T16:19:47.444Z"
+  "fetched_at": "2026-07-15T17:46:00.174Z"
 }
