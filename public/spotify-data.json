@@ -147,6 +147,19 @@
       "genres": []
     },
     {
+      "id": "0kYMwaQWABTkFff8AZjmYI",
+      "name": "Hayloft II",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Inside (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
+      "preview_url": null,
+      "duration_ms": 215040,
+      "genres": []
+    },
+    {
       "id": "51jVzNcOXpVOfzFv7jH8MA",
       "name": "Voilà",
       "artists": [
@@ -158,22 +171,48 @@
       "preview_url": null,
       "duration_ms": 179010,
       "genres": []
-    },
-    {
-      "id": "1v7L65Lzy0j0vdpRjJewt1",
-      "name": "Lose Yourself",
-      "artists": [
-        "Eminem"
-      ],
-      "album": "Just Lose It",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
-      "preview_url": null,
-      "duration_ms": 322226,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        "Fort Minor",
+        "Styles Of Beyond"
+      ],
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "duration_ms": 230493,
+      "played_at": "2026-07-15T20:14:31.021Z"
+    },
+    {
+      "id": "1o8KlPs8vP99OUXLhqZS2j",
+      "name": "Floating Birds",
+      "artists": [
+        "Mujo",
+        "Hakone"
+      ],
+      "album": "Kinomoto",
+      "image": "https://i.scdn.co/image/ab67616d00001e024cad577a80321645faaf9aae",
+      "url": "https://open.spotify.com/track/1o8KlPs8vP99OUXLhqZS2j",
+      "duration_ms": 133975,
+      "played_at": "2026-07-15T19:13:19.894Z"
+    },
+    {
+      "id": "3pU9rTbVS0hTluYHCUrhM3",
+      "name": "Do Not Disturb",
+      "artists": [
+        "Shierro",
+        "Majko"
+      ],
+      "album": "Feel Again",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b929e63b1e8a9a206b9a18e2",
+      "url": "https://open.spotify.com/track/3pU9rTbVS0hTluYHCUrhM3",
+      "duration_ms": 96000,
+      "played_at": "2026-07-15T19:08:49.424Z"
+    },
     {
       "id": "3WWy7Sf34apfBgC3tgiIzJ",
       "name": "National Park (Pokémon Gold & Silver)",
@@ -259,44 +298,7 @@
       "url": "https://open.spotify.com/track/1rQdkZYzQNGM1j0L1TOohe",
       "duration_ms": 90937,
       "played_at": "2026-07-15T17:25:05.225Z"
-    },
-    {
-      "id": "5IeQw2PZRe9pUXh3gYM7WZ",
-      "name": "Green Field",
-      "artists": [
-        "Mujo",
-        "Hakone"
-      ],
-      "album": "Kinomoto",
-      "image": "https://i.scdn.co/image/ab67616d00001e024cad577a80321645faaf9aae",
-      "url": "https://open.spotify.com/track/5IeQw2PZRe9pUXh3gYM7WZ",
-      "duration_ms": 85432,
-      "played_at": "2026-07-15T16:25:02.748Z"
-    },
-    {
-      "id": "7517GXwPtvDRKkuq6EIqhY",
-      "name": "the WORLD (Death Note)",
-      "artists": [
-        "Ren Avel"
-      ],
-      "album": "Eternal Ride",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
-      "url": "https://open.spotify.com/track/7517GXwPtvDRKkuq6EIqhY",
-      "duration_ms": 112300,
-      "played_at": "2026-07-15T16:23:36.982Z"
-    },
-    {
-      "id": "2NspidNR9L5CejFgoaEs0F",
-      "name": "Yama",
-      "artists": [
-        "Urushi"
-      ],
-      "album": "Sanpo",
-      "image": "https://i.scdn.co/image/ab67616d00001e0238cc1920030a32dc5d51d3aa",
-      "url": "https://open.spotify.com/track/2NspidNR9L5CejFgoaEs0F",
-      "duration_ms": 108000,
-      "played_at": "2026-07-15T16:21:44.350Z"
     }
   ],
-  "fetched_at": "2026-07-15T19:07:23.154Z"
+  "fetched_at": "2026-07-15T20:32:00.645Z"
 }
