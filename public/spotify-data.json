@@ -147,6 +147,20 @@
       "genres": []
     },
     {
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        "Fort Minor",
+        "Styles Of Beyond"
+      ],
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "preview_url": null,
+      "duration_ms": 230493,
+      "genres": []
+    },
+    {
       "id": "0kYMwaQWABTkFff8AZjmYI",
       "name": "Hayloft II",
       "artists": [
@@ -158,22 +172,21 @@
       "preview_url": null,
       "duration_ms": 215040,
       "genres": []
-    },
-    {
-      "id": "51jVzNcOXpVOfzFv7jH8MA",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Voilà",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7ae4826be527f383fecc9b032",
-      "url": "https://open.spotify.com/track/51jVzNcOXpVOfzFv7jH8MA",
-      "preview_url": null,
-      "duration_ms": 179010,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
+      "name": "Verbatim",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Touch Up",
+      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
+      "duration_ms": 168320,
+      "played_at": "2026-07-15T20:52:50.346Z"
+    },
     {
       "id": "7ccC26pJ3aDG81sS4FwdXF",
       "name": "Remember the Name (feat. Styles of Beyond)",
@@ -286,19 +299,7 @@
       "url": "https://open.spotify.com/track/5luOraSHm3lBm8MMPVQBUd",
       "duration_ms": 112941,
       "played_at": "2026-07-15T18:55:12.141Z"
-    },
-    {
-      "id": "1rQdkZYzQNGM1j0L1TOohe",
-      "name": "Sleepy",
-      "artists": [
-        "Mg."
-      ],
-      "album": "Don't You Worry",
-      "image": "https://i.scdn.co/image/ab67616d00001e0253aad79965d5ad7e53482bc9",
-      "url": "https://open.spotify.com/track/1rQdkZYzQNGM1j0L1TOohe",
-      "duration_ms": 90937,
-      "played_at": "2026-07-15T17:25:05.225Z"
     }
   ],
-  "fetched_at": "2026-07-15T20:32:00.645Z"
+  "fetched_at": "2026-07-15T21:58:18.207Z"
 }
