@@ -175,6 +175,80 @@
   ],
   "recently_played": [
     {
+      "id": "3WWy7Sf34apfBgC3tgiIzJ",
+      "name": "National Park (Pokémon Gold & Silver)",
+      "artists": [
+        "Ren Avel"
+      ],
+      "album": "Eternal Ride",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
+      "url": "https://open.spotify.com/track/3WWy7Sf34apfBgC3tgiIzJ",
+      "duration_ms": 119240,
+      "played_at": "2026-07-15T19:05:46.815Z"
+    },
+    {
+      "id": "185zigPtYB9O1M7g3qQX3i",
+      "name": "Hello",
+      "artists": [
+        "C4C",
+        "kokoro"
+      ],
+      "album": "L'aventure",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b57a480637cbf3f5533d27a7",
+      "url": "https://open.spotify.com/track/185zigPtYB9O1M7g3qQX3i",
+      "duration_ms": 149647,
+      "played_at": "2026-07-15T19:03:47.363Z"
+    },
+    {
+      "id": "05OZmDVwm0g5So428pQhK4",
+      "name": "Disappearing Trouble",
+      "artists": [
+        "Mg.",
+        "Panama Pajamas"
+      ],
+      "album": "Don't You Worry",
+      "image": "https://i.scdn.co/image/ab67616d00001e0253aad79965d5ad7e53482bc9",
+      "url": "https://open.spotify.com/track/05OZmDVwm0g5So428pQhK4",
+      "duration_ms": 116647,
+      "played_at": "2026-07-15T19:01:17.460Z"
+    },
+    {
+      "id": "1IZsiQ3OQIOXEdFhDji6BZ",
+      "name": "Colors (Code Geass)",
+      "artists": [
+        "Ren Avel"
+      ],
+      "album": "Eternal Ride",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
+      "url": "https://open.spotify.com/track/1IZsiQ3OQIOXEdFhDji6BZ",
+      "duration_ms": 136500,
+      "played_at": "2026-07-15T18:59:20.600Z"
+    },
+    {
+      "id": "2njaa3wPRXq4gRF8rLb9Nt",
+      "name": "Levitating",
+      "artists": [
+        "Altair Blake"
+      ],
+      "album": "Levitating",
+      "image": "https://i.scdn.co/image/ab67616d00001e021bc09d336bc40d673f003e0f",
+      "url": "https://open.spotify.com/track/2njaa3wPRXq4gRF8rLb9Nt",
+      "duration_ms": 111428,
+      "played_at": "2026-07-15T18:57:03.763Z"
+    },
+    {
+      "id": "5luOraSHm3lBm8MMPVQBUd",
+      "name": "Asayake",
+      "artists": [
+        "Urushi"
+      ],
+      "album": "Sanpo",
+      "image": "https://i.scdn.co/image/ab67616d00001e0238cc1920030a32dc5d51d3aa",
+      "url": "https://open.spotify.com/track/5luOraSHm3lBm8MMPVQBUd",
+      "duration_ms": 112941,
+      "played_at": "2026-07-15T18:55:12.141Z"
+    },
+    {
       "id": "1rQdkZYzQNGM1j0L1TOohe",
       "name": "Sleepy",
       "artists": [
@@ -222,79 +296,7 @@
       "url": "https://open.spotify.com/track/2NspidNR9L5CejFgoaEs0F",
       "duration_ms": 108000,
       "played_at": "2026-07-15T16:21:44.350Z"
-    },
-    {
-      "id": "4UrViON0OGcsZ7vuFxzAH9",
-      "name": "Blue Garnet",
-      "artists": [
-        "Azido 88"
-      ],
-      "album": "Rare Gems",
-      "image": "https://i.scdn.co/image/ab67616d00001e022443749c3ea6b98bf26574ad",
-      "url": "https://open.spotify.com/track/4UrViON0OGcsZ7vuFxzAH9",
-      "duration_ms": 101273,
-      "played_at": "2026-07-15T16:19:56.039Z"
-    },
-    {
-      "id": "1WVQjhIZZjhiwHTAN7BoOA",
-      "name": "Get Some",
-      "artists": [
-        "Shierro"
-      ],
-      "album": "Coffee Camino",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ad1e423670533e17c6b7bb0",
-      "url": "https://open.spotify.com/track/1WVQjhIZZjhiwHTAN7BoOA",
-      "duration_ms": 96085,
-      "played_at": "2026-07-15T16:18:14.469Z"
-    },
-    {
-      "id": "4rrWWlbHx29AOk9yWqn1NE",
-      "name": "Sanpo",
-      "artists": [
-        "Urushi"
-      ],
-      "album": "Sanpo",
-      "image": "https://i.scdn.co/image/ab67616d00001e0238cc1920030a32dc5d51d3aa",
-      "url": "https://open.spotify.com/track/4rrWWlbHx29AOk9yWqn1NE",
-      "duration_ms": 115200,
-      "played_at": "2026-07-15T16:16:38.071Z"
-    },
-    {
-      "id": "4pLzvrVnur18zmxa7SvVca",
-      "name": "Hinode",
-      "artists": [
-        "Urushi"
-      ],
-      "album": "Sanpo",
-      "image": "https://i.scdn.co/image/ab67616d00001e0238cc1920030a32dc5d51d3aa",
-      "url": "https://open.spotify.com/track/4pLzvrVnur18zmxa7SvVca",
-      "duration_ms": 120000,
-      "played_at": "2026-07-15T16:14:42.562Z"
-    },
-    {
-      "id": "71dunkBpmkFvH2eGp6cbz6",
-      "name": "Dan Dan Kokoro Hikareteku (Dragon Ball GT)",
-      "artists": [
-        "Ren Avel"
-      ],
-      "album": "Eternal Ride",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
-      "url": "https://open.spotify.com/track/71dunkBpmkFvH2eGp6cbz6",
-      "duration_ms": 169852,
-      "played_at": "2026-07-15T16:12:42.244Z"
-    },
-    {
-      "id": "6pGvmUg6b6EaxNR4957CmD",
-      "name": "Japanese Garden",
-      "artists": [
-        "Blue Wednesday"
-      ],
-      "album": "Discovery",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f05ee7925b0b874a4dc8993d",
-      "url": "https://open.spotify.com/track/6pGvmUg6b6EaxNR4957CmD",
-      "duration_ms": 138035,
-      "played_at": "2026-07-15T16:09:51.989Z"
     }
   ],
-  "fetched_at": "2026-07-15T17:46:00.174Z"
+  "fetched_at": "2026-07-15T19:07:23.154Z"
 }
