@@ -176,130 +176,127 @@
   ],
   "recently_played": [
     {
-      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
-      "name": "Verbatim",
+      "id": "22VtvEbttc3y0MuekCm7Sb",
+      "name": "Obi-Wan",
       "artists": [
-        "Mother Mother"
+        "John Williams"
       ],
-      "album": "Touch Up",
-      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
-      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
-      "duration_ms": 168320,
-      "played_at": "2026-07-15T20:52:50.346Z"
+      "album": "Obi-Wan Kenobi (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02196f599c2bf0512a7bca7a21",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb",
+      "duration_ms": 246520,
+      "played_at": "2026-07-17T16:02:39.518Z"
     },
     {
-      "id": "7ccC26pJ3aDG81sS4FwdXF",
-      "name": "Remember the Name (feat. Styles of Beyond)",
+      "id": "1NkI8DtCnjcWVCVLF0gB71",
+      "name": "The Batman",
       "artists": [
-        "Fort Minor",
-        "Styles Of Beyond"
+        "Michael Giacchino"
       ],
-      "album": "The Rising Tied (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "duration_ms": 230493,
-      "played_at": "2026-07-15T20:14:31.021Z"
+      "album": "The Batman (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029c8bc3823967e9168badd41f",
+      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71",
+      "duration_ms": 407533,
+      "played_at": "2026-07-17T15:59:02.504Z"
     },
     {
-      "id": "1o8KlPs8vP99OUXLhqZS2j",
-      "name": "Floating Birds",
+      "id": "3xwMfWfBRgdTWzPNrIfDTw",
+      "name": "Fresh Air",
       "artists": [
-        "Mujo",
-        "Hakone"
+        "Juliàn",
+        "HoKø"
       ],
-      "album": "Kinomoto",
-      "image": "https://i.scdn.co/image/ab67616d00001e024cad577a80321645faaf9aae",
-      "url": "https://open.spotify.com/track/1o8KlPs8vP99OUXLhqZS2j",
-      "duration_ms": 133975,
-      "played_at": "2026-07-15T19:13:19.894Z"
+      "album": "Fresh Air",
+      "image": "https://i.scdn.co/image/ab67616d00001e02507ca4c6db04d7a9a3684495",
+      "url": "https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw",
+      "duration_ms": 175135,
+      "played_at": "2026-07-17T15:52:14.598Z"
     },
     {
-      "id": "3pU9rTbVS0hTluYHCUrhM3",
-      "name": "Do Not Disturb",
+      "id": "5GrVyPPaSy9OksTkFOpdns",
+      "name": "Alone in the World",
       "artists": [
-        "Shierro",
-        "Majko"
+        "Kupla"
       ],
-      "album": "Feel Again",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b929e63b1e8a9a206b9a18e2",
-      "url": "https://open.spotify.com/track/3pU9rTbVS0hTluYHCUrhM3",
-      "duration_ms": 96000,
-      "played_at": "2026-07-15T19:08:49.424Z"
+      "album": "Owls and Pinecones",
+      "image": "https://i.scdn.co/image/ab67616d00001e0208cdfc50c5d560347c010300",
+      "url": "https://open.spotify.com/track/5GrVyPPaSy9OksTkFOpdns",
+      "duration_ms": 137764,
+      "played_at": "2026-07-17T15:49:19.193Z"
     },
     {
-      "id": "3WWy7Sf34apfBgC3tgiIzJ",
-      "name": "National Park (Pokémon Gold & Silver)",
+      "id": "5PZvnDAinoO35pfJFG1Y63",
+      "name": "La Luna",
       "artists": [
-        "Ren Avel"
+        "Mr. Tape",
+        "RNSHW"
       ],
-      "album": "Eternal Ride",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
-      "url": "https://open.spotify.com/track/3WWy7Sf34apfBgC3tgiIzJ",
-      "duration_ms": 119240,
-      "played_at": "2026-07-15T19:05:46.815Z"
+      "album": "Arkade Destinations Tulum",
+      "image": "https://i.scdn.co/image/ab67616d00001e027cac62ce86c70fdc870757f8",
+      "url": "https://open.spotify.com/track/5PZvnDAinoO35pfJFG1Y63",
+      "duration_ms": 357383,
+      "played_at": "2026-07-17T15:47:01.109Z"
     },
     {
-      "id": "185zigPtYB9O1M7g3qQX3i",
-      "name": "Hello",
+      "id": "3PmEzB2ORXmXBx07JY9z66",
+      "name": "Optimistic Nihilism",
       "artists": [
-        "C4C",
-        "kokoro"
+        "Epic Mountain"
       ],
-      "album": "L'aventure",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b57a480637cbf3f5533d27a7",
-      "url": "https://open.spotify.com/track/185zigPtYB9O1M7g3qQX3i",
-      "duration_ms": 149647,
-      "played_at": "2026-07-15T19:03:47.363Z"
+      "album": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dddbac1b8d6c89231c4c4743",
+      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66",
+      "duration_ms": 372000,
+      "played_at": "2026-07-17T15:41:03.521Z"
     },
     {
-      "id": "05OZmDVwm0g5So428pQhK4",
-      "name": "Disappearing Trouble",
+      "id": "0lWWho4vGcKfIX8kA8YmAy",
+      "name": "Dreamscapes",
       "artists": [
-        "Mg.",
-        "Panama Pajamas"
+        "Agnes Lundh"
       ],
-      "album": "Don't You Worry",
-      "image": "https://i.scdn.co/image/ab67616d00001e0253aad79965d5ad7e53482bc9",
-      "url": "https://open.spotify.com/track/05OZmDVwm0g5So428pQhK4",
-      "duration_ms": 116647,
-      "played_at": "2026-07-15T19:01:17.460Z"
+      "album": "Dreamscapes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02738de1ab142d2d24a413d9f7",
+      "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy",
+      "duration_ms": 159500,
+      "played_at": "2026-07-17T15:34:51.234Z"
     },
     {
-      "id": "1IZsiQ3OQIOXEdFhDji6BZ",
-      "name": "Colors (Code Geass)",
+      "id": "1d6BkMki9M6K0yp9OLBzOM",
+      "name": "Fire and Light",
       "artists": [
-        "Ren Avel"
+        "Actress"
       ],
-      "album": "Eternal Ride",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cf4c6d85e5e541198f4bf909",
-      "url": "https://open.spotify.com/track/1IZsiQ3OQIOXEdFhDji6BZ",
-      "duration_ms": 136500,
-      "played_at": "2026-07-15T18:59:20.600Z"
+      "album": "Karma & Desire",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b49431a7907a90c4d0ce0373",
+      "url": "https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM",
+      "duration_ms": 75969,
+      "played_at": "2026-07-17T15:32:11.393Z"
     },
     {
-      "id": "2njaa3wPRXq4gRF8rLb9Nt",
-      "name": "Levitating",
+      "id": "6xcD8EbsvMep9ULtidHI2j",
+      "name": "Winter Sun",
       "artists": [
-        "Altair Blake"
+        "Sun Of They"
       ],
-      "album": "Levitating",
-      "image": "https://i.scdn.co/image/ab67616d00001e021bc09d336bc40d673f003e0f",
-      "url": "https://open.spotify.com/track/2njaa3wPRXq4gRF8rLb9Nt",
-      "duration_ms": 111428,
-      "played_at": "2026-07-15T18:57:03.763Z"
+      "album": "Winter Sun",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abeeebfdcb45af5748911f9",
+      "url": "https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j",
+      "duration_ms": 142000,
+      "played_at": "2026-07-17T15:30:55.252Z"
     },
     {
-      "id": "5luOraSHm3lBm8MMPVQBUd",
-      "name": "Asayake",
+      "id": "1vW8krAHupYxF1xRCfQnkD",
+      "name": "Symmetry Systems (Emerald)",
       "artists": [
-        "Urushi"
+        "36"
       ],
-      "album": "Sanpo",
-      "image": "https://i.scdn.co/image/ab67616d00001e0238cc1920030a32dc5d51d3aa",
-      "url": "https://open.spotify.com/track/5luOraSHm3lBm8MMPVQBUd",
-      "duration_ms": 112941,
-      "played_at": "2026-07-15T18:55:12.141Z"
+      "album": "Symmetry Systems",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e78e7314f93343ee8c1d01dd",
+      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD",
+      "duration_ms": 202427,
+      "played_at": "2026-07-17T15:28:32.974Z"
     }
   ],
-  "fetched_at": "2026-07-15T21:58:18.207Z"
+  "fetched_at": "2026-07-17T16:13:49.137Z"
 }
