@@ -12,7 +12,7 @@
     {
       "appid": 1158310,
       "name": "Crusader Kings III",
-      "playtime_2weeks": 2070,
+      "playtime_2weeks": 2042,
       "playtime_forever": 48082,
       "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
@@ -20,7 +20,7 @@
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 1529,
+      "playtime_2weeks": 1422,
       "playtime_forever": 53609,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
@@ -44,5 +44,5 @@
   ],
   "totalGames": 124,
   "totalPlaytime": 629707,
-  "fetched_at": "2026-07-21T16:26:01.279Z"
+  "fetched_at": "2026-07-21T19:39:04.719Z"
 }
