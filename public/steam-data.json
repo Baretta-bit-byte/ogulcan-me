@@ -20,7 +20,7 @@
     {
       "appid": 381210,
       "name": "Dead by Daylight",
-      "playtime_2weeks": 1416,
+      "playtime_2weeks": 1410,
       "playtime_forever": 53609,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
@@ -36,13 +36,13 @@
     {
       "appid": 431730,
       "name": "Aseprite",
-      "playtime_2weeks": 294,
-      "playtime_forever": 400,
+      "playtime_2weeks": 305,
+      "playtime_forever": 412,
       "img_icon_url": "da61bd2806f69205a97609dcdd4ca27df3baf800",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/431730/header.jpg"
     }
   ],
   "totalGames": 124,
-  "totalPlaytime": 629707,
-  "fetched_at": "2026-07-22T08:36:11.087Z"
+  "totalPlaytime": 629719,
+  "fetched_at": "2026-07-22T11:12:32.343Z"
 }
