@@ -174,6 +174,129 @@
       "genres": []
     }
   ],
-  "recently_played": [],
-  "fetched_at": "2026-07-22T00:57:25.033Z"
+  "recently_played": [
+    {
+      "id": "22VtvEbttc3y0MuekCm7Sb",
+      "name": "Obi-Wan",
+      "artists": [
+        "John Williams"
+      ],
+      "album": "Obi-Wan Kenobi (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02196f599c2bf0512a7bca7a21",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb",
+      "duration_ms": 246520,
+      "played_at": "2026-07-17T16:02:39.518Z"
+    },
+    {
+      "id": "1NkI8DtCnjcWVCVLF0gB71",
+      "name": "The Batman",
+      "artists": [
+        "Michael Giacchino"
+      ],
+      "album": "The Batman (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029c8bc3823967e9168badd41f",
+      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71",
+      "duration_ms": 407533,
+      "played_at": "2026-07-17T15:59:02.504Z"
+    },
+    {
+      "id": "3xwMfWfBRgdTWzPNrIfDTw",
+      "name": "Fresh Air",
+      "artists": [
+        "Juliàn",
+        "HoKø"
+      ],
+      "album": "Fresh Air",
+      "image": "https://i.scdn.co/image/ab67616d00001e02507ca4c6db04d7a9a3684495",
+      "url": "https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw",
+      "duration_ms": 175135,
+      "played_at": "2026-07-17T15:52:14.598Z"
+    },
+    {
+      "id": "5GrVyPPaSy9OksTkFOpdns",
+      "name": "Alone in the World",
+      "artists": [
+        "Kupla"
+      ],
+      "album": "Owls and Pinecones",
+      "image": "https://i.scdn.co/image/ab67616d00001e0208cdfc50c5d560347c010300",
+      "url": "https://open.spotify.com/track/5GrVyPPaSy9OksTkFOpdns",
+      "duration_ms": 137764,
+      "played_at": "2026-07-17T15:49:19.193Z"
+    },
+    {
+      "id": "5PZvnDAinoO35pfJFG1Y63",
+      "name": "La Luna",
+      "artists": [
+        "Mr. Tape",
+        "RNSHW"
+      ],
+      "album": "Arkade Destinations Tulum",
+      "image": "https://i.scdn.co/image/ab67616d00001e027cac62ce86c70fdc870757f8",
+      "url": "https://open.spotify.com/track/5PZvnDAinoO35pfJFG1Y63",
+      "duration_ms": 357383,
+      "played_at": "2026-07-17T15:47:01.109Z"
+    },
+    {
+      "id": "3PmEzB2ORXmXBx07JY9z66",
+      "name": "Optimistic Nihilism",
+      "artists": [
+        "Epic Mountain"
+      ],
+      "album": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dddbac1b8d6c89231c4c4743",
+      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66",
+      "duration_ms": 372000,
+      "played_at": "2026-07-17T15:41:03.521Z"
+    },
+    {
+      "id": "0lWWho4vGcKfIX8kA8YmAy",
+      "name": "Dreamscapes",
+      "artists": [
+        "Agnes Lundh"
+      ],
+      "album": "Dreamscapes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02738de1ab142d2d24a413d9f7",
+      "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy",
+      "duration_ms": 159500,
+      "played_at": "2026-07-17T15:34:51.234Z"
+    },
+    {
+      "id": "1d6BkMki9M6K0yp9OLBzOM",
+      "name": "Fire and Light",
+      "artists": [
+        "Actress"
+      ],
+      "album": "Karma & Desire",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b49431a7907a90c4d0ce0373",
+      "url": "https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM",
+      "duration_ms": 75969,
+      "played_at": "2026-07-17T15:32:11.393Z"
+    },
+    {
+      "id": "6xcD8EbsvMep9ULtidHI2j",
+      "name": "Winter Sun",
+      "artists": [
+        "Sun Of They"
+      ],
+      "album": "Winter Sun",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abeeebfdcb45af5748911f9",
+      "url": "https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j",
+      "duration_ms": 142000,
+      "played_at": "2026-07-17T15:30:55.252Z"
+    },
+    {
+      "id": "1vW8krAHupYxF1xRCfQnkD",
+      "name": "Symmetry Systems (Emerald)",
+      "artists": [
+        "36"
+      ],
+      "album": "Symmetry Systems",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e78e7314f93343ee8c1d01dd",
+      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD",
+      "duration_ms": 202427,
+      "played_at": "2026-07-17T15:28:32.974Z"
+    }
+  ],
+  "fetched_at": "2026-07-22T04:19:35.202Z"
 }
