@@ -176,6 +176,18 @@
   ],
   "recently_played": [
     {
+      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
+      "name": "Verbatim",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Touch Up",
+      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
+      "duration_ms": 168320,
+      "played_at": "2026-07-24T12:42:01.184Z"
+    },
+    {
       "id": "22VtvEbttc3y0MuekCm7Sb",
       "name": "Obi-Wan",
       "artists": [
@@ -284,19 +296,7 @@
       "url": "https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j",
       "duration_ms": 142000,
       "played_at": "2026-07-17T15:30:55.252Z"
-    },
-    {
-      "id": "1vW8krAHupYxF1xRCfQnkD",
-      "name": "Symmetry Systems (Emerald)",
-      "artists": [
-        "36"
-      ],
-      "album": "Symmetry Systems",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e78e7314f93343ee8c1d01dd",
-      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD",
-      "duration_ms": 202427,
-      "played_at": "2026-07-17T15:28:32.974Z"
     }
   ],
-  "fetched_at": "2026-07-22T04:19:35.202Z"
+  "fetched_at": "2026-07-24T12:56:04.366Z"
 }
