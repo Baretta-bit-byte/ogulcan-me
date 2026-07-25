@@ -10,14 +10,6 @@
   },
   "recentGames": [
     {
-      "appid": 1158310,
-      "name": "Crusader Kings III",
-      "playtime_2weeks": 914,
-      "playtime_forever": 48082,
-      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
-    },
-    {
       "appid": 381210,
       "name": "Dead by Daylight",
       "playtime_2weeks": 795,
@@ -26,9 +18,17 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     },
     {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "playtime_2weeks": 775,
+      "playtime_forever": 48082,
+      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
+    },
+    {
       "appid": 108600,
       "name": "Project Zomboid",
-      "playtime_2weeks": 386,
+      "playtime_2weeks": 385,
       "playtime_forever": 4569,
       "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg"
@@ -44,5 +44,5 @@
   ],
   "totalGames": 124,
   "totalPlaytime": 629728,
-  "fetched_at": "2026-07-25T13:46:58.591Z"
+  "fetched_at": "2026-07-25T16:07:33.842Z"
 }
