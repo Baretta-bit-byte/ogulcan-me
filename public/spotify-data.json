@@ -58,6 +58,22 @@
       "genres": []
     },
     {
+      "id": "6M47gaKejso9772SKTa3yH",
+      "name": "Face Off",
+      "artists": [
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
+      ],
+      "album": "ASIN9NE",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "preview_url": null,
+      "duration_ms": 219802,
+      "genres": []
+    },
+    {
       "id": "6RPIHSSgY4dNZSOgbqHAG1",
       "name": "Le jour se lève",
       "artists": [
@@ -130,6 +146,122 @@
       "genres": []
     },
     {
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        "Fort Minor",
+        "Styles Of Beyond"
+      ],
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "preview_url": null,
+      "duration_ms": 230493,
+      "genres": []
+    },
+    {
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "preview_url": null,
+      "duration_ms": 322226,
+      "genres": []
+    }
+  ],
+  "recently_played": [
+    {
+      "id": "5zsHmE2gO3RefVsPyw2e3T",
+      "name": "What's Up Danger (with Black Caviar)",
+      "artists": [
+        "Blackway",
+        "Black Caviar"
+      ],
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
+      "duration_ms": 222306,
+      "played_at": "2026-07-27T16:44:44.530Z"
+    },
+    {
+      "id": "6dWWOi8PvMJPOl60TwQxKP",
+      "name": "Fight Back",
+      "artists": [
+        "NEFFEX"
+      ],
+      "album": "Fight Back: The Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
+      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
+      "duration_ms": 200571,
+      "played_at": "2026-07-27T16:41:01.863Z"
+    },
+    {
+      "id": "66orjI5vOkyxOZLHWrPklh",
+      "name": "X Gon' Give It To Ya - Int'l Bonus track",
+      "artists": [
+        "DMX"
+      ],
+      "album": "Grand Champ",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
+      "duration_ms": 219733,
+      "played_at": "2026-07-27T16:37:40.855Z"
+    },
+    {
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "duration_ms": 322226,
+      "played_at": "2026-07-27T16:34:00.748Z"
+    },
+    {
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
+      "artists": [
+        "Eminem",
+        "Nate Dogg"
+      ],
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "duration_ms": 297786,
+      "played_at": "2026-07-27T16:28:38.138Z"
+    },
+    {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "duration_ms": 269554,
+      "played_at": "2026-07-27T16:23:40.032Z"
+    },
+    {
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        "Fort Minor",
+        "Styles Of Beyond"
+      ],
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "duration_ms": 230493,
+      "played_at": "2026-07-27T16:19:10.159Z"
+    },
+    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -141,38 +273,9 @@
       "album": "ASIN9NE",
       "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
       "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
-      "preview_url": null,
       "duration_ms": 219802,
-      "genres": []
+      "played_at": "2026-07-27T16:15:19.302Z"
     },
-    {
-      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
-      "name": "Verbatim",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Touch Up",
-      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
-      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
-      "preview_url": null,
-      "duration_ms": 168320,
-      "genres": []
-    },
-    {
-      "id": "73jau1m4RjoVDzwxgj01Oj",
-      "name": "Prière aux rêves",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Les prières",
-      "image": "https://i.scdn.co/image/ab67616d00001e0289bc25f4302920dcc61f6f77",
-      "url": "https://open.spotify.com/track/73jau1m4RjoVDzwxgj01Oj",
-      "preview_url": null,
-      "duration_ms": 141653,
-      "genres": []
-    }
-  ],
-  "recently_played": [
     {
       "id": "4IA6pgGRmqfxWGAfyZ8cgR",
       "name": "Verbatim",
@@ -186,5 +289,5 @@
       "played_at": "2026-07-24T12:42:01.184Z"
     }
   ],
-  "fetched_at": "2026-07-25T10:10:08.873Z"
+  "fetched_at": "2026-07-27T17:16:44.132Z"
 }
