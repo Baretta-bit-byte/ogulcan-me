@@ -32,32 +32,6 @@
       "genres": []
     },
     {
-      "id": "26bFNT0RkAk1WQVXMNhnZf",
-      "name": "Je l'aime, je l'aime, je l'aime",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
-      "preview_url": null,
-      "duration_ms": 201026,
-      "genres": []
-    },
-    {
-      "id": "42SA5yn5ImejMdGeIAEDmV",
-      "name": "l'homme et l'oiseau",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
-      "preview_url": null,
-      "duration_ms": 215440,
-      "genres": []
-    },
-    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -119,16 +93,29 @@
       "genres": []
     },
     {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
+      "id": "26bFNT0RkAk1WQVXMNhnZf",
+      "name": "Je l'aime, je l'aime, je l'aime",
       "artists": [
         "Barbara Pravi"
       ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
       "preview_url": null,
-      "duration_ms": 187097,
+      "duration_ms": 201026,
+      "genres": []
+    },
+    {
+      "id": "42SA5yn5ImejMdGeIAEDmV",
+      "name": "l'homme et l'oiseau",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
+      "preview_url": null,
+      "duration_ms": 215440,
       "genres": []
     },
     {
@@ -143,6 +130,19 @@
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe",
       "preview_url": null,
       "duration_ms": 260696,
+      "genres": []
+    },
+    {
+      "id": "0qqNRmKYAC9BQj1RQKUwUB",
+      "name": "CHAIR",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "CHAIR",
+      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
+      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
+      "preview_url": null,
+      "duration_ms": 187097,
       "genres": []
     },
     {
@@ -305,5 +305,5 @@
       "played_at": "2026-07-27T18:13:44.001Z"
     }
   ],
-  "fetched_at": "2026-07-27T20:20:20.075Z"
+  "fetched_at": "2026-07-27T21:37:29.549Z"
 }
