@@ -175,6 +175,19 @@
   ],
   "recently_played": [
     {
+      "id": "70hKZ1zLUAvTqcmixQ2E0m",
+      "name": "Forget Me",
+      "artists": [
+        "Peaceful Melody",
+        "soave lofi"
+      ],
+      "album": "Forget Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e028783bc09a48182cf97cb9cc5",
+      "url": "https://open.spotify.com/track/70hKZ1zLUAvTqcmixQ2E0m",
+      "duration_ms": 150909,
+      "played_at": "2026-07-27T19:33:23.811Z"
+    },
+    {
       "id": "2ThVbkZqKjHRjbyHjWkzys",
       "name": "Romance",
       "artists": [
@@ -290,20 +303,7 @@
       "url": "https://open.spotify.com/track/3rSpQSbXcySwxY9zh59zMf",
       "duration_ms": 163902,
       "played_at": "2026-07-27T18:13:44.001Z"
-    },
-    {
-      "id": "0eeB63uDrjTB56bx0pJY8g",
-      "name": "Let Her Go",
-      "artists": [
-        "Peaceful Melody",
-        "soave lofi"
-      ],
-      "album": "Let Her Go",
-      "image": "https://i.scdn.co/image/ab67616d00001e020e649f6782678ae05743b0c4",
-      "url": "https://open.spotify.com/track/0eeB63uDrjTB56bx0pJY8g",
-      "duration_ms": 159403,
-      "played_at": "2026-07-27T18:11:00.009Z"
     }
   ],
-  "fetched_at": "2026-07-27T18:55:11.460Z"
+  "fetched_at": "2026-07-27T20:20:20.075Z"
 }
