@@ -93,32 +93,6 @@
       "genres": []
     },
     {
-      "id": "26bFNT0RkAk1WQVXMNhnZf",
-      "name": "Je l'aime, je l'aime, je l'aime",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
-      "preview_url": null,
-      "duration_ms": 201026,
-      "genres": []
-    },
-    {
-      "id": "42SA5yn5ImejMdGeIAEDmV",
-      "name": "l'homme et l'oiseau",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
-      "preview_url": null,
-      "duration_ms": 215440,
-      "genres": []
-    },
-    {
       "id": "2Xhd1kYKj2aee7JR3nIlRe",
       "name": "Go",
       "artists": [
@@ -143,6 +117,32 @@
       "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
       "preview_url": null,
       "duration_ms": 187097,
+      "genres": []
+    },
+    {
+      "id": "26bFNT0RkAk1WQVXMNhnZf",
+      "name": "Je l'aime, je l'aime, je l'aime",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
+      "preview_url": null,
+      "duration_ms": 201026,
+      "genres": []
+    },
+    {
+      "id": "42SA5yn5ImejMdGeIAEDmV",
+      "name": "l'homme et l'oiseau",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
+      "preview_url": null,
+      "duration_ms": 215440,
       "genres": []
     },
     {
@@ -174,6 +174,19 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0MvjUr7fKzchb49tt3OrMS",
+      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
+      "artists": [
+        "Baroque Festival Orchestra",
+        "Alberto Lizzio"
+      ],
+      "album": "Vivaldi - The Four Seasons",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
+      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
+      "duration_ms": 176040,
+      "played_at": "2026-07-28T10:56:03.702Z"
+    },
     {
       "id": "70hKZ1zLUAvTqcmixQ2E0m",
       "name": "Forget Me",
@@ -290,20 +303,7 @@
       "url": "https://open.spotify.com/track/6zYZnPRfJc20fNVIGjFOAM",
       "duration_ms": 119288,
       "played_at": "2026-07-27T18:15:43.561Z"
-    },
-    {
-      "id": "3rSpQSbXcySwxY9zh59zMf",
-      "name": "Margarita",
-      "artists": [
-        "Lō-fÿkkø",
-        "soave lofi"
-      ],
-      "album": "Margarita",
-      "image": "https://i.scdn.co/image/ab67616d00001e02db100bdb5de7bfd9f3f878d4",
-      "url": "https://open.spotify.com/track/3rSpQSbXcySwxY9zh59zMf",
-      "duration_ms": 163902,
-      "played_at": "2026-07-27T18:13:44.001Z"
     }
   ],
-  "fetched_at": "2026-07-27T21:37:29.549Z"
+  "fetched_at": "2026-07-28T11:34:40.330Z"
 }
