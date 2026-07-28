@@ -10,14 +10,6 @@
   },
   "recentGames": [
     {
-      "appid": 381210,
-      "name": "Dead by Daylight",
-      "playtime_2weeks": 394,
-      "playtime_forever": 53609,
-      "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
-    },
-    {
       "appid": 431730,
       "name": "Aseprite",
       "playtime_2weeks": 315,
@@ -26,15 +18,15 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/431730/header.jpg"
     },
     {
-      "appid": 1158310,
-      "name": "Crusader Kings III",
-      "playtime_2weeks": 1,
-      "playtime_forever": 48082,
-      "img_icon_url": "8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
+      "appid": 381210,
+      "name": "Dead by Daylight",
+      "playtime_2weeks": 308,
+      "playtime_forever": 53609,
+      "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
     }
   ],
   "totalGames": 124,
   "totalPlaytime": 629728,
-  "fetched_at": "2026-07-28T14:22:23.939Z"
+  "fetched_at": "2026-07-28T16:44:28.539Z"
 }
