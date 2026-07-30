@@ -19,19 +19,6 @@
       "genres": []
     },
     {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "preview_url": null,
-      "duration_ms": 207226,
-      "genres": []
-    },
-    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -45,51 +32,6 @@
       "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
       "preview_url": null,
       "duration_ms": 219802,
-      "genres": []
-    },
-    {
-      "id": "6RPIHSSgY4dNZSOgbqHAG1",
-      "name": "Le jour se lève",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/6RPIHSSgY4dNZSOgbqHAG1",
-      "preview_url": null,
-      "duration_ms": 181493,
-      "genres": []
-    },
-    {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "preview_url": null,
-      "duration_ms": 215040,
-      "genres": []
-    },
-    {
-      "id": "3By9jCy6b4dv5XnlhvIWwx",
-      "name": "Dies Irae",
-      "artists": [
-        "Giuseppe Verdi",
-        "Carmen Giannattasio",
-        "Veronica Simeoni",
-        "Alxander Timchenko",
-        "Carlo Colombara",
-        "Yuri Temirkanov",
-        "St. Petersburg Philharmonic Orchestra"
-      ],
-      "album": "Verdi Requiem",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abdabd1eeb2bdd287ad8ce9",
-      "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx",
-      "preview_url": null,
-      "duration_ms": 134746,
       "genres": []
     },
     {
@@ -107,45 +49,6 @@
       "genres": []
     },
     {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
-      "preview_url": null,
-      "duration_ms": 187097,
-      "genres": []
-    },
-    {
-      "id": "26bFNT0RkAk1WQVXMNhnZf",
-      "name": "Je l'aime, je l'aime, je l'aime",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/26bFNT0RkAk1WQVXMNhnZf",
-      "preview_url": null,
-      "duration_ms": 201026,
-      "genres": []
-    },
-    {
-      "id": "42SA5yn5ImejMdGeIAEDmV",
-      "name": "l'homme et l'oiseau",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/42SA5yn5ImejMdGeIAEDmV",
-      "preview_url": null,
-      "duration_ms": 215440,
-      "genres": []
-    },
-    {
       "id": "7ccC26pJ3aDG81sS4FwdXF",
       "name": "Remember the Name (feat. Styles of Beyond)",
       "artists": [
@@ -160,6 +63,32 @@
       "genres": []
     },
     {
+      "id": "0kYMwaQWABTkFff8AZjmYI",
+      "name": "Hayloft II",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Inside (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
+      "preview_url": null,
+      "duration_ms": 215040,
+      "genres": []
+    },
+    {
+      "id": "2jybzMt9CTcpJs0ZfFgQyt",
+      "name": "Louis",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "Barbara Pravi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
+      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
+      "preview_url": null,
+      "duration_ms": 207226,
+      "genres": []
+    },
+    {
       "id": "1v7L65Lzy0j0vdpRjJewt1",
       "name": "Lose Yourself",
       "artists": [
@@ -170,6 +99,72 @@
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
       "preview_url": null,
       "duration_ms": 322226,
+      "genres": []
+    },
+    {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "preview_url": null,
+      "duration_ms": 269554,
+      "genres": []
+    },
+    {
+      "id": "6dWWOi8PvMJPOl60TwQxKP",
+      "name": "Fight Back",
+      "artists": [
+        "NEFFEX"
+      ],
+      "album": "Fight Back: The Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
+      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
+      "preview_url": null,
+      "duration_ms": 200571,
+      "genres": []
+    },
+    {
+      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
+      "name": "Verbatim",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Touch Up",
+      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
+      "preview_url": null,
+      "duration_ms": 168320,
+      "genres": []
+    },
+    {
+      "id": "0qqNRmKYAC9BQj1RQKUwUB",
+      "name": "CHAIR",
+      "artists": [
+        "Barbara Pravi"
+      ],
+      "album": "CHAIR",
+      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
+      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
+      "preview_url": null,
+      "duration_ms": 187097,
+      "genres": []
+    },
+    {
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
+      "artists": [
+        "Eminem",
+        "Nate Dogg"
+      ],
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "preview_url": null,
+      "duration_ms": 297786,
       "genres": []
     }
   ],
@@ -305,5 +300,5 @@
       "played_at": "2026-07-27T18:15:43.561Z"
     }
   ],
-  "fetched_at": "2026-07-28T11:34:40.330Z"
+  "fetched_at": "2026-07-30T18:54:36.876Z"
 }
