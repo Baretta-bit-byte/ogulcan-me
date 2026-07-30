@@ -170,6 +170,59 @@
   ],
   "recently_played": [
     {
+      "id": "22skzmqfdWrjJylampe0kt",
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "artists": [
+        "Macklemore",
+        "Ryan Lewis",
+        "Macklemore & Ryan Lewis",
+        "Ray Dalton"
+      ],
+      "album": "The Heist",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a6b364528b128a4a17d100d",
+      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt",
+      "duration_ms": 258431,
+      "played_at": "2026-07-30T20:44:11.321Z"
+    },
+    {
+      "id": "7KwZNVEaqikRSBSpyhXK2j",
+      "name": "Hypnotize - 2014 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Life After Death (2014 Remastered Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "duration_ms": 229826,
+      "played_at": "2026-07-30T20:39:52.539Z"
+    },
+    {
+      "id": "3UmaczJpikHgJFyBTAJVoz",
+      "name": "Stan",
+      "artists": [
+        "Eminem",
+        "Dido"
+      ],
+      "album": "The Marshall Mathers LP",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz",
+      "duration_ms": 404106,
+      "played_at": "2026-07-30T20:36:02.372Z"
+    },
+    {
+      "id": "3kZoay4ANo86ehb6s4RwS9",
+      "name": "Ridin'",
+      "artists": [
+        "Chamillionaire",
+        "Krayzie Bone"
+      ],
+      "album": "The Sound of Revenge",
+      "image": "https://i.scdn.co/image/ab67616d00001e02abeffe927a62a584cf7c2708",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9",
+      "duration_ms": 303053,
+      "played_at": "2026-07-30T20:29:17.916Z"
+    },
+    {
       "id": "0MvjUr7fKzchb49tt3OrMS",
       "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
       "artists": [
@@ -246,59 +299,7 @@
       "url": "https://open.spotify.com/track/1Z9NUs0Zr45SfJfIGXhNQK",
       "duration_ms": 120923,
       "played_at": "2026-07-27T18:24:13.661Z"
-    },
-    {
-      "id": "7a5dNnssvWHBxE8VZf3c8b",
-      "name": "Sunset",
-      "artists": [
-        "Lō-fÿkkø",
-        "soave lofi"
-      ],
-      "album": "Sunset",
-      "image": "https://i.scdn.co/image/ab67616d00001e023959a22b7b97057b3c0adc0e",
-      "url": "https://open.spotify.com/track/7a5dNnssvWHBxE8VZf3c8b",
-      "duration_ms": 169756,
-      "played_at": "2026-07-27T18:22:12.635Z"
-    },
-    {
-      "id": "39wMVbYVdgFgfPLAj8j4gj",
-      "name": "Flowers",
-      "artists": [
-        "Peaceful Melody",
-        "soave lofi"
-      ],
-      "album": "Flowers",
-      "image": "https://i.scdn.co/image/ab67616d00001e02eb35e02095bcd7df38ca8b1c",
-      "url": "https://open.spotify.com/track/39wMVbYVdgFgfPLAj8j4gj",
-      "duration_ms": 118285,
-      "played_at": "2026-07-27T18:19:22.394Z"
-    },
-    {
-      "id": "4ezRSrRdJkgd0wMYOJ7UYH",
-      "name": "Ice Cream",
-      "artists": [
-        "Lō-fÿkkø",
-        "soave lofi"
-      ],
-      "album": "Ice Cream",
-      "image": "https://i.scdn.co/image/ab67616d00001e024f2b2853122742ce1ec41ee3",
-      "url": "https://open.spotify.com/track/4ezRSrRdJkgd0wMYOJ7UYH",
-      "duration_ms": 100000,
-      "played_at": "2026-07-27T18:17:24.082Z"
-    },
-    {
-      "id": "6zYZnPRfJc20fNVIGjFOAM",
-      "name": "Treat You Better",
-      "artists": [
-        "Peaceful Melody",
-        "soave lofi"
-      ],
-      "album": "Treat You Better",
-      "image": "https://i.scdn.co/image/ab67616d00001e02469872ac1cf07abea64f80b2",
-      "url": "https://open.spotify.com/track/6zYZnPRfJc20fNVIGjFOAM",
-      "duration_ms": 119288,
-      "played_at": "2026-07-27T18:15:43.561Z"
     }
   ],
-  "fetched_at": "2026-07-30T18:54:36.876Z"
+  "fetched_at": "2026-07-30T21:41:13.757Z"
 }
