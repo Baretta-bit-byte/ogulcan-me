@@ -6,19 +6,6 @@
   },
   "tracks": [
     {
-      "id": "0UVlOQ3EEiTVOctUOnJ00w",
-      "name": "Voilà",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "On n’enferme pas les oiseaux",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
-      "preview_url": null,
-      "duration_ms": 177426,
-      "genres": []
-    },
-    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -60,32 +47,6 @@
       "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
       "preview_url": null,
       "duration_ms": 230493,
-      "genres": []
-    },
-    {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "preview_url": null,
-      "duration_ms": 215040,
-      "genres": []
-    },
-    {
-      "id": "2jybzMt9CTcpJs0ZfFgQyt",
-      "name": "Louis",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "Barbara Pravi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02078f773121ca596813284d07",
-      "url": "https://open.spotify.com/track/2jybzMt9CTcpJs0ZfFgQyt",
-      "preview_url": null,
-      "duration_ms": 207226,
       "genres": []
     },
     {
@@ -141,19 +102,6 @@
       "genres": []
     },
     {
-      "id": "0qqNRmKYAC9BQj1RQKUwUB",
-      "name": "CHAIR",
-      "artists": [
-        "Barbara Pravi"
-      ],
-      "album": "CHAIR",
-      "image": "https://i.scdn.co/image/ab67616d00001e022483f8eaa5b23586f153e789",
-      "url": "https://open.spotify.com/track/0qqNRmKYAC9BQj1RQKUwUB",
-      "preview_url": null,
-      "duration_ms": 187097,
-      "genres": []
-    },
-    {
       "id": "4xkOaSrkexMciUUogZKVTS",
       "name": "Till I Collapse",
       "artists": [
@@ -166,9 +114,75 @@
       "preview_url": null,
       "duration_ms": 297786,
       "genres": []
+    },
+    {
+      "id": "04aAxqtGp5pv12UXAg4pkq",
+      "name": "Centuries",
+      "artists": [
+        "Fall Out Boy"
+      ],
+      "album": "American Beauty/American Psycho",
+      "image": "https://i.scdn.co/image/ab67616d00001e023cf1c1dbcfa3f1ab7282719b",
+      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq",
+      "preview_url": null,
+      "duration_ms": 228360,
+      "genres": []
+    },
+    {
+      "id": "5zsHmE2gO3RefVsPyw2e3T",
+      "name": "What's Up Danger (with Black Caviar)",
+      "artists": [
+        "Blackway",
+        "Black Caviar"
+      ],
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
+      "preview_url": null,
+      "duration_ms": 222306,
+      "genres": []
+    },
+    {
+      "id": "0VgkVdmE4gld66l8iyGjgx",
+      "name": "Mask Off",
+      "artists": [
+        "Future"
+      ],
+      "album": "FUTURE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e0b64c8be3c4e804abcb2696",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx",
+      "preview_url": null,
+      "duration_ms": 204600,
+      "genres": []
+    },
+    {
+      "id": "0d28khcov6AiegSCpG5TuT",
+      "name": "Feel Good Inc.",
+      "artists": [
+        "Gorillaz",
+        "De La Soul"
+      ],
+      "album": "Demon Days",
+      "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+      "preview_url": null,
+      "duration_ms": 222640,
+      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "3yfqSUWxFvZELEM4PmlwIR",
+      "name": "The Real Slim Shady",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "The Marshall Mathers LP",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR",
+      "duration_ms": 284200,
+      "played_at": "2026-07-30T20:56:51.173Z"
+    },
     {
       "id": "22skzmqfdWrjJylampe0kt",
       "name": "Can't Hold Us (feat. Ray Dalton)",
@@ -286,20 +300,7 @@
       "url": "https://open.spotify.com/track/2BEcJzglni15QDkfxQWI8b",
       "duration_ms": 140487,
       "played_at": "2026-07-27T18:26:34.375Z"
-    },
-    {
-      "id": "1Z9NUs0Zr45SfJfIGXhNQK",
-      "name": "Quote My Emotion",
-      "artists": [
-        "Peaceful Melody",
-        "soave lofi"
-      ],
-      "album": "Amsterdam Vibes",
-      "image": "https://i.scdn.co/image/ab67616d00001e023aca5d47a773977c6c27281c",
-      "url": "https://open.spotify.com/track/1Z9NUs0Zr45SfJfIGXhNQK",
-      "duration_ms": 120923,
-      "played_at": "2026-07-27T18:24:13.661Z"
     }
   ],
-  "fetched_at": "2026-07-30T21:41:13.757Z"
+  "fetched_at": "2026-08-01T18:01:47.277Z"
 }
