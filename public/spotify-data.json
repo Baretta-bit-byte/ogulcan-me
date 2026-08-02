@@ -172,6 +172,46 @@
   ],
   "recently_played": [
     {
+      "id": "285HeuLxsngjFn4GGegGNm",
+      "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+      "artists": [
+        "David Guetta",
+        "AFROJACK",
+        "Bebe Rexha",
+        "Nicki Minaj"
+      ],
+      "album": "Listen",
+      "image": "https://i.scdn.co/image/ab67616d00001e02720d368aa9ea6335ca40a6f8",
+      "url": "https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm",
+      "duration_ms": 192560,
+      "played_at": "2026-08-02T20:51:42.920Z"
+    },
+    {
+      "id": "2ygMBIctKIAfbEBcT9065L",
+      "name": "Pump It",
+      "artists": [
+        "Black Eyed Peas"
+      ],
+      "album": "Monkey Business",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c6710b4a52539506c30e5354",
+      "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L",
+      "duration_ms": 213066,
+      "played_at": "2026-08-02T20:48:30.038Z"
+    },
+    {
+      "id": "3GpbwCm3YxiWDvy29Uo3vP",
+      "name": "Right Round",
+      "artists": [
+        "Flo Rida",
+        "Kesha"
+      ],
+      "album": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+      "image": "https://i.scdn.co/image/ab67616d00001e027eb51e495a5d31e24e0847cf",
+      "url": "https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP",
+      "duration_ms": 204640,
+      "played_at": "2026-08-02T20:44:56.424Z"
+    },
+    {
       "id": "3yfqSUWxFvZELEM4PmlwIR",
       "name": "The Real Slim Shady",
       "artists": [
@@ -261,46 +301,7 @@
       "url": "https://open.spotify.com/track/70hKZ1zLUAvTqcmixQ2E0m",
       "duration_ms": 150909,
       "played_at": "2026-07-27T19:33:23.811Z"
-    },
-    {
-      "id": "2ThVbkZqKjHRjbyHjWkzys",
-      "name": "Romance",
-      "artists": [
-        "Lō-fÿkkø",
-        "soave lofi"
-      ],
-      "album": "Romance",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f64dc39deb4f2a93f7e7c73d",
-      "url": "https://open.spotify.com/track/2ThVbkZqKjHRjbyHjWkzys",
-      "duration_ms": 160000,
-      "played_at": "2026-07-27T18:31:58.687Z"
-    },
-    {
-      "id": "17YKh1ud3cioE4zR4tTgYw",
-      "name": "Fast Car",
-      "artists": [
-        "Peaceful Melody",
-        "soave lofi"
-      ],
-      "album": "Fast Car",
-      "image": "https://i.scdn.co/image/ab67616d00001e02982b1247bea1faf3aea9ccd2",
-      "url": "https://open.spotify.com/track/17YKh1ud3cioE4zR4tTgYw",
-      "duration_ms": 163809,
-      "played_at": "2026-07-27T18:29:18.427Z"
-    },
-    {
-      "id": "2BEcJzglni15QDkfxQWI8b",
-      "name": "Mon Amour",
-      "artists": [
-        "Lō-fÿkkø",
-        "soave lofi"
-      ],
-      "album": "Mon Amour",
-      "image": "https://i.scdn.co/image/ab67616d00001e029e81b7ac82da69a2385a9a7d",
-      "url": "https://open.spotify.com/track/2BEcJzglni15QDkfxQWI8b",
-      "duration_ms": 140487,
-      "played_at": "2026-07-27T18:26:34.375Z"
     }
   ],
-  "fetched_at": "2026-08-01T18:01:47.277Z"
+  "fetched_at": "2026-08-02T20:52:48.665Z"
 }
