@@ -171,6 +171,68 @@
   ],
   "recently_played": [
     {
+      "id": "0nLCr2HyRIAMyDbFnYQjnG",
+      "name": "yenildiğim tek savaştın",
+      "artists": [
+        "ASLAR",
+        "Lessio",
+        "Astral"
+      ],
+      "album": "yenildiğim tek savaştın",
+      "image": "https://i.scdn.co/image/ab67616d00001e0201e3b5c2f12951beaaf70b37",
+      "url": "https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG",
+      "duration_ms": 109470,
+      "played_at": "2026-08-02T22:12:18.471Z"
+    },
+    {
+      "id": "04Aq0PDoKzXkNvW0suggOt",
+      "name": "Salla",
+      "artists": [
+        "Atiye"
+      ],
+      "album": "Atiye",
+      "image": "https://i.scdn.co/image/ab67616d00001e028172a189d8df0914934c05a7",
+      "url": "https://open.spotify.com/track/04Aq0PDoKzXkNvW0suggOt",
+      "duration_ms": 211893,
+      "played_at": "2026-08-02T22:10:23.317Z"
+    },
+    {
+      "id": "67AMcEV9GTOlxs1NAvUDiU",
+      "name": "RÜYA",
+      "artists": [
+        "manifest"
+      ],
+      "album": "RÜYA",
+      "image": "https://i.scdn.co/image/ab67616d00001e029d0777c046e88c80cd0aa890",
+      "url": "https://open.spotify.com/track/67AMcEV9GTOlxs1NAvUDiU",
+      "duration_ms": 195054,
+      "played_at": "2026-08-02T22:06:50.756Z"
+    },
+    {
+      "id": "1ONwgLvPUbapdtMsMxpxx9",
+      "name": "Hermès 2.0",
+      "artists": [
+        "Batuflex"
+      ],
+      "album": "Hermès 2.0",
+      "image": "https://i.scdn.co/image/ab67616d00001e02719f202314ef636d44191b65",
+      "url": "https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9",
+      "duration_ms": 81290,
+      "played_at": "2026-08-02T22:03:25.334Z"
+    },
+    {
+      "id": "4yHSp3OunMQmvSbIgy2Hhm",
+      "name": "Amatör",
+      "artists": [
+        "manifest"
+      ],
+      "album": "Amatör",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ccb96d4a469a73aff0706316",
+      "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm",
+      "duration_ms": 163809,
+      "played_at": "2026-08-02T21:59:21.482Z"
+    },
+    {
       "id": "4eBE6hpwm7aJxIY4iwgwU8",
       "name": "Hileli",
       "artists": [
@@ -231,73 +293,7 @@
       "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
       "duration_ms": 227520,
       "played_at": "2026-08-02T21:03:40.237Z"
-    },
-    {
-      "id": "285HeuLxsngjFn4GGegGNm",
-      "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
-      "artists": [
-        "David Guetta",
-        "AFROJACK",
-        "Bebe Rexha",
-        "Nicki Minaj"
-      ],
-      "album": "Listen",
-      "image": "https://i.scdn.co/image/ab67616d00001e02720d368aa9ea6335ca40a6f8",
-      "url": "https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm",
-      "duration_ms": 192560,
-      "played_at": "2026-08-02T21:00:49.546Z"
-    },
-    {
-      "id": "70Vdd1gx5tn84jkAU31ASv",
-      "name": "Sexy And I Know It",
-      "artists": [
-        "LMFAO"
-      ],
-      "album": "Sorry For Party Rocking",
-      "image": "https://i.scdn.co/image/ab67616d00001e021db908d5f66645cb158837ca",
-      "url": "https://open.spotify.com/track/70Vdd1gx5tn84jkAU31ASv",
-      "duration_ms": 199480,
-      "played_at": "2026-08-02T21:00:06.561Z"
-    },
-    {
-      "id": "5a8z2vyIDKMh5qcRG6w9wu",
-      "name": "IT GIRL",
-      "artists": [
-        "Aliyah's Interlude"
-      ],
-      "album": "IT GIRL",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e5452807564480b44ba9178e",
-      "url": "https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu",
-      "duration_ms": 161760,
-      "played_at": "2026-08-02T20:52:46.290Z"
-    },
-    {
-      "id": "285HeuLxsngjFn4GGegGNm",
-      "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
-      "artists": [
-        "David Guetta",
-        "AFROJACK",
-        "Bebe Rexha",
-        "Nicki Minaj"
-      ],
-      "album": "Listen",
-      "image": "https://i.scdn.co/image/ab67616d00001e02720d368aa9ea6335ca40a6f8",
-      "url": "https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm",
-      "duration_ms": 192560,
-      "played_at": "2026-08-02T20:51:42.920Z"
-    },
-    {
-      "id": "2ygMBIctKIAfbEBcT9065L",
-      "name": "Pump It",
-      "artists": [
-        "Black Eyed Peas"
-      ],
-      "album": "Monkey Business",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c6710b4a52539506c30e5354",
-      "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L",
-      "duration_ms": 213066,
-      "played_at": "2026-08-02T20:48:30.038Z"
     }
   ],
-  "fetched_at": "2026-08-02T21:53:55.206Z"
+  "fetched_at": "2026-08-02T22:54:24.036Z"
 }
