@@ -2,7 +2,7 @@
   "profile": {
     "name": "Ogi",
     "followers": 7,
-    "playlists": 71
+    "playlists": 73
   },
   "tracks": [
     {
@@ -171,6 +171,32 @@
   ],
   "recently_played": [
     {
+      "id": "6j23yxl5Sktj2uvf9Yb3gK",
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "artists": [
+        "Cardi B",
+        "Megan Thee Stallion"
+      ],
+      "album": "AM I THE DRAMA? (Beat Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02762cb4007f96ee44852f263e",
+      "url": "https://open.spotify.com/track/6j23yxl5Sktj2uvf9Yb3gK",
+      "duration_ms": 187546,
+      "played_at": "2026-08-03T19:52:05.506Z"
+    },
+    {
+      "id": "6j23yxl5Sktj2uvf9Yb3gK",
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "artists": [
+        "Cardi B",
+        "Megan Thee Stallion"
+      ],
+      "album": "AM I THE DRAMA? (Beat Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02762cb4007f96ee44852f263e",
+      "url": "https://open.spotify.com/track/6j23yxl5Sktj2uvf9Yb3gK",
+      "duration_ms": 187546,
+      "played_at": "2026-08-03T19:19:14.959Z"
+    },
+    {
       "id": "2LspdgIN5kLxi8hOqGivOQ",
       "name": "Deli Oglan - Radio Edit",
       "artists": [
@@ -268,32 +294,7 @@
       "url": "https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr",
       "duration_ms": 160998,
       "played_at": "2026-08-02T21:49:52.748Z"
-    },
-    {
-      "id": "7I6DOsv8I8mZC88CkvmrsE",
-      "name": "Satisfaction - Uk Radio Edit",
-      "artists": [
-        "Benny Benassi",
-        "The Biz"
-      ],
-      "album": "Hypnotica (UK Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0253a640af70a4ffb6cf72d9b1",
-      "url": "https://open.spotify.com/track/7I6DOsv8I8mZC88CkvmrsE",
-      "duration_ms": 143360,
-      "played_at": "2026-08-02T21:46:54.657Z"
-    },
-    {
-      "id": "3RKjTYlQrtLXCq5ncswBPp",
-      "name": "Hey, Mickey!",
-      "artists": [
-        "Baby Tate"
-      ],
-      "album": "Hey, Mickey!",
-      "image": "https://i.scdn.co/image/ab67616d00001e022571034f34b381958f8cc727",
-      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp",
-      "duration_ms": 115555,
-      "played_at": "2026-08-02T21:34:30.411Z"
     }
   ],
-  "fetched_at": "2026-08-03T06:42:59.004Z"
+  "fetched_at": "2026-08-03T20:09:51.448Z"
 }
