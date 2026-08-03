@@ -171,6 +171,18 @@
   ],
   "recently_played": [
     {
+      "id": "2LspdgIN5kLxi8hOqGivOQ",
+      "name": "Deli Oglan - Radio Edit",
+      "artists": [
+        "Hadise"
+      ],
+      "album": "Hadise",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d41ed10ce17a5e57bb8f4753",
+      "url": "https://open.spotify.com/track/2LspdgIN5kLxi8hOqGivOQ",
+      "duration_ms": 189200,
+      "played_at": "2026-08-03T06:21:49.326Z"
+    },
+    {
       "id": "0nLCr2HyRIAMyDbFnYQjnG",
       "name": "yenildiğim tek savaştın",
       "artists": [
@@ -281,19 +293,7 @@
       "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp",
       "duration_ms": 115555,
       "played_at": "2026-08-02T21:34:30.411Z"
-    },
-    {
-      "id": "6nzXkCBOhb2mxctNihOqbb",
-      "name": "Bad Girls",
-      "artists": [
-        "M.I.A."
-      ],
-      "album": "Matangi",
-      "image": "https://i.scdn.co/image/ab67616d00001e023d6fa293f49903ed38fbe0de",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
-      "duration_ms": 227520,
-      "played_at": "2026-08-02T21:03:40.237Z"
     }
   ],
-  "fetched_at": "2026-08-02T22:54:24.036Z"
+  "fetched_at": "2026-08-03T06:42:59.004Z"
 }
