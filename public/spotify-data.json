@@ -19,6 +19,33 @@
       "genres": []
     },
     {
+      "id": "0MvjUr7fKzchb49tt3OrMS",
+      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
+      "artists": [
+        "Baroque Festival Orchestra",
+        "Alberto Lizzio"
+      ],
+      "album": "Vivaldi - The Four Seasons",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
+      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
+      "preview_url": null,
+      "duration_ms": 176040,
+      "genres": []
+    },
+    {
+      "id": "4VnDmjYCZkyeqeb0NIKqdA",
+      "name": "Can You Hear The Music",
+      "artists": [
+        "Ludwig Göransson"
+      ],
+      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02af634982d9b15de3c77f7dd9",
+      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
+      "preview_url": null,
+      "duration_ms": 110160,
+      "genres": []
+    },
+    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -49,46 +76,6 @@
       "genres": []
     },
     {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
-      "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
-      ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
-      "preview_url": null,
-      "duration_ms": 176040,
-      "genres": []
-    },
-    {
-      "id": "1v7L65Lzy0j0vdpRjJewt1",
-      "name": "Lose Yourself",
-      "artists": [
-        "Eminem"
-      ],
-      "album": "Just Lose It",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
-      "preview_url": null,
-      "duration_ms": 322226,
-      "genres": []
-    },
-    {
-      "id": "4VnDmjYCZkyeqeb0NIKqdA",
-      "name": "Can You Hear The Music",
-      "artists": [
-        "Ludwig Göransson"
-      ],
-      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02af634982d9b15de3c77f7dd9",
-      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
-      "preview_url": null,
-      "duration_ms": 110160,
-      "genres": []
-    },
-    {
       "id": "0kYMwaQWABTkFff8AZjmYI",
       "name": "Hayloft II",
       "artists": [
@@ -114,19 +101,6 @@
       "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD",
       "preview_url": null,
       "duration_ms": 307826,
-      "genres": []
-    },
-    {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
-      "artists": [
-        "Eminem"
-      ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "preview_url": null,
-      "duration_ms": 269554,
       "genres": []
     },
     {
@@ -169,135 +143,157 @@
       "preview_url": null,
       "duration_ms": 167346,
       "genres": []
+    },
+    {
+      "id": "5Zf25eS8E1znm9mez4cGsm",
+      "name": "Reflections",
+      "artists": [
+        "Toshifumi Hinata"
+      ],
+      "album": "ひとつぶの海",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm",
+      "preview_url": null,
+      "duration_ms": 130693,
+      "genres": []
+    },
+    {
+      "id": "5zsHmE2gO3RefVsPyw2e3T",
+      "name": "What's Up Danger (with Black Caviar)",
+      "artists": [
+        "Blackway",
+        "Black Caviar"
+      ],
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
+      "preview_url": null,
+      "duration_ms": 222306,
+      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "6j23yxl5Sktj2uvf9Yb3gK",
-      "name": "WAP (feat. Megan Thee Stallion)",
+      "id": "3N304YQk9QuT4VY5ulXbuI",
+      "name": "Nalan",
       "artists": [
-        "Cardi B",
-        "Megan Thee Stallion"
+        "Emir Can İğrek"
       ],
-      "album": "AM I THE DRAMA? (Beat Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02762cb4007f96ee44852f263e",
-      "url": "https://open.spotify.com/track/6j23yxl5Sktj2uvf9Yb3gK",
-      "duration_ms": 187546,
-      "played_at": "2026-08-03T20:04:38.100Z"
+      "album": "Nalan",
+      "image": "https://i.scdn.co/image/ab67616d00001e02efecddd412a17ef986bdd351",
+      "url": "https://open.spotify.com/track/3N304YQk9QuT4VY5ulXbuI",
+      "duration_ms": 199958,
+      "played_at": "2026-08-03T22:55:04.072Z"
     },
     {
-      "id": "6j23yxl5Sktj2uvf9Yb3gK",
-      "name": "WAP (feat. Megan Thee Stallion)",
+      "id": "4nXEopCaBCzHk4UODNCTlH",
+      "name": "Bensiz Yapama",
       "artists": [
-        "Cardi B",
-        "Megan Thee Stallion"
+        "Diyar Pala"
       ],
-      "album": "AM I THE DRAMA? (Beat Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02762cb4007f96ee44852f263e",
-      "url": "https://open.spotify.com/track/6j23yxl5Sktj2uvf9Yb3gK",
-      "duration_ms": 187546,
-      "played_at": "2026-08-03T19:52:05.506Z"
+      "album": "Original",
+      "image": "https://i.scdn.co/image/ab67616d00001e02be427c95070821a80dd42f45",
+      "url": "https://open.spotify.com/track/4nXEopCaBCzHk4UODNCTlH",
+      "duration_ms": 200013,
+      "played_at": "2026-08-03T22:51:43.713Z"
     },
     {
-      "id": "6j23yxl5Sktj2uvf9Yb3gK",
-      "name": "WAP (feat. Megan Thee Stallion)",
+      "id": "6uNSbvWZgNkBWw3MP7bpnf",
+      "name": "N'aptığını bilmesem de",
       "artists": [
-        "Cardi B",
-        "Megan Thee Stallion"
+        "BLOK3"
       ],
-      "album": "AM I THE DRAMA? (Beat Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02762cb4007f96ee44852f263e",
-      "url": "https://open.spotify.com/track/6j23yxl5Sktj2uvf9Yb3gK",
-      "duration_ms": 187546,
-      "played_at": "2026-08-03T19:19:14.959Z"
+      "album": "N'aptığını bilmesem de",
+      "image": "https://i.scdn.co/image/ab67616d00001e023f2948db630d25c37048c814",
+      "url": "https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf",
+      "duration_ms": 138817,
+      "played_at": "2026-08-03T22:48:23.322Z"
     },
     {
-      "id": "2LspdgIN5kLxi8hOqGivOQ",
-      "name": "Deli Oglan - Radio Edit",
+      "id": "7hU3H2id2pBVawD7e3zd8N",
+      "name": "Böyle Sever",
+      "artists": [
+        "Kahraman Deniz"
+      ],
+      "album": "19",
+      "image": "https://i.scdn.co/image/ab67616d00001e025288becd356bc1ed97fbb1eb",
+      "url": "https://open.spotify.com/track/7hU3H2id2pBVawD7e3zd8N",
+      "duration_ms": 244307,
+      "played_at": "2026-08-03T22:46:04.128Z"
+    },
+    {
+      "id": "1TxvnXbTRmYwtlkFEn8Rpb",
+      "name": "Uzaktan",
+      "artists": [
+        "Göksel"
+      ],
+      "album": "Bende Bi' Aşk Var",
+      "image": "https://i.scdn.co/image/ab67616d00001e02eb4534ca1227f529d3895fd1",
+      "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb",
+      "duration_ms": 219872,
+      "played_at": "2026-08-03T22:41:59.464Z"
+    },
+    {
+      "id": "7s4j3L5z2qU6ferYLOmFz9",
+      "name": "Üzülmedin mi?",
+      "artists": [
+        "Simge"
+      ],
+      "album": "Ben Bazen",
+      "image": "https://i.scdn.co/image/ab67616d00001e028ffe0967a3b236d34428b19a",
+      "url": "https://open.spotify.com/track/7s4j3L5z2qU6ferYLOmFz9",
+      "duration_ms": 303858,
+      "played_at": "2026-08-03T22:38:19.196Z"
+    },
+    {
+      "id": "4Hb7Lr6S2OEFbelL5ktl12",
+      "name": "Hadi Gittik",
+      "artists": [
+        "Ozbi",
+        "Melek Mosso"
+      ],
+      "album": "Hadi Gittik",
+      "image": "https://i.scdn.co/image/ab67616d00001e025e1ade92d96e1a71c6cc4116",
+      "url": "https://open.spotify.com/track/4Hb7Lr6S2OEFbelL5ktl12",
+      "duration_ms": 270625,
+      "played_at": "2026-08-03T22:33:15.001Z"
+    },
+    {
+      "id": "4E10qEzOmTIVmrg6Wz2RHj",
+      "name": "Saygımdan",
+      "artists": [
+        "Bengü"
+      ],
+      "album": "İkinci Hal",
+      "image": "https://i.scdn.co/image/ab67616d00001e0297ad00a32edde479dfa03c8b",
+      "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj",
+      "duration_ms": 271210,
+      "played_at": "2026-08-03T22:28:44.028Z"
+    },
+    {
+      "id": "7gI0722sWUhVpI0xOpejmZ",
+      "name": "Beyaz Skandalım",
+      "artists": [
+        "Emir Can İğrek"
+      ],
+      "album": "Ağır Roman",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a4cb84689db2c6c6f4a4856",
+      "url": "https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ",
+      "duration_ms": 215488,
+      "played_at": "2026-08-03T22:24:12.435Z"
+    },
+    {
+      "id": "10SXKV8mddSJm6Dsj0Oe4s",
+      "name": "Feryat",
       "artists": [
         "Hadise"
       ],
-      "album": "Hadise",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d41ed10ce17a5e57bb8f4753",
-      "url": "https://open.spotify.com/track/2LspdgIN5kLxi8hOqGivOQ",
-      "duration_ms": 189200,
-      "played_at": "2026-08-03T06:21:49.326Z"
-    },
-    {
-      "id": "0nLCr2HyRIAMyDbFnYQjnG",
-      "name": "yenildiğim tek savaştın",
-      "artists": [
-        "ASLAR",
-        "Lessio",
-        "Astral"
-      ],
-      "album": "yenildiğim tek savaştın",
-      "image": "https://i.scdn.co/image/ab67616d00001e0201e3b5c2f12951beaaf70b37",
-      "url": "https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG",
-      "duration_ms": 109470,
-      "played_at": "2026-08-02T22:12:18.471Z"
-    },
-    {
-      "id": "04Aq0PDoKzXkNvW0suggOt",
-      "name": "Salla",
-      "artists": [
-        "Atiye"
-      ],
-      "album": "Atiye",
-      "image": "https://i.scdn.co/image/ab67616d00001e028172a189d8df0914934c05a7",
-      "url": "https://open.spotify.com/track/04Aq0PDoKzXkNvW0suggOt",
-      "duration_ms": 211893,
-      "played_at": "2026-08-02T22:10:23.317Z"
-    },
-    {
-      "id": "67AMcEV9GTOlxs1NAvUDiU",
-      "name": "RÜYA",
-      "artists": [
-        "manifest"
-      ],
-      "album": "RÜYA",
-      "image": "https://i.scdn.co/image/ab67616d00001e029d0777c046e88c80cd0aa890",
-      "url": "https://open.spotify.com/track/67AMcEV9GTOlxs1NAvUDiU",
-      "duration_ms": 195054,
-      "played_at": "2026-08-02T22:06:50.756Z"
-    },
-    {
-      "id": "1ONwgLvPUbapdtMsMxpxx9",
-      "name": "Hermès 2.0",
-      "artists": [
-        "Batuflex"
-      ],
-      "album": "Hermès 2.0",
-      "image": "https://i.scdn.co/image/ab67616d00001e02719f202314ef636d44191b65",
-      "url": "https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9",
-      "duration_ms": 81290,
-      "played_at": "2026-08-02T22:03:25.334Z"
-    },
-    {
-      "id": "4yHSp3OunMQmvSbIgy2Hhm",
-      "name": "Amatör",
-      "artists": [
-        "manifest"
-      ],
-      "album": "Amatör",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ccb96d4a469a73aff0706316",
-      "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm",
-      "duration_ms": 163809,
-      "played_at": "2026-08-02T21:59:21.482Z"
-    },
-    {
-      "id": "4eBE6hpwm7aJxIY4iwgwU8",
-      "name": "Hileli",
-      "artists": [
-        "manifest",
-        "Ajda Pekkan"
-      ],
-      "album": "Hileli",
-      "image": "https://i.scdn.co/image/ab67616d00001e0268bf830b9d954889967c81b2",
-      "url": "https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8",
-      "duration_ms": 202431,
-      "played_at": "2026-08-02T21:51:52.596Z"
+      "album": "Feryat",
+      "image": "https://i.scdn.co/image/ab67616d00001e027af6b2cf81968d09e46befee",
+      "url": "https://open.spotify.com/track/10SXKV8mddSJm6Dsj0Oe4s",
+      "duration_ms": 185060,
+      "played_at": "2026-08-03T22:18:50.023Z"
     }
   ],
-  "fetched_at": "2026-08-03T21:38:53.204Z"
+  "fetched_at": "2026-08-03T22:57:35.079Z"
 }
