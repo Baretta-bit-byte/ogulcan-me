@@ -103,6 +103,33 @@
       "genres": []
     },
     {
+      "id": "3kZoay4ANo86ehb6s4RwS9",
+      "name": "Ridin'",
+      "artists": [
+        "Chamillionaire",
+        "Krayzie Bone"
+      ],
+      "album": "The Sound of Revenge",
+      "image": "https://i.scdn.co/image/ab67616d00001e02abeffe927a62a584cf7c2708",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9",
+      "preview_url": null,
+      "duration_ms": 303053,
+      "genres": []
+    },
+    {
+      "id": "463c9TeHBQdmuiWUX4Pw3O",
+      "name": "Écoute Chérie",
+      "artists": [
+        "Vendredi sur Mer"
+      ],
+      "album": "Premiers émois",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e52b52c8dc50a93203df2a5a",
+      "url": "https://open.spotify.com/track/463c9TeHBQdmuiWUX4Pw3O",
+      "preview_url": null,
+      "duration_ms": 224929,
+      "genres": []
+    },
+    {
       "id": "4VnDmjYCZkyeqeb0NIKqdA",
       "name": "Can You Hear The Music",
       "artists": [
@@ -141,163 +168,129 @@
       "preview_url": null,
       "duration_ms": 219733,
       "genres": []
-    },
-    {
-      "id": "6dWWOi8PvMJPOl60TwQxKP",
-      "name": "Fight Back",
-      "artists": [
-        "NEFFEX"
-      ],
-      "album": "Fight Back: The Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
-      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
-      "preview_url": null,
-      "duration_ms": 200571,
-      "genres": []
-    },
-    {
-      "id": "0kYMwaQWABTkFff8AZjmYI",
-      "name": "Hayloft II",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Inside (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02310a2e8ff7e84aa1cdbf04d2",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI",
-      "preview_url": null,
-      "duration_ms": 215040,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "3kZoay4ANo86ehb6s4RwS9",
-      "name": "Ridin'",
+      "id": "65lvjeOHd1ZDJKtRpB0c57",
+      "name": "Yokluğunda",
       "artists": [
-        "Chamillionaire",
-        "Krayzie Bone"
+        "Leyla The Band"
       ],
-      "album": "The Sound of Revenge",
-      "image": "https://i.scdn.co/image/ab67616d00001e02abeffe927a62a584cf7c2708",
-      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9",
-      "duration_ms": 303053,
-      "played_at": "2026-08-04T18:21:21.856Z"
+      "album": "Yokluğunda",
+      "image": "https://i.scdn.co/image/ab67616d00001e0288f808bb875a0678818228fc",
+      "url": "https://open.spotify.com/track/65lvjeOHd1ZDJKtRpB0c57",
+      "duration_ms": 250961,
+      "played_at": "2026-08-04T21:45:08.179Z"
     },
     {
-      "id": "2OQJKTtrH482waGFmOfJni",
-      "name": "We Own It (Fast & Furious)",
+      "id": "1SZUZfpj7LXj0I30EYzqGn",
+      "name": "The Lobotomy",
       "artists": [
-        "2 Chainz",
-        "Wiz Khalifa"
+        "Maebi"
       ],
-      "album": "B.O.A.T.S. II #METIME (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b4366694590f7164fad21fc7",
-      "url": "https://open.spotify.com/track/2OQJKTtrH482waGFmOfJni",
-      "duration_ms": 227906,
-      "played_at": "2026-08-04T14:05:11.895Z"
+      "album": "Saudade",
+      "image": "https://i.scdn.co/image/ab67616d00001e021b3a89ccc6739409f185763e",
+      "url": "https://open.spotify.com/track/1SZUZfpj7LXj0I30EYzqGn",
+      "duration_ms": 67500,
+      "played_at": "2026-08-04T21:40:39.184Z"
     },
     {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
+      "id": "0UVlOQ3EEiTVOctUOnJ00w",
+      "name": "Voilà",
       "artists": [
-        "Kanye West"
+        "Barbara Pravi"
       ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "duration_ms": 311866,
-      "played_at": "2026-08-04T13:56:12.117Z"
+      "album": "On n’enferme pas les oiseaux",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ec4068956824493210f6eae8",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w",
+      "duration_ms": 177426,
+      "played_at": "2026-08-04T21:39:31.307Z"
     },
     {
-      "id": "5zsHmE2gO3RefVsPyw2e3T",
-      "name": "What's Up Danger (with Black Caviar)",
+      "id": "4lnAR9AH0WZoRUNsOgwHXd",
+      "name": "Fire of Love",
       "artists": [
-        "Blackway",
-        "Black Caviar"
+        "Jesse Jo Stark"
       ],
-      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
-      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
-      "duration_ms": 222306,
-      "played_at": "2026-08-04T13:50:59.904Z"
+      "album": "Fire of Love",
+      "image": "https://i.scdn.co/image/ab67616d00001e023fec8874814f17086f00a616",
+      "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd",
+      "duration_ms": 280497,
+      "played_at": "2026-08-04T21:36:20.067Z"
     },
     {
-      "id": "6dWWOi8PvMJPOl60TwQxKP",
-      "name": "Fight Back",
+      "id": "44zGAo63hhc3xo0rlBweRo",
+      "name": "Cheers Darlin'",
       "artists": [
-        "NEFFEX"
+        "Damien Rice"
       ],
-      "album": "Fight Back: The Collection",
-      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
-      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
-      "duration_ms": 200571,
-      "played_at": "2026-08-04T13:47:17.232Z"
+      "album": "O",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fbf054cdb847f4e042d88642",
+      "url": "https://open.spotify.com/track/44zGAo63hhc3xo0rlBweRo",
+      "duration_ms": 350226,
+      "played_at": "2026-08-04T21:31:39.176Z"
     },
     {
-      "id": "66orjI5vOkyxOZLHWrPklh",
-      "name": "X Gon' Give It To Ya - Int'l Bonus track",
+      "id": "6wfb4nI2Vih263JqC8WSoW",
+      "name": "M.",
       "artists": [
-        "DMX"
+        "Anıl Emre Daldal"
       ],
-      "album": "Grand Champ",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
-      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
-      "duration_ms": 219733,
-      "played_at": "2026-08-04T13:43:56.266Z"
+      "album": "M.",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d7ddae05b16e763bc82b69a5",
+      "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
+      "duration_ms": 223750,
+      "played_at": "2026-08-04T21:22:09.995Z"
     },
     {
-      "id": "4xkOaSrkexMciUUogZKVTS",
-      "name": "Till I Collapse",
+      "id": "05bnEv2dpFzmGVLGdjD9UP",
+      "name": "Orlando",
       "artists": [
-        "Eminem",
-        "Nate Dogg"
+        "XXXTENTACION"
       ],
-      "album": "The Eminem Show",
-      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-      "duration_ms": 297786,
-      "played_at": "2026-08-04T13:36:30.030Z"
+      "album": "17",
+      "image": "https://i.scdn.co/image/ab67616d00001e02203c89bd4391468eea4cc3f5",
+      "url": "https://open.spotify.com/track/05bnEv2dpFzmGVLGdjD9UP",
+      "duration_ms": 163840,
+      "played_at": "2026-08-04T21:17:00.994Z"
     },
     {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
+      "id": "1el1feH98jWUrPpYmu5jN8",
+      "name": "Sunshine",
       "artists": [
-        "Eminem"
+        "Cleo Sol"
       ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "duration_ms": 269554,
-      "played_at": "2026-08-04T13:31:31.872Z"
+      "album": "Mother",
+      "image": "https://i.scdn.co/image/ab67616d00001e023335e63f35e6cd4d0e8f8aa8",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8",
+      "duration_ms": 262960,
+      "played_at": "2026-08-04T21:14:16.825Z"
     },
     {
-      "id": "7ccC26pJ3aDG81sS4FwdXF",
-      "name": "Remember the Name (feat. Styles of Beyond)",
+      "id": "48sc7vBJeNoCEQhxO3zYKA",
+      "name": "Too Late To Say Goodbye",
       "artists": [
-        "Fort Minor",
-        "Styles Of Beyond"
+        "Cage The Elephant"
       ],
-      "album": "The Rising Tied (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "duration_ms": 230493,
-      "played_at": "2026-08-04T13:27:01.964Z"
+      "album": "Tell Me I'm Pretty",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cbc75fbb1252959c9765ff4f",
+      "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA",
+      "duration_ms": 252787,
+      "played_at": "2026-08-04T21:07:10.243Z"
     },
     {
-      "id": "6M47gaKejso9772SKTa3yH",
-      "name": "Face Off",
+      "id": "7aDbC7lHiC517eLKrL8730",
+      "name": "Solas (Raban's Version)",
       "artists": [
-        "Tech N9ne",
-        "Joey Cool",
-        "King Iso",
-        "Dwayne Johnson"
+        "Raban"
       ],
-      "album": "ASIN9NE",
-      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
-      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
-      "duration_ms": 219802,
-      "played_at": "2026-08-04T13:23:11.086Z"
+      "album": "Solas (Raban's Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0279bebd6ab775909335577470",
+      "url": "https://open.spotify.com/track/7aDbC7lHiC517eLKrL8730",
+      "duration_ms": 212000,
+      "played_at": "2026-08-04T20:57:08.042Z"
     }
   ],
-  "fetched_at": "2026-08-04T20:08:08.339Z"
+  "fetched_at": "2026-08-04T21:47:30.106Z"
 }
