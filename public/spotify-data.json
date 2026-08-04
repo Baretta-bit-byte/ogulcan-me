@@ -171,6 +171,19 @@
   ],
   "recently_played": [
     {
+      "id": "3kZoay4ANo86ehb6s4RwS9",
+      "name": "Ridin'",
+      "artists": [
+        "Chamillionaire",
+        "Krayzie Bone"
+      ],
+      "album": "The Sound of Revenge",
+      "image": "https://i.scdn.co/image/ab67616d00001e02abeffe927a62a584cf7c2708",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9",
+      "duration_ms": 303053,
+      "played_at": "2026-08-04T18:21:21.856Z"
+    },
+    {
       "id": "2OQJKTtrH482waGFmOfJni",
       "name": "We Own It (Fast & Furious)",
       "artists": [
@@ -284,19 +297,7 @@
       "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
       "duration_ms": 219802,
       "played_at": "2026-08-04T13:23:11.086Z"
-    },
-    {
-      "id": "5buFhQz9ghwu0x3G2Zd3TL",
-      "name": "Elise's Garden",
-      "artists": [
-        "Joshua Kyan Aalampour"
-      ],
-      "album": "Elise's Garden",
-      "image": "https://i.scdn.co/image/ab67616d00001e025d30a795100106912c5b0561",
-      "url": "https://open.spotify.com/track/5buFhQz9ghwu0x3G2Zd3TL",
-      "duration_ms": 110250,
-      "played_at": "2026-08-04T10:50:41.781Z"
     }
   ],
-  "fetched_at": "2026-08-04T16:26:19.001Z"
+  "fetched_at": "2026-08-04T20:08:08.339Z"
 }
