@@ -174,6 +174,79 @@
   ],
   "recently_played": [
     {
+      "id": "0dmOxu6oiMnXEzxDVJyQGv",
+      "name": "Tek Başına",
+      "artists": [
+        "Ayten Alpman"
+      ],
+      "album": "Ayten Alpman Klasikleri (Türk Pop Tarihi)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0201c7d91c1193b4508869f6e8",
+      "url": "https://open.spotify.com/track/0dmOxu6oiMnXEzxDVJyQGv",
+      "duration_ms": 257866,
+      "played_at": "2026-08-03T23:21:02.964Z"
+    },
+    {
+      "id": "1qwQ1P3FwFouG1zTIBkGXU",
+      "name": "Anlamazdın",
+      "artists": [
+        "Ayla Dikmen"
+      ],
+      "album": "Klasikler (Orijinal Kayıtlar)",
+      "image": "https://i.scdn.co/image/ab67616d00001e020a787972d5156ba10cb12b56",
+      "url": "https://open.spotify.com/track/1qwQ1P3FwFouG1zTIBkGXU",
+      "duration_ms": 222346,
+      "played_at": "2026-08-03T23:16:44.665Z"
+    },
+    {
+      "id": "15GIJTUYhVUO9zLJ2t8qcg",
+      "name": "Yara",
+      "artists": [
+        "Ziynet Sali",
+        "Bilal Sonses"
+      ],
+      "album": "Yaşam Çiçeği",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cf2526028252cc9ab71c3f78",
+      "url": "https://open.spotify.com/track/15GIJTUYhVUO9zLJ2t8qcg",
+      "duration_ms": 186393,
+      "played_at": "2026-08-03T23:08:59.708Z"
+    },
+    {
+      "id": "0NeO8RLuVdFRigkKhjBgbT",
+      "name": "Aman Aman",
+      "artists": [
+        "Duman"
+      ],
+      "album": "Seni Kendime Sakladım",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5a587c7de8efc3ba32bede7",
+      "url": "https://open.spotify.com/track/0NeO8RLuVdFRigkKhjBgbT",
+      "duration_ms": 245066,
+      "played_at": "2026-08-03T23:05:53.007Z"
+    },
+    {
+      "id": "0SrrvZUjqo1MtUyno4gGhA",
+      "name": "İntihaşk",
+      "artists": [
+        "Onur Can Özcan"
+      ],
+      "album": "Yaramızda Kalsın",
+      "image": "https://i.scdn.co/image/ab67616d00001e02123181f959287c9137df7159",
+      "url": "https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA",
+      "duration_ms": 192500,
+      "played_at": "2026-08-03T23:01:47.569Z"
+    },
+    {
+      "id": "3UTNZ3EexySSNPfRkIpJ2d",
+      "name": "Bir İhtimal Biliyorum",
+      "artists": [
+        "Gülşen"
+      ],
+      "album": "Bir İhtimal Biliyorum",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f5ddb6da0b067417e99a0606",
+      "url": "https://open.spotify.com/track/3UTNZ3EexySSNPfRkIpJ2d",
+      "duration_ms": 210232,
+      "played_at": "2026-08-03T22:58:34.683Z"
+    },
+    {
       "id": "3N304YQk9QuT4VY5ulXbuI",
       "name": "Nalan",
       "artists": [
@@ -220,80 +293,7 @@
       "url": "https://open.spotify.com/track/7hU3H2id2pBVawD7e3zd8N",
       "duration_ms": 244307,
       "played_at": "2026-08-03T22:46:04.128Z"
-    },
-    {
-      "id": "1TxvnXbTRmYwtlkFEn8Rpb",
-      "name": "Uzaktan",
-      "artists": [
-        "Göksel"
-      ],
-      "album": "Bende Bi' Aşk Var",
-      "image": "https://i.scdn.co/image/ab67616d00001e02eb4534ca1227f529d3895fd1",
-      "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb",
-      "duration_ms": 219872,
-      "played_at": "2026-08-03T22:41:59.464Z"
-    },
-    {
-      "id": "7s4j3L5z2qU6ferYLOmFz9",
-      "name": "Üzülmedin mi?",
-      "artists": [
-        "Simge"
-      ],
-      "album": "Ben Bazen",
-      "image": "https://i.scdn.co/image/ab67616d00001e028ffe0967a3b236d34428b19a",
-      "url": "https://open.spotify.com/track/7s4j3L5z2qU6ferYLOmFz9",
-      "duration_ms": 303858,
-      "played_at": "2026-08-03T22:38:19.196Z"
-    },
-    {
-      "id": "4Hb7Lr6S2OEFbelL5ktl12",
-      "name": "Hadi Gittik",
-      "artists": [
-        "Ozbi",
-        "Melek Mosso"
-      ],
-      "album": "Hadi Gittik",
-      "image": "https://i.scdn.co/image/ab67616d00001e025e1ade92d96e1a71c6cc4116",
-      "url": "https://open.spotify.com/track/4Hb7Lr6S2OEFbelL5ktl12",
-      "duration_ms": 270625,
-      "played_at": "2026-08-03T22:33:15.001Z"
-    },
-    {
-      "id": "4E10qEzOmTIVmrg6Wz2RHj",
-      "name": "Saygımdan",
-      "artists": [
-        "Bengü"
-      ],
-      "album": "İkinci Hal",
-      "image": "https://i.scdn.co/image/ab67616d00001e0297ad00a32edde479dfa03c8b",
-      "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj",
-      "duration_ms": 271210,
-      "played_at": "2026-08-03T22:28:44.028Z"
-    },
-    {
-      "id": "7gI0722sWUhVpI0xOpejmZ",
-      "name": "Beyaz Skandalım",
-      "artists": [
-        "Emir Can İğrek"
-      ],
-      "album": "Ağır Roman",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a4cb84689db2c6c6f4a4856",
-      "url": "https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ",
-      "duration_ms": 215488,
-      "played_at": "2026-08-03T22:24:12.435Z"
-    },
-    {
-      "id": "10SXKV8mddSJm6Dsj0Oe4s",
-      "name": "Feryat",
-      "artists": [
-        "Hadise"
-      ],
-      "album": "Feryat",
-      "image": "https://i.scdn.co/image/ab67616d00001e027af6b2cf81968d09e46befee",
-      "url": "https://open.spotify.com/track/10SXKV8mddSJm6Dsj0Oe4s",
-      "duration_ms": 185060,
-      "played_at": "2026-08-03T22:18:50.023Z"
     }
   ],
-  "fetched_at": "2026-08-03T22:57:35.079Z"
+  "fetched_at": "2026-08-04T00:11:32.533Z"
 }
