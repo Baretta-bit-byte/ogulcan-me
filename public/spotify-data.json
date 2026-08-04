@@ -2,7 +2,7 @@
   "profile": {
     "name": "Ogi",
     "followers": 7,
-    "playlists": 73
+    "playlists": 74
   },
   "tracks": [
     {
@@ -89,6 +89,19 @@
       "genres": []
     },
     {
+      "id": "1kTTQX7my5Pv00dOXy5cSo",
+      "name": "Bluebird",
+      "artists": [
+        "Lola Marsh"
+      ],
+      "album": "Remember Roses",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c6cd17d547c314d5961377df",
+      "url": "https://open.spotify.com/track/1kTTQX7my5Pv00dOXy5cSo",
+      "preview_url": null,
+      "duration_ms": 200986,
+      "genres": []
+    },
+    {
       "id": "2LiWNkeUOAeibGxJKxmjsD",
       "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
       "artists": [
@@ -156,23 +169,21 @@
       "preview_url": null,
       "duration_ms": 130693,
       "genres": []
-    },
-    {
-      "id": "5zsHmE2gO3RefVsPyw2e3T",
-      "name": "What's Up Danger (with Black Caviar)",
-      "artists": [
-        "Blackway",
-        "Black Caviar"
-      ],
-      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
-      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
-      "preview_url": null,
-      "duration_ms": 222306,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "0RoQ5sk1Z9PH2xki3gv5hO",
+      "name": "Değmesin Ellerimiz",
+      "artists": [
+        "Model"
+      ],
+      "album": "Diğer Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e023f5526e4e33d3ae8d79db0b1",
+      "url": "https://open.spotify.com/track/0RoQ5sk1Z9PH2xki3gv5hO",
+      "duration_ms": 267702,
+      "played_at": "2026-08-03T23:28:08.557Z"
+    },
     {
       "id": "0dmOxu6oiMnXEzxDVJyQGv",
       "name": "Tek Başına",
@@ -281,19 +292,7 @@
       "url": "https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf",
       "duration_ms": 138817,
       "played_at": "2026-08-03T22:48:23.322Z"
-    },
-    {
-      "id": "7hU3H2id2pBVawD7e3zd8N",
-      "name": "Böyle Sever",
-      "artists": [
-        "Kahraman Deniz"
-      ],
-      "album": "19",
-      "image": "https://i.scdn.co/image/ab67616d00001e025288becd356bc1ed97fbb1eb",
-      "url": "https://open.spotify.com/track/7hU3H2id2pBVawD7e3zd8N",
-      "duration_ms": 244307,
-      "played_at": "2026-08-03T22:46:04.128Z"
     }
   ],
-  "fetched_at": "2026-08-04T00:11:32.533Z"
+  "fetched_at": "2026-08-04T11:38:18.181Z"
 }
