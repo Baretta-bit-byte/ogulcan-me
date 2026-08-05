@@ -19,6 +19,19 @@
       "genres": []
     },
     {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "preview_url": null,
+      "duration_ms": 274520,
+      "genres": []
+    },
+    {
       "id": "4IA6pgGRmqfxWGAfyZ8cgR",
       "name": "Verbatim",
       "artists": [
@@ -61,6 +74,20 @@
       "genres": []
     },
     {
+      "id": "14yDSiIHuF9wpNatr671v8",
+      "name": "House of the Rising Sun (with The Forest Rangers) - Season 4 Finale Version",
+      "artists": [
+        "The White Buffalo",
+        "The Forest Rangers"
+      ],
+      "album": "Songs of Anarchy: Music from Sons of Anarchy Seasons 1-4",
+      "image": "https://i.scdn.co/image/ab67616d00001e0295d797d3cbe00c0bd6a8c0f4",
+      "url": "https://open.spotify.com/track/14yDSiIHuF9wpNatr671v8",
+      "preview_url": null,
+      "duration_ms": 321760,
+      "genres": []
+    },
+    {
       "id": "1kBN0n05DpAbOkbNZ63XA0",
       "name": "I Giorni",
       "artists": [
@@ -85,6 +112,22 @@
       "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
       "preview_url": null,
       "duration_ms": 230493,
+      "genres": []
+    },
+    {
+      "id": "1lP5gmOcL7PxGodcw6rX04",
+      "name": "Dreamland",
+      "artists": [
+        "Alexis Ffrench",
+        "Royal Liverpool Philharmonic Orchestra",
+        "James Morgan",
+        "Graham Devine"
+      ],
+      "album": "Dreamland",
+      "image": "https://i.scdn.co/image/ab67616d00001e026d83383bc124d8a0ff1c1774",
+      "url": "https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04",
+      "preview_url": null,
+      "duration_ms": 161258,
       "genres": []
     },
     {
@@ -127,49 +170,33 @@
       "preview_url": null,
       "duration_ms": 176040,
       "genres": []
-    },
-    {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "preview_url": null,
-      "duration_ms": 311866,
-      "genres": []
-    },
-    {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
-      "artists": [
-        "Eminem"
-      ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "preview_url": null,
-      "duration_ms": 269554,
-      "genres": []
-    },
-    {
-      "id": "3kZoay4ANo86ehb6s4RwS9",
-      "name": "Ridin'",
-      "artists": [
-        "Chamillionaire",
-        "Krayzie Bone"
-      ],
-      "album": "The Sound of Revenge",
-      "image": "https://i.scdn.co/image/ab67616d00001e02abeffe927a62a584cf7c2708",
-      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9",
-      "preview_url": null,
-      "duration_ms": 303053,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "3GeiSIP7JkXIoMIGrc0hv1",
+      "name": "Seviyorum Sevmiyorum",
+      "artists": [
+        "Nil Karaibrahimgil"
+      ],
+      "album": "Nil Kıyısında",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c823b20a62761603cc865608",
+      "url": "https://open.spotify.com/track/3GeiSIP7JkXIoMIGrc0hv1",
+      "duration_ms": 218800,
+      "played_at": "2026-08-05T21:04:08.037Z"
+    },
+    {
+      "id": "1Omt5bfz1tZUCqd26HxbS0",
+      "name": "Beyond",
+      "artists": [
+        "Leon Bridges"
+      ],
+      "album": "Good Thing",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d8ba7edac14684336ba0f507",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0",
+      "duration_ms": 240598,
+      "played_at": "2026-08-05T20:28:06.883Z"
+    },
     {
       "id": "2L5ZLwbqYIBKq5ZdqUxgZg",
       "name": "Roi - Instrumental",
@@ -265,34 +292,7 @@
       "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s",
       "duration_ms": 155402,
       "played_at": "2026-08-05T18:45:21.885Z"
-    },
-    {
-      "id": "3yMrcqveZ2DrWBYJbDsous",
-      "name": "COWBELL WARRIOR!",
-      "artists": [
-        "SXMPRA"
-      ],
-      "album": "COWBELL WARRIOR!",
-      "image": "https://i.scdn.co/image/ab67616d00001e0293b04483b493c6b2b078915b",
-      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous",
-      "duration_ms": 149461,
-      "played_at": "2026-08-05T18:42:46.151Z"
-    },
-    {
-      "id": "6fb7UKdjGWl0hYxySXyOQz",
-      "name": "Dreamland",
-      "artists": [
-        "Alexis Ffrench",
-        "Royal Liverpool Philharmonic Orchestra",
-        "James Morgan",
-        "Graham Devine"
-      ],
-      "album": "Dreamland (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02749b9550b53fc4fceff6e0ce",
-      "url": "https://open.spotify.com/track/6fb7UKdjGWl0hYxySXyOQz",
-      "duration_ms": 161258,
-      "played_at": "2026-08-05T18:40:16.321Z"
     }
   ],
-  "fetched_at": "2026-08-05T20:06:41.759Z"
+  "fetched_at": "2026-08-05T21:45:25.771Z"
 }
