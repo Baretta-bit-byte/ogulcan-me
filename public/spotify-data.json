@@ -6,6 +6,19 @@
   },
   "tracks": [
     {
+      "id": "1kTTQX7my5Pv00dOXy5cSo",
+      "name": "Bluebird",
+      "artists": [
+        "Lola Marsh"
+      ],
+      "album": "Remember Roses",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c6cd17d547c314d5961377df",
+      "url": "https://open.spotify.com/track/1kTTQX7my5Pv00dOXy5cSo",
+      "preview_url": null,
+      "duration_ms": 200986,
+      "genres": []
+    },
+    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -22,6 +35,19 @@
       "genres": []
     },
     {
+      "id": "5miRcNaII78yJMucHKulkD",
+      "name": "Love and War",
+      "artists": [
+        "Fleurie"
+      ],
+      "album": "Love and War",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
+      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
+      "preview_url": null,
+      "duration_ms": 314984,
+      "genres": []
+    },
+    {
       "id": "4IA6pgGRmqfxWGAfyZ8cgR",
       "name": "Verbatim",
       "artists": [
@@ -32,6 +58,19 @@
       "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
       "preview_url": null,
       "duration_ms": 168320,
+      "genres": []
+    },
+    {
+      "id": "1kBN0n05DpAbOkbNZ63XA0",
+      "name": "I Giorni",
+      "artists": [
+        "Ludovico Einaudi"
+      ],
+      "album": "Midsummer Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
+      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
+      "preview_url": null,
+      "duration_ms": 410017,
       "genres": []
     },
     {
@@ -128,49 +167,34 @@
       "preview_url": null,
       "duration_ms": 224929,
       "genres": []
-    },
-    {
-      "id": "4VnDmjYCZkyeqeb0NIKqdA",
-      "name": "Can You Hear The Music",
-      "artists": [
-        "Ludwig Göransson"
-      ],
-      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02af634982d9b15de3c77f7dd9",
-      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
-      "preview_url": null,
-      "duration_ms": 110160,
-      "genres": []
-    },
-    {
-      "id": "4xkOaSrkexMciUUogZKVTS",
-      "name": "Till I Collapse",
-      "artists": [
-        "Eminem",
-        "Nate Dogg"
-      ],
-      "album": "The Eminem Show",
-      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-      "preview_url": null,
-      "duration_ms": 297786,
-      "genres": []
-    },
-    {
-      "id": "66orjI5vOkyxOZLHWrPklh",
-      "name": "X Gon' Give It To Ya - Int'l Bonus track",
-      "artists": [
-        "DMX"
-      ],
-      "album": "Grand Champ",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
-      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
-      "preview_url": null,
-      "duration_ms": 219733,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "4KULAymBBJcPRpk1yO4dOG",
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "artists": [
+        "Zach Bryan",
+        "Kacey Musgraves"
+      ],
+      "album": "Zach Bryan",
+      "image": "https://i.scdn.co/image/ab67616d00001e023bd1de7368f5f1efd1d787b3",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
+      "duration_ms": 227195,
+      "played_at": "2026-08-05T15:07:15.785Z"
+    },
+    {
+      "id": "5miRcNaII78yJMucHKulkD",
+      "name": "Love and War",
+      "artists": [
+        "Fleurie"
+      ],
+      "album": "Love and War",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
+      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
+      "duration_ms": 314984,
+      "played_at": "2026-08-05T14:32:35.732Z"
+    },
     {
       "id": "2VN7uPrbryJ7nE2MXX3f9a",
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
@@ -268,31 +292,7 @@
       "url": "https://open.spotify.com/track/753pwkXz9ZKHXQ3tnUnlQb",
       "duration_ms": 126000,
       "played_at": "2026-08-04T22:06:28.152Z"
-    },
-    {
-      "id": "6UN73IYd0hZxLi8wFPMQij",
-      "name": "Players",
-      "artists": [
-        "Coi Leray"
-      ],
-      "album": "Players",
-      "image": "https://i.scdn.co/image/ab67616d00001e025626453d29a0124dea22fb1b",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij",
-      "duration_ms": 139560,
-      "played_at": "2026-08-04T22:04:21.807Z"
-    },
-    {
-      "id": "14oFxKTXuTpYgKe2vy0Cih",
-      "name": "CHAMPION",
-      "artists": [
-        "Bishop Briggs"
-      ],
-      "album": "CHAMPION",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cafe08a2f710e159b6f35171",
-      "url": "https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih",
-      "duration_ms": 173120,
-      "played_at": "2026-08-04T22:01:02.197Z"
     }
   ],
-  "fetched_at": "2026-08-04T23:01:09.007Z"
+  "fetched_at": "2026-08-05T16:14:18.857Z"
 }
