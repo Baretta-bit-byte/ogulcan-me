@@ -19,6 +19,19 @@
       "genres": []
     },
     {
+      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
+      "name": "Verbatim",
+      "artists": [
+        "Mother Mother"
+      ],
+      "album": "Touch Up",
+      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
+      "preview_url": null,
+      "duration_ms": 168320,
+      "genres": []
+    },
+    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -48,19 +61,6 @@
       "genres": []
     },
     {
-      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
-      "name": "Verbatim",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Touch Up",
-      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
-      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
-      "preview_url": null,
-      "duration_ms": 168320,
-      "genres": []
-    },
-    {
       "id": "1kBN0n05DpAbOkbNZ63XA0",
       "name": "I Giorni",
       "artists": [
@@ -85,6 +85,19 @@
       "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
       "preview_url": null,
       "duration_ms": 230493,
+      "genres": []
+    },
+    {
+      "id": "5yJaXWIErrrsjQ3J0eR5aK",
+      "name": "The Night We Met",
+      "artists": [
+        "Lord Huron"
+      ],
+      "album": "Strange Trails",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b4916183f769aca218acb85f",
+      "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
+      "preview_url": null,
+      "duration_ms": 208226,
       "genres": []
     },
     {
@@ -154,145 +167,132 @@
       "preview_url": null,
       "duration_ms": 303053,
       "genres": []
-    },
-    {
-      "id": "463c9TeHBQdmuiWUX4Pw3O",
-      "name": "Écoute Chérie",
-      "artists": [
-        "Vendredi sur Mer"
-      ],
-      "album": "Premiers émois",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e52b52c8dc50a93203df2a5a",
-      "url": "https://open.spotify.com/track/463c9TeHBQdmuiWUX4Pw3O",
-      "preview_url": null,
-      "duration_ms": 224929,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "4KULAymBBJcPRpk1yO4dOG",
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "id": "2L5ZLwbqYIBKq5ZdqUxgZg",
+      "name": "Roi - Instrumental",
       "artists": [
-        "Zach Bryan",
-        "Kacey Musgraves"
+        "Mckyyy"
       ],
-      "album": "Zach Bryan",
-      "image": "https://i.scdn.co/image/ab67616d00001e023bd1de7368f5f1efd1d787b3",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
-      "duration_ms": 227195,
-      "played_at": "2026-08-05T15:07:15.785Z"
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f178ef6a0e6c23f6330bd982",
+      "url": "https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg",
+      "duration_ms": 83333,
+      "played_at": "2026-08-05T19:58:37.204Z"
     },
     {
-      "id": "5miRcNaII78yJMucHKulkD",
-      "name": "Love and War",
+      "id": "2L5ZLwbqYIBKq5ZdqUxgZg",
+      "name": "Roi - Instrumental",
       "artists": [
-        "Fleurie"
+        "Mckyyy"
       ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
-      "duration_ms": 314984,
-      "played_at": "2026-08-05T14:32:35.732Z"
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f178ef6a0e6c23f6330bd982",
+      "url": "https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg",
+      "duration_ms": 83333,
+      "played_at": "2026-08-05T19:57:39.740Z"
     },
     {
-      "id": "2VN7uPrbryJ7nE2MXX3f9a",
-      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "id": "2L5ZLwbqYIBKq5ZdqUxgZg",
+      "name": "Roi - Instrumental",
       "artists": [
-        "Survivor"
+        "Mckyyy"
       ],
-      "album": "Survivor Greatest Hits",
-      "image": "https://i.scdn.co/image/ab67616d00001e024ea1fd36ef7d78214011371c",
-      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a",
-      "duration_ms": 230106,
-      "played_at": "2026-08-04T22:31:15.965Z"
+      "album": "Roi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f178ef6a0e6c23f6330bd982",
+      "url": "https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg",
+      "duration_ms": 83333,
+      "played_at": "2026-08-05T19:41:52.075Z"
     },
     {
-      "id": "68Hj6boN4Yo2l7RZBnSpW0",
-      "name": "Starry Eyes",
+      "id": "3DQVgcqaP3iSMbaKsd57l5",
+      "name": "I Bet You Look Good On The Dancefloor",
       "artists": [
-        "Cigarettes After Sex"
+        "Arctic Monkeys"
       ],
-      "album": "I.",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f20d15ff288e94492f7097eb",
-      "url": "https://open.spotify.com/track/68Hj6boN4Yo2l7RZBnSpW0",
-      "duration_ms": 206000,
-      "played_at": "2026-08-04T22:30:21.342Z"
+      "album": "Whatever People Say I Am, That's What I'm Not",
+      "image": "https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5",
+      "duration_ms": 173680,
+      "played_at": "2026-08-05T18:57:23.868Z"
     },
     {
-      "id": "0MnTkIEP4zZN1IUSu8MvIz",
-      "name": "Tek It - Sped Up",
+      "id": "3YON3G2B5bNK2g1oPiKJhh",
+      "name": "JUS BETTER - Guitar",
       "artists": [
-        "Cafuné"
+        "visioner."
       ],
-      "album": "Tek It (I Watch the Moon)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276a3f63eed99d8f4b99f931f",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz",
-      "duration_ms": 166859,
-      "played_at": "2026-08-04T22:26:54.973Z"
+      "album": "JUS BETTER (Guitar)",
+      "image": "https://i.scdn.co/image/ab67616d00001e023267cd548bf84db9622d2303",
+      "url": "https://open.spotify.com/track/3YON3G2B5bNK2g1oPiKJhh",
+      "duration_ms": 142702,
+      "played_at": "2026-08-05T18:54:29.854Z"
     },
     {
-      "id": "5N3hjp1WNayUPZrA8kJmJP",
-      "name": "Please Please Please",
+      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
+      "name": "Verbatim",
       "artists": [
-        "Sabrina Carpenter"
+        "Mother Mother"
       ],
-      "album": "Please Please Please",
-      "image": "https://i.scdn.co/image/ab67616d00001e02de84adf0e48248ea2d769c3e",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP",
-      "duration_ms": 186365,
-      "played_at": "2026-08-04T22:24:07.734Z"
+      "album": "Touch Up",
+      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
+      "duration_ms": 168320,
+      "played_at": "2026-08-05T18:52:06.768Z"
     },
     {
-      "id": "30QD4VRP9yEneOh0eGTrtJ",
-      "name": "Solitude",
+      "id": "7DarbtpxRUG5POF3ifwu61",
+      "name": "Bodrum",
       "artists": [
-        "Billie Holiday"
+        "Yüzyüzeyken Konuşuruz"
       ],
-      "album": "Solitude",
-      "image": "https://i.scdn.co/image/ab67616d00001e0234708df3636189370a12e6c1",
-      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ",
-      "duration_ms": 207600,
-      "played_at": "2026-08-04T22:21:01.018Z"
+      "album": "Akustik Travma",
+      "image": "https://i.scdn.co/image/ab67616d00001e0257ae3db855e4487793dea401",
+      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61",
+      "duration_ms": 235817,
+      "played_at": "2026-08-05T18:49:18.047Z"
     },
     {
-      "id": "2xGjfbXZnI8uQDhukoQURQ",
-      "name": "K.",
+      "id": "0flo3KqhjkcuoB1G6Mhq7s",
+      "name": "Fly Me to the Moon",
       "artists": [
-        "Cigarettes After Sex"
+        "The Macarons Project"
       ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
-      "url": "https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ",
-      "duration_ms": 319560,
-      "played_at": "2026-08-04T22:17:33.017Z"
+      "album": "Fly Me to the Moon",
+      "image": "https://i.scdn.co/image/ab67616d00001e02831f99bf6eb5be7b8eac0b48",
+      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s",
+      "duration_ms": 155402,
+      "played_at": "2026-08-05T18:45:21.885Z"
     },
     {
-      "id": "3YUmaXADZY1wdTrGCF4Fdw",
-      "name": "Romeo and Juliet, Op. 64: No. 13 Dance of the Knights",
+      "id": "3yMrcqveZ2DrWBYJbDsous",
+      "name": "COWBELL WARRIOR!",
       "artists": [
-        "Sergei Prokofiev",
-        "Orchestra of the Royal Opera House, Covent Garden",
-        "Mark Ermler"
+        "SXMPRA"
       ],
-      "album": "Prokofiev: Romeo & Juliet",
-      "image": "https://i.scdn.co/image/ab67616d00001e02685509b5f4b89b6e85cbc189",
-      "url": "https://open.spotify.com/track/3YUmaXADZY1wdTrGCF4Fdw",
-      "duration_ms": 344600,
-      "played_at": "2026-08-04T22:12:13.129Z"
+      "album": "COWBELL WARRIOR!",
+      "image": "https://i.scdn.co/image/ab67616d00001e0293b04483b493c6b2b078915b",
+      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous",
+      "duration_ms": 149461,
+      "played_at": "2026-08-05T18:42:46.151Z"
     },
     {
-      "id": "753pwkXz9ZKHXQ3tnUnlQb",
-      "name": "Lost Forever - Speed Up Version",
+      "id": "6fb7UKdjGWl0hYxySXyOQz",
+      "name": "Dreamland",
       "artists": [
-        "Sergio Valentino"
+        "Alexis Ffrench",
+        "Royal Liverpool Philharmonic Orchestra",
+        "James Morgan",
+        "Graham Devine"
       ],
-      "album": "Lost Forever (Speed Up Version)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e0616e682cb0f933604586ae",
-      "url": "https://open.spotify.com/track/753pwkXz9ZKHXQ3tnUnlQb",
-      "duration_ms": 126000,
-      "played_at": "2026-08-04T22:06:28.152Z"
+      "album": "Dreamland (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02749b9550b53fc4fceff6e0ce",
+      "url": "https://open.spotify.com/track/6fb7UKdjGWl0hYxySXyOQz",
+      "duration_ms": 161258,
+      "played_at": "2026-08-05T18:40:16.321Z"
     }
   ],
-  "fetched_at": "2026-08-05T16:14:18.857Z"
+  "fetched_at": "2026-08-05T20:06:41.759Z"
 }
