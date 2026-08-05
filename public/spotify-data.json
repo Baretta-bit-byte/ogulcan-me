@@ -174,6 +174,30 @@
   ],
   "recently_played": [
     {
+      "id": "6ekUWsPDlyooDFSBmXvBIW",
+      "name": "Haydi Gel Benimle Ol",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Sen Ağlama",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "duration_ms": 271618,
+      "played_at": "2026-08-05T22:00:23.587Z"
+    },
+    {
+      "id": "6ekUWsPDlyooDFSBmXvBIW",
+      "name": "Haydi Gel Benimle Ol",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Sen Ağlama",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "duration_ms": 271618,
+      "played_at": "2026-08-05T21:29:12.712Z"
+    },
+    {
       "id": "3GeiSIP7JkXIoMIGrc0hv1",
       "name": "Seviyorum Sevmiyorum",
       "artists": [
@@ -268,31 +292,7 @@
       "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
       "duration_ms": 168320,
       "played_at": "2026-08-05T18:52:06.768Z"
-    },
-    {
-      "id": "7DarbtpxRUG5POF3ifwu61",
-      "name": "Bodrum",
-      "artists": [
-        "Yüzyüzeyken Konuşuruz"
-      ],
-      "album": "Akustik Travma",
-      "image": "https://i.scdn.co/image/ab67616d00001e0257ae3db855e4487793dea401",
-      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61",
-      "duration_ms": 235817,
-      "played_at": "2026-08-05T18:49:18.047Z"
-    },
-    {
-      "id": "0flo3KqhjkcuoB1G6Mhq7s",
-      "name": "Fly Me to the Moon",
-      "artists": [
-        "The Macarons Project"
-      ],
-      "album": "Fly Me to the Moon",
-      "image": "https://i.scdn.co/image/ab67616d00001e02831f99bf6eb5be7b8eac0b48",
-      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s",
-      "duration_ms": 155402,
-      "played_at": "2026-08-05T18:45:21.885Z"
     }
   ],
-  "fetched_at": "2026-08-05T21:45:25.771Z"
+  "fetched_at": "2026-08-05T22:56:02.616Z"
 }
