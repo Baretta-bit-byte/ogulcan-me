@@ -115,6 +115,19 @@
       "genres": []
     },
     {
+      "id": "6ekUWsPDlyooDFSBmXvBIW",
+      "name": "Haydi Gel Benimle Ol",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Sen Ağlama",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "preview_url": null,
+      "duration_ms": 271618,
+      "genres": []
+    },
+    {
       "id": "1lP5gmOcL7PxGodcw6rX04",
       "name": "Dreamland",
       "artists": [
@@ -156,23 +169,21 @@
       "preview_url": null,
       "duration_ms": 222306,
       "genres": []
-    },
-    {
-      "id": "0MvjUr7fKzchb49tt3OrMS",
-      "name": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
-      "artists": [
-        "Baroque Festival Orchestra",
-        "Alberto Lizzio"
-      ],
-      "album": "Vivaldi - The Four Seasons",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7",
-      "url": "https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS",
-      "preview_url": null,
-      "duration_ms": 176040,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "6ekUWsPDlyooDFSBmXvBIW",
+      "name": "Haydi Gel Benimle Ol",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Sen Ağlama",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "duration_ms": 271618,
+      "played_at": "2026-08-06T00:40:55.448Z"
+    },
     {
       "id": "6ekUWsPDlyooDFSBmXvBIW",
       "name": "Haydi Gel Benimle Ol",
@@ -280,19 +291,7 @@
       "url": "https://open.spotify.com/track/3YON3G2B5bNK2g1oPiKJhh",
       "duration_ms": 142702,
       "played_at": "2026-08-05T18:54:29.854Z"
-    },
-    {
-      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
-      "name": "Verbatim",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Touch Up",
-      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
-      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
-      "duration_ms": 168320,
-      "played_at": "2026-08-05T18:52:06.768Z"
     }
   ],
-  "fetched_at": "2026-08-05T22:56:02.616Z"
+  "fetched_at": "2026-08-06T03:26:26.600Z"
 }
