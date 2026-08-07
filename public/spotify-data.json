@@ -6,19 +6,6 @@
   },
   "tracks": [
     {
-      "id": "1kTTQX7my5Pv00dOXy5cSo",
-      "name": "Bluebird",
-      "artists": [
-        "Lola Marsh"
-      ],
-      "album": "Remember Roses",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c6cd17d547c314d5961377df",
-      "url": "https://open.spotify.com/track/1kTTQX7my5Pv00dOXy5cSo",
-      "preview_url": null,
-      "duration_ms": 200986,
-      "genres": []
-    },
-    {
       "id": "4EuaDcxHmHKS6gZ5iuGba0",
       "name": "Joy Of My Life",
       "artists": [
@@ -29,19 +16,6 @@
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
       "preview_url": null,
       "duration_ms": 274520,
-      "genres": []
-    },
-    {
-      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
-      "name": "Verbatim",
-      "artists": [
-        "Mother Mother"
-      ],
-      "album": "Touch Up",
-      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
-      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
-      "preview_url": null,
-      "duration_ms": 168320,
       "genres": []
     },
     {
@@ -61,16 +35,16 @@
       "genres": []
     },
     {
-      "id": "5miRcNaII78yJMucHKulkD",
-      "name": "Love and War",
+      "id": "1kTTQX7my5Pv00dOXy5cSo",
+      "name": "Bluebird",
       "artists": [
-        "Fleurie"
+        "Lola Marsh"
       ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
+      "album": "Remember Roses",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c6cd17d547c314d5961377df",
+      "url": "https://open.spotify.com/track/1kTTQX7my5Pv00dOXy5cSo",
       "preview_url": null,
-      "duration_ms": 314984,
+      "duration_ms": 200986,
       "genres": []
     },
     {
@@ -88,16 +62,30 @@
       "genres": []
     },
     {
-      "id": "1kBN0n05DpAbOkbNZ63XA0",
-      "name": "I Giorni",
+      "id": "4IA6pgGRmqfxWGAfyZ8cgR",
+      "name": "Verbatim",
       "artists": [
-        "Ludovico Einaudi"
+        "Mother Mother"
       ],
-      "album": "Midsummer Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
-      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
+      "album": "Touch Up",
+      "image": "https://i.scdn.co/image/ab67616d00001e029334fc21964be25ec3179f0f",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR",
       "preview_url": null,
-      "duration_ms": 410017,
+      "duration_ms": 168320,
+      "genres": []
+    },
+    {
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
+      "artists": [
+        "Eminem",
+        "Nate Dogg"
+      ],
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "preview_url": null,
+      "duration_ms": 297786,
       "genres": []
     },
     {
@@ -115,64 +103,182 @@
       "genres": []
     },
     {
-      "id": "6ekUWsPDlyooDFSBmXvBIW",
-      "name": "Haydi Gel Benimle Ol",
+      "id": "5miRcNaII78yJMucHKulkD",
+      "name": "Love and War",
       "artists": [
-        "Sezen Aksu"
+        "Fleurie"
       ],
-      "album": "Sen Ağlama",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
-      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "album": "Love and War",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
+      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
       "preview_url": null,
-      "duration_ms": 271618,
+      "duration_ms": 314984,
       "genres": []
     },
     {
-      "id": "1lP5gmOcL7PxGodcw6rX04",
-      "name": "Dreamland",
+      "id": "0j2T0R9dR9qdJYsB7ciXhf",
+      "name": "Stronger",
       "artists": [
-        "Alexis Ffrench",
-        "Royal Liverpool Philharmonic Orchestra",
-        "James Morgan",
-        "Graham Devine"
+        "Kanye West"
       ],
-      "album": "Dreamland",
-      "image": "https://i.scdn.co/image/ab67616d00001e026d83383bc124d8a0ff1c1774",
-      "url": "https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04",
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
       "preview_url": null,
-      "duration_ms": 161258,
+      "duration_ms": 311866,
       "genres": []
     },
     {
-      "id": "5yJaXWIErrrsjQ3J0eR5aK",
-      "name": "The Night We Met",
+      "id": "1kBN0n05DpAbOkbNZ63XA0",
+      "name": "I Giorni",
       "artists": [
-        "Lord Huron"
+        "Ludovico Einaudi"
       ],
-      "album": "Strange Trails",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b4916183f769aca218acb85f",
-      "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
+      "album": "Midsummer Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
+      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
       "preview_url": null,
-      "duration_ms": 208226,
+      "duration_ms": 410017,
       "genres": []
     },
     {
-      "id": "5zsHmE2gO3RefVsPyw2e3T",
-      "name": "What's Up Danger (with Black Caviar)",
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
       "artists": [
-        "Blackway",
-        "Black Caviar"
+        "Eminem"
       ],
-      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
-      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
       "preview_url": null,
-      "duration_ms": 222306,
+      "duration_ms": 269554,
+      "genres": []
+    },
+    {
+      "id": "3kZoay4ANo86ehb6s4RwS9",
+      "name": "Ridin'",
+      "artists": [
+        "Chamillionaire",
+        "Krayzie Bone"
+      ],
+      "album": "The Sound of Revenge",
+      "image": "https://i.scdn.co/image/ab67616d00001e02abeffe927a62a584cf7c2708",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9",
+      "preview_url": null,
+      "duration_ms": 303053,
       "genres": []
     }
   ],
   "recently_played": [
     {
+      "id": "5Ftku2ydxC3nkYHlkZU5Tx",
+      "name": "Aşktan Ne Haber",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Yaz Bitmeden",
+      "image": "https://i.scdn.co/image/ab67616d00001e0211e476f123d038462c893b22",
+      "url": "https://open.spotify.com/track/5Ftku2ydxC3nkYHlkZU5Tx",
+      "duration_ms": 237240,
+      "played_at": "2026-08-06T22:34:27.414Z"
+    },
+    {
+      "id": "1EuBXz5hyborK1OeYi36y4",
+      "name": "Her Şey Bitmedi Bitemez",
+      "artists": [
+        "Gökçe"
+      ],
+      "album": "Matruşka",
+      "image": "https://i.scdn.co/image/ab67616d00001e024c1da31bddf13f8fd958a69d",
+      "url": "https://open.spotify.com/track/1EuBXz5hyborK1OeYi36y4",
+      "duration_ms": 240509,
+      "played_at": "2026-08-06T22:34:23.716Z"
+    },
+    {
+      "id": "5R62yrYVMRZExYqxoPnQMn",
+      "name": "Be Adam",
+      "artists": [
+        "Gülşen"
+      ],
+      "album": "Be Adam",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ff4671045e918d21b2b48ea5",
+      "url": "https://open.spotify.com/track/5R62yrYVMRZExYqxoPnQMn",
+      "duration_ms": 207666,
+      "played_at": "2026-08-06T22:32:55.587Z"
+    },
+    {
+      "id": "6q5L4brzLW2pLf2pE56JIb",
+      "name": "Elfida",
+      "artists": [
+        "Haluk Levent"
+      ],
+      "album": "Akşam Üstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e025e211d08a6625a77251c4bd8",
+      "url": "https://open.spotify.com/track/6q5L4brzLW2pLf2pE56JIb",
+      "duration_ms": 333640,
+      "played_at": "2026-08-06T22:29:27.326Z"
+    },
+    {
+      "id": "05FgZdqxXg40X0WG8MmWMA",
+      "name": "Something Changed",
+      "artists": [
+        "Pulp"
+      ],
+      "album": "Different Class",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fd952bece8f049dbcd7df93f",
+      "url": "https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA",
+      "duration_ms": 198573,
+      "played_at": "2026-08-06T22:19:55.355Z"
+    },
+    {
+      "id": "5J9Tq633jfJOs1CZ13MQWf",
+      "name": "Tonight the Streets Are Ours",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
+      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
+      "duration_ms": 222506,
+      "played_at": "2026-08-06T22:16:36.376Z"
+    },
+    {
+      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
+      "name": "The Ocean",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
+      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
+      "duration_ms": 336560,
+      "played_at": "2026-08-06T22:12:53.535Z"
+    },
+    {
+      "id": "5hX7FNaAzEk9ZSwmR1vnia",
+      "name": "Aşk",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Serçe",
+      "image": "https://i.scdn.co/image/ab67616d00001e024de68cb3acf32cee425e5c74",
+      "url": "https://open.spotify.com/track/5hX7FNaAzEk9ZSwmR1vnia",
+      "duration_ms": 183960,
+      "played_at": "2026-08-06T22:05:39.876Z"
+    },
+    {
+      "id": "69XWqi3umepQSciZmVkSfT",
+      "name": "Beni Böyle Sev",
+      "artists": [
+        "Ferdi Özbeğen"
+      ],
+      "album": "Yirminci Sanat Yılı Şan Konseri",
+      "image": "https://i.scdn.co/image/ab67616d00001e0283cfa72fe691c617af6c0080",
+      "url": "https://open.spotify.com/track/69XWqi3umepQSciZmVkSfT",
+      "duration_ms": 299232,
+      "played_at": "2026-08-06T22:02:35.472Z"
+    },
+    {
       "id": "6ekUWsPDlyooDFSBmXvBIW",
       "name": "Haydi Gel Benimle Ol",
       "artists": [
@@ -182,116 +288,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
       "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
       "duration_ms": 271618,
-      "played_at": "2026-08-06T00:40:55.448Z"
-    },
-    {
-      "id": "6ekUWsPDlyooDFSBmXvBIW",
-      "name": "Haydi Gel Benimle Ol",
-      "artists": [
-        "Sezen Aksu"
-      ],
-      "album": "Sen Ağlama",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
-      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
-      "duration_ms": 271618,
-      "played_at": "2026-08-05T22:00:23.587Z"
-    },
-    {
-      "id": "6ekUWsPDlyooDFSBmXvBIW",
-      "name": "Haydi Gel Benimle Ol",
-      "artists": [
-        "Sezen Aksu"
-      ],
-      "album": "Sen Ağlama",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
-      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
-      "duration_ms": 271618,
-      "played_at": "2026-08-05T21:29:12.712Z"
-    },
-    {
-      "id": "3GeiSIP7JkXIoMIGrc0hv1",
-      "name": "Seviyorum Sevmiyorum",
-      "artists": [
-        "Nil Karaibrahimgil"
-      ],
-      "album": "Nil Kıyısında",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c823b20a62761603cc865608",
-      "url": "https://open.spotify.com/track/3GeiSIP7JkXIoMIGrc0hv1",
-      "duration_ms": 218800,
-      "played_at": "2026-08-05T21:04:08.037Z"
-    },
-    {
-      "id": "1Omt5bfz1tZUCqd26HxbS0",
-      "name": "Beyond",
-      "artists": [
-        "Leon Bridges"
-      ],
-      "album": "Good Thing",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d8ba7edac14684336ba0f507",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0",
-      "duration_ms": 240598,
-      "played_at": "2026-08-05T20:28:06.883Z"
-    },
-    {
-      "id": "2L5ZLwbqYIBKq5ZdqUxgZg",
-      "name": "Roi - Instrumental",
-      "artists": [
-        "Mckyyy"
-      ],
-      "album": "Roi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f178ef6a0e6c23f6330bd982",
-      "url": "https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg",
-      "duration_ms": 83333,
-      "played_at": "2026-08-05T19:58:37.204Z"
-    },
-    {
-      "id": "2L5ZLwbqYIBKq5ZdqUxgZg",
-      "name": "Roi - Instrumental",
-      "artists": [
-        "Mckyyy"
-      ],
-      "album": "Roi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f178ef6a0e6c23f6330bd982",
-      "url": "https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg",
-      "duration_ms": 83333,
-      "played_at": "2026-08-05T19:57:39.740Z"
-    },
-    {
-      "id": "2L5ZLwbqYIBKq5ZdqUxgZg",
-      "name": "Roi - Instrumental",
-      "artists": [
-        "Mckyyy"
-      ],
-      "album": "Roi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f178ef6a0e6c23f6330bd982",
-      "url": "https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg",
-      "duration_ms": 83333,
-      "played_at": "2026-08-05T19:41:52.075Z"
-    },
-    {
-      "id": "3DQVgcqaP3iSMbaKsd57l5",
-      "name": "I Bet You Look Good On The Dancefloor",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "Whatever People Say I Am, That's What I'm Not",
-      "image": "https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf",
-      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5",
-      "duration_ms": 173680,
-      "played_at": "2026-08-05T18:57:23.868Z"
-    },
-    {
-      "id": "3YON3G2B5bNK2g1oPiKJhh",
-      "name": "JUS BETTER - Guitar",
-      "artists": [
-        "visioner."
-      ],
-      "album": "JUS BETTER (Guitar)",
-      "image": "https://i.scdn.co/image/ab67616d00001e023267cd548bf84db9622d2303",
-      "url": "https://open.spotify.com/track/3YON3G2B5bNK2g1oPiKJhh",
-      "duration_ms": 142702,
-      "played_at": "2026-08-05T18:54:29.854Z"
+      "played_at": "2026-08-06T21:54:49.227Z"
     }
   ],
-  "fetched_at": "2026-08-06T03:26:26.600Z"
+  "fetched_at": "2026-08-07T00:23:00.955Z"
 }
