@@ -62,6 +62,19 @@
       "genres": []
     },
     {
+      "id": "3fqwjXwUGN6vbzIwvyFMhx",
+      "name": "Tennessee Whiskey",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Traveller",
+      "image": "https://i.scdn.co/image/ab67616d00001e02540fc1d083eac5bcff8dad21",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx",
+      "preview_url": null,
+      "duration_ms": 293293,
+      "genres": []
+    },
+    {
       "id": "4IA6pgGRmqfxWGAfyZ8cgR",
       "name": "Verbatim",
       "artists": [
@@ -152,20 +165,6 @@
       "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
       "preview_url": null,
       "duration_ms": 269554,
-      "genres": []
-    },
-    {
-      "id": "3kZoay4ANo86ehb6s4RwS9",
-      "name": "Ridin'",
-      "artists": [
-        "Chamillionaire",
-        "Krayzie Bone"
-      ],
-      "album": "The Sound of Revenge",
-      "image": "https://i.scdn.co/image/ab67616d00001e02abeffe927a62a584cf7c2708",
-      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9",
-      "preview_url": null,
-      "duration_ms": 303053,
       "genres": []
     }
   ],
@@ -291,5 +290,5 @@
       "played_at": "2026-08-06T21:54:49.227Z"
     }
   ],
-  "fetched_at": "2026-08-07T00:23:00.955Z"
+  "fetched_at": "2026-08-07T08:11:21.081Z"
 }
