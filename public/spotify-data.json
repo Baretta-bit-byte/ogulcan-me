@@ -35,6 +35,19 @@
       "genres": []
     },
     {
+      "id": "1kBN0n05DpAbOkbNZ63XA0",
+      "name": "I Giorni",
+      "artists": [
+        "Ludovico Einaudi"
+      ],
+      "album": "Midsummer Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
+      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
+      "preview_url": null,
+      "duration_ms": 410017,
+      "genres": []
+    },
+    {
       "id": "1kTTQX7my5Pv00dOXy5cSo",
       "name": "Bluebird",
       "artists": [
@@ -142,19 +155,6 @@
       "genres": []
     },
     {
-      "id": "1kBN0n05DpAbOkbNZ63XA0",
-      "name": "I Giorni",
-      "artists": [
-        "Ludovico Einaudi"
-      ],
-      "album": "Midsummer Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
-      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
-      "preview_url": null,
-      "duration_ms": 410017,
-      "genres": []
-    },
-    {
       "id": "2SL6oP2YAEQbqsrkOzRGO4",
       "name": "Venom - Music From The Motion Picture",
       "artists": [
@@ -169,6 +169,32 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0nLCr2HyRIAMyDbFnYQjnG",
+      "name": "yenildiğim tek savaştın",
+      "artists": [
+        "ASLAR",
+        "Lessio",
+        "Astral"
+      ],
+      "album": "yenildiğim tek savaştın",
+      "image": "https://i.scdn.co/image/ab67616d00001e0201e3b5c2f12951beaaf70b37",
+      "url": "https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG",
+      "duration_ms": 109470,
+      "played_at": "2026-08-08T13:47:14.780Z"
+    },
+    {
+      "id": "4GUaG3df9nbrj77GKEB76j",
+      "name": "Forever You and Me",
+      "artists": [
+        "The Teskey Brothers"
+      ],
+      "album": "Forever You and Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
+      "duration_ms": 175592,
+      "played_at": "2026-08-08T13:43:20.072Z"
+    },
     {
       "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
       "name": "Hele Bi Gel",
@@ -264,31 +290,7 @@
       "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
       "duration_ms": 336560,
       "played_at": "2026-08-06T22:12:53.535Z"
-    },
-    {
-      "id": "5hX7FNaAzEk9ZSwmR1vnia",
-      "name": "Aşk",
-      "artists": [
-        "Sezen Aksu"
-      ],
-      "album": "Serçe",
-      "image": "https://i.scdn.co/image/ab67616d00001e024de68cb3acf32cee425e5c74",
-      "url": "https://open.spotify.com/track/5hX7FNaAzEk9ZSwmR1vnia",
-      "duration_ms": 183960,
-      "played_at": "2026-08-06T22:05:39.876Z"
-    },
-    {
-      "id": "69XWqi3umepQSciZmVkSfT",
-      "name": "Beni Böyle Sev",
-      "artists": [
-        "Ferdi Özbeğen"
-      ],
-      "album": "Yirminci Sanat Yılı Şan Konseri",
-      "image": "https://i.scdn.co/image/ab67616d00001e0283cfa72fe691c617af6c0080",
-      "url": "https://open.spotify.com/track/69XWqi3umepQSciZmVkSfT",
-      "duration_ms": 299232,
-      "played_at": "2026-08-06T22:02:35.472Z"
     }
   ],
-  "fetched_at": "2026-08-07T19:27:59.932Z"
+  "fetched_at": "2026-08-08T14:29:40.858Z"
 }
