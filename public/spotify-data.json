@@ -179,6 +179,18 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02c5be5b060c90b3e221474b98",
       "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
       "duration_ms": 210374,
+      "played_at": "2026-08-08T17:56:04.490Z"
+    },
+    {
+      "id": "4WixufiyHUgg1jFqkYop2K",
+      "name": "Bir Sebebi Var",
+      "artists": [
+        "İkilem"
+      ],
+      "album": "Bir Sebebi Var",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5be5b060c90b3e221474b98",
+      "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
+      "duration_ms": 210374,
       "played_at": "2026-08-08T17:45:59.118Z"
     },
     {
@@ -276,19 +288,7 @@
       "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
       "duration_ms": 210374,
       "played_at": "2026-08-08T16:08:19.989Z"
-    },
-    {
-      "id": "7DarbtpxRUG5POF3ifwu61",
-      "name": "Bodrum",
-      "artists": [
-        "Yüzyüzeyken Konuşuruz"
-      ],
-      "album": "Akustik Travma",
-      "image": "https://i.scdn.co/image/ab67616d00001e0257ae3db855e4487793dea401",
-      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61",
-      "duration_ms": 235817,
-      "played_at": "2026-08-08T16:04:49.083Z"
     }
   ],
-  "fetched_at": "2026-08-08T17:56:51.583Z"
+  "fetched_at": "2026-08-08T19:26:53.767Z"
 }
