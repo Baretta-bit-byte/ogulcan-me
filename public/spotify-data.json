@@ -170,6 +170,90 @@
   ],
   "recently_played": [
     {
+      "id": "6cjIlxXM1ca6nxkJ0p27jU",
+      "name": "Dilerim Ki",
+      "artists": [
+        "Dolu Kadehi Ters Tut"
+      ],
+      "album": "Dilerim Ki",
+      "image": "https://i.scdn.co/image/ab67616d00001e029410959ab7f05d8216da799d",
+      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU",
+      "duration_ms": 200000,
+      "played_at": "2026-08-08T16:27:39.040Z"
+    },
+    {
+      "id": "0XNX9BCSWvEwsdBwUTRhMh",
+      "name": "Kor",
+      "artists": [
+        "Emir Can İğrek"
+      ],
+      "album": "Kor",
+      "image": "https://i.scdn.co/image/ab67616d00001e027efcf250caa96ed05bdfe701",
+      "url": "https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh",
+      "duration_ms": 179054,
+      "played_at": "2026-08-08T16:24:18.499Z"
+    },
+    {
+      "id": "3LUFeTIPLxgZYdBxG0eV5k",
+      "name": "GÜZEL VE İDDİALI",
+      "artists": [
+        "BLOK3"
+      ],
+      "album": "GÜZEL VE İDDİALI",
+      "image": "https://i.scdn.co/image/ab67616d00001e02518b75ddae4c1a76cfd6d76d",
+      "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k",
+      "duration_ms": 175829,
+      "played_at": "2026-08-08T16:21:18.914Z"
+    },
+    {
+      "id": "2wEox2XfPQCW1hgvVgfTUN",
+      "name": "Bad Boys",
+      "artists": [
+        "INNA"
+      ],
+      "album": "Inna",
+      "image": "https://i.scdn.co/image/ab67616d00001e023257e2b781094bcdc048b2f2",
+      "url": "https://open.spotify.com/track/2wEox2XfPQCW1hgvVgfTUN",
+      "duration_ms": 166703,
+      "played_at": "2026-08-08T16:18:22.559Z"
+    },
+    {
+      "id": "3QGsuHI8jO1Rx4JWLUh9jd",
+      "name": "Treat You Better",
+      "artists": [
+        "Shawn Mendes"
+      ],
+      "album": "Illuminate",
+      "image": "https://i.scdn.co/image/ab67616d00001e021376b4b16f4bfcba02dc571b",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
+      "duration_ms": 187973,
+      "played_at": "2026-08-08T16:15:35.319Z"
+    },
+    {
+      "id": "3Hj0iSlnd2N99dG49iPKl5",
+      "name": "İçinde Aşk Var",
+      "artists": [
+        "Sufle"
+      ],
+      "album": "Pus",
+      "image": "https://i.scdn.co/image/ab67616d00001e02804970b67fc7e86561c5a7f5",
+      "url": "https://open.spotify.com/track/3Hj0iSlnd2N99dG49iPKl5",
+      "duration_ms": 246286,
+      "played_at": "2026-08-08T16:12:26.811Z"
+    },
+    {
+      "id": "4WixufiyHUgg1jFqkYop2K",
+      "name": "Bir Sebebi Var",
+      "artists": [
+        "İkilem"
+      ],
+      "album": "Bir Sebebi Var",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5be5b060c90b3e221474b98",
+      "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
+      "duration_ms": 210374,
+      "played_at": "2026-08-08T16:08:19.989Z"
+    },
+    {
       "id": "7DarbtpxRUG5POF3ifwu61",
       "name": "Bodrum",
       "artists": [
@@ -179,7 +263,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e0257ae3db855e4487793dea401",
       "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61",
       "duration_ms": 235817,
-      "played_at": "2026-08-08T15:09:46.255Z"
+      "played_at": "2026-08-08T16:04:49.083Z"
     },
     {
       "id": "2vITobzYlmhWncPylI9z8Y",
@@ -191,31 +275,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e0241d59a3d2651a3098a4cea78",
       "url": "https://open.spotify.com/track/2vITobzYlmhWncPylI9z8Y",
       "duration_ms": 181379,
-      "played_at": "2026-08-08T15:05:50.095Z"
-    },
-    {
-      "id": "2tYWrHXCwKCPO86kgqLemB",
-      "name": "Giderdi Hoşuma",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/2tYWrHXCwKCPO86kgqLemB",
-      "duration_ms": 220530,
-      "played_at": "2026-08-08T15:02:48.326Z"
-    },
-    {
-      "id": "1vLkBVAy8ZWrqcQjYTPP3a",
-      "name": "Uzunlar - V1",
-      "artists": [
-        "Evdeki Saat"
-      ],
-      "album": "Uzunlar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02917b71d0a9aa3396f0031c40",
-      "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a",
-      "duration_ms": 282352,
-      "played_at": "2026-08-08T14:59:07.468Z"
+      "played_at": "2026-08-08T16:00:52.734Z"
     },
     {
       "id": "2U66P9YuIfSbXsoJZh750I",
@@ -227,70 +287,8 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02a26527bac935402c69b37ef0",
       "url": "https://open.spotify.com/track/2U66P9YuIfSbXsoJZh750I",
       "duration_ms": 149397,
-      "played_at": "2026-08-08T14:54:24.775Z"
-    },
-    {
-      "id": "3FNiphAlqUntwM8kzI1jus",
-      "name": "Kaş II",
-      "artists": [
-        "Yüzyüzeyken Konuşuruz"
-      ],
-      "album": "KADER SK.",
-      "image": "https://i.scdn.co/image/ab67616d00001e0255af94691bb920254312dc49",
-      "url": "https://open.spotify.com/track/3FNiphAlqUntwM8kzI1jus",
-      "duration_ms": 226031,
-      "played_at": "2026-08-08T14:48:43.503Z"
-    },
-    {
-      "id": "6RH5a8bayUrezx9eihDPLS",
-      "name": "Müzik Kutusu",
-      "artists": [
-        "Emir Can İğrek"
-      ],
-      "album": "Ağır Roman",
-      "image": "https://i.scdn.co/image/ab67616d00001e022a4cb84689db2c6c6f4a4856",
-      "url": "https://open.spotify.com/track/6RH5a8bayUrezx9eihDPLS",
-      "duration_ms": 174750,
-      "played_at": "2026-08-08T14:44:57.109Z"
-    },
-    {
-      "id": "48lRgmbsKTdUjXSzuKHomi",
-      "name": "Ya Bu İşler Ne",
-      "artists": [
-        "Mabel Matiz"
-      ],
-      "album": "Maya",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ce11b6aa0971b9bc60946b3a",
-      "url": "https://open.spotify.com/track/48lRgmbsKTdUjXSzuKHomi",
-      "duration_ms": 236335,
-      "played_at": "2026-08-08T14:41:12.645Z"
-    },
-    {
-      "id": "4SfVeimfxX2Qbfoa6JT6ms",
-      "name": "Eteği Belinde",
-      "artists": [
-        "Manuş Baba"
-      ],
-      "album": "Dönersen Islık Çal",
-      "image": "https://i.scdn.co/image/ab67616d00001e02be43d6bffdf12201926e5d01",
-      "url": "https://open.spotify.com/track/4SfVeimfxX2Qbfoa6JT6ms",
-      "duration_ms": 205798,
-      "played_at": "2026-08-08T14:37:15.936Z"
-    },
-    {
-      "id": "0nLCr2HyRIAMyDbFnYQjnG",
-      "name": "yenildiğim tek savaştın",
-      "artists": [
-        "ASLAR",
-        "Lessio",
-        "Astral"
-      ],
-      "album": "yenildiğim tek savaştın",
-      "image": "https://i.scdn.co/image/ab67616d00001e0201e3b5c2f12951beaaf70b37",
-      "url": "https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG",
-      "duration_ms": 109470,
-      "played_at": "2026-08-08T13:47:14.780Z"
+      "played_at": "2026-08-08T15:57:28.375Z"
     }
   ],
-  "fetched_at": "2026-08-08T15:37:08.118Z"
+  "fetched_at": "2026-08-08T16:30:05.714Z"
 }
