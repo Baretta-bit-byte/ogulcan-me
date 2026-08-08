@@ -170,6 +170,18 @@
   ],
   "recently_played": [
     {
+      "id": "6JyMiVVXptfohf6S2zaAXv",
+      "name": "Cennet",
+      "artists": [
+        "Ebru Gündeş"
+      ],
+      "album": "Âşık",
+      "image": "https://i.scdn.co/image/ab67616d00001e0294f863c41c8c2f8c00e6432f",
+      "url": "https://open.spotify.com/track/6JyMiVVXptfohf6S2zaAXv",
+      "duration_ms": 213073,
+      "played_at": "2026-08-08T16:31:12.649Z"
+    },
+    {
       "id": "6cjIlxXM1ca6nxkJ0p27jU",
       "name": "Dilerim Ki",
       "artists": [
@@ -276,19 +288,7 @@
       "url": "https://open.spotify.com/track/2vITobzYlmhWncPylI9z8Y",
       "duration_ms": 181379,
       "played_at": "2026-08-08T16:00:52.734Z"
-    },
-    {
-      "id": "2U66P9YuIfSbXsoJZh750I",
-      "name": "Sıcak Şarap",
-      "artists": [
-        "Batuhan Kordel"
-      ],
-      "album": "Sıcak Şarap",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a26527bac935402c69b37ef0",
-      "url": "https://open.spotify.com/track/2U66P9YuIfSbXsoJZh750I",
-      "duration_ms": 149397,
-      "played_at": "2026-08-08T15:57:28.375Z"
     }
   ],
-  "fetched_at": "2026-08-08T16:30:05.714Z"
+  "fetched_at": "2026-08-08T17:04:08.637Z"
 }
