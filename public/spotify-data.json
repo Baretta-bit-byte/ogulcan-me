@@ -170,6 +170,78 @@
   ],
   "recently_played": [
     {
+      "id": "1vLkBVAy8ZWrqcQjYTPP3a",
+      "name": "Uzunlar - V1",
+      "artists": [
+        "Evdeki Saat"
+      ],
+      "album": "Uzunlar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02917b71d0a9aa3396f0031c40",
+      "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a",
+      "duration_ms": 282352,
+      "played_at": "2026-08-08T14:59:07.468Z"
+    },
+    {
+      "id": "2U66P9YuIfSbXsoJZh750I",
+      "name": "Sıcak Şarap",
+      "artists": [
+        "Batuhan Kordel"
+      ],
+      "album": "Sıcak Şarap",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a26527bac935402c69b37ef0",
+      "url": "https://open.spotify.com/track/2U66P9YuIfSbXsoJZh750I",
+      "duration_ms": 149397,
+      "played_at": "2026-08-08T14:54:24.775Z"
+    },
+    {
+      "id": "3FNiphAlqUntwM8kzI1jus",
+      "name": "Kaş II",
+      "artists": [
+        "Yüzyüzeyken Konuşuruz"
+      ],
+      "album": "KADER SK.",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255af94691bb920254312dc49",
+      "url": "https://open.spotify.com/track/3FNiphAlqUntwM8kzI1jus",
+      "duration_ms": 226031,
+      "played_at": "2026-08-08T14:48:43.503Z"
+    },
+    {
+      "id": "6RH5a8bayUrezx9eihDPLS",
+      "name": "Müzik Kutusu",
+      "artists": [
+        "Emir Can İğrek"
+      ],
+      "album": "Ağır Roman",
+      "image": "https://i.scdn.co/image/ab67616d00001e022a4cb84689db2c6c6f4a4856",
+      "url": "https://open.spotify.com/track/6RH5a8bayUrezx9eihDPLS",
+      "duration_ms": 174750,
+      "played_at": "2026-08-08T14:44:57.109Z"
+    },
+    {
+      "id": "48lRgmbsKTdUjXSzuKHomi",
+      "name": "Ya Bu İşler Ne",
+      "artists": [
+        "Mabel Matiz"
+      ],
+      "album": "Maya",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ce11b6aa0971b9bc60946b3a",
+      "url": "https://open.spotify.com/track/48lRgmbsKTdUjXSzuKHomi",
+      "duration_ms": 236335,
+      "played_at": "2026-08-08T14:41:12.645Z"
+    },
+    {
+      "id": "4SfVeimfxX2Qbfoa6JT6ms",
+      "name": "Eteği Belinde",
+      "artists": [
+        "Manuş Baba"
+      ],
+      "album": "Dönersen Islık Çal",
+      "image": "https://i.scdn.co/image/ab67616d00001e02be43d6bffdf12201926e5d01",
+      "url": "https://open.spotify.com/track/4SfVeimfxX2Qbfoa6JT6ms",
+      "duration_ms": 205798,
+      "played_at": "2026-08-08T14:37:15.936Z"
+    },
+    {
       "id": "0nLCr2HyRIAMyDbFnYQjnG",
       "name": "yenildiğim tek savaştın",
       "artists": [
@@ -218,79 +290,7 @@
       "url": "https://open.spotify.com/track/5Ftku2ydxC3nkYHlkZU5Tx",
       "duration_ms": 237240,
       "played_at": "2026-08-06T22:34:27.414Z"
-    },
-    {
-      "id": "1EuBXz5hyborK1OeYi36y4",
-      "name": "Her Şey Bitmedi Bitemez",
-      "artists": [
-        "Gökçe"
-      ],
-      "album": "Matruşka",
-      "image": "https://i.scdn.co/image/ab67616d00001e024c1da31bddf13f8fd958a69d",
-      "url": "https://open.spotify.com/track/1EuBXz5hyborK1OeYi36y4",
-      "duration_ms": 240509,
-      "played_at": "2026-08-06T22:34:23.716Z"
-    },
-    {
-      "id": "5R62yrYVMRZExYqxoPnQMn",
-      "name": "Be Adam",
-      "artists": [
-        "Gülşen"
-      ],
-      "album": "Be Adam",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ff4671045e918d21b2b48ea5",
-      "url": "https://open.spotify.com/track/5R62yrYVMRZExYqxoPnQMn",
-      "duration_ms": 207666,
-      "played_at": "2026-08-06T22:32:55.587Z"
-    },
-    {
-      "id": "6q5L4brzLW2pLf2pE56JIb",
-      "name": "Elfida",
-      "artists": [
-        "Haluk Levent"
-      ],
-      "album": "Akşam Üstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e025e211d08a6625a77251c4bd8",
-      "url": "https://open.spotify.com/track/6q5L4brzLW2pLf2pE56JIb",
-      "duration_ms": 333640,
-      "played_at": "2026-08-06T22:29:27.326Z"
-    },
-    {
-      "id": "05FgZdqxXg40X0WG8MmWMA",
-      "name": "Something Changed",
-      "artists": [
-        "Pulp"
-      ],
-      "album": "Different Class",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fd952bece8f049dbcd7df93f",
-      "url": "https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA",
-      "duration_ms": 198573,
-      "played_at": "2026-08-06T22:19:55.355Z"
-    },
-    {
-      "id": "5J9Tq633jfJOs1CZ13MQWf",
-      "name": "Tonight the Streets Are Ours",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Tonight the Streets Are Ours",
-      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
-      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
-      "duration_ms": 222506,
-      "played_at": "2026-08-06T22:16:36.376Z"
-    },
-    {
-      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
-      "name": "The Ocean",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
-      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
-      "duration_ms": 336560,
-      "played_at": "2026-08-06T22:12:53.535Z"
     }
   ],
-  "fetched_at": "2026-08-08T14:29:40.858Z"
+  "fetched_at": "2026-08-08T15:00:03.606Z"
 }
