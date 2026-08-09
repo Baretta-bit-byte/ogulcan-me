@@ -179,6 +179,18 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02c5be5b060c90b3e221474b98",
       "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
       "duration_ms": 210374,
+      "played_at": "2026-08-09T10:07:01.082Z"
+    },
+    {
+      "id": "4WixufiyHUgg1jFqkYop2K",
+      "name": "Bir Sebebi Var",
+      "artists": [
+        "İkilem"
+      ],
+      "album": "Bir Sebebi Var",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5be5b060c90b3e221474b98",
+      "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
+      "duration_ms": 210374,
       "played_at": "2026-08-09T09:41:44.544Z"
     },
     {
@@ -276,19 +288,7 @@
       "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k",
       "duration_ms": 175829,
       "played_at": "2026-08-08T16:21:18.914Z"
-    },
-    {
-      "id": "2wEox2XfPQCW1hgvVgfTUN",
-      "name": "Bad Boys",
-      "artists": [
-        "INNA"
-      ],
-      "album": "Inna",
-      "image": "https://i.scdn.co/image/ab67616d00001e023257e2b781094bcdc048b2f2",
-      "url": "https://open.spotify.com/track/2wEox2XfPQCW1hgvVgfTUN",
-      "duration_ms": 166703,
-      "played_at": "2026-08-08T16:18:22.559Z"
     }
   ],
-  "fetched_at": "2026-08-09T10:31:57.313Z"
+  "fetched_at": "2026-08-09T11:26:27.054Z"
 }
