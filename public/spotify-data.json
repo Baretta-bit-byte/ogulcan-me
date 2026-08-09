@@ -179,6 +179,18 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02c5be5b060c90b3e221474b98",
       "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
       "duration_ms": 210374,
+      "played_at": "2026-08-09T09:41:44.544Z"
+    },
+    {
+      "id": "4WixufiyHUgg1jFqkYop2K",
+      "name": "Bir Sebebi Var",
+      "artists": [
+        "İkilem"
+      ],
+      "album": "Bir Sebebi Var",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5be5b060c90b3e221474b98",
+      "url": "https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K",
+      "duration_ms": 210374,
       "played_at": "2026-08-08T22:44:08.969Z"
     },
     {
@@ -276,19 +288,7 @@
       "url": "https://open.spotify.com/track/2wEox2XfPQCW1hgvVgfTUN",
       "duration_ms": 166703,
       "played_at": "2026-08-08T16:18:22.559Z"
-    },
-    {
-      "id": "3QGsuHI8jO1Rx4JWLUh9jd",
-      "name": "Treat You Better",
-      "artists": [
-        "Shawn Mendes"
-      ],
-      "album": "Illuminate",
-      "image": "https://i.scdn.co/image/ab67616d00001e021376b4b16f4bfcba02dc571b",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
-      "duration_ms": 187973,
-      "played_at": "2026-08-08T16:15:35.319Z"
     }
   ],
-  "fetched_at": "2026-08-09T09:36:26.260Z"
+  "fetched_at": "2026-08-09T10:31:57.313Z"
 }
