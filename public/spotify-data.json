@@ -170,6 +170,66 @@
   ],
   "recently_played": [
     {
+      "id": "2J0uuEbU2QDSkgT0pQyPhj",
+      "name": "Superman",
+      "artists": [
+        "Hadise"
+      ],
+      "album": "Aşk Kaç Beden Giyer ?",
+      "image": "https://i.scdn.co/image/ab67616d00001e0220a2f37124e7f02e85bb564d",
+      "url": "https://open.spotify.com/track/2J0uuEbU2QDSkgT0pQyPhj",
+      "duration_ms": 219533,
+      "played_at": "2026-08-09T22:55:51.299Z"
+    },
+    {
+      "id": "0qX3kW2H4duTirDXzzADTV",
+      "name": "Çak Bir Selam - Gurcell Style Mix",
+      "artists": [
+        "Ayse Hatun Onal"
+      ],
+      "album": "Selam Dengesiz",
+      "image": "https://i.scdn.co/image/ab67616d00001e021bd0d8780c99baf7f58fc9ff",
+      "url": "https://open.spotify.com/track/0qX3kW2H4duTirDXzzADTV",
+      "duration_ms": 210560,
+      "played_at": "2026-08-09T22:52:11.372Z"
+    },
+    {
+      "id": "1MB0IB0eIGgy0eZupAecAI",
+      "name": "Herkesim",
+      "artists": [
+        "Aqtaii"
+      ],
+      "album": "Herkesim",
+      "image": "https://i.scdn.co/image/ab67616d00001e0215ddd7d4f50b732728540907",
+      "url": "https://open.spotify.com/track/1MB0IB0eIGgy0eZupAecAI",
+      "duration_ms": 128004,
+      "played_at": "2026-08-09T22:47:55.281Z"
+    },
+    {
+      "id": "1gGbyvpKsrVqx2LW84plsJ",
+      "name": "Mor Yazma",
+      "artists": [
+        "Umut Kaya"
+      ],
+      "album": "Umut Kaya",
+      "image": "https://i.scdn.co/image/ab67616d00001e028580a793126c4e50aa679a18",
+      "url": "https://open.spotify.com/track/1gGbyvpKsrVqx2LW84plsJ",
+      "duration_ms": 199041,
+      "played_at": "2026-08-09T22:45:46.936Z"
+    },
+    {
+      "id": "7859Rvo6wXeImidBRL2dUZ",
+      "name": "Padişah",
+      "artists": [
+        "Sibel Can"
+      ],
+      "album": "Bu Devirde",
+      "image": "https://i.scdn.co/image/ab67616d00001e02820516df05c965d77ff5caa8",
+      "url": "https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ",
+      "duration_ms": 232160,
+      "played_at": "2026-08-09T22:42:27.522Z"
+    },
+    {
       "id": "0r74nHFgZus3RmIBkszMNd",
       "name": "Bir Tanecik Aşkım",
       "artists": [
@@ -228,67 +288,7 @@
       "url": "https://open.spotify.com/track/5bIuLRoO7Wk9GHPRTtUI9E",
       "duration_ms": 189521,
       "played_at": "2026-08-09T22:19:43.707Z"
-    },
-    {
-      "id": "5WK4MwD28Cd11yAI2okc6f",
-      "name": "Felfeci",
-      "artists": [
-        "cakal"
-      ],
-      "album": "Felfeci",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bb6a3ec168804af900b19e25",
-      "url": "https://open.spotify.com/track/5WK4MwD28Cd11yAI2okc6f",
-      "duration_ms": 145718,
-      "played_at": "2026-08-09T22:16:20.881Z"
-    },
-    {
-      "id": "0d7qHnB6CNvn1UsO5i3ElE",
-      "name": "Sarılırım Birine",
-      "artists": [
-        "Adamlar"
-      ],
-      "album": "Dünya Günlükleri",
-      "image": "https://i.scdn.co/image/ab67616d00001e020b362fca4833c8d3b0cc5616",
-      "url": "https://open.spotify.com/track/0d7qHnB6CNvn1UsO5i3ElE",
-      "duration_ms": 393431,
-      "played_at": "2026-08-09T22:12:33.408Z"
-    },
-    {
-      "id": "2bMTcGwXgpjRyh8JTOeuHx",
-      "name": "Sudişim",
-      "artists": [
-        "cakal"
-      ],
-      "album": "Sudişim",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e6cb808485bc02819677326e",
-      "url": "https://open.spotify.com/track/2bMTcGwXgpjRyh8JTOeuHx",
-      "duration_ms": 135428,
-      "played_at": "2026-08-09T22:05:59.535Z"
-    },
-    {
-      "id": "4YGBe0A4tXYI3tCe5EgdGE",
-      "name": "Sallayalım Dünyayı",
-      "artists": [
-        "Yonca Evcimik"
-      ],
-      "album": "Aşka Hazır",
-      "image": "https://i.scdn.co/image/ab67616d00001e025f5a161e48ef96694bfb609f",
-      "url": "https://open.spotify.com/track/4YGBe0A4tXYI3tCe5EgdGE",
-      "duration_ms": 255173,
-      "played_at": "2026-08-09T22:03:43.803Z"
-    },
-    {
-      "id": "3LUFeTIPLxgZYdBxG0eV5k",
-      "name": "GÜZEL VE İDDİALI",
-      "artists": [
-        "BLOK3"
-      ],
-      "album": "GÜZEL VE İDDİALI",
-      "image": "https://i.scdn.co/image/ab67616d00001e02518b75ddae4c1a76cfd6d76d",
-      "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k",
-      "duration_ms": 175829,
-      "played_at": "2026-08-09T21:55:00.846Z"
     }
   ],
-  "fetched_at": "2026-08-09T22:40:18.330Z"
+  "fetched_at": "2026-08-09T23:28:57.770Z"
 }
