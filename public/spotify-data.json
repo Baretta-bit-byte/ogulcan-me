@@ -254,6 +254,18 @@
       "played_at": "2026-08-08T17:45:59.118Z"
     },
     {
+      "id": "72I7ANZdudmL9Ko60e6eVg",
+      "name": "Kardan Adam",
+      "artists": [
+        "Gülşen"
+      ],
+      "album": "Beni Durdursan Mı ?",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a06153954ca1d8e73dc90ca1",
+      "url": "https://open.spotify.com/track/72I7ANZdudmL9Ko60e6eVg",
+      "duration_ms": 244453,
+      "played_at": "2026-08-08T16:31:52.362Z"
+    },
+    {
       "id": "6JyMiVVXptfohf6S2zaAXv",
       "name": "Cennet",
       "artists": [
@@ -276,19 +288,7 @@
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU",
       "duration_ms": 200000,
       "played_at": "2026-08-08T16:27:39.040Z"
-    },
-    {
-      "id": "0XNX9BCSWvEwsdBwUTRhMh",
-      "name": "Kor",
-      "artists": [
-        "Emir Can İğrek"
-      ],
-      "album": "Kor",
-      "image": "https://i.scdn.co/image/ab67616d00001e027efcf250caa96ed05bdfe701",
-      "url": "https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh",
-      "duration_ms": 179054,
-      "played_at": "2026-08-08T16:24:18.499Z"
     }
   ],
-  "fetched_at": "2026-08-09T17:29:22.356Z"
+  "fetched_at": "2026-08-09T19:56:24.742Z"
 }
