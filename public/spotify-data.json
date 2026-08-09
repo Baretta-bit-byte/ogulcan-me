@@ -170,6 +170,114 @@
   ],
   "recently_played": [
     {
+      "id": "0r74nHFgZus3RmIBkszMNd",
+      "name": "Bir Tanecik Aşkım",
+      "artists": [
+        "Gülçin Ergül"
+      ],
+      "album": "Bir Tanecik Aşkım",
+      "image": "https://i.scdn.co/image/ab67616d00001e02749bc4ee80ac5ba6f6fb5e5d",
+      "url": "https://open.spotify.com/track/0r74nHFgZus3RmIBkszMNd",
+      "duration_ms": 235659,
+      "played_at": "2026-08-09T22:38:34.983Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-09T22:34:38.933Z"
+    },
+    {
+      "id": "6tVBL3RVJXKsWnMhy8laNs",
+      "name": "Hayir Olamaz",
+      "artists": [
+        "Seksendört"
+      ],
+      "album": "Akiyor Zaman",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ad11effaf5736534b25c384e",
+      "url": "https://open.spotify.com/track/6tVBL3RVJXKsWnMhy8laNs",
+      "duration_ms": 204333,
+      "played_at": "2026-08-09T22:26:59.005Z"
+    },
+    {
+      "id": "1Xb5nakKpz6DqZNnV9YEos",
+      "name": "Pırlanta",
+      "artists": [
+        "Nil Karaibrahimgil"
+      ],
+      "album": "Tek Taşımı Kendim Aldım",
+      "image": "https://i.scdn.co/image/ab67616d00001e026cca22c21de9dedcbfce74bc",
+      "url": "https://open.spotify.com/track/1Xb5nakKpz6DqZNnV9YEos",
+      "duration_ms": 222800,
+      "played_at": "2026-08-09T22:23:26.924Z"
+    },
+    {
+      "id": "5bIuLRoO7Wk9GHPRTtUI9E",
+      "name": "Benimle Kayboldun",
+      "artists": [
+        "Kaan Boşnak"
+      ],
+      "album": "Demos",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d128d5fd9f4de30b4c7fd96",
+      "url": "https://open.spotify.com/track/5bIuLRoO7Wk9GHPRTtUI9E",
+      "duration_ms": 189521,
+      "played_at": "2026-08-09T22:19:43.707Z"
+    },
+    {
+      "id": "5WK4MwD28Cd11yAI2okc6f",
+      "name": "Felfeci",
+      "artists": [
+        "cakal"
+      ],
+      "album": "Felfeci",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bb6a3ec168804af900b19e25",
+      "url": "https://open.spotify.com/track/5WK4MwD28Cd11yAI2okc6f",
+      "duration_ms": 145718,
+      "played_at": "2026-08-09T22:16:20.881Z"
+    },
+    {
+      "id": "0d7qHnB6CNvn1UsO5i3ElE",
+      "name": "Sarılırım Birine",
+      "artists": [
+        "Adamlar"
+      ],
+      "album": "Dünya Günlükleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b362fca4833c8d3b0cc5616",
+      "url": "https://open.spotify.com/track/0d7qHnB6CNvn1UsO5i3ElE",
+      "duration_ms": 393431,
+      "played_at": "2026-08-09T22:12:33.408Z"
+    },
+    {
+      "id": "2bMTcGwXgpjRyh8JTOeuHx",
+      "name": "Sudişim",
+      "artists": [
+        "cakal"
+      ],
+      "album": "Sudişim",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e6cb808485bc02819677326e",
+      "url": "https://open.spotify.com/track/2bMTcGwXgpjRyh8JTOeuHx",
+      "duration_ms": 135428,
+      "played_at": "2026-08-09T22:05:59.535Z"
+    },
+    {
+      "id": "4YGBe0A4tXYI3tCe5EgdGE",
+      "name": "Sallayalım Dünyayı",
+      "artists": [
+        "Yonca Evcimik"
+      ],
+      "album": "Aşka Hazır",
+      "image": "https://i.scdn.co/image/ab67616d00001e025f5a161e48ef96694bfb609f",
+      "url": "https://open.spotify.com/track/4YGBe0A4tXYI3tCe5EgdGE",
+      "duration_ms": 255173,
+      "played_at": "2026-08-09T22:03:43.803Z"
+    },
+    {
       "id": "3LUFeTIPLxgZYdBxG0eV5k",
       "name": "GÜZEL VE İDDİALI",
       "artists": [
@@ -180,116 +288,7 @@
       "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k",
       "duration_ms": 175829,
       "played_at": "2026-08-09T21:55:00.846Z"
-    },
-    {
-      "id": "0GuWyPyj4MVvT4qYsl6BOS",
-      "name": "Sezen Aksu",
-      "artists": [
-        "Lvbel C5"
-      ],
-      "album": "#1",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bde27f666d136d4c7e6e71a9",
-      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS",
-      "duration_ms": 123519,
-      "played_at": "2026-08-09T21:46:50.564Z"
-    },
-    {
-      "id": "0tHWG2M4GAvT7E59oZrJLi",
-      "name": "İZLEDİ MAHALLE",
-      "artists": [
-        "Lvbel C5"
-      ],
-      "album": "BABA",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e0c8af7c250850856ee1a987",
-      "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi",
-      "duration_ms": 101116,
-      "played_at": "2026-08-09T21:44:46.511Z"
-    },
-    {
-      "id": "5u5gH4rQXu8zo3G3Y7D4Td",
-      "name": "Defoluyorum",
-      "artists": [
-        "Emir Can İğrek"
-      ],
-      "album": "Defoluyorum",
-      "image": "https://i.scdn.co/image/ab67616d00001e0278f12ad8740b61f9331de878",
-      "url": "https://open.spotify.com/track/5u5gH4rQXu8zo3G3Y7D4Td",
-      "duration_ms": 165098,
-      "played_at": "2026-08-09T21:42:04.826Z"
-    },
-    {
-      "id": "7DarbtpxRUG5POF3ifwu61",
-      "name": "Bodrum",
-      "artists": [
-        "Yüzyüzeyken Konuşuruz"
-      ],
-      "album": "Akustik Travma",
-      "image": "https://i.scdn.co/image/ab67616d00001e0257ae3db855e4487793dea401",
-      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61",
-      "duration_ms": 235817,
-      "played_at": "2026-08-09T21:38:12.566Z"
-    },
-    {
-      "id": "43tIlj5mqSjV4DPuDRb5NQ",
-      "name": "Köprüaltı",
-      "artists": [
-        "Duman"
-      ],
-      "album": "Eski Köprünün Altında",
-      "image": "https://i.scdn.co/image/ab67616d00001e022240c0edb98124fb3491084a",
-      "url": "https://open.spotify.com/track/43tIlj5mqSjV4DPuDRb5NQ",
-      "duration_ms": 291693,
-      "played_at": "2026-08-09T21:33:44.944Z"
-    },
-    {
-      "id": "2AcCBpYHVbeV2IUU4iHP2Y",
-      "name": "Tutun Sen Bana",
-      "artists": [
-        "Yüzyüzeyken Konuşuruz"
-      ],
-      "album": "KADER SK.",
-      "image": "https://i.scdn.co/image/ab67616d00001e0255af94691bb920254312dc49",
-      "url": "https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y",
-      "duration_ms": 163021,
-      "played_at": "2026-08-09T21:28:25.887Z"
-    },
-    {
-      "id": "15GIJTUYhVUO9zLJ2t8qcg",
-      "name": "Yara",
-      "artists": [
-        "Ziynet Sali",
-        "Bilal Sonses"
-      ],
-      "album": "Yaşam Çiçeği",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cf2526028252cc9ab71c3f78",
-      "url": "https://open.spotify.com/track/15GIJTUYhVUO9zLJ2t8qcg",
-      "duration_ms": 186393,
-      "played_at": "2026-08-09T21:25:42.323Z"
-    },
-    {
-      "id": "4BkoGbx5pu2tlhFYymGgOi",
-      "name": "Harika",
-      "artists": [
-        "Ebru Gündeş"
-      ],
-      "album": "Evet",
-      "image": "https://i.scdn.co/image/ab67616d00001e02acce0f8c49ab26e07d133ecc",
-      "url": "https://open.spotify.com/track/4BkoGbx5pu2tlhFYymGgOi",
-      "duration_ms": 198608,
-      "played_at": "2026-08-09T21:22:21.942Z"
-    },
-    {
-      "id": "6WWWxMoe1w971lhmidgnCM",
-      "name": "Uykusuz ve Dengesiz",
-      "artists": [
-        "Yüzyüzeyken Konuşuruz"
-      ],
-      "album": "Akustik Travma",
-      "image": "https://i.scdn.co/image/ab67616d00001e0257ae3db855e4487793dea401",
-      "url": "https://open.spotify.com/track/6WWWxMoe1w971lhmidgnCM",
-      "duration_ms": 219655,
-      "played_at": "2026-08-09T21:19:02.801Z"
     }
   ],
-  "fetched_at": "2026-08-09T21:59:56.363Z"
+  "fetched_at": "2026-08-09T22:40:18.330Z"
 }
