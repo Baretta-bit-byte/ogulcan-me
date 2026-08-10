@@ -35,6 +35,19 @@
       "genres": []
     },
     {
+      "id": "5miRcNaII78yJMucHKulkD",
+      "name": "Love and War",
+      "artists": [
+        "Fleurie"
+      ],
+      "album": "Love and War",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
+      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
+      "preview_url": null,
+      "duration_ms": 314984,
+      "genres": []
+    },
+    {
       "id": "1kBN0n05DpAbOkbNZ63XA0",
       "name": "I Giorni",
       "artists": [
@@ -129,19 +142,6 @@
       "genres": []
     },
     {
-      "id": "5miRcNaII78yJMucHKulkD",
-      "name": "Love and War",
-      "artists": [
-        "Fleurie"
-      ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
-      "preview_url": null,
-      "duration_ms": 314984,
-      "genres": []
-    },
-    {
       "id": "0j2T0R9dR9qdJYsB7ciXhf",
       "name": "Stronger",
       "artists": [
@@ -169,6 +169,18 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0raPeXeRFHkq1vrLPw6Xj8",
+      "name": "Seni Buldum Ya",
+      "artists": [
+        "Kaan Boşnak"
+      ],
+      "album": "Seni Buldum Ya",
+      "image": "https://i.scdn.co/image/ab67616d00001e020de0c304af863ba8b0b38652",
+      "url": "https://open.spotify.com/track/0raPeXeRFHkq1vrLPw6Xj8",
+      "duration_ms": 233454,
+      "played_at": "2026-08-10T09:21:44.196Z"
+    },
     {
       "id": "2J0uuEbU2QDSkgT0pQyPhj",
       "name": "Superman",
@@ -276,19 +288,7 @@
       "url": "https://open.spotify.com/track/1Xb5nakKpz6DqZNnV9YEos",
       "duration_ms": 222800,
       "played_at": "2026-08-09T22:23:26.924Z"
-    },
-    {
-      "id": "5bIuLRoO7Wk9GHPRTtUI9E",
-      "name": "Benimle Kayboldun",
-      "artists": [
-        "Kaan Boşnak"
-      ],
-      "album": "Demos",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d128d5fd9f4de30b4c7fd96",
-      "url": "https://open.spotify.com/track/5bIuLRoO7Wk9GHPRTtUI9E",
-      "duration_ms": 189521,
-      "played_at": "2026-08-09T22:19:43.707Z"
     }
   ],
-  "fetched_at": "2026-08-09T23:28:57.770Z"
+  "fetched_at": "2026-08-10T10:22:36.905Z"
 }
