@@ -35,6 +35,20 @@
       "genres": []
     },
     {
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
+      "artists": [
+        "Eminem",
+        "Nate Dogg"
+      ],
+      "album": "The Eminem Show",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "preview_url": null,
+      "duration_ms": 297786,
+      "genres": []
+    },
+    {
       "id": "5miRcNaII78yJMucHKulkD",
       "name": "Love and War",
       "artists": [
@@ -45,6 +59,20 @@
       "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
       "preview_url": null,
       "duration_ms": 314984,
+      "genres": []
+    },
+    {
+      "id": "7ccC26pJ3aDG81sS4FwdXF",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        "Fort Minor",
+        "Styles Of Beyond"
+      ],
+      "album": "The Rising Tied (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "preview_url": null,
+      "duration_ms": 230493,
       "genres": []
     },
     {
@@ -74,6 +102,19 @@
       "genres": []
     },
     {
+      "id": "0j2T0R9dR9qdJYsB7ciXhf",
+      "name": "Stronger",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
+      "preview_url": null,
+      "duration_ms": 311866,
+      "genres": []
+    },
+    {
       "id": "14yDSiIHuF9wpNatr671v8",
       "name": "House of the Rising Sun (with The Forest Rangers) - Season 4 Finale Version",
       "artists": [
@@ -85,6 +126,19 @@
       "url": "https://open.spotify.com/track/14yDSiIHuF9wpNatr671v8",
       "preview_url": null,
       "duration_ms": 321760,
+      "genres": []
+    },
+    {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "preview_url": null,
+      "duration_ms": 269554,
       "genres": []
     },
     {
@@ -112,6 +166,69 @@
       "preview_url": null,
       "duration_ms": 168320,
       "genres": []
+    }
+  ],
+  "recently_played": [
+    {
+      "id": "0j2T0R9dR9qdJYsB7ciXhf",
+      "name": "Stronger",
+      "artists": [
+        "Kanye West"
+      ],
+      "album": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
+      "duration_ms": 311866,
+      "played_at": "2026-08-10T11:17:23.088Z"
+    },
+    {
+      "id": "5zsHmE2gO3RefVsPyw2e3T",
+      "name": "What's Up Danger (with Black Caviar)",
+      "artists": [
+        "Blackway",
+        "Black Caviar"
+      ],
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T",
+      "duration_ms": 222306,
+      "played_at": "2026-08-10T11:12:10.839Z"
+    },
+    {
+      "id": "6dWWOi8PvMJPOl60TwQxKP",
+      "name": "Fight Back",
+      "artists": [
+        "NEFFEX"
+      ],
+      "album": "Fight Back: The Collection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02282f526aa6a8ecdf1422b5f5",
+      "url": "https://open.spotify.com/track/6dWWOi8PvMJPOl60TwQxKP",
+      "duration_ms": 200571,
+      "played_at": "2026-08-10T11:08:28.204Z"
+    },
+    {
+      "id": "66orjI5vOkyxOZLHWrPklh",
+      "name": "X Gon' Give It To Ya - Int'l Bonus track",
+      "artists": [
+        "DMX"
+      ],
+      "album": "Grand Champ",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+      "url": "https://open.spotify.com/track/66orjI5vOkyxOZLHWrPklh",
+      "duration_ms": 219733,
+      "played_at": "2026-08-10T11:05:07.221Z"
+    },
+    {
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "name": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Just Lose It",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b6ef2ebd34efb08cb76f6eec",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+      "duration_ms": 322226,
+      "played_at": "2026-08-10T11:01:27.168Z"
     },
     {
       "id": "4xkOaSrkexMciUUogZKVTS",
@@ -123,9 +240,20 @@
       "album": "The Eminem Show",
       "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-      "preview_url": null,
       "duration_ms": 297786,
-      "genres": []
+      "played_at": "2026-08-10T10:56:04.613Z"
+    },
+    {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "artists": [
+        "Eminem"
+      ],
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
+      "duration_ms": 269554,
+      "played_at": "2026-08-10T10:51:06.452Z"
     },
     {
       "id": "7ccC26pJ3aDG81sS4FwdXF",
@@ -137,158 +265,36 @@
       "album": "The Rising Tied (Deluxe Edition)",
       "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
       "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "preview_url": null,
       "duration_ms": 230493,
-      "genres": []
+      "played_at": "2026-08-10T10:46:36.510Z"
     },
     {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
+      "id": "6M47gaKejso9772SKTa3yH",
+      "name": "Face Off",
       "artists": [
-        "Kanye West"
+        "Tech N9ne",
+        "Joey Cool",
+        "King Iso",
+        "Dwayne Johnson"
       ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "preview_url": null,
-      "duration_ms": 311866,
-      "genres": []
+      "album": "ASIN9NE",
+      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "duration_ms": 219802,
+      "played_at": "2026-08-10T10:42:45.622Z"
     },
     {
-      "id": "2SL6oP2YAEQbqsrkOzRGO4",
-      "name": "Venom - Music From The Motion Picture",
+      "id": "2TofEeQobQ9YoK7EFds698",
+      "name": "You Give Love A Bad Name",
       "artists": [
-        "Eminem"
+        "Bon Jovi"
       ],
-      "album": "Kamikaze",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
-      "preview_url": null,
-      "duration_ms": 269554,
-      "genres": []
+      "album": "Slippery When Wet (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0249e6168f69625252689c2526",
+      "url": "https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698",
+      "duration_ms": 222317,
+      "played_at": "2026-08-10T10:37:16.686Z"
     }
   ],
-  "recently_played": [
-    {
-      "id": "0raPeXeRFHkq1vrLPw6Xj8",
-      "name": "Seni Buldum Ya",
-      "artists": [
-        "Kaan Boşnak"
-      ],
-      "album": "Seni Buldum Ya",
-      "image": "https://i.scdn.co/image/ab67616d00001e020de0c304af863ba8b0b38652",
-      "url": "https://open.spotify.com/track/0raPeXeRFHkq1vrLPw6Xj8",
-      "duration_ms": 233454,
-      "played_at": "2026-08-10T09:21:44.196Z"
-    },
-    {
-      "id": "2J0uuEbU2QDSkgT0pQyPhj",
-      "name": "Superman",
-      "artists": [
-        "Hadise"
-      ],
-      "album": "Aşk Kaç Beden Giyer ?",
-      "image": "https://i.scdn.co/image/ab67616d00001e0220a2f37124e7f02e85bb564d",
-      "url": "https://open.spotify.com/track/2J0uuEbU2QDSkgT0pQyPhj",
-      "duration_ms": 219533,
-      "played_at": "2026-08-09T22:55:51.299Z"
-    },
-    {
-      "id": "0qX3kW2H4duTirDXzzADTV",
-      "name": "Çak Bir Selam - Gurcell Style Mix",
-      "artists": [
-        "Ayse Hatun Onal"
-      ],
-      "album": "Selam Dengesiz",
-      "image": "https://i.scdn.co/image/ab67616d00001e021bd0d8780c99baf7f58fc9ff",
-      "url": "https://open.spotify.com/track/0qX3kW2H4duTirDXzzADTV",
-      "duration_ms": 210560,
-      "played_at": "2026-08-09T22:52:11.372Z"
-    },
-    {
-      "id": "1MB0IB0eIGgy0eZupAecAI",
-      "name": "Herkesim",
-      "artists": [
-        "Aqtaii"
-      ],
-      "album": "Herkesim",
-      "image": "https://i.scdn.co/image/ab67616d00001e0215ddd7d4f50b732728540907",
-      "url": "https://open.spotify.com/track/1MB0IB0eIGgy0eZupAecAI",
-      "duration_ms": 128004,
-      "played_at": "2026-08-09T22:47:55.281Z"
-    },
-    {
-      "id": "1gGbyvpKsrVqx2LW84plsJ",
-      "name": "Mor Yazma",
-      "artists": [
-        "Umut Kaya"
-      ],
-      "album": "Umut Kaya",
-      "image": "https://i.scdn.co/image/ab67616d00001e028580a793126c4e50aa679a18",
-      "url": "https://open.spotify.com/track/1gGbyvpKsrVqx2LW84plsJ",
-      "duration_ms": 199041,
-      "played_at": "2026-08-09T22:45:46.936Z"
-    },
-    {
-      "id": "7859Rvo6wXeImidBRL2dUZ",
-      "name": "Padişah",
-      "artists": [
-        "Sibel Can"
-      ],
-      "album": "Bu Devirde",
-      "image": "https://i.scdn.co/image/ab67616d00001e02820516df05c965d77ff5caa8",
-      "url": "https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ",
-      "duration_ms": 232160,
-      "played_at": "2026-08-09T22:42:27.522Z"
-    },
-    {
-      "id": "0r74nHFgZus3RmIBkszMNd",
-      "name": "Bir Tanecik Aşkım",
-      "artists": [
-        "Gülçin Ergül"
-      ],
-      "album": "Bir Tanecik Aşkım",
-      "image": "https://i.scdn.co/image/ab67616d00001e02749bc4ee80ac5ba6f6fb5e5d",
-      "url": "https://open.spotify.com/track/0r74nHFgZus3RmIBkszMNd",
-      "duration_ms": 235659,
-      "played_at": "2026-08-09T22:38:34.983Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-09T22:34:38.933Z"
-    },
-    {
-      "id": "6tVBL3RVJXKsWnMhy8laNs",
-      "name": "Hayir Olamaz",
-      "artists": [
-        "Seksendört"
-      ],
-      "album": "Akiyor Zaman",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ad11effaf5736534b25c384e",
-      "url": "https://open.spotify.com/track/6tVBL3RVJXKsWnMhy8laNs",
-      "duration_ms": 204333,
-      "played_at": "2026-08-09T22:26:59.005Z"
-    },
-    {
-      "id": "1Xb5nakKpz6DqZNnV9YEos",
-      "name": "Pırlanta",
-      "artists": [
-        "Nil Karaibrahimgil"
-      ],
-      "album": "Tek Taşımı Kendim Aldım",
-      "image": "https://i.scdn.co/image/ab67616d00001e026cca22c21de9dedcbfce74bc",
-      "url": "https://open.spotify.com/track/1Xb5nakKpz6DqZNnV9YEos",
-      "duration_ms": 222800,
-      "played_at": "2026-08-09T22:23:26.924Z"
-    }
-  ],
-  "fetched_at": "2026-08-10T10:22:36.905Z"
+  "fetched_at": "2026-08-10T11:30:02.707Z"
 }
