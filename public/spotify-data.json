@@ -19,6 +19,19 @@
       "genres": []
     },
     {
+      "id": "5miRcNaII78yJMucHKulkD",
+      "name": "Love and War",
+      "artists": [
+        "Fleurie"
+      ],
+      "album": "Love and War",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
+      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
+      "preview_url": null,
+      "duration_ms": 314984,
+      "genres": []
+    },
+    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -46,19 +59,6 @@
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
       "preview_url": null,
       "duration_ms": 297786,
-      "genres": []
-    },
-    {
-      "id": "5miRcNaII78yJMucHKulkD",
-      "name": "Love and War",
-      "artists": [
-        "Fleurie"
-      ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
-      "preview_url": null,
-      "duration_ms": 314984,
       "genres": []
     },
     {
@@ -291,5 +291,5 @@
       "played_at": "2026-08-10T13:42:27.630Z"
     }
   ],
-  "fetched_at": "2026-08-10T15:58:49.736Z"
+  "fetched_at": "2026-08-10T17:00:49.848Z"
 }
