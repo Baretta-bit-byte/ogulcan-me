@@ -170,6 +170,66 @@
   ],
   "recently_played": [
     {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-11T21:59:54.215Z"
+    },
+    {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-11T21:57:23.851Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-11T21:53:32.153Z"
+    },
+    {
+      "id": "5J9Tq633jfJOs1CZ13MQWf",
+      "name": "Tonight the Streets Are Ours",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
+      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
+      "duration_ms": 222506,
+      "played_at": "2026-08-11T21:49:38.405Z"
+    },
+    {
+      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
+      "name": "The Ocean",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
+      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
+      "duration_ms": 336560,
+      "played_at": "2026-08-11T21:45:55.494Z"
+    },
+    {
       "id": "5hX7FNaAzEk9ZSwmR1vnia",
       "name": "Aşk",
       "artists": [
@@ -228,68 +288,7 @@
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
       "duration_ms": 274520,
       "played_at": "2026-08-11T21:24:18.086Z"
-    },
-    {
-      "id": "0qldKjo48wbv8t5Oi1tBGa",
-      "name": "Mihriban",
-      "artists": [
-        "Musa Eroğlu"
-      ],
-      "album": "Bir Nefes Anadolu",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d78f34f543e2dd4d3cdf3f4a",
-      "url": "https://open.spotify.com/track/0qldKjo48wbv8t5Oi1tBGa",
-      "duration_ms": 259066,
-      "played_at": "2026-08-11T19:32:24.897Z"
-    },
-    {
-      "id": "0qldKjo48wbv8t5Oi1tBGa",
-      "name": "Mihriban",
-      "artists": [
-        "Musa Eroğlu"
-      ],
-      "album": "Bir Nefes Anadolu",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d78f34f543e2dd4d3cdf3f4a",
-      "url": "https://open.spotify.com/track/0qldKjo48wbv8t5Oi1tBGa",
-      "duration_ms": 259066,
-      "played_at": "2026-08-11T18:15:35.298Z"
-    },
-    {
-      "id": "0qldKjo48wbv8t5Oi1tBGa",
-      "name": "Mihriban",
-      "artists": [
-        "Musa Eroğlu"
-      ],
-      "album": "Bir Nefes Anadolu",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d78f34f543e2dd4d3cdf3f4a",
-      "url": "https://open.spotify.com/track/0qldKjo48wbv8t5Oi1tBGa",
-      "duration_ms": 259066,
-      "played_at": "2026-08-11T15:50:47.541Z"
-    },
-    {
-      "id": "6rUp7v3l8yC4TKxAAR5Bmx",
-      "name": "I Hate Everything About You",
-      "artists": [
-        "Three Days Grace"
-      ],
-      "album": "Three Days Grace (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02447bdb4eab501ce0a15811c0",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx",
-      "duration_ms": 231480,
-      "played_at": "2026-08-10T20:21:11.519Z"
-    },
-    {
-      "id": "6LHhaWs0HzuPhflDWiVtp1",
-      "name": "I duckinf hatw you",
-      "artists": [
-        "Ghostemane",
-        "Parv0"
-      ],
-      "album": "HUMAN ERR0R",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abcea911bfb4b25200f770f",
-      "url": "https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1",
-      "duration_ms": 117894,
-      "played_at": "2026-08-10T20:07:03.389Z"
     }
   ],
-  "fetched_at": "2026-08-11T21:42:47.895Z"
+  "fetched_at": "2026-08-11T22:38:35.759Z"
 }
