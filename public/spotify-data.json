@@ -170,6 +170,78 @@
   ],
   "recently_played": [
     {
+      "id": "5hX7FNaAzEk9ZSwmR1vnia",
+      "name": "Aşk",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Serçe",
+      "image": "https://i.scdn.co/image/ab67616d00001e024de68cb3acf32cee425e5c74",
+      "url": "https://open.spotify.com/track/5hX7FNaAzEk9ZSwmR1vnia",
+      "duration_ms": 183960,
+      "played_at": "2026-08-11T21:40:18.617Z"
+    },
+    {
+      "id": "7v8a1FXckJ6tOXGZ6G7gfi",
+      "name": "Papatya Gibisin",
+      "artists": [
+        "Aslı Zeki Güven"
+      ],
+      "album": "Türk Tangoları",
+      "image": "https://i.scdn.co/image/ab67616d00001e026edd10b470d83f45d552d81a",
+      "url": "https://open.spotify.com/track/7v8a1FXckJ6tOXGZ6G7gfi",
+      "duration_ms": 163008,
+      "played_at": "2026-08-11T21:37:14.309Z"
+    },
+    {
+      "id": "6ekUWsPDlyooDFSBmXvBIW",
+      "name": "Haydi Gel Benimle Ol",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Sen Ağlama",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "duration_ms": 271618,
+      "played_at": "2026-08-11T21:34:30.895Z"
+    },
+    {
+      "id": "4GUaG3df9nbrj77GKEB76j",
+      "name": "Forever You and Me",
+      "artists": [
+        "The Teskey Brothers"
+      ],
+      "album": "Forever You and Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
+      "duration_ms": 175592,
+      "played_at": "2026-08-11T21:27:14.088Z"
+    },
+    {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "duration_ms": 274520,
+      "played_at": "2026-08-11T21:24:18.086Z"
+    },
+    {
+      "id": "0qldKjo48wbv8t5Oi1tBGa",
+      "name": "Mihriban",
+      "artists": [
+        "Musa Eroğlu"
+      ],
+      "album": "Bir Nefes Anadolu",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d78f34f543e2dd4d3cdf3f4a",
+      "url": "https://open.spotify.com/track/0qldKjo48wbv8t5Oi1tBGa",
+      "duration_ms": 259066,
+      "played_at": "2026-08-11T19:32:24.897Z"
+    },
+    {
       "id": "0qldKjo48wbv8t5Oi1tBGa",
       "name": "Mihriban",
       "artists": [
@@ -217,79 +289,7 @@
       "url": "https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1",
       "duration_ms": 117894,
       "played_at": "2026-08-10T20:07:03.389Z"
-    },
-    {
-      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
-      "name": "Du hast",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Sehnsucht (Remastered 2023)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
-      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
-      "duration_ms": 235600,
-      "played_at": "2026-08-10T20:04:58.065Z"
-    },
-    {
-      "id": "3XMg8jXqU6NujM8Jig5msM",
-      "name": "Aşk Olsun",
-      "artists": [
-        "cakal"
-      ],
-      "album": "Aşk Olsun",
-      "image": "https://i.scdn.co/image/ab67616d00001e0258316816cf5f1c634181b067",
-      "url": "https://open.spotify.com/track/3XMg8jXqU6NujM8Jig5msM",
-      "duration_ms": 141305,
-      "played_at": "2026-08-10T16:51:57.129Z"
-    },
-    {
-      "id": "4PJ7UxGTWvLLbNBn75fcx6",
-      "name": "Sirens",
-      "artists": [
-        "Fleurie"
-      ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/4PJ7UxGTWvLLbNBn75fcx6",
-      "duration_ms": 266277,
-      "played_at": "2026-08-10T15:33:56.864Z"
-    },
-    {
-      "id": "5miRcNaII78yJMucHKulkD",
-      "name": "Love and War",
-      "artists": [
-        "Fleurie"
-      ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
-      "duration_ms": 314984,
-      "played_at": "2026-08-10T15:28:51.368Z"
-    },
-    {
-      "id": "5miRcNaII78yJMucHKulkD",
-      "name": "Love and War",
-      "artists": [
-        "Fleurie"
-      ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
-      "duration_ms": 314984,
-      "played_at": "2026-08-10T15:18:02.927Z"
-    },
-    {
-      "id": "3VLpmvlGkGeLWME8qRShOQ",
-      "name": "Pervane - Bana Ellerini Ver",
-      "artists": [
-        "Özdemir Erdoğan"
-      ],
-      "album": "Canım Senle Olmak İstiyor",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ec7196313e5d3f3f73907ddb",
-      "url": "https://open.spotify.com/track/3VLpmvlGkGeLWME8qRShOQ",
-      "duration_ms": 177874,
-      "played_at": "2026-08-10T14:04:51.304Z"
     }
   ],
-  "fetched_at": "2026-08-11T19:33:21.197Z"
+  "fetched_at": "2026-08-11T21:42:47.895Z"
 }
