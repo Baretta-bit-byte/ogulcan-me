@@ -8,8 +8,17 @@
     "gameid": null,
     "gameextrainfo": null
   },
-  "recentGames": [],
+  "recentGames": [
+    {
+      "appid": 431730,
+      "name": "Aseprite",
+      "playtime_2weeks": 30,
+      "playtime_forever": 451,
+      "img_icon_url": "da61bd2806f69205a97609dcdd4ca27df3baf800",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/431730/header.jpg"
+    }
+  ],
   "totalGames": 124,
-  "totalPlaytime": 629728,
-  "fetched_at": "2026-08-11T16:03:08.180Z"
+  "totalPlaytime": 629758,
+  "fetched_at": "2026-08-11T19:08:35.329Z"
 }
