@@ -170,6 +170,30 @@
   ],
   "recently_played": [
     {
+      "id": "0qldKjo48wbv8t5Oi1tBGa",
+      "name": "Mihriban",
+      "artists": [
+        "Musa Eroğlu"
+      ],
+      "album": "Bir Nefes Anadolu",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d78f34f543e2dd4d3cdf3f4a",
+      "url": "https://open.spotify.com/track/0qldKjo48wbv8t5Oi1tBGa",
+      "duration_ms": 259066,
+      "played_at": "2026-08-11T15:50:47.541Z"
+    },
+    {
+      "id": "6rUp7v3l8yC4TKxAAR5Bmx",
+      "name": "I Hate Everything About You",
+      "artists": [
+        "Three Days Grace"
+      ],
+      "album": "Three Days Grace (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02447bdb4eab501ce0a15811c0",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx",
+      "duration_ms": 231480,
+      "played_at": "2026-08-10T20:21:11.519Z"
+    },
+    {
       "id": "6LHhaWs0HzuPhflDWiVtp1",
       "name": "I duckinf hatw you",
       "artists": [
@@ -265,32 +289,7 @@
       "url": "https://open.spotify.com/track/4zTOUtukd52LzS3bLWwzGc",
       "duration_ms": 190800,
       "played_at": "2026-08-10T14:01:52.964Z"
-    },
-    {
-      "id": "2NMByegfDRfCpxG5O6pXg6",
-      "name": "Meyhaneci",
-      "artists": [
-        "Ozan Doğulu",
-        "Ebru Gündeş"
-      ],
-      "album": "130 Bpm Quartet",
-      "image": "https://i.scdn.co/image/ab67616d00001e02df24165afe01eaf9ee1125f8",
-      "url": "https://open.spotify.com/track/2NMByegfDRfCpxG5O6pXg6",
-      "duration_ms": 217897,
-      "played_at": "2026-08-10T13:58:41.688Z"
-    },
-    {
-      "id": "476G5KNQcNo9aEQ2o1bDx9",
-      "name": "Mor",
-      "artists": [
-        "Hande Yener"
-      ],
-      "album": "Hepsi Hit, Vol. 1",
-      "image": "https://i.scdn.co/image/ab67616d00001e022e9295934b5cecab48b20a53",
-      "url": "https://open.spotify.com/track/476G5KNQcNo9aEQ2o1bDx9",
-      "duration_ms": 188604,
-      "played_at": "2026-08-10T13:55:03.328Z"
     }
   ],
-  "fetched_at": "2026-08-10T20:09:35.758Z"
+  "fetched_at": "2026-08-11T16:25:20.090Z"
 }
