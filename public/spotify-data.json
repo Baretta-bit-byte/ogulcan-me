@@ -170,6 +170,66 @@
   ],
   "recently_played": [
     {
+      "id": "2TofEeQobQ9YoK7EFds698",
+      "name": "You Give Love A Bad Name",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "album": "Slippery When Wet (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0249e6168f69625252689c2526",
+      "url": "https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698",
+      "duration_ms": 222317,
+      "played_at": "2026-08-12T18:14:09.133Z"
+    },
+    {
+      "id": "4GUaG3df9nbrj77GKEB76j",
+      "name": "Forever You and Me",
+      "artists": [
+        "The Teskey Brothers"
+      ],
+      "album": "Forever You and Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
+      "duration_ms": 175592,
+      "played_at": "2026-08-12T18:10:26.435Z"
+    },
+    {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "duration_ms": 274520,
+      "played_at": "2026-08-12T18:07:30.524Z"
+    },
+    {
+      "id": "1Ae2QJGUPtnCzdA4XYn1NF",
+      "name": "Flesh",
+      "artists": [
+        "Ghostemane"
+      ],
+      "album": "N / O / I / S / E",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b5ea1cb4ed9ef489db89597f",
+      "url": "https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF",
+      "duration_ms": 79270,
+      "played_at": "2026-08-12T17:19:40.877Z"
+    },
+    {
+      "id": "1Ae2QJGUPtnCzdA4XYn1NF",
+      "name": "Flesh",
+      "artists": [
+        "Ghostemane"
+      ],
+      "album": "N / O / I / S / E",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b5ea1cb4ed9ef489db89597f",
+      "url": "https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF",
+      "duration_ms": 79270,
+      "played_at": "2026-08-12T16:53:44.773Z"
+    },
+    {
       "id": "5krhWYmWIKJhI96deUujm8",
       "name": "Specter",
       "artists": [
@@ -228,67 +288,7 @@
       "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
       "duration_ms": 284120,
       "played_at": "2026-08-12T16:22:06.472Z"
-    },
-    {
-      "id": "6W21LNLz9Sw7sUSNWMSHRu",
-      "name": "Freak On a Leash",
-      "artists": [
-        "Korn"
-      ],
-      "album": "Follow The Leader",
-      "image": "https://i.scdn.co/image/ab67616d00001e024e492e787ed64de43c3a3a21",
-      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu",
-      "duration_ms": 255729,
-      "played_at": "2026-08-12T16:17:21.951Z"
-    },
-    {
-      "id": "0EYOdF5FCkgOJJla8DI2Md",
-      "name": "B.Y.O.B.",
-      "artists": [
-        "System Of A Down"
-      ],
-      "album": "Mezmerize",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md",
-      "duration_ms": 255466,
-      "played_at": "2026-08-12T16:13:05.820Z"
-    },
-    {
-      "id": "3fWibgdtgIie6LKTZ2rUoI",
-      "name": "So Far So Fake",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d00001e022846907b5152fb7dc38e450a",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
-      "duration_ms": 236160,
-      "played_at": "2026-08-12T16:08:50.004Z"
-    },
-    {
-      "id": "6FUwPb4mGlUDbx42uspXaZ",
-      "name": "Fuel",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Reload",
-      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
-      "duration_ms": 269800,
-      "played_at": "2026-08-12T16:04:53.460Z"
-    },
-    {
-      "id": "0AOmbw8AwDnwXhHC3OhdVB",
-      "name": "Courtesy Call",
-      "artists": [
-        "Thousand Foot Krutch"
-      ],
-      "album": "The End Is Where We Begin",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
-      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
-      "duration_ms": 236898,
-      "played_at": "2026-08-12T16:00:23.338Z"
     }
   ],
-  "fetched_at": "2026-08-12T17:00:53.608Z"
+  "fetched_at": "2026-08-12T18:24:54.276Z"
 }
