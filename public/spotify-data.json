@@ -62,17 +62,16 @@
       "genres": []
     },
     {
-      "id": "7ccC26pJ3aDG81sS4FwdXF",
-      "name": "Remember the Name (feat. Styles of Beyond)",
+      "id": "4GUaG3df9nbrj77GKEB76j",
+      "name": "Forever You and Me",
       "artists": [
-        "Fort Minor",
-        "Styles Of Beyond"
+        "The Teskey Brothers"
       ],
-      "album": "The Rising Tied (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "album": "Forever You and Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
       "preview_url": null,
-      "duration_ms": 230493,
+      "duration_ms": 175592,
       "genres": []
     },
     {
@@ -99,6 +98,19 @@
       "url": "https://open.spotify.com/track/1kTTQX7my5Pv00dOXy5cSo",
       "preview_url": null,
       "duration_ms": 200986,
+      "genres": []
+    },
+    {
+      "id": "2TofEeQobQ9YoK7EFds698",
+      "name": "You Give Love A Bad Name",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "album": "Slippery When Wet (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0249e6168f69625252689c2526",
+      "url": "https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698",
+      "preview_url": null,
+      "duration_ms": 222317,
       "genres": []
     },
     {
@@ -152,19 +164,6 @@
       "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4",
       "preview_url": null,
       "duration_ms": 269554,
-      "genres": []
-    },
-    {
-      "id": "3fqwjXwUGN6vbzIwvyFMhx",
-      "name": "Tennessee Whiskey",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Traveller",
-      "image": "https://i.scdn.co/image/ab67616d00001e02540fc1d083eac5bcff8dad21",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx",
-      "preview_url": null,
-      "duration_ms": 293293,
       "genres": []
     }
   ],
@@ -290,5 +289,5 @@
       "played_at": "2026-08-12T16:22:06.472Z"
     }
   ],
-  "fetched_at": "2026-08-12T18:24:54.276Z"
+  "fetched_at": "2026-08-12T19:35:36.263Z"
 }
