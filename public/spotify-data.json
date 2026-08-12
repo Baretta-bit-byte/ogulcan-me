@@ -170,125 +170,127 @@
   ],
   "recently_played": [
     {
-      "id": "4myFsmx2v6znDOJfn3IkbD",
-      "name": "Popular Monster",
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
       "artists": [
-        "Falling In Reverse"
+        "The Plot In You"
       ],
-      "album": "Popular Monster",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cd850819595472eae0c06f66",
-      "url": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
-      "duration_ms": 220537,
-      "played_at": "2026-08-12T11:01:18.723Z"
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-12T13:11:29.989Z"
     },
     {
-      "id": "5ltXoDLlI0rFZAmOXbAp5T",
-      "name": "Sad But True - Remastered 2021",
+      "id": "5eFxwmqKrHpSQDOEIFYlgY",
+      "name": "Animal I Have Become",
+      "artists": [
+        "Three Days Grace"
+      ],
+      "album": "One-X",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fa4c18fdbd1bf1a39b7b794f",
+      "url": "https://open.spotify.com/track/5eFxwmqKrHpSQDOEIFYlgY",
+      "duration_ms": 231400,
+      "played_at": "2026-08-12T13:07:52.768Z"
+    },
+    {
+      "id": "5euO4JVKk6EZJDT2qn8nw3",
+      "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
+      "artists": [
+        "IC3PEAK",
+        "Oli Sykes",
+        "Bring Me The Horizon"
+      ],
+      "album": "KISS OF DEATH",
+      "image": "https://i.scdn.co/image/ab67616d00001e02116ef3dcec29365f8255dbf0",
+      "url": "https://open.spotify.com/track/5euO4JVKk6EZJDT2qn8nw3",
+      "duration_ms": 142250,
+      "played_at": "2026-08-12T13:04:00.997Z"
+    },
+    {
+      "id": "0COqiPhxzoWICwFCS4eZcp",
+      "name": "Bring Me To Life",
+      "artists": [
+        "Evanescence"
+      ],
+      "album": "Fallen",
+      "image": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+      "duration_ms": 235893,
+      "played_at": "2026-08-12T13:01:38.372Z"
+    },
+    {
+      "id": "75qezFTBIjU7OkoWGeD10Z",
+      "name": "Good F**King Music",
+      "artists": [
+        "Solence"
+      ],
+      "album": "Deafening",
+      "image": "https://i.scdn.co/image/ab67616d00001e025e7c5c40aec59fab41e4a1ea",
+      "url": "https://open.spotify.com/track/75qezFTBIjU7OkoWGeD10Z",
+      "duration_ms": 206433,
+      "played_at": "2026-08-12T12:57:42.086Z"
+    },
+    {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
       "artists": [
         "Metallica"
       ],
-      "album": "Metallica (Remastered Deluxe Box Set)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c1a13209dfe146aef3296e34",
-      "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T",
-      "duration_ms": 324600,
-      "played_at": "2026-08-12T10:57:37.799Z"
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-12T12:53:48.573Z"
     },
     {
-      "id": "1Vej0qeQ3ioKwpI6FUbRv1",
-      "name": "Papercut",
-      "artists": [
-        "Linkin Park"
-      ],
-      "album": "Hybrid Theory (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1",
-      "duration_ms": 184866,
-      "played_at": "2026-08-12T10:52:12.839Z"
-    },
-    {
-      "id": "1Ae2QJGUPtnCzdA4XYn1NF",
-      "name": "Flesh",
-      "artists": [
-        "Ghostemane"
-      ],
-      "album": "N / O / I / S / E",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b5ea1cb4ed9ef489db89597f",
-      "url": "https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF",
-      "duration_ms": 79270,
-      "played_at": "2026-08-12T10:49:07.651Z"
-    },
-    {
-      "id": "5aNH8inF5BsbThDeOLs7zs",
-      "name": "Feuer frei!",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs",
-      "duration_ms": 188600,
-      "played_at": "2026-08-12T10:44:04.006Z"
-    },
-    {
-      "id": "3RAFcUBrCNaboRXoP3S5t1",
-      "name": "Psychosocial",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "All Hope Is Gone (10th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
-      "duration_ms": 284120,
-      "played_at": "2026-08-12T10:37:34.080Z"
-    },
-    {
-      "id": "0EYOdF5FCkgOJJla8DI2Md",
-      "name": "B.Y.O.B.",
+      "id": "1VNWaY3uNfoeWqb5U8x2QX",
+      "name": "Lonely Day",
       "artists": [
         "System Of A Down"
       ],
-      "album": "Mezmerize",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md",
-      "duration_ms": 255466,
-      "played_at": "2026-08-12T10:29:40.325Z"
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f5e7b2e5adaa87430a3eccff",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX",
+      "duration_ms": 167906,
+      "played_at": "2026-08-12T12:45:30.156Z"
     },
     {
-      "id": "3fWibgdtgIie6LKTZ2rUoI",
-      "name": "So Far So Fake",
+      "id": "6xeMsEEUC7lhZc9xLty606",
+      "name": "Pink Rover",
       "artists": [
-        "Pierce The Veil"
+        "Scene Queen"
       ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d00001e022846907b5152fb7dc38e450a",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
-      "duration_ms": 236160,
-      "played_at": "2026-08-12T10:25:24.455Z"
+      "album": "Bimbocore",
+      "image": "https://i.scdn.co/image/ab67616d00001e02805ff7f930c8e755692ce00e",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606",
+      "duration_ms": 118863,
+      "played_at": "2026-08-12T12:42:41.868Z"
     },
     {
-      "id": "6FUwPb4mGlUDbx42uspXaZ",
-      "name": "Fuel",
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
       "artists": [
-        "Metallica"
+        "Rammstein"
       ],
-      "album": "Reload",
-      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
-      "duration_ms": 269800,
-      "played_at": "2026-08-12T10:21:19.335Z"
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-12T12:40:42.568Z"
     },
     {
-      "id": "1ps7FhBZI1VXpAqp7eGTJk",
-      "name": "Vagabond",
+      "id": "4Uiw0Sl9yskBaC6P4DcdVD",
+      "name": "Be Quiet and Drive (Far Away)",
       "artists": [
-        "Ghostemane"
+        "Deftones"
       ],
-      "album": "ANTI-ICON",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b872dbba9e27bb6131e2727d",
-      "url": "https://open.spotify.com/track/1ps7FhBZI1VXpAqp7eGTJk",
-      "duration_ms": 114305,
-      "played_at": "2026-08-12T10:16:40.469Z"
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6",
+      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD",
+      "duration_ms": 299866,
+      "played_at": "2026-08-12T12:32:20.008Z"
     }
   ],
-  "fetched_at": "2026-08-12T11:20:25.563Z"
+  "fetched_at": "2026-08-12T13:55:46.962Z"
 }
