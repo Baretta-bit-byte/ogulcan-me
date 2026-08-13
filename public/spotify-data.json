@@ -169,6 +169,57 @@
   ],
   "recently_played": [
     {
+      "id": "0VLascXUZ2Ze2u5kUD5J1f",
+      "name": "I Giorni",
+      "artists": [
+        "Ludovico Einaudi"
+      ],
+      "album": "Islands - Essential Einaudi",
+      "image": "https://i.scdn.co/image/ab67616d00001e029d706d33e975dfa107e11b1e",
+      "url": "https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f",
+      "duration_ms": 411080,
+      "played_at": "2026-08-13T07:20:41.111Z"
+    },
+    {
+      "id": "0VLascXUZ2Ze2u5kUD5J1f",
+      "name": "I Giorni",
+      "artists": [
+        "Ludovico Einaudi"
+      ],
+      "album": "Islands - Essential Einaudi",
+      "image": "https://i.scdn.co/image/ab67616d00001e029d706d33e975dfa107e11b1e",
+      "url": "https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f",
+      "duration_ms": 411080,
+      "played_at": "2026-08-13T07:16:18.539Z"
+    },
+    {
+      "id": "6fb7UKdjGWl0hYxySXyOQz",
+      "name": "Dreamland",
+      "artists": [
+        "Alexis Ffrench",
+        "Royal Liverpool Philharmonic Orchestra",
+        "James Morgan",
+        "Graham Devine"
+      ],
+      "album": "Dreamland (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02749b9550b53fc4fceff6e0ce",
+      "url": "https://open.spotify.com/track/6fb7UKdjGWl0hYxySXyOQz",
+      "duration_ms": 161258,
+      "played_at": "2026-08-13T07:02:00.548Z"
+    },
+    {
+      "id": "5EicljVZKVOo2LZHREtWmQ",
+      "name": "Coming Home",
+      "artists": [
+        "Cinderella"
+      ],
+      "album": "Long Cold Winter",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f6c21a13a1fff5174fe35ed1",
+      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
+      "duration_ms": 295066,
+      "played_at": "2026-08-13T06:59:12.708Z"
+    },
+    {
       "id": "2TofEeQobQ9YoK7EFds698",
       "name": "You Give Love A Bad Name",
       "artists": [
@@ -178,7 +229,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e0249e6168f69625252689c2526",
       "url": "https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698",
       "duration_ms": 222317,
-      "played_at": "2026-08-12T18:14:09.133Z"
+      "played_at": "2026-08-13T06:54:17.223Z"
     },
     {
       "id": "4GUaG3df9nbrj77GKEB76j",
@@ -190,7 +241,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
       "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
       "duration_ms": 175592,
-      "played_at": "2026-08-12T18:10:26.435Z"
+      "played_at": "2026-08-13T06:50:34.520Z"
     },
     {
       "id": "4EuaDcxHmHKS6gZ5iuGba0",
@@ -202,92 +253,44 @@
       "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
       "duration_ms": 274520,
-      "played_at": "2026-08-12T18:07:30.524Z"
+      "played_at": "2026-08-13T06:47:38.607Z"
     },
     {
-      "id": "1Ae2QJGUPtnCzdA4XYn1NF",
-      "name": "Flesh",
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
       "artists": [
-        "Ghostemane"
+        "Pinhani"
       ],
-      "album": "N / O / I / S / E",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b5ea1cb4ed9ef489db89597f",
-      "url": "https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF",
-      "duration_ms": 79270,
-      "played_at": "2026-08-12T17:19:40.877Z"
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-13T06:21:49.472Z"
     },
     {
-      "id": "1Ae2QJGUPtnCzdA4XYn1NF",
-      "name": "Flesh",
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
       "artists": [
-        "Ghostemane"
+        "Yaşlı Amca"
       ],
-      "album": "N / O / I / S / E",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b5ea1cb4ed9ef489db89597f",
-      "url": "https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF",
-      "duration_ms": 79270,
-      "played_at": "2026-08-12T16:53:44.773Z"
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-13T06:17:57.736Z"
     },
     {
-      "id": "5krhWYmWIKJhI96deUujm8",
-      "name": "Specter",
+      "id": "5J9Tq633jfJOs1CZ13MQWf",
+      "name": "Tonight the Streets Are Ours",
       "artists": [
-        "Bad Omens"
+        "Richard Hawley"
       ],
-      "album": "Specter",
-      "image": "https://i.scdn.co/image/ab67616d00001e02291facfe6e704c2a78d36782",
-      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8",
-      "duration_ms": 274408,
-      "played_at": "2026-08-12T16:36:39.310Z"
-    },
-    {
-      "id": "5aNH8inF5BsbThDeOLs7zs",
-      "name": "Feuer frei!",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs",
-      "duration_ms": 188600,
-      "played_at": "2026-08-12T16:32:04.496Z"
-    },
-    {
-      "id": "6Zj3YsYfj8YTY9aGMDnpn8",
-      "name": "Hot Dog",
-      "artists": [
-        "Limp Bizkit"
-      ],
-      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
-      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
-      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8",
-      "duration_ms": 230240,
-      "played_at": "2026-08-12T16:28:55.504Z"
-    },
-    {
-      "id": "2UREu1Y8CO4jXkbvqAtP7g",
-      "name": "Monster",
-      "artists": [
-        "Skillet"
-      ],
-      "album": "Awake",
-      "image": "https://i.scdn.co/image/ab67616d00001e0289f8d16ffe15fccfa0a7e31d",
-      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
-      "duration_ms": 178013,
-      "played_at": "2026-08-12T16:25:04.867Z"
-    },
-    {
-      "id": "3RAFcUBrCNaboRXoP3S5t1",
-      "name": "Psychosocial",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "All Hope Is Gone (10th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
-      "duration_ms": 284120,
-      "played_at": "2026-08-12T16:22:06.472Z"
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
+      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
+      "duration_ms": 222506,
+      "played_at": "2026-08-13T06:14:03.990Z"
     }
   ],
-  "fetched_at": "2026-08-12T19:35:36.263Z"
+  "fetched_at": "2026-08-13T07:23:01.113Z"
 }
