@@ -61,6 +61,19 @@
       "genres": []
     },
     {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "preview_url": null,
+      "duration_ms": 150000,
+      "genres": []
+    },
+    {
       "id": "5EicljVZKVOo2LZHREtWmQ",
       "name": "Coming Home",
       "artists": [
@@ -100,16 +113,16 @@
       "genres": []
     },
     {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
       "artists": [
-        "İkiye On Kala"
+        "Yaşlı Amca"
       ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
       "preview_url": null,
-      "duration_ms": 150000,
+      "duration_ms": 233352,
       "genres": []
     },
     {
@@ -150,19 +163,6 @@
       "url": "https://open.spotify.com/track/1kTTQX7my5Pv00dOXy5cSo",
       "preview_url": null,
       "duration_ms": 200986,
-      "genres": []
-    },
-    {
-      "id": "0j2T0R9dR9qdJYsB7ciXhf",
-      "name": "Stronger",
-      "artists": [
-        "Kanye West"
-      ],
-      "album": "Graduation",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
-      "preview_url": null,
-      "duration_ms": 311866,
       "genres": []
     }
   ],
@@ -290,5 +290,5 @@
       "played_at": "2026-08-13T17:06:00.624Z"
     }
   ],
-  "fetched_at": "2026-08-13T19:33:28.885Z"
+  "fetched_at": "2026-08-13T20:38:55.021Z"
 }
