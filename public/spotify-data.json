@@ -100,6 +100,19 @@
       "genres": []
     },
     {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "preview_url": null,
+      "duration_ms": 150000,
+      "genres": []
+    },
+    {
       "id": "4xkOaSrkexMciUUogZKVTS",
       "name": "Till I Collapse",
       "artists": [
@@ -150,19 +163,6 @@
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
       "preview_url": null,
       "duration_ms": 311866,
-      "genres": []
-    },
-    {
-      "id": "0qldKjo48wbv8t5Oi1tBGa",
-      "name": "Mihriban",
-      "artists": [
-        "Musa Eroğlu"
-      ],
-      "album": "Bir Nefes Anadolu",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d78f34f543e2dd4d3cdf3f4a",
-      "url": "https://open.spotify.com/track/0qldKjo48wbv8t5Oi1tBGa",
-      "preview_url": null,
-      "duration_ms": 259066,
       "genres": []
     }
   ],
@@ -288,5 +288,5 @@
       "played_at": "2026-08-13T07:20:41.111Z"
     }
   ],
-  "fetched_at": "2026-08-13T08:49:54.526Z"
+  "fetched_at": "2026-08-13T10:02:10.571Z"
 }
