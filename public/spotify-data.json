@@ -168,6 +168,30 @@
   ],
   "recently_played": [
     {
+      "id": "2ybbGC9zxQ3Yxq5MO5ZVpx",
+      "name": "Sonsuza Dek",
+      "artists": [
+        "Doğan Canku"
+      ],
+      "album": "Sonsuza Dek / Ayrılık",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c0b57e4fa17baac1c523ac5f",
+      "url": "https://open.spotify.com/track/2ybbGC9zxQ3Yxq5MO5ZVpx",
+      "duration_ms": 336360,
+      "played_at": "2026-08-15T14:06:52.964Z"
+    },
+    {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-15T13:59:51.385Z"
+    },
+    {
       "id": "4EuaDcxHmHKS6gZ5iuGba0",
       "name": "Joy Of My Life",
       "artists": [
@@ -264,31 +288,7 @@
       "url": "https://open.spotify.com/track/5euO4JVKk6EZJDT2qn8nw3",
       "duration_ms": 142250,
       "played_at": "2026-08-13T17:21:25.742Z"
-    },
-    {
-      "id": "2dXsILW8gzkosqleHAvl0v",
-      "name": "For Whom The Bell Tolls - Remastered",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Ride The Lightning (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "duration_ms": 309973,
-      "played_at": "2026-08-13T17:19:03.134Z"
-    },
-    {
-      "id": "3RAFcUBrCNaboRXoP3S5t1",
-      "name": "Psychosocial",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "All Hope Is Gone (10th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
-      "duration_ms": 284120,
-      "played_at": "2026-08-13T17:13:22.405Z"
     }
   ],
-  "fetched_at": "2026-08-14T07:20:38.140Z"
+  "fetched_at": "2026-08-15T14:19:11.119Z"
 }
