@@ -19,6 +19,19 @@
       "genres": []
     },
     {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "preview_url": null,
+      "duration_ms": 150000,
+      "genres": []
+    },
+    {
       "id": "5miRcNaII78yJMucHKulkD",
       "name": "Love and War",
       "artists": [
@@ -58,19 +71,6 @@
       "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
       "preview_url": null,
       "duration_ms": 410017,
-      "genres": []
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "preview_url": null,
-      "duration_ms": 150000,
       "genres": []
     },
     {
@@ -289,5 +289,5 @@
       "played_at": "2026-08-13T18:53:42.936Z"
     }
   ],
-  "fetched_at": "2026-08-15T14:47:16.000Z"
+  "fetched_at": "2026-08-15T15:17:34.817Z"
 }
