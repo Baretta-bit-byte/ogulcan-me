@@ -177,6 +177,79 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02c0b57e4fa17baac1c523ac5f",
       "url": "https://open.spotify.com/track/2ybbGC9zxQ3Yxq5MO5ZVpx",
       "duration_ms": 336360,
+      "played_at": "2026-08-15T14:45:28.397Z"
+    },
+    {
+      "id": "2mySbT2uCipOGWuDAjHkHA",
+      "name": "Little Darlin' (We'll Be Kissing)",
+      "artists": [
+        "Barış Manço"
+      ],
+      "album": "Baris Mancho",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d3041c08d096cc4b4cdb9d49",
+      "url": "https://open.spotify.com/track/2mySbT2uCipOGWuDAjHkHA",
+      "duration_ms": 146893,
+      "played_at": "2026-08-15T14:39:51.614Z"
+    },
+    {
+      "id": "2C1VU4QWrUX4UyKT4d2bB6",
+      "name": "Mevsim Çiçekleri",
+      "artists": [
+        "Evrencan Gündüz"
+      ],
+      "album": "Mevsim Çiçekleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e02277929b771a4e0433efcbd67",
+      "url": "https://open.spotify.com/track/2C1VU4QWrUX4UyKT4d2bB6",
+      "duration_ms": 326160,
+      "played_at": "2026-08-15T14:37:24.399Z"
+    },
+    {
+      "id": "54XgIq26qkDDWu7bkIsKF2",
+      "name": "Derdini Bul",
+      "artists": [
+        "Peyk",
+        "Yasin Soyöz"
+      ],
+      "album": "Derdini Bul",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b59e97dccee931bc862ef9c2",
+      "url": "https://open.spotify.com/track/54XgIq26qkDDWu7bkIsKF2",
+      "duration_ms": 294000,
+      "played_at": "2026-08-15T14:31:57.823Z"
+    },
+    {
+      "id": "5aRI87Q0lZvZnK9gzfeXKr",
+      "name": "Ben Ölmeden Önce",
+      "artists": [
+        "Fatih Erdemci"
+      ],
+      "album": "Yaşamak Zor",
+      "image": "https://i.scdn.co/image/ab67616d00001e029e2ab5481654f85fbd102334",
+      "url": "https://open.spotify.com/track/5aRI87Q0lZvZnK9gzfeXKr",
+      "duration_ms": 289333,
+      "played_at": "2026-08-15T14:27:03.428Z"
+    },
+    {
+      "id": "1cY37saH6h6UJQavtquYa0",
+      "name": "A Drinking Song",
+      "artists": [
+        "Helldorado"
+      ],
+      "album": "The Ballad of Nora Lee",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
+      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
+      "duration_ms": 194840,
+      "played_at": "2026-08-15T14:22:13.717Z"
+    },
+    {
+      "id": "2ybbGC9zxQ3Yxq5MO5ZVpx",
+      "name": "Sonsuza Dek",
+      "artists": [
+        "Doğan Canku"
+      ],
+      "album": "Sonsuza Dek / Ayrılık",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c0b57e4fa17baac1c523ac5f",
+      "url": "https://open.spotify.com/track/2ybbGC9zxQ3Yxq5MO5ZVpx",
+      "duration_ms": 336360,
       "played_at": "2026-08-15T14:06:52.964Z"
     },
     {
@@ -214,81 +287,7 @@
       "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
       "duration_ms": 150000,
       "played_at": "2026-08-13T18:53:42.936Z"
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "duration_ms": 231317,
-      "played_at": "2026-08-13T18:51:12.510Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-13T18:47:20.822Z"
-    },
-    {
-      "id": "6rUp7v3l8yC4TKxAAR5Bmx",
-      "name": "I Hate Everything About You",
-      "artists": [
-        "Three Days Grace"
-      ],
-      "album": "Three Days Grace (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02447bdb4eab501ce0a15811c0",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx",
-      "duration_ms": 231480,
-      "played_at": "2026-08-13T17:35:03.923Z"
-    },
-    {
-      "id": "6xeMsEEUC7lhZc9xLty606",
-      "name": "Pink Rover",
-      "artists": [
-        "Scene Queen"
-      ],
-      "album": "Bimbocore",
-      "image": "https://i.scdn.co/image/ab67616d00001e02805ff7f930c8e755692ce00e",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606",
-      "duration_ms": 118863,
-      "played_at": "2026-08-13T17:34:35.124Z"
-    },
-    {
-      "id": "6xeMsEEUC7lhZc9xLty606",
-      "name": "Pink Rover",
-      "artists": [
-        "Scene Queen"
-      ],
-      "album": "Bimbocore",
-      "image": "https://i.scdn.co/image/ab67616d00001e02805ff7f930c8e755692ce00e",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606",
-      "duration_ms": 118863,
-      "played_at": "2026-08-13T17:32:46.164Z"
-    },
-    {
-      "id": "5euO4JVKk6EZJDT2qn8nw3",
-      "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
-      "artists": [
-        "IC3PEAK",
-        "Oli Sykes",
-        "Bring Me The Horizon"
-      ],
-      "album": "KISS OF DEATH",
-      "image": "https://i.scdn.co/image/ab67616d00001e02116ef3dcec29365f8255dbf0",
-      "url": "https://open.spotify.com/track/5euO4JVKk6EZJDT2qn8nw3",
-      "duration_ms": 142250,
-      "played_at": "2026-08-13T17:21:25.742Z"
     }
   ],
-  "fetched_at": "2026-08-15T14:19:11.119Z"
+  "fetched_at": "2026-08-15T14:47:16.000Z"
 }
