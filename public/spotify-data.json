@@ -168,6 +168,67 @@
   ],
   "recently_played": [
     {
+      "id": "7DarbtpxRUG5POF3ifwu61",
+      "name": "Bodrum",
+      "artists": [
+        "Yüzyüzeyken Konuşuruz"
+      ],
+      "album": "Akustik Travma",
+      "image": "https://i.scdn.co/image/ab67616d00001e0257ae3db855e4487793dea401",
+      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61",
+      "duration_ms": 235817,
+      "played_at": "2026-08-16T21:37:36.712Z"
+    },
+    {
+      "id": "6tVBL3RVJXKsWnMhy8laNs",
+      "name": "Hayir Olamaz",
+      "artists": [
+        "Seksendört"
+      ],
+      "album": "Akiyor Zaman",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ad11effaf5736534b25c384e",
+      "url": "https://open.spotify.com/track/6tVBL3RVJXKsWnMhy8laNs",
+      "duration_ms": 204333,
+      "played_at": "2026-08-16T21:33:23.066Z"
+    },
+    {
+      "id": "7z5rmdisSV8GmWCnrOd1HU",
+      "name": "Porselen Kalbim",
+      "artists": [
+        "Sena Şener"
+      ],
+      "album": "Porselen Kalbim",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f0bb8a34d190f96d1d213f79",
+      "url": "https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU",
+      "duration_ms": 315600,
+      "played_at": "2026-08-16T21:26:59.106Z"
+    },
+    {
+      "id": "6kL1P502vhZv7PRJ9e0pR6",
+      "name": "Muhtemel Aşk",
+      "artists": [
+        "yirmi7",
+        "Birol Namoğlu"
+      ],
+      "album": "Muhtemel Aşk",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a73f8d9d581dbcb64a15bb0b",
+      "url": "https://open.spotify.com/track/6kL1P502vhZv7PRJ9e0pR6",
+      "duration_ms": 276666,
+      "played_at": "2026-08-16T21:21:43.124Z"
+    },
+    {
+      "id": "09jOIuHj9xZMJxk0opiqRg",
+      "name": "Aşkın Yalanmış",
+      "artists": [
+        "Göksel"
+      ],
+      "album": "Bende Bi' Aşk Var",
+      "image": "https://i.scdn.co/image/ab67616d00001e02eb4534ca1227f529d3895fd1",
+      "url": "https://open.spotify.com/track/09jOIuHj9xZMJxk0opiqRg",
+      "duration_ms": 243173,
+      "played_at": "2026-08-16T21:17:06.074Z"
+    },
+    {
       "id": "44L4pN54vXFkZSUTGZxE7U",
       "name": "Ne Farkeder",
       "artists": [
@@ -227,67 +288,7 @@
       "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
       "duration_ms": 233352,
       "played_at": "2026-08-16T20:08:25.010Z"
-    },
-    {
-      "id": "5J9Tq633jfJOs1CZ13MQWf",
-      "name": "Tonight the Streets Are Ours",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Tonight the Streets Are Ours",
-      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
-      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
-      "duration_ms": 222506,
-      "played_at": "2026-08-16T19:55:57.169Z"
-    },
-    {
-      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
-      "name": "The Ocean",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
-      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
-      "duration_ms": 336560,
-      "played_at": "2026-08-16T19:52:14.255Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-16T19:39:33.530Z"
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "duration_ms": 231317,
-      "played_at": "2026-08-16T19:37:03.147Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-16T19:33:11.415Z"
     }
   ],
-  "fetched_at": "2026-08-16T21:17:10.107Z"
+  "fetched_at": "2026-08-16T21:43:51.737Z"
 }
