@@ -6,19 +6,6 @@
   },
   "tracks": [
     {
-      "id": "4EuaDcxHmHKS6gZ5iuGba0",
-      "name": "Joy Of My Life",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Starting Over",
-      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
-      "preview_url": null,
-      "duration_ms": 274520,
-      "genres": []
-    },
-    {
       "id": "48uVgUu7IWXqBOrCqpmUmu",
       "name": "Bütün İstanbul Biliyo",
       "artists": [
@@ -29,6 +16,19 @@
       "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
       "preview_url": null,
       "duration_ms": 150000,
+      "genres": []
+    },
+    {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "preview_url": null,
+      "duration_ms": 274520,
       "genres": []
     },
     {
@@ -74,6 +74,19 @@
       "genres": []
     },
     {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "preview_url": null,
+      "duration_ms": 233352,
+      "genres": []
+    },
+    {
       "id": "5EicljVZKVOo2LZHREtWmQ",
       "name": "Coming Home",
       "artists": [
@@ -113,16 +126,16 @@
       "genres": []
     },
     {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
+      "id": "5J9Tq633jfJOs1CZ13MQWf",
+      "name": "Tonight the Streets Are Ours",
       "artists": [
-        "Yaşlı Amca"
+        "Richard Hawley"
       ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
+      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
       "preview_url": null,
-      "duration_ms": 233352,
+      "duration_ms": 222506,
       "genres": []
     },
     {
@@ -140,33 +153,56 @@
       "genres": []
     },
     {
-      "id": "6ekUWsPDlyooDFSBmXvBIW",
-      "name": "Haydi Gel Benimle Ol",
+      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
+      "name": "The Ocean",
       "artists": [
-        "Sezen Aksu"
+        "Richard Hawley"
       ],
-      "album": "Sen Ağlama",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
-      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
+      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
       "preview_url": null,
-      "duration_ms": 271618,
-      "genres": []
-    },
-    {
-      "id": "1kTTQX7my5Pv00dOXy5cSo",
-      "name": "Bluebird",
-      "artists": [
-        "Lola Marsh"
-      ],
-      "album": "Remember Roses",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c6cd17d547c314d5961377df",
-      "url": "https://open.spotify.com/track/1kTTQX7my5Pv00dOXy5cSo",
-      "preview_url": null,
-      "duration_ms": 200986,
+      "duration_ms": 336560,
       "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "5J9Tq633jfJOs1CZ13MQWf",
+      "name": "Tonight the Streets Are Ours",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
+      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
+      "duration_ms": 222506,
+      "played_at": "2026-08-16T19:55:57.169Z"
+    },
+    {
+      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
+      "name": "The Ocean",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
+      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
+      "duration_ms": 336560,
+      "played_at": "2026-08-16T19:52:14.255Z"
+    },
+    {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-16T19:39:33.530Z"
+    },
     {
       "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
       "name": "Hele Bi Gel",
@@ -250,43 +286,7 @@
       "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
       "duration_ms": 194840,
       "played_at": "2026-08-16T19:08:24.859Z"
-    },
-    {
-      "id": "2ybbGC9zxQ3Yxq5MO5ZVpx",
-      "name": "Sonsuza Dek",
-      "artists": [
-        "Doğan Canku"
-      ],
-      "album": "Sonsuza Dek / Ayrılık",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c0b57e4fa17baac1c523ac5f",
-      "url": "https://open.spotify.com/track/2ybbGC9zxQ3Yxq5MO5ZVpx",
-      "duration_ms": 336360,
-      "played_at": "2026-08-15T14:45:28.397Z"
-    },
-    {
-      "id": "2mySbT2uCipOGWuDAjHkHA",
-      "name": "Little Darlin' (We'll Be Kissing)",
-      "artists": [
-        "Barış Manço"
-      ],
-      "album": "Baris Mancho",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d3041c08d096cc4b4cdb9d49",
-      "url": "https://open.spotify.com/track/2mySbT2uCipOGWuDAjHkHA",
-      "duration_ms": 146893,
-      "played_at": "2026-08-15T14:39:51.614Z"
-    },
-    {
-      "id": "2C1VU4QWrUX4UyKT4d2bB6",
-      "name": "Mevsim Çiçekleri",
-      "artists": [
-        "Evrencan Gündüz"
-      ],
-      "album": "Mevsim Çiçekleri",
-      "image": "https://i.scdn.co/image/ab67616d00001e02277929b771a4e0433efcbd67",
-      "url": "https://open.spotify.com/track/2C1VU4QWrUX4UyKT4d2bB6",
-      "duration_ms": 326160,
-      "played_at": "2026-08-15T14:37:24.399Z"
     }
   ],
-  "fetched_at": "2026-08-16T19:43:21.726Z"
+  "fetched_at": "2026-08-16T20:18:44.591Z"
 }
