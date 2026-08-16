@@ -168,6 +168,30 @@
   ],
   "recently_played": [
     {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-16T19:11:09.735Z"
+    },
+    {
+      "id": "1cY37saH6h6UJQavtquYa0",
+      "name": "A Drinking Song",
+      "artists": [
+        "Helldorado"
+      ],
+      "album": "The Ballad of Nora Lee",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
+      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
+      "duration_ms": 194840,
+      "played_at": "2026-08-16T19:08:24.859Z"
+    },
+    {
       "id": "2ybbGC9zxQ3Yxq5MO5ZVpx",
       "name": "Sonsuza Dek",
       "artists": [
@@ -263,31 +287,7 @@
       "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
       "duration_ms": 150000,
       "played_at": "2026-08-15T13:59:51.385Z"
-    },
-    {
-      "id": "4EuaDcxHmHKS6gZ5iuGba0",
-      "name": "Joy Of My Life",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Starting Over",
-      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
-      "duration_ms": 274520,
-      "played_at": "2026-08-13T19:19:41.578Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-13T18:53:42.936Z"
     }
   ],
-  "fetched_at": "2026-08-15T15:17:34.817Z"
+  "fetched_at": "2026-08-16T19:18:57.789Z"
 }
