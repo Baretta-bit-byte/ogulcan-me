@@ -168,6 +168,67 @@
   ],
   "recently_played": [
     {
+      "id": "44L4pN54vXFkZSUTGZxE7U",
+      "name": "Ne Farkeder",
+      "artists": [
+        "Yüzyüzeyken Konuşuruz"
+      ],
+      "album": "Ne Farkeder",
+      "image": "https://i.scdn.co/image/ab67616d00001e02aa8636db5938e9ddf3b8f2ef",
+      "url": "https://open.spotify.com/track/44L4pN54vXFkZSUTGZxE7U",
+      "duration_ms": 192542,
+      "played_at": "2026-08-16T21:13:02.537Z"
+    },
+    {
+      "id": "0d7qHnB6CNvn1UsO5i3ElE",
+      "name": "Sarılırım Birine",
+      "artists": [
+        "Adamlar"
+      ],
+      "album": "Dünya Günlükleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b362fca4833c8d3b0cc5616",
+      "url": "https://open.spotify.com/track/0d7qHnB6CNvn1UsO5i3ElE",
+      "duration_ms": 393431,
+      "played_at": "2026-08-16T21:09:49.556Z"
+    },
+    {
+      "id": "3jM12sAVBL1xjzqbavzQDj",
+      "name": "Birden Geldin Aklıma",
+      "artists": [
+        "Tuna Kiremitçi",
+        "Sena Şener"
+      ],
+      "album": "Tuna Kiremitçi ve Arkadaşları",
+      "image": "https://i.scdn.co/image/ab67616d00001e0258270a605e53c3920b600cc2",
+      "url": "https://open.spotify.com/track/3jM12sAVBL1xjzqbavzQDj",
+      "duration_ms": 216611,
+      "played_at": "2026-08-16T21:03:15.729Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-16T20:56:28.182Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-16T20:08:25.010Z"
+    },
+    {
       "id": "5J9Tq633jfJOs1CZ13MQWf",
       "name": "Tonight the Streets Are Ours",
       "artists": [
@@ -226,67 +287,7 @@
       "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
       "duration_ms": 233352,
       "played_at": "2026-08-16T19:33:11.415Z"
-    },
-    {
-      "id": "5J9Tq633jfJOs1CZ13MQWf",
-      "name": "Tonight the Streets Are Ours",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Tonight the Streets Are Ours",
-      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
-      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
-      "duration_ms": 222506,
-      "played_at": "2026-08-16T19:29:17.683Z"
-    },
-    {
-      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
-      "name": "The Ocean",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
-      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
-      "duration_ms": 336560,
-      "played_at": "2026-08-16T19:25:34.854Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-16T19:19:10.353Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-16T19:11:09.735Z"
-    },
-    {
-      "id": "1cY37saH6h6UJQavtquYa0",
-      "name": "A Drinking Song",
-      "artists": [
-        "Helldorado"
-      ],
-      "album": "The Ballad of Nora Lee",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
-      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
-      "duration_ms": 194840,
-      "played_at": "2026-08-16T19:08:24.859Z"
     }
   ],
-  "fetched_at": "2026-08-16T20:18:44.591Z"
+  "fetched_at": "2026-08-16T21:17:10.107Z"
 }
