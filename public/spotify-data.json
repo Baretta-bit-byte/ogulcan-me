@@ -168,6 +168,67 @@
   ],
   "recently_played": [
     {
+      "id": "5xOAQ5o5mPI2FZZEOu1NZL",
+      "name": "Boş Gemiler",
+      "artists": [
+        "Yüzyüzeyken Konuşuruz"
+      ],
+      "album": "Boş Gemiler",
+      "image": "https://i.scdn.co/image/ab67616d00001e022475680ba3f472c14cb1ce89",
+      "url": "https://open.spotify.com/track/5xOAQ5o5mPI2FZZEOu1NZL",
+      "duration_ms": 229600,
+      "played_at": "2026-08-16T22:09:25.912Z"
+    },
+    {
+      "id": "2rjHx1Z6JROOW23zirJNvS",
+      "name": "Doldum",
+      "artists": [
+        "Adamlar"
+      ],
+      "album": "Dünya Günlükleri",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b362fca4833c8d3b0cc5616",
+      "url": "https://open.spotify.com/track/2rjHx1Z6JROOW23zirJNvS",
+      "duration_ms": 442408,
+      "played_at": "2026-08-16T22:05:35.794Z"
+    },
+    {
+      "id": "2AcCBpYHVbeV2IUU4iHP2Y",
+      "name": "Tutun Sen Bana",
+      "artists": [
+        "Yüzyüzeyken Konuşuruz"
+      ],
+      "album": "KADER SK.",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255af94691bb920254312dc49",
+      "url": "https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y",
+      "duration_ms": 163021,
+      "played_at": "2026-08-16T21:55:18.047Z"
+    },
+    {
+      "id": "1jStctxoCQu67sVWxzatLC",
+      "name": "Raf",
+      "artists": [
+        "Deeperise",
+        "Jabbar"
+      ],
+      "album": "Raf",
+      "image": "https://i.scdn.co/image/ab67616d00001e02caae7b6a16b0c8c1aed145e5",
+      "url": "https://open.spotify.com/track/1jStctxoCQu67sVWxzatLC",
+      "duration_ms": 247422,
+      "played_at": "2026-08-16T21:50:10.864Z"
+    },
+    {
+      "id": "3b8UW227uLkRDvd0w9e1Sw",
+      "name": "Sen Varsın Diye",
+      "artists": [
+        "Yüzyüzeyken Konuşuruz"
+      ],
+      "album": "Sen Varsın Diye",
+      "image": "https://i.scdn.co/image/ab67616d00001e0229725d3c70f6c344f23891a0",
+      "url": "https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw",
+      "duration_ms": 226306,
+      "played_at": "2026-08-16T21:46:02.748Z"
+    },
+    {
       "id": "7DarbtpxRUG5POF3ifwu61",
       "name": "Bodrum",
       "artists": [
@@ -227,68 +288,7 @@
       "url": "https://open.spotify.com/track/09jOIuHj9xZMJxk0opiqRg",
       "duration_ms": 243173,
       "played_at": "2026-08-16T21:17:06.074Z"
-    },
-    {
-      "id": "44L4pN54vXFkZSUTGZxE7U",
-      "name": "Ne Farkeder",
-      "artists": [
-        "Yüzyüzeyken Konuşuruz"
-      ],
-      "album": "Ne Farkeder",
-      "image": "https://i.scdn.co/image/ab67616d00001e02aa8636db5938e9ddf3b8f2ef",
-      "url": "https://open.spotify.com/track/44L4pN54vXFkZSUTGZxE7U",
-      "duration_ms": 192542,
-      "played_at": "2026-08-16T21:13:02.537Z"
-    },
-    {
-      "id": "0d7qHnB6CNvn1UsO5i3ElE",
-      "name": "Sarılırım Birine",
-      "artists": [
-        "Adamlar"
-      ],
-      "album": "Dünya Günlükleri",
-      "image": "https://i.scdn.co/image/ab67616d00001e020b362fca4833c8d3b0cc5616",
-      "url": "https://open.spotify.com/track/0d7qHnB6CNvn1UsO5i3ElE",
-      "duration_ms": 393431,
-      "played_at": "2026-08-16T21:09:49.556Z"
-    },
-    {
-      "id": "3jM12sAVBL1xjzqbavzQDj",
-      "name": "Birden Geldin Aklıma",
-      "artists": [
-        "Tuna Kiremitçi",
-        "Sena Şener"
-      ],
-      "album": "Tuna Kiremitçi ve Arkadaşları",
-      "image": "https://i.scdn.co/image/ab67616d00001e0258270a605e53c3920b600cc2",
-      "url": "https://open.spotify.com/track/3jM12sAVBL1xjzqbavzQDj",
-      "duration_ms": 216611,
-      "played_at": "2026-08-16T21:03:15.729Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-16T20:56:28.182Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-16T20:08:25.010Z"
     }
   ],
-  "fetched_at": "2026-08-16T21:43:51.737Z"
+  "fetched_at": "2026-08-16T22:18:04.092Z"
 }
