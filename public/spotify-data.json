@@ -168,6 +168,66 @@
   ],
   "recently_played": [
     {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-16T19:37:03.147Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-16T19:33:11.415Z"
+    },
+    {
+      "id": "5J9Tq633jfJOs1CZ13MQWf",
+      "name": "Tonight the Streets Are Ours",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
+      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
+      "duration_ms": 222506,
+      "played_at": "2026-08-16T19:29:17.683Z"
+    },
+    {
+      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
+      "name": "The Ocean",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
+      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
+      "duration_ms": 336560,
+      "played_at": "2026-08-16T19:25:34.854Z"
+    },
+    {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-16T19:19:10.353Z"
+    },
+    {
       "id": "48uVgUu7IWXqBOrCqpmUmu",
       "name": "Bütün İstanbul Biliyo",
       "artists": [
@@ -226,68 +286,7 @@
       "url": "https://open.spotify.com/track/2C1VU4QWrUX4UyKT4d2bB6",
       "duration_ms": 326160,
       "played_at": "2026-08-15T14:37:24.399Z"
-    },
-    {
-      "id": "54XgIq26qkDDWu7bkIsKF2",
-      "name": "Derdini Bul",
-      "artists": [
-        "Peyk",
-        "Yasin Soyöz"
-      ],
-      "album": "Derdini Bul",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b59e97dccee931bc862ef9c2",
-      "url": "https://open.spotify.com/track/54XgIq26qkDDWu7bkIsKF2",
-      "duration_ms": 294000,
-      "played_at": "2026-08-15T14:31:57.823Z"
-    },
-    {
-      "id": "5aRI87Q0lZvZnK9gzfeXKr",
-      "name": "Ben Ölmeden Önce",
-      "artists": [
-        "Fatih Erdemci"
-      ],
-      "album": "Yaşamak Zor",
-      "image": "https://i.scdn.co/image/ab67616d00001e029e2ab5481654f85fbd102334",
-      "url": "https://open.spotify.com/track/5aRI87Q0lZvZnK9gzfeXKr",
-      "duration_ms": 289333,
-      "played_at": "2026-08-15T14:27:03.428Z"
-    },
-    {
-      "id": "1cY37saH6h6UJQavtquYa0",
-      "name": "A Drinking Song",
-      "artists": [
-        "Helldorado"
-      ],
-      "album": "The Ballad of Nora Lee",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
-      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
-      "duration_ms": 194840,
-      "played_at": "2026-08-15T14:22:13.717Z"
-    },
-    {
-      "id": "2ybbGC9zxQ3Yxq5MO5ZVpx",
-      "name": "Sonsuza Dek",
-      "artists": [
-        "Doğan Canku"
-      ],
-      "album": "Sonsuza Dek / Ayrılık",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c0b57e4fa17baac1c523ac5f",
-      "url": "https://open.spotify.com/track/2ybbGC9zxQ3Yxq5MO5ZVpx",
-      "duration_ms": 336360,
-      "played_at": "2026-08-15T14:06:52.964Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-15T13:59:51.385Z"
     }
   ],
-  "fetched_at": "2026-08-16T19:18:57.789Z"
+  "fetched_at": "2026-08-16T19:43:21.726Z"
 }
