@@ -168,125 +168,126 @@
   ],
   "recently_played": [
     {
-      "id": "1xPec5BN0Zxv77zrWKq43S",
-      "name": "The Son of Flynn - From \"TRON: Legacy\"/Score",
+      "id": "54XgIq26qkDDWu7bkIsKF2",
+      "name": "Derdini Bul",
       "artists": [
-        "Daft Punk"
+        "Peyk",
+        "Yasin Soyöz"
       ],
-      "album": "TRON: Legacy",
-      "image": "https://i.scdn.co/image/ab67616d00001e0266919acb93950333962467f8",
-      "url": "https://open.spotify.com/track/1xPec5BN0Zxv77zrWKq43S",
-      "duration_ms": 95226,
-      "played_at": "2026-08-17T09:37:28.087Z"
+      "album": "Derdini Bul",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b59e97dccee931bc862ef9c2",
+      "url": "https://open.spotify.com/track/54XgIq26qkDDWu7bkIsKF2",
+      "duration_ms": 294000,
+      "played_at": "2026-08-17T10:24:10.539Z"
     },
     {
-      "id": "0nfhGk3Cwp1qIu0C5sgI4S",
-      "name": "Circle",
+      "id": "0KfhNXqugNGgCgvzE9RUqI",
+      "name": "Aşkın Kenarından",
       "artists": [
-        "Jon Hopkins"
+        "MFÖ"
       ],
-      "album": "Contact Note",
-      "image": "https://i.scdn.co/image/ab67616d00001e023710647506a1cef36206dfe7",
-      "url": "https://open.spotify.com/track/0nfhGk3Cwp1qIu0C5sgI4S",
-      "duration_ms": 348800,
-      "played_at": "2026-08-17T09:35:52.613Z"
+      "album": "Kendi Kendine",
+      "image": "https://i.scdn.co/image/ab67616d00001e026f3a683b937af6ccf93c3b5f",
+      "url": "https://open.spotify.com/track/0KfhNXqugNGgCgvzE9RUqI",
+      "duration_ms": 210220,
+      "played_at": "2026-08-17T10:19:16.086Z"
     },
     {
-      "id": "2O0z8cMBuPnaHkicodw8K5",
-      "name": "1.4_2-impenetrable.sd2",
+      "id": "5aRI87Q0lZvZnK9gzfeXKr",
+      "name": "Ben Ölmeden Önce",
       "artists": [
-        "Mac Quayle"
+        "Fatih Erdemci"
       ],
-      "album": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e023f7642827e423f57b5bfc723",
-      "url": "https://open.spotify.com/track/2O0z8cMBuPnaHkicodw8K5",
-      "duration_ms": 143378,
-      "played_at": "2026-08-17T09:30:03.436Z"
+      "album": "Yaşamak Zor",
+      "image": "https://i.scdn.co/image/ab67616d00001e029e2ab5481654f85fbd102334",
+      "url": "https://open.spotify.com/track/5aRI87Q0lZvZnK9gzfeXKr",
+      "duration_ms": 289333,
+      "played_at": "2026-08-17T10:15:45.451Z"
     },
     {
-      "id": "7bhFquhq6XFAtSAA9bOSnI",
-      "name": "Singapore Ambient (Part 2)",
+      "id": "6sOTwzUE73fU6OFNRtYDi3",
+      "name": "Hatıralar",
       "artists": [
-        "Michael McCann"
+        "Mirkelam"
       ],
-      "album": "Deus Ex: Human Revolution (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bd5785665d6eed9e3203f525",
-      "url": "https://open.spotify.com/track/7bhFquhq6XFAtSAA9bOSnI",
-      "duration_ms": 144036,
-      "played_at": "2026-08-17T09:27:39.732Z"
+      "album": "Mirkelam",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ac2eef16499afdc64841cef6",
+      "url": "https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3",
+      "duration_ms": 276733,
+      "played_at": "2026-08-17T10:10:55.720Z"
     },
     {
-      "id": "4PLmJLtdDlsjM3fwBEGfO2",
-      "name": "Cymbol",
+      "id": "1cY37saH6h6UJQavtquYa0",
+      "name": "A Drinking Song",
       "artists": [
-        "Tor"
+        "Helldorado"
       ],
-      "album": "Blue Book",
-      "image": "https://i.scdn.co/image/ab67616d00001e022b239254a9aff7e01d2a253c",
-      "url": "https://open.spotify.com/track/4PLmJLtdDlsjM3fwBEGfO2",
-      "duration_ms": 318532,
-      "played_at": "2026-08-17T09:25:15.451Z"
+      "album": "The Ballad of Nora Lee",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
+      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
+      "duration_ms": 194840,
+      "played_at": "2026-08-17T10:06:18.616Z"
     },
     {
-      "id": "1zvyEQNSSXPtFhhMAog7gt",
-      "name": "MOS 6581",
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
       "artists": [
-        "Carbon Based Lifeforms"
+        "İkiye On Kala"
       ],
-      "album": "Fahrenheit Project, Pt. 3",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b3fc0054348a2afe890c6336",
-      "url": "https://open.spotify.com/track/1zvyEQNSSXPtFhhMAog7gt",
-      "duration_ms": 400746,
-      "played_at": "2026-08-17T09:19:56.553Z"
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-17T10:02:05.918Z"
     },
     {
-      "id": "0Jc2SfIHv63JNsUZpunh54",
-      "name": "Solar Sailer - From \"TRON: Legacy\"/Score",
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
       "artists": [
-        "Daft Punk"
+        "Pinhani"
       ],
-      "album": "TRON: Legacy",
-      "image": "https://i.scdn.co/image/ab67616d00001e0266919acb93950333962467f8",
-      "url": "https://open.spotify.com/track/0Jc2SfIHv63JNsUZpunh54",
-      "duration_ms": 162120,
-      "played_at": "2026-08-17T09:13:15.468Z"
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-17T09:59:35.524Z"
     },
     {
-      "id": "34YesMPaLugGI0ZGzRbVSz",
-      "name": "They Leave In Autumn",
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
       "artists": [
-        "Miwon"
+        "Yaşlı Amca"
       ],
-      "album": "A To B",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a8534dab41e9e3b124a249b6",
-      "url": "https://open.spotify.com/track/34YesMPaLugGI0ZGzRbVSz",
-      "duration_ms": 403866,
-      "played_at": "2026-08-17T09:10:33.250Z"
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-17T09:55:43.760Z"
     },
     {
-      "id": "1Sosnp51HuZUYpK5eqkHdM",
-      "name": "The Mole",
+      "id": "35Fkc3cctib935tVctHuD3",
+      "name": "Dissolving Time",
       "artists": [
-        "Michael McCann"
+        "H.U.V.A. Network"
       ],
-      "album": "Deus Ex: Human Revolution (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02bd5785665d6eed9e3203f525",
-      "url": "https://open.spotify.com/track/1Sosnp51HuZUYpK5eqkHdM",
-      "duration_ms": 144873,
-      "played_at": "2026-08-17T09:03:48.864Z"
+      "album": "Ephemeris",
+      "image": "https://i.scdn.co/image/ab67616d00001e022e4d1e5e2c3dedcb257edd08",
+      "url": "https://open.spotify.com/track/35Fkc3cctib935tVctHuD3",
+      "duration_ms": 408614,
+      "played_at": "2026-08-17T09:48:27.734Z"
     },
     {
-      "id": "5hQGVKSgTsh7qaReZzVgtq",
-      "name": "Intriguing Possibilities",
+      "id": "5aBTqBqvmNZLC6NZLwU9nn",
+      "name": "Plastic",
       "artists": [
-        "Trent Reznor and Atticus Ross"
+        "Solar Fields"
       ],
-      "album": "The Social Network",
-      "image": "https://i.scdn.co/image/ab67616d00001e02897cd4eeff3174110aa6230b",
-      "url": "https://open.spotify.com/track/5hQGVKSgTsh7qaReZzVgtq",
-      "duration_ms": 264398,
-      "played_at": "2026-08-17T09:01:23.694Z"
+      "album": "Mirror's Edge Catalyst (EA Games Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0277ee9e2be5e1ba80106cfe53",
+      "url": "https://open.spotify.com/track/5aBTqBqvmNZLC6NZLwU9nn",
+      "duration_ms": 119733,
+      "played_at": "2026-08-17T09:41:38.947Z"
     }
   ],
-  "fetched_at": "2026-08-17T09:38:09.410Z"
+  "fetched_at": "2026-08-17T10:29:15.900Z"
 }
