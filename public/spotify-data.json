@@ -168,6 +168,79 @@
   ],
   "recently_played": [
     {
+      "id": "0snQkGI5qnAmohLE7jTsTn",
+      "name": "Toxicity",
+      "artists": [
+        "System Of A Down"
+      ],
+      "album": "Toxicity",
+      "image": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
+      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
+      "duration_ms": 218933,
+      "played_at": "2026-08-17T15:13:43.176Z"
+    },
+    {
+      "id": "7CAbF0By0Fpnbiu6Xn5ZF7",
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "artists": [
+        "Bring Me The Horizon",
+        "BABYMETAL"
+      ],
+      "album": "POST HUMAN: SURVIVAL HORROR",
+      "image": "https://i.scdn.co/image/ab67616d00001e025149c948fde506624246a684",
+      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+      "duration_ms": 220041,
+      "played_at": "2026-08-17T15:10:03.826Z"
+    },
+    {
+      "id": "4eGHEHqoDMMejzPhRFTc7p",
+      "name": "I Don't Wanna Be Me",
+      "artists": [
+        "Type O Negative"
+      ],
+      "album": "Life Is Killing Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d736b2c5f252f84ad45d5be6",
+      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p",
+      "duration_ms": 308826,
+      "played_at": "2026-08-17T15:06:23.375Z"
+    },
+    {
+      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
+      "name": "Du hast",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Sehnsucht (Remastered 2023)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
+      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
+      "duration_ms": 235600,
+      "played_at": "2026-08-17T15:01:14.209Z"
+    },
+    {
+      "id": "1Ae2QJGUPtnCzdA4XYn1NF",
+      "name": "Flesh",
+      "artists": [
+        "Ghostemane"
+      ],
+      "album": "N / O / I / S / E",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b5ea1cb4ed9ef489db89597f",
+      "url": "https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF",
+      "duration_ms": 79270,
+      "played_at": "2026-08-17T14:57:18.263Z"
+    },
+    {
+      "id": "6FUwPb4mGlUDbx42uspXaZ",
+      "name": "Fuel",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Reload",
+      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
+      "duration_ms": 269800,
+      "played_at": "2026-08-17T14:55:58.624Z"
+    },
+    {
       "id": "75qezFTBIjU7OkoWGeD10Z",
       "name": "Good F**King Music",
       "artists": [
@@ -214,79 +287,7 @@
       "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx",
       "duration_ms": 213933,
       "played_at": "2026-08-17T14:39:08.201Z"
-    },
-    {
-      "id": "0AOmbw8AwDnwXhHC3OhdVB",
-      "name": "Courtesy Call",
-      "artists": [
-        "Thousand Foot Krutch"
-      ],
-      "album": "The End Is Where We Begin",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
-      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
-      "duration_ms": 236898,
-      "played_at": "2026-08-17T14:35:33.881Z"
-    },
-    {
-      "id": "0COqiPhxzoWICwFCS4eZcp",
-      "name": "Bring Me To Life",
-      "artists": [
-        "Evanescence"
-      ],
-      "album": "Fallen",
-      "image": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
-      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
-      "duration_ms": 235893,
-      "played_at": "2026-08-17T14:31:36.604Z"
-    },
-    {
-      "id": "3IV4swNduIRunHREK80owz",
-      "name": "Rollin' (Air Raid Vehicle)",
-      "artists": [
-        "Limp Bizkit"
-      ],
-      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
-      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
-      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
-      "duration_ms": 213760,
-      "played_at": "2026-08-17T14:27:40.296Z"
-    },
-    {
-      "id": "2UREu1Y8CO4jXkbvqAtP7g",
-      "name": "Monster",
-      "artists": [
-        "Skillet"
-      ],
-      "album": "Awake",
-      "image": "https://i.scdn.co/image/ab67616d00001e0289f8d16ffe15fccfa0a7e31d",
-      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
-      "duration_ms": 178013,
-      "played_at": "2026-08-17T14:24:06.102Z"
-    },
-    {
-      "id": "0UuNO0yYvsMPlyLF7RfQlg",
-      "name": "Angst",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Zeit",
-      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
-      "duration_ms": 224801,
-      "played_at": "2026-08-17T14:21:07.762Z"
-    },
-    {
-      "id": "1cY37saH6h6UJQavtquYa0",
-      "name": "A Drinking Song",
-      "artists": [
-        "Helldorado"
-      ],
-      "album": "The Ballad of Nora Lee",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
-      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
-      "duration_ms": 194840,
-      "played_at": "2026-08-17T11:37:13.494Z"
     }
   ],
-  "fetched_at": "2026-08-17T14:52:57.116Z"
+  "fetched_at": "2026-08-17T15:22:19.374Z"
 }
