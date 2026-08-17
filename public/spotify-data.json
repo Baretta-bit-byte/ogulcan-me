@@ -168,6 +168,90 @@
   ],
   "recently_played": [
     {
+      "id": "75qezFTBIjU7OkoWGeD10Z",
+      "name": "Good F**King Music",
+      "artists": [
+        "Solence"
+      ],
+      "album": "Deafening",
+      "image": "https://i.scdn.co/image/ab67616d00001e025e7c5c40aec59fab41e4a1ea",
+      "url": "https://open.spotify.com/track/75qezFTBIjU7OkoWGeD10Z",
+      "duration_ms": 206433,
+      "played_at": "2026-08-17T14:51:28.484Z"
+    },
+    {
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
+      "artists": [
+        "The Plot In You"
+      ],
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-17T14:48:01.618Z"
+    },
+    {
+      "id": "3RAFcUBrCNaboRXoP3S5t1",
+      "name": "Psychosocial",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120,
+      "played_at": "2026-08-17T14:44:24.422Z"
+    },
+    {
+      "id": "3fjmSxt0PskST13CSdBUFx",
+      "name": "Somewhere I Belong",
+      "artists": [
+        "Linkin Park"
+      ],
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b5b6fa1326d996181e71dd7",
+      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx",
+      "duration_ms": 213933,
+      "played_at": "2026-08-17T14:39:08.201Z"
+    },
+    {
+      "id": "0AOmbw8AwDnwXhHC3OhdVB",
+      "name": "Courtesy Call",
+      "artists": [
+        "Thousand Foot Krutch"
+      ],
+      "album": "The End Is Where We Begin",
+      "image": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
+      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
+      "duration_ms": 236898,
+      "played_at": "2026-08-17T14:35:33.881Z"
+    },
+    {
+      "id": "0COqiPhxzoWICwFCS4eZcp",
+      "name": "Bring Me To Life",
+      "artists": [
+        "Evanescence"
+      ],
+      "album": "Fallen",
+      "image": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+      "duration_ms": 235893,
+      "played_at": "2026-08-17T14:31:36.604Z"
+    },
+    {
+      "id": "3IV4swNduIRunHREK80owz",
+      "name": "Rollin' (Air Raid Vehicle)",
+      "artists": [
+        "Limp Bizkit"
+      ],
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
+      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
+      "duration_ms": 213760,
+      "played_at": "2026-08-17T14:27:40.296Z"
+    },
+    {
       "id": "2UREu1Y8CO4jXkbvqAtP7g",
       "name": "Monster",
       "artists": [
@@ -202,92 +286,7 @@
       "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
       "duration_ms": 194840,
       "played_at": "2026-08-17T11:37:13.494Z"
-    },
-    {
-      "id": "3jn9eyOsRLN5r0bajb8AbM",
-      "name": "Kalbin Yok Mu",
-      "artists": [
-        "Marc Aryan"
-      ],
-      "album": "Kalbin Yok Mu",
-      "image": "https://i.scdn.co/image/ab67616d00001e020dd66943efe0bc29bc815ace",
-      "url": "https://open.spotify.com/track/3jn9eyOsRLN5r0bajb8AbM",
-      "duration_ms": 158708,
-      "played_at": "2026-08-17T10:41:54.573Z"
-    },
-    {
-      "id": "30NsOnpjDybNL95TH3Uvsu",
-      "name": "Bir Yaz Daha Bitiyor",
-      "artists": [
-        "Gündoğarken"
-      ],
-      "album": "Bir Yaz Daha Bitiyor",
-      "image": "https://i.scdn.co/image/ab67616d00001e026cc380500433007cec84fd46",
-      "url": "https://open.spotify.com/track/30NsOnpjDybNL95TH3Uvsu",
-      "duration_ms": 212120,
-      "played_at": "2026-08-17T10:39:15.477Z"
-    },
-    {
-      "id": "69QnkvrvdrIf81NhNPF6Ca",
-      "name": "Benimle Oynarmısın",
-      "artists": [
-        "Bülent Ortaçgil"
-      ],
-      "album": "Benimle Oynar Mısın",
-      "image": "https://i.scdn.co/image/ab67616d00001e021e2894867258adc2a562384f",
-      "url": "https://open.spotify.com/track/69QnkvrvdrIf81NhNPF6Ca",
-      "duration_ms": 144240,
-      "played_at": "2026-08-17T10:35:42.995Z"
-    },
-    {
-      "id": "6pIc4HoRpKrTDF5oUKCg2e",
-      "name": "Denize Doğru",
-      "artists": [
-        "Bülent Ortaçgil"
-      ],
-      "album": "Sen",
-      "image": "https://i.scdn.co/image/ab67616d00001e0298bc5810f31aea74295c402d",
-      "url": "https://open.spotify.com/track/6pIc4HoRpKrTDF5oUKCg2e",
-      "duration_ms": 201600,
-      "played_at": "2026-08-17T10:33:18.375Z"
-    },
-    {
-      "id": "6ZQWRQhsvQTuoicKwKaNrm",
-      "name": "Eylül Akşamı",
-      "artists": [
-        "Bülent Ortaçgil"
-      ],
-      "album": "Light",
-      "image": "https://i.scdn.co/image/ab67616d00001e02aa36f3520cc7a0b38508b97b",
-      "url": "https://open.spotify.com/track/6ZQWRQhsvQTuoicKwKaNrm",
-      "duration_ms": 345506,
-      "played_at": "2026-08-17T10:29:56.388Z"
-    },
-    {
-      "id": "54XgIq26qkDDWu7bkIsKF2",
-      "name": "Derdini Bul",
-      "artists": [
-        "Peyk",
-        "Yasin Soyöz"
-      ],
-      "album": "Derdini Bul",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b59e97dccee931bc862ef9c2",
-      "url": "https://open.spotify.com/track/54XgIq26qkDDWu7bkIsKF2",
-      "duration_ms": 294000,
-      "played_at": "2026-08-17T10:24:10.539Z"
-    },
-    {
-      "id": "0KfhNXqugNGgCgvzE9RUqI",
-      "name": "Aşkın Kenarından",
-      "artists": [
-        "MFÖ"
-      ],
-      "album": "Kendi Kendine",
-      "image": "https://i.scdn.co/image/ab67616d00001e026f3a683b937af6ccf93c3b5f",
-      "url": "https://open.spotify.com/track/0KfhNXqugNGgCgvzE9RUqI",
-      "duration_ms": 210220,
-      "played_at": "2026-08-17T10:19:16.086Z"
     }
   ],
-  "fetched_at": "2026-08-17T14:24:19.797Z"
+  "fetched_at": "2026-08-17T14:52:57.116Z"
 }
