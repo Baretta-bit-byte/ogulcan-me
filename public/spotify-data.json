@@ -168,6 +168,30 @@
   ],
   "recently_played": [
     {
+      "id": "2UREu1Y8CO4jXkbvqAtP7g",
+      "name": "Monster",
+      "artists": [
+        "Skillet"
+      ],
+      "album": "Awake",
+      "image": "https://i.scdn.co/image/ab67616d00001e0289f8d16ffe15fccfa0a7e31d",
+      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
+      "duration_ms": 178013,
+      "played_at": "2026-08-17T14:24:06.102Z"
+    },
+    {
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-17T14:21:07.762Z"
+    },
+    {
       "id": "1cY37saH6h6UJQavtquYa0",
       "name": "A Drinking Song",
       "artists": [
@@ -263,31 +287,7 @@
       "url": "https://open.spotify.com/track/0KfhNXqugNGgCgvzE9RUqI",
       "duration_ms": 210220,
       "played_at": "2026-08-17T10:19:16.086Z"
-    },
-    {
-      "id": "5aRI87Q0lZvZnK9gzfeXKr",
-      "name": "Ben Ölmeden Önce",
-      "artists": [
-        "Fatih Erdemci"
-      ],
-      "album": "Yaşamak Zor",
-      "image": "https://i.scdn.co/image/ab67616d00001e029e2ab5481654f85fbd102334",
-      "url": "https://open.spotify.com/track/5aRI87Q0lZvZnK9gzfeXKr",
-      "duration_ms": 289333,
-      "played_at": "2026-08-17T10:15:45.451Z"
-    },
-    {
-      "id": "6sOTwzUE73fU6OFNRtYDi3",
-      "name": "Hatıralar",
-      "artists": [
-        "Mirkelam"
-      ],
-      "album": "Mirkelam",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ac2eef16499afdc64841cef6",
-      "url": "https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3",
-      "duration_ms": 276733,
-      "played_at": "2026-08-17T10:10:55.720Z"
     }
   ],
-  "fetched_at": "2026-08-17T12:38:52.142Z"
+  "fetched_at": "2026-08-17T14:24:19.797Z"
 }
