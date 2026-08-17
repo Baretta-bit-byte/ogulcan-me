@@ -168,6 +168,18 @@
   ],
   "recently_played": [
     {
+      "id": "1cY37saH6h6UJQavtquYa0",
+      "name": "A Drinking Song",
+      "artists": [
+        "Helldorado"
+      ],
+      "album": "The Ballad of Nora Lee",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
+      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
+      "duration_ms": 194840,
+      "played_at": "2026-08-17T11:37:13.494Z"
+    },
+    {
       "id": "3jn9eyOsRLN5r0bajb8AbM",
       "name": "Kalbin Yok Mu",
       "artists": [
@@ -275,19 +287,7 @@
       "url": "https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3",
       "duration_ms": 276733,
       "played_at": "2026-08-17T10:10:55.720Z"
-    },
-    {
-      "id": "1cY37saH6h6UJQavtquYa0",
-      "name": "A Drinking Song",
-      "artists": [
-        "Helldorado"
-      ],
-      "album": "The Ballad of Nora Lee",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a163e0ed72d5d4e81258a582",
-      "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
-      "duration_ms": 194840,
-      "played_at": "2026-08-17T10:06:18.616Z"
     }
   ],
-  "fetched_at": "2026-08-17T10:58:33.969Z"
+  "fetched_at": "2026-08-17T12:38:52.142Z"
 }
