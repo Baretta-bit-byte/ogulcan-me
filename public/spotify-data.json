@@ -32,6 +32,19 @@
       "genres": []
     },
     {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "preview_url": null,
+      "duration_ms": 233352,
+      "genres": []
+    },
+    {
       "id": "5miRcNaII78yJMucHKulkD",
       "name": "Love and War",
       "artists": [
@@ -71,19 +84,6 @@
       "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
       "preview_url": null,
       "duration_ms": 410017,
-      "genres": []
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "preview_url": null,
-      "duration_ms": 233352,
       "genres": []
     },
     {
@@ -153,20 +153,80 @@
       "genres": []
     },
     {
-      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
-      "name": "The Ocean",
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
       "artists": [
-        "Richard Hawley"
+        "Pinhani"
       ],
-      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
-      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
       "preview_url": null,
-      "duration_ms": 336560,
+      "duration_ms": 231317,
       "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "3jn9eyOsRLN5r0bajb8AbM",
+      "name": "Kalbin Yok Mu",
+      "artists": [
+        "Marc Aryan"
+      ],
+      "album": "Kalbin Yok Mu",
+      "image": "https://i.scdn.co/image/ab67616d00001e020dd66943efe0bc29bc815ace",
+      "url": "https://open.spotify.com/track/3jn9eyOsRLN5r0bajb8AbM",
+      "duration_ms": 158708,
+      "played_at": "2026-08-17T10:41:54.573Z"
+    },
+    {
+      "id": "30NsOnpjDybNL95TH3Uvsu",
+      "name": "Bir Yaz Daha Bitiyor",
+      "artists": [
+        "Gündoğarken"
+      ],
+      "album": "Bir Yaz Daha Bitiyor",
+      "image": "https://i.scdn.co/image/ab67616d00001e026cc380500433007cec84fd46",
+      "url": "https://open.spotify.com/track/30NsOnpjDybNL95TH3Uvsu",
+      "duration_ms": 212120,
+      "played_at": "2026-08-17T10:39:15.477Z"
+    },
+    {
+      "id": "69QnkvrvdrIf81NhNPF6Ca",
+      "name": "Benimle Oynarmısın",
+      "artists": [
+        "Bülent Ortaçgil"
+      ],
+      "album": "Benimle Oynar Mısın",
+      "image": "https://i.scdn.co/image/ab67616d00001e021e2894867258adc2a562384f",
+      "url": "https://open.spotify.com/track/69QnkvrvdrIf81NhNPF6Ca",
+      "duration_ms": 144240,
+      "played_at": "2026-08-17T10:35:42.995Z"
+    },
+    {
+      "id": "6pIc4HoRpKrTDF5oUKCg2e",
+      "name": "Denize Doğru",
+      "artists": [
+        "Bülent Ortaçgil"
+      ],
+      "album": "Sen",
+      "image": "https://i.scdn.co/image/ab67616d00001e0298bc5810f31aea74295c402d",
+      "url": "https://open.spotify.com/track/6pIc4HoRpKrTDF5oUKCg2e",
+      "duration_ms": 201600,
+      "played_at": "2026-08-17T10:33:18.375Z"
+    },
+    {
+      "id": "6ZQWRQhsvQTuoicKwKaNrm",
+      "name": "Eylül Akşamı",
+      "artists": [
+        "Bülent Ortaçgil"
+      ],
+      "album": "Light",
+      "image": "https://i.scdn.co/image/ab67616d00001e02aa36f3520cc7a0b38508b97b",
+      "url": "https://open.spotify.com/track/6ZQWRQhsvQTuoicKwKaNrm",
+      "duration_ms": 345506,
+      "played_at": "2026-08-17T10:29:56.388Z"
+    },
     {
       "id": "54XgIq26qkDDWu7bkIsKF2",
       "name": "Derdini Bul",
@@ -227,67 +287,7 @@
       "url": "https://open.spotify.com/track/1cY37saH6h6UJQavtquYa0",
       "duration_ms": 194840,
       "played_at": "2026-08-17T10:06:18.616Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-17T10:02:05.918Z"
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "duration_ms": 231317,
-      "played_at": "2026-08-17T09:59:35.524Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-17T09:55:43.760Z"
-    },
-    {
-      "id": "35Fkc3cctib935tVctHuD3",
-      "name": "Dissolving Time",
-      "artists": [
-        "H.U.V.A. Network"
-      ],
-      "album": "Ephemeris",
-      "image": "https://i.scdn.co/image/ab67616d00001e022e4d1e5e2c3dedcb257edd08",
-      "url": "https://open.spotify.com/track/35Fkc3cctib935tVctHuD3",
-      "duration_ms": 408614,
-      "played_at": "2026-08-17T09:48:27.734Z"
-    },
-    {
-      "id": "5aBTqBqvmNZLC6NZLwU9nn",
-      "name": "Plastic",
-      "artists": [
-        "Solar Fields"
-      ],
-      "album": "Mirror's Edge Catalyst (EA Games Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0277ee9e2be5e1ba80106cfe53",
-      "url": "https://open.spotify.com/track/5aBTqBqvmNZLC6NZLwU9nn",
-      "duration_ms": 119733,
-      "played_at": "2026-08-17T09:41:38.947Z"
     }
   ],
-  "fetched_at": "2026-08-17T10:29:15.900Z"
+  "fetched_at": "2026-08-17T10:58:33.969Z"
 }
