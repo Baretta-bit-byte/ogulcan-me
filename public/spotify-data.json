@@ -168,6 +168,54 @@
   ],
   "recently_played": [
     {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-18T15:24:31.279Z"
+    },
+    {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-18T15:22:00.873Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-18T15:18:09.189Z"
+    },
+    {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-18T15:13:10.656Z"
+    },
+    {
       "id": "6ekUWsPDlyooDFSBmXvBIW",
       "name": "Haydi Gel Benimle Ol",
       "artists": [
@@ -241,56 +289,7 @@
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
       "duration_ms": 274520,
       "played_at": "2026-08-18T13:26:43.040Z"
-    },
-    {
-      "id": "0snQkGI5qnAmohLE7jTsTn",
-      "name": "Toxicity",
-      "artists": [
-        "System Of A Down"
-      ],
-      "album": "Toxicity",
-      "image": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-      "duration_ms": 218933,
-      "played_at": "2026-08-17T15:13:43.176Z"
-    },
-    {
-      "id": "7CAbF0By0Fpnbiu6Xn5ZF7",
-      "name": "Kingslayer (feat. BABYMETAL)",
-      "artists": [
-        "Bring Me The Horizon",
-        "BABYMETAL"
-      ],
-      "album": "POST HUMAN: SURVIVAL HORROR",
-      "image": "https://i.scdn.co/image/ab67616d00001e025149c948fde506624246a684",
-      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
-      "duration_ms": 220041,
-      "played_at": "2026-08-17T15:10:03.826Z"
-    },
-    {
-      "id": "4eGHEHqoDMMejzPhRFTc7p",
-      "name": "I Don't Wanna Be Me",
-      "artists": [
-        "Type O Negative"
-      ],
-      "album": "Life Is Killing Me",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d736b2c5f252f84ad45d5be6",
-      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p",
-      "duration_ms": 308826,
-      "played_at": "2026-08-17T15:06:23.375Z"
-    },
-    {
-      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
-      "name": "Du hast",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Sehnsucht (Remastered 2023)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
-      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
-      "duration_ms": 235600,
-      "played_at": "2026-08-17T15:01:14.209Z"
     }
   ],
-  "fetched_at": "2026-08-18T14:30:44.674Z"
+  "fetched_at": "2026-08-18T15:28:15.669Z"
 }
