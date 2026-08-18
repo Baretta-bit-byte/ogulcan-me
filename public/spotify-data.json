@@ -6,19 +6,6 @@
   },
   "tracks": [
     {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "preview_url": null,
-      "duration_ms": 150000,
-      "genres": []
-    },
-    {
       "id": "4EuaDcxHmHKS6gZ5iuGba0",
       "name": "Joy Of My Life",
       "artists": [
@@ -32,6 +19,19 @@
       "genres": []
     },
     {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "preview_url": null,
+      "duration_ms": 150000,
+      "genres": []
+    },
+    {
       "id": "5JXV2YMrXBHZfzf7cXLIPd",
       "name": "İstanbul Beyefendisi",
       "artists": [
@@ -42,6 +42,19 @@
       "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
       "preview_url": null,
       "duration_ms": 233352,
+      "genres": []
+    },
+    {
+      "id": "1kBN0n05DpAbOkbNZ63XA0",
+      "name": "I Giorni",
+      "artists": [
+        "Ludovico Einaudi"
+      ],
+      "album": "Midsummer Echoes",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
+      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
+      "preview_url": null,
+      "duration_ms": 410017,
       "genres": []
     },
     {
@@ -71,19 +84,6 @@
       "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
       "preview_url": null,
       "duration_ms": 219802,
-      "genres": []
-    },
-    {
-      "id": "1kBN0n05DpAbOkbNZ63XA0",
-      "name": "I Giorni",
-      "artists": [
-        "Ludovico Einaudi"
-      ],
-      "album": "Midsummer Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
-      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
-      "preview_url": null,
-      "duration_ms": 410017,
       "genres": []
     },
     {
@@ -126,6 +126,19 @@
       "genres": []
     },
     {
+      "id": "6ekUWsPDlyooDFSBmXvBIW",
+      "name": "Haydi Gel Benimle Ol",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Sen Ağlama",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "preview_url": null,
+      "duration_ms": 271618,
+      "genres": []
+    },
+    {
       "id": "5J9Tq633jfJOs1CZ13MQWf",
       "name": "Tonight the Streets Are Ours",
       "artists": [
@@ -151,22 +164,36 @@
       "preview_url": null,
       "duration_ms": 297786,
       "genres": []
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "preview_url": null,
-      "duration_ms": 231317,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "6ekUWsPDlyooDFSBmXvBIW",
+      "name": "Haydi Gel Benimle Ol",
+      "artists": [
+        "Sezen Aksu"
+      ],
+      "album": "Sen Ağlama",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
+      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
+      "duration_ms": 271618,
+      "played_at": "2026-08-18T13:53:12.471Z"
+    },
+    {
+      "id": "6fb7UKdjGWl0hYxySXyOQz",
+      "name": "Dreamland",
+      "artists": [
+        "Alexis Ffrench",
+        "Royal Liverpool Philharmonic Orchestra",
+        "James Morgan",
+        "Graham Devine"
+      ],
+      "album": "Dreamland (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02749b9550b53fc4fceff6e0ce",
+      "url": "https://open.spotify.com/track/6fb7UKdjGWl0hYxySXyOQz",
+      "duration_ms": 161258,
+      "played_at": "2026-08-18T13:40:58.893Z"
+    },
     {
       "id": "5EicljVZKVOo2LZHREtWmQ",
       "name": "Coming Home",
@@ -263,31 +290,7 @@
       "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
       "duration_ms": 235600,
       "played_at": "2026-08-17T15:01:14.209Z"
-    },
-    {
-      "id": "1Ae2QJGUPtnCzdA4XYn1NF",
-      "name": "Flesh",
-      "artists": [
-        "Ghostemane"
-      ],
-      "album": "N / O / I / S / E",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b5ea1cb4ed9ef489db89597f",
-      "url": "https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF",
-      "duration_ms": 79270,
-      "played_at": "2026-08-17T14:57:18.263Z"
-    },
-    {
-      "id": "6FUwPb4mGlUDbx42uspXaZ",
-      "name": "Fuel",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Reload",
-      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
-      "duration_ms": 269800,
-      "played_at": "2026-08-17T14:55:58.624Z"
     }
   ],
-  "fetched_at": "2026-08-18T13:39:26.961Z"
+  "fetched_at": "2026-08-18T14:30:44.674Z"
 }
