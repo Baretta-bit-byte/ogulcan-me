@@ -177,6 +177,42 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
       "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
       "duration_ms": 150000,
+      "played_at": "2026-08-18T15:38:22.383Z"
+    },
+    {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-18T15:35:52.031Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-08-18T15:32:00.348Z"
+    },
+    {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
       "played_at": "2026-08-18T15:24:31.279Z"
     },
     {
@@ -253,43 +289,7 @@
       "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
       "duration_ms": 295066,
       "played_at": "2026-08-18T13:38:17.231Z"
-    },
-    {
-      "id": "2TofEeQobQ9YoK7EFds698",
-      "name": "You Give Love A Bad Name",
-      "artists": [
-        "Bon Jovi"
-      ],
-      "album": "Slippery When Wet (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0249e6168f69625252689c2526",
-      "url": "https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698",
-      "duration_ms": 222317,
-      "played_at": "2026-08-18T13:33:21.792Z"
-    },
-    {
-      "id": "4GUaG3df9nbrj77GKEB76j",
-      "name": "Forever You and Me",
-      "artists": [
-        "The Teskey Brothers"
-      ],
-      "album": "Forever You and Me",
-      "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
-      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
-      "duration_ms": 175592,
-      "played_at": "2026-08-18T13:29:39.124Z"
-    },
-    {
-      "id": "4EuaDcxHmHKS6gZ5iuGba0",
-      "name": "Joy Of My Life",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Starting Over",
-      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
-      "duration_ms": 274520,
-      "played_at": "2026-08-18T13:26:43.040Z"
     }
   ],
-  "fetched_at": "2026-08-18T15:28:15.669Z"
+  "fetched_at": "2026-08-18T15:58:06.904Z"
 }
