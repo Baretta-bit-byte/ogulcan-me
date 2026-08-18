@@ -71,6 +71,19 @@
       "genres": []
     },
     {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "preview_url": null,
+      "duration_ms": 231317,
+      "genres": []
+    },
+    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -97,19 +110,6 @@
       "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
       "preview_url": null,
       "duration_ms": 295066,
-      "genres": []
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "preview_url": null,
-      "duration_ms": 231317,
       "genres": []
     },
     {
@@ -287,5 +287,5 @@
       "played_at": "2026-08-18T15:13:10.656Z"
     }
   ],
-  "fetched_at": "2026-08-18T16:37:28.126Z"
+  "fetched_at": "2026-08-18T17:53:32.169Z"
 }
