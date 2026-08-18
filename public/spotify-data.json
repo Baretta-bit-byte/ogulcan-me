@@ -6,19 +6,6 @@
   },
   "tracks": [
     {
-      "id": "4EuaDcxHmHKS6gZ5iuGba0",
-      "name": "Joy Of My Life",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Starting Over",
-      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
-      "preview_url": null,
-      "duration_ms": 274520,
-      "genres": []
-    },
-    {
       "id": "48uVgUu7IWXqBOrCqpmUmu",
       "name": "Bütün İstanbul Biliyo",
       "artists": [
@@ -29,6 +16,19 @@
       "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
       "preview_url": null,
       "duration_ms": 150000,
+      "genres": []
+    },
+    {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "preview_url": null,
+      "duration_ms": 274520,
       "genres": []
     },
     {
@@ -100,6 +100,19 @@
       "genres": []
     },
     {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "preview_url": null,
+      "duration_ms": 231317,
+      "genres": []
+    },
+    {
       "id": "4GUaG3df9nbrj77GKEB76j",
       "name": "Forever You and Me",
       "artists": [
@@ -150,23 +163,45 @@
       "preview_url": null,
       "duration_ms": 222506,
       "genres": []
-    },
-    {
-      "id": "4xkOaSrkexMciUUogZKVTS",
-      "name": "Till I Collapse",
-      "artists": [
-        "Eminem",
-        "Nate Dogg"
-      ],
-      "album": "The Eminem Show",
-      "image": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-      "preview_url": null,
-      "duration_ms": 297786,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-08-18T16:33:56.780Z"
+    },
+    {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-18T16:31:26.465Z"
+    },
+    {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-08-18T16:27:40.524Z"
+    },
     {
       "id": "48uVgUu7IWXqBOrCqpmUmu",
       "name": "Bütün İstanbul Biliyo",
@@ -250,46 +285,7 @@
       "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
       "duration_ms": 150000,
       "played_at": "2026-08-18T15:13:10.656Z"
-    },
-    {
-      "id": "6ekUWsPDlyooDFSBmXvBIW",
-      "name": "Haydi Gel Benimle Ol",
-      "artists": [
-        "Sezen Aksu"
-      ],
-      "album": "Sen Ağlama",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
-      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
-      "duration_ms": 271618,
-      "played_at": "2026-08-18T13:53:12.471Z"
-    },
-    {
-      "id": "6fb7UKdjGWl0hYxySXyOQz",
-      "name": "Dreamland",
-      "artists": [
-        "Alexis Ffrench",
-        "Royal Liverpool Philharmonic Orchestra",
-        "James Morgan",
-        "Graham Devine"
-      ],
-      "album": "Dreamland (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02749b9550b53fc4fceff6e0ce",
-      "url": "https://open.spotify.com/track/6fb7UKdjGWl0hYxySXyOQz",
-      "duration_ms": 161258,
-      "played_at": "2026-08-18T13:40:58.893Z"
-    },
-    {
-      "id": "5EicljVZKVOo2LZHREtWmQ",
-      "name": "Coming Home",
-      "artists": [
-        "Cinderella"
-      ],
-      "album": "Long Cold Winter",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f6c21a13a1fff5174fe35ed1",
-      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
-      "duration_ms": 295066,
-      "played_at": "2026-08-18T13:38:17.231Z"
     }
   ],
-  "fetched_at": "2026-08-18T15:58:06.904Z"
+  "fetched_at": "2026-08-18T16:37:28.126Z"
 }
