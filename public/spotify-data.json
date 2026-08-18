@@ -167,6 +167,66 @@
   ],
   "recently_played": [
     {
+      "id": "2AhfH5OG1o12XEqGZUgEPT",
+      "name": "Daha İyi",
+      "artists": [
+        "manifest"
+      ],
+      "album": "Daha İyi",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d929de2276b676e8e4772e4e",
+      "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT",
+      "duration_ms": 198595,
+      "played_at": "2026-08-18T22:37:47.353Z"
+    },
+    {
+      "id": "3ff93VTp2DBbNnDEsAW8Cm",
+      "name": "SEVMEYİ DENEMEDİN",
+      "artists": [
+        "BLOK3"
+      ],
+      "album": "OBSESIF",
+      "image": "https://i.scdn.co/image/ab67616d00001e0224d60e8a761684a09973719f",
+      "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm",
+      "duration_ms": 172900,
+      "played_at": "2026-08-18T22:32:18.036Z"
+    },
+    {
+      "id": "1y2mzrtAcHvmPJlNZUQ78e",
+      "name": "Kibir",
+      "artists": [
+        "Contra"
+      ],
+      "album": "Kibir",
+      "image": "https://i.scdn.co/image/ab67616d00001e02eda68a9be2be266a7e425916",
+      "url": "https://open.spotify.com/track/1y2mzrtAcHvmPJlNZUQ78e",
+      "duration_ms": 153700,
+      "played_at": "2026-08-18T22:29:15.547Z"
+    },
+    {
+      "id": "4nXEopCaBCzHk4UODNCTlH",
+      "name": "Bensiz Yapama",
+      "artists": [
+        "Diyar Pala"
+      ],
+      "album": "Original",
+      "image": "https://i.scdn.co/image/ab67616d00001e02be427c95070821a80dd42f45",
+      "url": "https://open.spotify.com/track/4nXEopCaBCzHk4UODNCTlH",
+      "duration_ms": 200013,
+      "played_at": "2026-08-18T22:26:20.960Z"
+    },
+    {
+      "id": "0DGvKkcBCgd4UxRxKY0SqP",
+      "name": "Sözler Şerefsiz Oldu",
+      "artists": [
+        "Norm Ender"
+      ],
+      "album": "İçinde Patlar",
+      "image": "https://i.scdn.co/image/ab67616d00001e029a96eafc1b0d25bde38723b6",
+      "url": "https://open.spotify.com/track/0DGvKkcBCgd4UxRxKY0SqP",
+      "duration_ms": 203908,
+      "played_at": "2026-08-18T22:22:10.847Z"
+    },
+    {
       "id": "6gAVXYsjYe9ZuAfLwMBZEv",
       "name": "Ateşten Gömlek",
       "artists": [
@@ -225,67 +285,7 @@
       "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
       "duration_ms": 150000,
       "played_at": "2026-08-18T15:38:22.383Z"
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "duration_ms": 231317,
-      "played_at": "2026-08-18T15:35:52.031Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-18T15:32:00.348Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-18T15:24:31.279Z"
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "duration_ms": 231317,
-      "played_at": "2026-08-18T15:22:00.873Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-08-18T15:18:09.189Z"
     }
   ],
-  "fetched_at": "2026-08-18T22:20:17.758Z"
+  "fetched_at": "2026-08-18T22:50:00.364Z"
 }
