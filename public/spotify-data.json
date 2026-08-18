@@ -167,6 +167,18 @@
   ],
   "recently_played": [
     {
+      "id": "6gAVXYsjYe9ZuAfLwMBZEv",
+      "name": "Ateşten Gömlek",
+      "artists": [
+        "Sagopa Kajmer"
+      ],
+      "album": "Şarkı Koleksiyoncusu",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d36cfee3477994611a3a6efb",
+      "url": "https://open.spotify.com/track/6gAVXYsjYe9ZuAfLwMBZEv",
+      "duration_ms": 286000,
+      "played_at": "2026-08-18T22:18:26.876Z"
+    },
+    {
       "id": "48uVgUu7IWXqBOrCqpmUmu",
       "name": "Bütün İstanbul Biliyo",
       "artists": [
@@ -273,19 +285,7 @@
       "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
       "duration_ms": 233352,
       "played_at": "2026-08-18T15:18:09.189Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-18T15:13:10.656Z"
     }
   ],
-  "fetched_at": "2026-08-18T17:53:32.169Z"
+  "fetched_at": "2026-08-18T22:20:17.758Z"
 }
