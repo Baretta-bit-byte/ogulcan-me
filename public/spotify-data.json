@@ -168,6 +168,54 @@
   ],
   "recently_played": [
     {
+      "id": "5EicljVZKVOo2LZHREtWmQ",
+      "name": "Coming Home",
+      "artists": [
+        "Cinderella"
+      ],
+      "album": "Long Cold Winter",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f6c21a13a1fff5174fe35ed1",
+      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
+      "duration_ms": 295066,
+      "played_at": "2026-08-18T13:38:17.231Z"
+    },
+    {
+      "id": "2TofEeQobQ9YoK7EFds698",
+      "name": "You Give Love A Bad Name",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "album": "Slippery When Wet (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0249e6168f69625252689c2526",
+      "url": "https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698",
+      "duration_ms": 222317,
+      "played_at": "2026-08-18T13:33:21.792Z"
+    },
+    {
+      "id": "4GUaG3df9nbrj77GKEB76j",
+      "name": "Forever You and Me",
+      "artists": [
+        "The Teskey Brothers"
+      ],
+      "album": "Forever You and Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
+      "duration_ms": 175592,
+      "played_at": "2026-08-18T13:29:39.124Z"
+    },
+    {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "duration_ms": 274520,
+      "played_at": "2026-08-18T13:26:43.040Z"
+    },
+    {
       "id": "0snQkGI5qnAmohLE7jTsTn",
       "name": "Toxicity",
       "artists": [
@@ -239,55 +287,7 @@
       "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
       "duration_ms": 269800,
       "played_at": "2026-08-17T14:55:58.624Z"
-    },
-    {
-      "id": "75qezFTBIjU7OkoWGeD10Z",
-      "name": "Good F**King Music",
-      "artists": [
-        "Solence"
-      ],
-      "album": "Deafening",
-      "image": "https://i.scdn.co/image/ab67616d00001e025e7c5c40aec59fab41e4a1ea",
-      "url": "https://open.spotify.com/track/75qezFTBIjU7OkoWGeD10Z",
-      "duration_ms": 206433,
-      "played_at": "2026-08-17T14:51:28.484Z"
-    },
-    {
-      "id": "4xDwCYhobDehSBGUmd5H6Y",
-      "name": "FEEL NOTHING",
-      "artists": [
-        "The Plot In You"
-      ],
-      "album": "DISPOSE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
-      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
-      "duration_ms": 216826,
-      "played_at": "2026-08-17T14:48:01.618Z"
-    },
-    {
-      "id": "3RAFcUBrCNaboRXoP3S5t1",
-      "name": "Psychosocial",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "All Hope Is Gone (10th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
-      "duration_ms": 284120,
-      "played_at": "2026-08-17T14:44:24.422Z"
-    },
-    {
-      "id": "3fjmSxt0PskST13CSdBUFx",
-      "name": "Somewhere I Belong",
-      "artists": [
-        "Linkin Park"
-      ],
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b5b6fa1326d996181e71dd7",
-      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx",
-      "duration_ms": 213933,
-      "played_at": "2026-08-17T14:39:08.201Z"
     }
   ],
-  "fetched_at": "2026-08-17T15:22:19.374Z"
+  "fetched_at": "2026-08-18T13:39:26.961Z"
 }
