@@ -139,6 +139,19 @@
       "genres": []
     },
     {
+      "id": "1PxpxhYlUIPc6WUW18bnN0",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Angst",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7df4a3be63bcbb2b87d267e21",
+      "url": "https://open.spotify.com/track/1PxpxhYlUIPc6WUW18bnN0",
+      "preview_url": null,
+      "duration_ms": 337650,
+      "genres": []
+    },
+    {
       "id": "6ekUWsPDlyooDFSBmXvBIW",
       "name": "Haydi Gel Benimle Ol",
       "artists": [
@@ -150,58 +163,9 @@
       "preview_url": null,
       "duration_ms": 271618,
       "genres": []
-    },
-    {
-      "id": "5J9Tq633jfJOs1CZ13MQWf",
-      "name": "Tonight the Streets Are Ours",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Tonight the Streets Are Ours",
-      "image": "https://i.scdn.co/image/ab67616d00001e02476bb026e03160eae6b7dd59",
-      "url": "https://open.spotify.com/track/5J9Tq633jfJOs1CZ13MQWf",
-      "preview_url": null,
-      "duration_ms": 222506,
-      "genres": []
     }
   ],
   "recently_played": [
-    {
-      "id": "7FgKTPHM4HE9EmVLKcnB3P",
-      "name": "Tonight the Streets Are Ours",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Tonight the Streets Are Ours",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7284eb513fcaffbcea541d840",
-      "url": "https://open.spotify.com/track/7FgKTPHM4HE9EmVLKcnB3P",
-      "duration_ms": 218880,
-      "played_at": "2026-08-19T17:32:55.967Z"
-    },
-    {
-      "id": "7kGe8nOx7hyIS5rmkWjiuy",
-      "name": "The Ocean",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "The Ocean",
-      "image": "https://i.scdn.co/image/ab6742d3000053b74ad6bb4209119c4f95fc8fb9",
-      "url": "https://open.spotify.com/track/7kGe8nOx7hyIS5rmkWjiuy",
-      "duration_ms": 234005,
-      "played_at": "2026-08-19T17:29:15.475Z"
-    },
-    {
-      "id": "4xDwCYhobDehSBGUmd5H6Y",
-      "name": "FEEL NOTHING",
-      "artists": [
-        "The Plot In You"
-      ],
-      "album": "DISPOSE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
-      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
-      "duration_ms": 216826,
-      "played_at": "2026-08-19T17:15:15.391Z"
-    },
     {
       "id": "2dXsILW8gzkosqleHAvl0v",
       "name": "For Whom The Bell Tolls - Remastered",
@@ -212,19 +176,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
       "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
       "duration_ms": 309973,
-      "played_at": "2026-08-19T17:11:38.016Z"
-    },
-    {
-      "id": "2FmjsyeJW9oin68Sl4CiC8",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Bodies",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7520c38ff53a2008a8af976ca",
-      "url": "https://open.spotify.com/track/2FmjsyeJW9oin68Sl4CiC8",
-      "duration_ms": 209884,
-      "played_at": "2026-08-19T17:06:29.951Z"
+      "played_at": "2026-08-19T18:32:29.440Z"
     },
     {
       "id": "1PxpxhYlUIPc6WUW18bnN0",
@@ -236,56 +188,104 @@
       "image": "https://i.scdn.co/image/ab6742d3000053b7df4a3be63bcbb2b87d267e21",
       "url": "https://open.spotify.com/track/1PxpxhYlUIPc6WUW18bnN0",
       "duration_ms": 337650,
-      "played_at": "2026-08-19T17:02:58.422Z"
+      "played_at": "2026-08-19T18:26:22.349Z"
     },
     {
-      "id": "4uFIhAOi62bRG1OhmQfDB9",
-      "name": "CRUSH!",
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
       "artists": [
-        "CRUSH"
+        "The Plot In You"
       ],
-      "album": "CRUSH!",
-      "image": "https://i.scdn.co/image/ab67616d00001e025fd811e0b5320163d644d22d",
-      "url": "https://open.spotify.com/track/4uFIhAOi62bRG1OhmQfDB9",
-      "duration_ms": 148363,
-      "played_at": "2026-08-19T08:04:20.556Z"
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-19T18:20:40.972Z"
     },
     {
-      "id": "2AhfH5OG1o12XEqGZUgEPT",
-      "name": "Daha İyi",
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
       "artists": [
-        "manifest"
+        "Metallica"
       ],
-      "album": "Daha İyi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d929de2276b676e8e4772e4e",
-      "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT",
-      "duration_ms": 198595,
-      "played_at": "2026-08-19T06:32:18.908Z"
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-19T18:17:03.610Z"
     },
     {
-      "id": "24CSPGkF9QB1zW07dgtZhr",
-      "name": "Toz Pembe",
+      "id": "2FmjsyeJW9oin68Sl4CiC8",
+      "name": "Bodies",
       "artists": [
-        "manifest"
+        "Drowning Pool"
       ],
-      "album": "Toz Pembe",
-      "image": "https://i.scdn.co/image/ab67616d00001e02872e8421fdd7c0e50c76060f",
-      "url": "https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr",
-      "duration_ms": 160998,
-      "played_at": "2026-08-18T22:49:52.827Z"
+      "album": "Bodies",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7520c38ff53a2008a8af976ca",
+      "url": "https://open.spotify.com/track/2FmjsyeJW9oin68Sl4CiC8",
+      "duration_ms": 209884,
+      "played_at": "2026-08-19T18:11:55.501Z"
     },
     {
-      "id": "2AhfH5OG1o12XEqGZUgEPT",
-      "name": "Daha İyi",
+      "id": "1PxpxhYlUIPc6WUW18bnN0",
+      "name": "Angst",
       "artists": [
-        "manifest"
+        "Rammstein"
       ],
-      "album": "Daha İyi",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d929de2276b676e8e4772e4e",
-      "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT",
-      "duration_ms": 198595,
-      "played_at": "2026-08-18T22:37:47.353Z"
+      "album": "Angst",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7df4a3be63bcbb2b87d267e21",
+      "url": "https://open.spotify.com/track/1PxpxhYlUIPc6WUW18bnN0",
+      "duration_ms": 337650,
+      "played_at": "2026-08-19T18:08:24.386Z"
+    },
+    {
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
+      "artists": [
+        "The Plot In You"
+      ],
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-19T18:02:42.729Z"
+    },
+    {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-19T17:59:05.359Z"
+    },
+    {
+      "id": "2FmjsyeJW9oin68Sl4CiC8",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Bodies",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7520c38ff53a2008a8af976ca",
+      "url": "https://open.spotify.com/track/2FmjsyeJW9oin68Sl4CiC8",
+      "duration_ms": 209884,
+      "played_at": "2026-08-19T17:53:57.199Z"
+    },
+    {
+      "id": "1PxpxhYlUIPc6WUW18bnN0",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Angst",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7df4a3be63bcbb2b87d267e21",
+      "url": "https://open.spotify.com/track/1PxpxhYlUIPc6WUW18bnN0",
+      "duration_ms": 337650,
+      "played_at": "2026-08-19T17:50:25.791Z"
     }
   ],
-  "fetched_at": "2026-08-19T17:49:40.281Z"
+  "fetched_at": "2026-08-19T19:22:16.719Z"
 }
