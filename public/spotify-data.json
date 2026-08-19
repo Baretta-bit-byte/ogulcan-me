@@ -100,6 +100,19 @@
       "genres": []
     },
     {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "preview_url": null,
+      "duration_ms": 309973,
+      "genres": []
+    },
+    {
       "id": "5EicljVZKVOo2LZHREtWmQ",
       "name": "Coming Home",
       "artists": [
@@ -150,22 +163,81 @@
       "preview_url": null,
       "duration_ms": 337650,
       "genres": []
-    },
-    {
-      "id": "6ekUWsPDlyooDFSBmXvBIW",
-      "name": "Haydi Gel Benimle Ol",
-      "artists": [
-        "Sezen Aksu"
-      ],
-      "album": "Sen Ağlama",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b8b42559b0f583319be8d936",
-      "url": "https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW",
-      "preview_url": null,
-      "duration_ms": 271618,
-      "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-19T20:11:37.111Z"
+    },
+    {
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "duration_ms": 201960,
+      "played_at": "2026-08-19T20:06:26.679Z"
+    },
+    {
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-19T20:03:04.218Z"
+    },
+    {
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
+      "artists": [
+        "The Plot In You"
+      ],
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-19T19:58:17.742Z"
+    },
+    {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-19T19:54:40.380Z"
+    },
+    {
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "duration_ms": 201960,
+      "played_at": "2026-08-19T19:49:29.956Z"
+    },
     {
       "id": "0UuNO0yYvsMPlyLF7RfQlg",
       "name": "Angst",
@@ -213,79 +285,7 @@
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
       "duration_ms": 201960,
       "played_at": "2026-08-19T19:27:29.814Z"
-    },
-    {
-      "id": "0UuNO0yYvsMPlyLF7RfQlg",
-      "name": "Angst",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Zeit",
-      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
-      "duration_ms": 224801,
-      "played_at": "2026-08-19T19:24:07.409Z"
-    },
-    {
-      "id": "2dXsILW8gzkosqleHAvl0v",
-      "name": "For Whom The Bell Tolls - Remastered",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Ride The Lightning (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "duration_ms": 309973,
-      "played_at": "2026-08-19T18:32:29.440Z"
-    },
-    {
-      "id": "1PxpxhYlUIPc6WUW18bnN0",
-      "name": "Angst",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Angst",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7df4a3be63bcbb2b87d267e21",
-      "url": "https://open.spotify.com/track/1PxpxhYlUIPc6WUW18bnN0",
-      "duration_ms": 337650,
-      "played_at": "2026-08-19T18:26:22.349Z"
-    },
-    {
-      "id": "4xDwCYhobDehSBGUmd5H6Y",
-      "name": "FEEL NOTHING",
-      "artists": [
-        "The Plot In You"
-      ],
-      "album": "DISPOSE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
-      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
-      "duration_ms": 216826,
-      "played_at": "2026-08-19T18:20:40.972Z"
-    },
-    {
-      "id": "2dXsILW8gzkosqleHAvl0v",
-      "name": "For Whom The Bell Tolls - Remastered",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Ride The Lightning (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "duration_ms": 309973,
-      "played_at": "2026-08-19T18:17:03.610Z"
-    },
-    {
-      "id": "2FmjsyeJW9oin68Sl4CiC8",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Bodies",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7520c38ff53a2008a8af976ca",
-      "url": "https://open.spotify.com/track/2FmjsyeJW9oin68Sl4CiC8",
-      "duration_ms": 209884,
-      "played_at": "2026-08-19T18:11:55.501Z"
     }
   ],
-  "fetched_at": "2026-08-19T19:48:38.762Z"
+  "fetched_at": "2026-08-19T20:23:52.964Z"
 }
