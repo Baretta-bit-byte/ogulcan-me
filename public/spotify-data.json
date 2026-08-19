@@ -167,6 +167,54 @@
   ],
   "recently_played": [
     {
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
+      "artists": [
+        "The Plot In You"
+      ],
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-19T17:15:15.391Z"
+    },
+    {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-19T17:11:38.016Z"
+    },
+    {
+      "id": "2FmjsyeJW9oin68Sl4CiC8",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Bodies",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7520c38ff53a2008a8af976ca",
+      "url": "https://open.spotify.com/track/2FmjsyeJW9oin68Sl4CiC8",
+      "duration_ms": 209884,
+      "played_at": "2026-08-19T17:06:29.951Z"
+    },
+    {
+      "id": "1PxpxhYlUIPc6WUW18bnN0",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Angst",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7df4a3be63bcbb2b87d267e21",
+      "url": "https://open.spotify.com/track/1PxpxhYlUIPc6WUW18bnN0",
+      "duration_ms": 337650,
+      "played_at": "2026-08-19T17:02:58.422Z"
+    },
+    {
       "id": "4uFIhAOi62bRG1OhmQfDB9",
       "name": "CRUSH!",
       "artists": [
@@ -237,55 +285,7 @@
       "url": "https://open.spotify.com/track/1y2mzrtAcHvmPJlNZUQ78e",
       "duration_ms": 153700,
       "played_at": "2026-08-18T22:29:15.547Z"
-    },
-    {
-      "id": "4nXEopCaBCzHk4UODNCTlH",
-      "name": "Bensiz Yapama",
-      "artists": [
-        "Diyar Pala"
-      ],
-      "album": "Original",
-      "image": "https://i.scdn.co/image/ab67616d00001e02be427c95070821a80dd42f45",
-      "url": "https://open.spotify.com/track/4nXEopCaBCzHk4UODNCTlH",
-      "duration_ms": 200013,
-      "played_at": "2026-08-18T22:26:20.960Z"
-    },
-    {
-      "id": "0DGvKkcBCgd4UxRxKY0SqP",
-      "name": "Sözler Şerefsiz Oldu",
-      "artists": [
-        "Norm Ender"
-      ],
-      "album": "İçinde Patlar",
-      "image": "https://i.scdn.co/image/ab67616d00001e029a96eafc1b0d25bde38723b6",
-      "url": "https://open.spotify.com/track/0DGvKkcBCgd4UxRxKY0SqP",
-      "duration_ms": 203908,
-      "played_at": "2026-08-18T22:22:10.847Z"
-    },
-    {
-      "id": "6gAVXYsjYe9ZuAfLwMBZEv",
-      "name": "Ateşten Gömlek",
-      "artists": [
-        "Sagopa Kajmer"
-      ],
-      "album": "Şarkı Koleksiyoncusu",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d36cfee3477994611a3a6efb",
-      "url": "https://open.spotify.com/track/6gAVXYsjYe9ZuAfLwMBZEv",
-      "duration_ms": 286000,
-      "played_at": "2026-08-18T22:18:26.876Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-08-18T16:33:56.780Z"
     }
   ],
-  "fetched_at": "2026-08-19T16:37:57.114Z"
+  "fetched_at": "2026-08-19T17:24:03.515Z"
 }
