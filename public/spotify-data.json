@@ -167,6 +167,30 @@
   ],
   "recently_played": [
     {
+      "id": "7FgKTPHM4HE9EmVLKcnB3P",
+      "name": "Tonight the Streets Are Ours",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7284eb513fcaffbcea541d840",
+      "url": "https://open.spotify.com/track/7FgKTPHM4HE9EmVLKcnB3P",
+      "duration_ms": 218880,
+      "played_at": "2026-08-19T17:32:55.967Z"
+    },
+    {
+      "id": "7kGe8nOx7hyIS5rmkWjiuy",
+      "name": "The Ocean",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "The Ocean",
+      "image": "https://i.scdn.co/image/ab6742d3000053b74ad6bb4209119c4f95fc8fb9",
+      "url": "https://open.spotify.com/track/7kGe8nOx7hyIS5rmkWjiuy",
+      "duration_ms": 234005,
+      "played_at": "2026-08-19T17:29:15.475Z"
+    },
+    {
       "id": "4xDwCYhobDehSBGUmd5H6Y",
       "name": "FEEL NOTHING",
       "artists": [
@@ -261,31 +285,7 @@
       "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT",
       "duration_ms": 198595,
       "played_at": "2026-08-18T22:37:47.353Z"
-    },
-    {
-      "id": "3ff93VTp2DBbNnDEsAW8Cm",
-      "name": "SEVMEYİ DENEMEDİN",
-      "artists": [
-        "BLOK3"
-      ],
-      "album": "OBSESIF",
-      "image": "https://i.scdn.co/image/ab67616d00001e0224d60e8a761684a09973719f",
-      "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm",
-      "duration_ms": 172900,
-      "played_at": "2026-08-18T22:32:18.036Z"
-    },
-    {
-      "id": "1y2mzrtAcHvmPJlNZUQ78e",
-      "name": "Kibir",
-      "artists": [
-        "Contra"
-      ],
-      "album": "Kibir",
-      "image": "https://i.scdn.co/image/ab67616d00001e02eda68a9be2be266a7e425916",
-      "url": "https://open.spotify.com/track/1y2mzrtAcHvmPJlNZUQ78e",
-      "duration_ms": 153700,
-      "played_at": "2026-08-18T22:29:15.547Z"
     }
   ],
-  "fetched_at": "2026-08-19T17:24:03.515Z"
+  "fetched_at": "2026-08-19T17:49:40.281Z"
 }
