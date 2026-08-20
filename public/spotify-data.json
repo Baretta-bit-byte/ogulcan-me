@@ -167,6 +167,18 @@
   ],
   "recently_played": [
     {
+      "id": "7mDTvYD2ieE4Q28XFziMfJ",
+      "name": "Cry",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d00001e028324db1ae37be249aed887e7",
+      "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ",
+      "duration_ms": 256799,
+      "played_at": "2026-08-20T18:40:38.211Z"
+    },
+    {
       "id": "1oAwsWBovWRIp7qLMGPIet",
       "name": "Apocalypse",
       "artists": [
@@ -273,19 +285,7 @@
       "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
       "duration_ms": 309973,
       "played_at": "2026-08-19T20:11:37.111Z"
-    },
-    {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "duration_ms": 201960,
-      "played_at": "2026-08-19T20:06:26.679Z"
     }
   ],
-  "fetched_at": "2026-08-20T18:37:40.036Z"
+  "fetched_at": "2026-08-20T19:28:30.888Z"
 }
