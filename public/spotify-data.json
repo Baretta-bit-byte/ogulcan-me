@@ -167,6 +167,30 @@
   ],
   "recently_played": [
     {
+      "id": "5ZP8LfM7TezqoxF9yp6VzX",
+      "name": "Stop Waiting",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Bubblegum",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f00e7eae8e4ed688e17fc118",
+      "url": "https://open.spotify.com/track/5ZP8LfM7TezqoxF9yp6VzX",
+      "duration_ms": 362973,
+      "played_at": "2026-08-20T17:53:46.914Z"
+    },
+    {
+      "id": "6mSnSuOhgHHohqeBw76jRV",
+      "name": "i was all over her",
+      "artists": [
+        "salvia palth"
+      ],
+      "album": "melanchole",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a82bda3507d50ac3e039bb0",
+      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV",
+      "duration_ms": 161422,
+      "played_at": "2026-08-20T17:42:34.830Z"
+    },
+    {
       "id": "2dXsILW8gzkosqleHAvl0v",
       "name": "For Whom The Bell Tolls - Remastered",
       "artists": [
@@ -261,31 +285,7 @@
       "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
       "duration_ms": 216826,
       "played_at": "2026-08-19T19:36:17.620Z"
-    },
-    {
-      "id": "2dXsILW8gzkosqleHAvl0v",
-      "name": "For Whom The Bell Tolls - Remastered",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Ride The Lightning (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "duration_ms": 309973,
-      "played_at": "2026-08-19T19:32:40.230Z"
-    },
-    {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "duration_ms": 201960,
-      "played_at": "2026-08-19T19:27:29.814Z"
     }
   ],
-  "fetched_at": "2026-08-19T20:23:52.964Z"
+  "fetched_at": "2026-08-20T17:55:56.058Z"
 }
