@@ -167,6 +167,18 @@
   ],
   "recently_played": [
     {
+      "id": "0szRcHR9IsUO2Xj8uAKPM6",
+      "name": "Bilir O Beni",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "Bilir O Beni",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a39ebb26fde6bc3638c7c2d6",
+      "url": "https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6",
+      "duration_ms": 228625,
+      "played_at": "2026-08-20T23:50:26.291Z"
+    },
+    {
       "id": "1IquNFg2RRH1CLRAHNVgQ9",
       "name": "Yara",
       "artists": [
@@ -274,19 +286,7 @@
       "url": "https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ",
       "duration_ms": 319560,
       "played_at": "2026-08-20T18:47:15.832Z"
-    },
-    {
-      "id": "7mDTvYD2ieE4Q28XFziMfJ",
-      "name": "Cry",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d00001e028324db1ae37be249aed887e7",
-      "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ",
-      "duration_ms": 256799,
-      "played_at": "2026-08-20T18:40:38.211Z"
     }
   ],
-  "fetched_at": "2026-08-20T23:49:25.417Z"
+  "fetched_at": "2026-08-21T17:00:30.280Z"
 }
