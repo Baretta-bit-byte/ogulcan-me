@@ -167,6 +167,18 @@
   ],
   "recently_played": [
     {
+      "id": "0gyoObUS4WilJyNRs6GlDv",
+      "name": "Sakinleştim",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "Sakinleştim",
+      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
+      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
+      "duration_ms": 249500,
+      "played_at": "2026-08-22T20:15:10.586Z"
+    },
+    {
       "id": "4xDwCYhobDehSBGUmd5H6Y",
       "name": "FEEL NOTHING",
       "artists": [
@@ -275,19 +287,7 @@
       "url": "https://open.spotify.com/track/79sckDbWHmcwxAWVHt3Rzn",
       "duration_ms": 87299,
       "played_at": "2026-08-22T13:06:25.354Z"
-    },
-    {
-      "id": "2ELSVi4kwWOXgxiIC592tJ",
-      "name": "We Will Rock You",
-      "artists": [
-        "Queen"
-      ],
-      "album": "News Of The World",
-      "image": "https://i.scdn.co/image/ab67616d00001e026c74d509c1581f8e0a35391b",
-      "url": "https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ",
-      "duration_ms": 122134,
-      "played_at": "2026-08-22T13:04:57.696Z"
     }
   ],
-  "fetched_at": "2026-08-22T13:53:56.686Z"
+  "fetched_at": "2026-08-22T20:19:11.298Z"
 }
