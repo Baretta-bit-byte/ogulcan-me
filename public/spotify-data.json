@@ -167,126 +167,127 @@
   ],
   "recently_played": [
     {
-      "id": "0szRcHR9IsUO2Xj8uAKPM6",
-      "name": "Bilir O Beni",
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
       "artists": [
-        "Pinhani"
+        "Rammstein"
       ],
-      "album": "Bilir O Beni",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a39ebb26fde6bc3638c7c2d6",
-      "url": "https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6",
-      "duration_ms": 228625,
-      "played_at": "2026-08-20T23:50:26.291Z"
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-22T13:26:48.591Z"
     },
     {
-      "id": "1IquNFg2RRH1CLRAHNVgQ9",
-      "name": "Yara",
+      "id": "1VnN9uzaSsw2kA6JOWpMUE",
+      "name": "Like A Movie",
       "artists": [
-        "Kalben"
+        "Labrinth"
       ],
-      "album": "Sonsuza Kadar",
-      "image": "https://i.scdn.co/image/ab67616d00001e024a55bde3a9ca9c2c68912956",
-      "url": "https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9",
-      "duration_ms": 213812,
-      "played_at": "2026-08-20T23:36:27.535Z"
+      "album": "Imagination & the Misfit Kid",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4c03429788f0aff263a5fc6",
+      "url": "https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE",
+      "duration_ms": 140750,
+      "played_at": "2026-08-22T13:22:52.207Z"
     },
     {
-      "id": "0gyoObUS4WilJyNRs6GlDv",
-      "name": "Sakinleştim",
+      "id": "4uBQDAzZ881KYZvW7ZInUn",
+      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
       "artists": [
-        "Pinhani"
+        "Bakar",
+        "Dominic Fike"
       ],
-      "album": "Sakinleştim",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
-      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
-      "duration_ms": 249500,
-      "played_at": "2026-08-20T23:31:57.781Z"
+      "album": "Will You Be My Yellow?",
+      "image": "https://i.scdn.co/image/ab67616d00001e025bbe47313dfc5a6d6249a487",
+      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn",
+      "duration_ms": 173349,
+      "played_at": "2026-08-22T13:20:31.153Z"
     },
     {
-      "id": "69lVybc0jfy5vvfiqQOykO",
-      "name": "Gitme",
+      "id": "27NovPIUIRrOZoCHxABJwK",
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "artists": [
-        "Dolu Kadehi Ters Tut",
-        "Sedef Sebüktekin"
+        "Lil Nas X",
+        "Jack Harlow"
       ],
-      "album": "Karanlık",
-      "image": "https://i.scdn.co/image/ab67616d00001e0259e387a5034d6e8f183ada63",
-      "url": "https://open.spotify.com/track/69lVybc0jfy5vvfiqQOykO",
-      "duration_ms": 207915,
-      "played_at": "2026-08-20T23:22:06.538Z"
+      "album": "INDUSTRY BABY (feat. Jack Harlow)",
+      "image": "https://i.scdn.co/image/ab67616d00001e028a09f10b028a8bb55bfed9b8",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK",
+      "duration_ms": 212000,
+      "played_at": "2026-08-22T13:14:50.866Z"
     },
     {
-      "id": "0gyoObUS4WilJyNRs6GlDv",
-      "name": "Sakinleştim",
+      "id": "5kGdayTmguCAZP87F56DUg",
+      "name": "Coles Corner",
       "artists": [
-        "Pinhani"
+        "Richard Hawley"
       ],
-      "album": "Sakinleştim",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
-      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
-      "duration_ms": 249500,
-      "played_at": "2026-08-20T23:13:14.490Z"
+      "album": "Coles Corner",
+      "image": "https://i.scdn.co/image/ab67616d00001e02724317992bc019fc08ddd426",
+      "url": "https://open.spotify.com/track/5kGdayTmguCAZP87F56DUg",
+      "duration_ms": 292800,
+      "played_at": "2026-08-22T13:11:18.534Z"
     },
     {
-      "id": "0gyoObUS4WilJyNRs6GlDv",
-      "name": "Sakinleştim",
+      "id": "79sckDbWHmcwxAWVHt3Rzn",
+      "name": "Monëy so big",
       "artists": [
-        "Pinhani"
+        "Up The RIvals"
       ],
-      "album": "Sakinleştim",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
-      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
-      "duration_ms": 249500,
-      "played_at": "2026-08-20T23:08:53.866Z"
+      "album": "Monëy so big",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c9544d013f8a93af2a6cdbd1",
+      "url": "https://open.spotify.com/track/79sckDbWHmcwxAWVHt3Rzn",
+      "duration_ms": 87299,
+      "played_at": "2026-08-22T13:06:25.354Z"
     },
     {
-      "id": "3W7KHojYGgYaoX9ogKO9hU",
-      "name": "Nothing's Gonna Hurt You Baby",
+      "id": "2ELSVi4kwWOXgxiIC592tJ",
+      "name": "We Will Rock You",
       "artists": [
-        "Cigarettes After Sex"
+        "Queen"
       ],
-      "album": "I.",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f20d15ff288e94492f7097eb",
-      "url": "https://open.spotify.com/track/3W7KHojYGgYaoX9ogKO9hU",
-      "duration_ms": 286293,
-      "played_at": "2026-08-20T23:04:23.851Z"
+      "album": "News Of The World",
+      "image": "https://i.scdn.co/image/ab67616d00001e026c74d509c1581f8e0a35391b",
+      "url": "https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ",
+      "duration_ms": 122134,
+      "played_at": "2026-08-22T13:04:57.696Z"
     },
     {
-      "id": "2KhrPRV0V1FS2l4eQMJUWt",
-      "name": "Sweet",
+      "id": "6D8y7Bck8h11byRY88Pt2z",
+      "name": "Houdini",
       "artists": [
-        "Cigarettes After Sex"
+        "Dua Lipa"
       ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
-      "url": "https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt",
-      "duration_ms": 291640,
-      "played_at": "2026-08-20T18:58:54.963Z"
+      "album": "Radical Optimism",
+      "image": "https://i.scdn.co/image/ab67616d00001e022f8790ed72296c2614607575",
+      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z",
+      "duration_ms": 185917,
+      "played_at": "2026-08-22T13:02:55.158Z"
     },
     {
-      "id": "0yuAWlxq59xT3agQ965OxE",
-      "name": "Sunsetz",
+      "id": "3RAFcUBrCNaboRXoP3S5t1",
+      "name": "Psychosocial",
       "artists": [
-        "Cigarettes After Sex"
+        "Slipknot"
       ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
-      "url": "https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE",
-      "duration_ms": 214680,
-      "played_at": "2026-08-20T18:54:03.027Z"
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120,
+      "played_at": "2026-08-22T12:59:48.889Z"
     },
     {
-      "id": "2xGjfbXZnI8uQDhukoQURQ",
-      "name": "K.",
+      "id": "4Skkx52Dh8yo4G1ijAEGs3",
+      "name": "Solo",
       "artists": [
-        "Cigarettes After Sex"
+        "Myles Smith"
       ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
-      "url": "https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ",
-      "duration_ms": 319560,
-      "played_at": "2026-08-20T18:47:15.832Z"
+      "album": "Solo",
+      "image": "https://i.scdn.co/image/ab67616d00001e025794dbc9f4b49c6c0264cea2",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3",
+      "duration_ms": 199756,
+      "played_at": "2026-08-22T12:54:48.215Z"
     }
   ],
-  "fetched_at": "2026-08-21T17:00:30.280Z"
+  "fetched_at": "2026-08-22T13:29:15.044Z"
 }
