@@ -176,6 +176,42 @@
       "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
       "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
       "duration_ms": 249500,
+      "played_at": "2026-08-23T18:11:06.160Z"
+    },
+    {
+      "id": "0gyoObUS4WilJyNRs6GlDv",
+      "name": "Sakinleştim",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "Sakinleştim",
+      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
+      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
+      "duration_ms": 249500,
+      "played_at": "2026-08-23T17:52:52.144Z"
+    },
+    {
+      "id": "0gyoObUS4WilJyNRs6GlDv",
+      "name": "Sakinleştim",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "Sakinleştim",
+      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
+      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
+      "duration_ms": 249500,
+      "played_at": "2026-08-23T17:47:56.779Z"
+    },
+    {
+      "id": "0gyoObUS4WilJyNRs6GlDv",
+      "name": "Sakinleştim",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "Sakinleştim",
+      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
+      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
+      "duration_ms": 249500,
       "played_at": "2026-08-22T20:15:10.586Z"
     },
     {
@@ -250,44 +286,7 @@
       "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn",
       "duration_ms": 173349,
       "played_at": "2026-08-22T13:20:31.153Z"
-    },
-    {
-      "id": "27NovPIUIRrOZoCHxABJwK",
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "artists": [
-        "Lil Nas X",
-        "Jack Harlow"
-      ],
-      "album": "INDUSTRY BABY (feat. Jack Harlow)",
-      "image": "https://i.scdn.co/image/ab67616d00001e028a09f10b028a8bb55bfed9b8",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK",
-      "duration_ms": 212000,
-      "played_at": "2026-08-22T13:14:50.866Z"
-    },
-    {
-      "id": "5kGdayTmguCAZP87F56DUg",
-      "name": "Coles Corner",
-      "artists": [
-        "Richard Hawley"
-      ],
-      "album": "Coles Corner",
-      "image": "https://i.scdn.co/image/ab67616d00001e02724317992bc019fc08ddd426",
-      "url": "https://open.spotify.com/track/5kGdayTmguCAZP87F56DUg",
-      "duration_ms": 292800,
-      "played_at": "2026-08-22T13:11:18.534Z"
-    },
-    {
-      "id": "79sckDbWHmcwxAWVHt3Rzn",
-      "name": "Monëy so big",
-      "artists": [
-        "Up The RIvals"
-      ],
-      "album": "Monëy so big",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c9544d013f8a93af2a6cdbd1",
-      "url": "https://open.spotify.com/track/79sckDbWHmcwxAWVHt3Rzn",
-      "duration_ms": 87299,
-      "played_at": "2026-08-22T13:06:25.354Z"
     }
   ],
-  "fetched_at": "2026-08-22T20:19:11.298Z"
+  "fetched_at": "2026-08-23T18:25:25.644Z"
 }
