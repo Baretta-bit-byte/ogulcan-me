@@ -164,6 +164,18 @@
   ],
   "recently_played": [
     {
+      "id": "1pOpVsfbPHct7i79mZCJDI",
+      "name": "Dediler Ki",
+      "artists": [
+        "Üç nokta Bir"
+      ],
+      "album": "Sabaha Karşı",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cdf1ba4c8dcfde91422bc591",
+      "url": "https://open.spotify.com/track/1pOpVsfbPHct7i79mZCJDI",
+      "duration_ms": 235923,
+      "played_at": "2026-08-25T18:12:31.370Z"
+    },
+    {
       "id": "0gyoObUS4WilJyNRs6GlDv",
       "name": "Sakinleştim",
       "artists": [
@@ -270,20 +282,7 @@
       "url": "https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE",
       "duration_ms": 140750,
       "played_at": "2026-08-22T13:22:52.207Z"
-    },
-    {
-      "id": "4uBQDAzZ881KYZvW7ZInUn",
-      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-      "artists": [
-        "Bakar",
-        "Dominic Fike"
-      ],
-      "album": "Will You Be My Yellow?",
-      "image": "https://i.scdn.co/image/ab67616d00001e025bbe47313dfc5a6d6249a487",
-      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn",
-      "duration_ms": 173349,
-      "played_at": "2026-08-22T13:20:31.153Z"
     }
   ],
-  "fetched_at": "2026-08-25T15:39:05.832Z"
+  "fetched_at": "2026-08-25T18:49:38.506Z"
 }
