@@ -164,6 +164,42 @@
   ],
   "recently_played": [
     {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-26T19:45:45.857Z"
+    },
+    {
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "duration_ms": 201960,
+      "played_at": "2026-08-26T19:40:35.461Z"
+    },
+    {
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-26T19:37:13.208Z"
+    },
+    {
       "id": "1pOpVsfbPHct7i79mZCJDI",
       "name": "Dediler Ki",
       "artists": [
@@ -246,43 +282,7 @@
       "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
       "duration_ms": 309973,
       "played_at": "2026-08-22T13:35:21.207Z"
-    },
-    {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "duration_ms": 201960,
-      "played_at": "2026-08-22T13:30:10.878Z"
-    },
-    {
-      "id": "0UuNO0yYvsMPlyLF7RfQlg",
-      "name": "Angst",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Zeit",
-      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
-      "duration_ms": 224801,
-      "played_at": "2026-08-22T13:26:48.591Z"
-    },
-    {
-      "id": "1VnN9uzaSsw2kA6JOWpMUE",
-      "name": "Like A Movie",
-      "artists": [
-        "Labrinth"
-      ],
-      "album": "Imagination & the Misfit Kid",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e4c03429788f0aff263a5fc6",
-      "url": "https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE",
-      "duration_ms": 140750,
-      "played_at": "2026-08-22T13:22:52.207Z"
     }
   ],
-  "fetched_at": "2026-08-25T18:49:38.506Z"
+  "fetched_at": "2026-08-26T20:32:23.018Z"
 }
