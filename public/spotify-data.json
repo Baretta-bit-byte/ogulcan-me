@@ -45,6 +45,19 @@
       "genres": []
     },
     {
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "preview_url": null,
+      "duration_ms": 224801,
+      "genres": []
+    },
+    {
       "id": "2dXsILW8gzkosqleHAvl0v",
       "name": "For Whom The Bell Tolls - Remastered",
       "artists": [
@@ -58,16 +71,29 @@
       "genres": []
     },
     {
-      "id": "0UuNO0yYvsMPlyLF7RfQlg",
-      "name": "Angst",
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
       "artists": [
-        "Rammstein"
+        "The Plot In You"
       ],
-      "album": "Zeit",
-      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
       "preview_url": null,
-      "duration_ms": 224801,
+      "duration_ms": 216826,
+      "genres": []
+    },
+    {
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "preview_url": null,
+      "duration_ms": 201960,
       "genres": []
     },
     {
@@ -123,19 +149,6 @@
       "genres": []
     },
     {
-      "id": "4xDwCYhobDehSBGUmd5H6Y",
-      "name": "FEEL NOTHING",
-      "artists": [
-        "The Plot In You"
-      ],
-      "album": "DISPOSE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
-      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
-      "preview_url": null,
-      "duration_ms": 216826,
-      "genres": []
-    },
-    {
       "id": "6M47gaKejso9772SKTa3yH",
       "name": "Face Off",
       "artists": [
@@ -150,117 +163,44 @@
       "preview_url": null,
       "duration_ms": 219802,
       "genres": []
-    },
-    {
-      "id": "5EicljVZKVOo2LZHREtWmQ",
-      "name": "Coming Home",
-      "artists": [
-        "Cinderella"
-      ],
-      "album": "Long Cold Winter",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f6c21a13a1fff5174fe35ed1",
-      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
-      "preview_url": null,
-      "duration_ms": 295066,
-      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "2dXsILW8gzkosqleHAvl0v",
-      "name": "For Whom The Bell Tolls - Remastered",
+      "id": "6FUwPb4mGlUDbx42uspXaZ",
+      "name": "Fuel",
       "artists": [
         "Metallica"
       ],
-      "album": "Ride The Lightning (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "duration_ms": 309973,
-      "played_at": "2026-08-26T19:45:45.857Z"
+      "album": "Reload",
+      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
+      "duration_ms": 269800,
+      "played_at": "2026-08-28T16:34:13.610Z"
     },
     {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
+      "id": "5cZqsjVs6MevCnAkasbEOX",
+      "name": "Break Stuff",
       "artists": [
-        "Drowning Pool"
+        "Limp Bizkit"
       ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "duration_ms": 201960,
-      "played_at": "2026-08-26T19:40:35.461Z"
+      "album": "Significant Other",
+      "image": "https://i.scdn.co/image/ab67616d00001e023783782de74f61e36795bf9c",
+      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "duration_ms": 166706,
+      "played_at": "2026-08-28T16:29:43.393Z"
     },
     {
-      "id": "0UuNO0yYvsMPlyLF7RfQlg",
-      "name": "Angst",
+      "id": "3RAFcUBrCNaboRXoP3S5t1",
+      "name": "Psychosocial",
       "artists": [
-        "Rammstein"
+        "Slipknot"
       ],
-      "album": "Zeit",
-      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
-      "duration_ms": 224801,
-      "played_at": "2026-08-26T19:37:13.208Z"
-    },
-    {
-      "id": "1pOpVsfbPHct7i79mZCJDI",
-      "name": "Dediler Ki",
-      "artists": [
-        "Üç nokta Bir"
-      ],
-      "album": "Sabaha Karşı",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cdf1ba4c8dcfde91422bc591",
-      "url": "https://open.spotify.com/track/1pOpVsfbPHct7i79mZCJDI",
-      "duration_ms": 235923,
-      "played_at": "2026-08-25T18:12:31.370Z"
-    },
-    {
-      "id": "0gyoObUS4WilJyNRs6GlDv",
-      "name": "Sakinleştim",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "Sakinleştim",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
-      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
-      "duration_ms": 249500,
-      "played_at": "2026-08-23T18:11:06.160Z"
-    },
-    {
-      "id": "0gyoObUS4WilJyNRs6GlDv",
-      "name": "Sakinleştim",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "Sakinleştim",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
-      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
-      "duration_ms": 249500,
-      "played_at": "2026-08-23T17:52:52.144Z"
-    },
-    {
-      "id": "0gyoObUS4WilJyNRs6GlDv",
-      "name": "Sakinleştim",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "Sakinleştim",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
-      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
-      "duration_ms": 249500,
-      "played_at": "2026-08-23T17:47:56.779Z"
-    },
-    {
-      "id": "0gyoObUS4WilJyNRs6GlDv",
-      "name": "Sakinleştim",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "Sakinleştim",
-      "image": "https://i.scdn.co/image/ab67616d00001e021ea41639cbd072f333d25003",
-      "url": "https://open.spotify.com/track/0gyoObUS4WilJyNRs6GlDv",
-      "duration_ms": 249500,
-      "played_at": "2026-08-22T20:15:10.586Z"
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120,
+      "played_at": "2026-08-28T16:26:56.311Z"
     },
     {
       "id": "4xDwCYhobDehSBGUmd5H6Y",
@@ -272,7 +212,7 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
       "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
       "duration_ms": 216826,
-      "played_at": "2026-08-22T13:38:58.446Z"
+      "played_at": "2026-08-28T16:17:16.734Z"
     },
     {
       "id": "2dXsILW8gzkosqleHAvl0v",
@@ -284,8 +224,68 @@
       "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
       "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
       "duration_ms": 309973,
-      "played_at": "2026-08-22T13:35:21.207Z"
+      "played_at": "2026-08-28T16:13:39.557Z"
+    },
+    {
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-28T16:05:29.092Z"
+    },
+    {
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-28T13:52:58.396Z"
+    },
+    {
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
+      "artists": [
+        "The Plot In You"
+      ],
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-28T12:50:32.138Z"
+    },
+    {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-28T12:46:55.019Z"
+    },
+    {
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "duration_ms": 201960,
+      "played_at": "2026-08-28T12:41:44.591Z"
     }
   ],
-  "fetched_at": "2026-08-27T00:26:52.942Z"
+  "fetched_at": "2026-08-28T17:36:08.033Z"
 }
