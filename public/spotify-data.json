@@ -167,6 +167,79 @@
   ],
   "recently_played": [
     {
+      "id": "0CPLnPUUHh44vAzDSM5ZlR",
+      "name": "Naughty Girl",
+      "artists": [
+        "Beyoncé"
+      ],
+      "album": "Dangerously In Love",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a9fd4a0405945cd51e8de130",
+      "url": "https://open.spotify.com/track/0CPLnPUUHh44vAzDSM5ZlR",
+      "duration_ms": 208600,
+      "played_at": "2026-08-29T14:18:11.050Z"
+    },
+    {
+      "id": "1rIKgCH4H52lrvDcz50hS8",
+      "name": "Lush Life",
+      "artists": [
+        "Zara Larsson"
+      ],
+      "album": "So Good",
+      "image": "https://i.scdn.co/image/ab67616d00001e02401bf6103d4b7f5230a21582",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
+      "duration_ms": 200646,
+      "played_at": "2026-08-29T14:14:41.970Z"
+    },
+    {
+      "id": "49ou9vBZLTCi4TYoYzR3F9",
+      "name": "Calabria 2007 - Radio Edit",
+      "artists": [
+        "Enur",
+        "Natasja"
+      ],
+      "album": "Calabria 2007",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c9ee2d29e5034875b9548a77",
+      "url": "https://open.spotify.com/track/49ou9vBZLTCi4TYoYzR3F9",
+      "duration_ms": 233480,
+      "played_at": "2026-08-29T14:11:20.702Z"
+    },
+    {
+      "id": "1i4JlWqVDl8nG8lL6ybjuN",
+      "name": "Ramalama (Bang Bang)",
+      "artists": [
+        "Róisín Murphy"
+      ],
+      "album": "Ruby Blue",
+      "image": "https://i.scdn.co/image/ab67616d00001e02083f593a29f7160f40cac96e",
+      "url": "https://open.spotify.com/track/1i4JlWqVDl8nG8lL6ybjuN",
+      "duration_ms": 215386,
+      "played_at": "2026-08-29T14:02:05.921Z"
+    },
+    {
+      "id": "4TsmezEQVSZNNPv5RJ65Ov",
+      "name": "Pon de Replay",
+      "artists": [
+        "Rihanna"
+      ],
+      "album": "Music Of The Sun",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b21609e1a2d7c1b7ba8efae2",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov",
+      "duration_ms": 246960,
+      "played_at": "2026-08-29T14:00:30.851Z"
+    },
+    {
+      "id": "1j15Ar0qGDzIR0v3CQv3JL",
+      "name": "Gnarly",
+      "artists": [
+        "KATSEYE"
+      ],
+      "album": "Gnarly",
+      "image": "https://i.scdn.co/image/ab67616d00001e022ca769bb73374b00d09a1c82",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL",
+      "duration_ms": 137316,
+      "played_at": "2026-08-29T13:56:18.182Z"
+    },
+    {
       "id": "5eqiMMbaeUZ32Q7sS00H35",
       "name": "Anaconda",
       "artists": [
@@ -213,79 +286,7 @@
       "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
       "duration_ms": 236898,
       "played_at": "2026-08-29T13:00:55.779Z"
-    },
-    {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "duration_ms": 201960,
-      "played_at": "2026-08-29T12:53:59.875Z"
-    },
-    {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "duration_ms": 201960,
-      "played_at": "2026-08-29T12:50:29.179Z"
-    },
-    {
-      "id": "7mczLeiFeYKRb7vtiPjuMb",
-      "name": "DArkSide",
-      "artists": [
-        "Bring Me The Horizon"
-      ],
-      "album": "POST HUMAN: NeX GEn",
-      "image": "https://i.scdn.co/image/ab67616d00001e02df51a3d66223e5b01813e0c4",
-      "url": "https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb",
-      "duration_ms": 165357,
-      "played_at": "2026-08-29T12:47:06.878Z"
-    },
-    {
-      "id": "6rUp7v3l8yC4TKxAAR5Bmx",
-      "name": "I Hate Everything About You",
-      "artists": [
-        "Three Days Grace"
-      ],
-      "album": "Three Days Grace (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02447bdb4eab501ce0a15811c0",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx",
-      "duration_ms": 231480,
-      "played_at": "2026-08-29T12:44:21.197Z"
-    },
-    {
-      "id": "3fWibgdtgIie6LKTZ2rUoI",
-      "name": "So Far So Fake",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d00001e022846907b5152fb7dc38e450a",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
-      "duration_ms": 236160,
-      "played_at": "2026-08-29T12:38:15.921Z"
-    },
-    {
-      "id": "02xhLoVqpGmOqvolgrwM8w",
-      "name": "One",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "…And Justice for All (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fe896727e3db1027ed72d885",
-      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
-      "duration_ms": 446145,
-      "played_at": "2026-08-28T16:45:35.505Z"
     }
   ],
-  "fetched_at": "2026-08-29T13:55:56.735Z"
+  "fetched_at": "2026-08-29T17:31:25.449Z"
 }
