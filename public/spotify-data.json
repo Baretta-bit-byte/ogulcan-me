@@ -167,6 +167,42 @@
   ],
   "recently_played": [
     {
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
+      "artists": [
+        "The Plot In You"
+      ],
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-08-29T20:20:38.547Z"
+    },
+    {
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "duration_ms": 201960,
+      "played_at": "2026-08-29T20:17:01.298Z"
+    },
+    {
+      "id": "6ocbgoVGwYJhOv1GgI9NsF",
+      "name": "7 rings",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "thank u, next",
+      "image": "https://i.scdn.co/image/ab67616d00001e0256ac7b86e090f307e218e9c8",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
+      "duration_ms": 178626,
+      "played_at": "2026-08-29T14:18:31.835Z"
+    },
+    {
       "id": "0CPLnPUUHh44vAzDSM5ZlR",
       "name": "Naughty Girl",
       "artists": [
@@ -250,43 +286,7 @@
       "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35",
       "duration_ms": 260239,
       "played_at": "2026-08-29T13:53:46.734Z"
-    },
-    {
-      "id": "5aNH8inF5BsbThDeOLs7zs",
-      "name": "Feuer frei!",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs",
-      "duration_ms": 188600,
-      "played_at": "2026-08-29T13:50:10.069Z"
-    },
-    {
-      "id": "5aNH8inF5BsbThDeOLs7zs",
-      "name": "Feuer frei!",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs",
-      "duration_ms": 188600,
-      "played_at": "2026-08-29T13:12:44.837Z"
-    },
-    {
-      "id": "0AOmbw8AwDnwXhHC3OhdVB",
-      "name": "Courtesy Call",
-      "artists": [
-        "Thousand Foot Krutch"
-      ],
-      "album": "The End Is Where We Begin",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
-      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
-      "duration_ms": 236898,
-      "played_at": "2026-08-29T13:00:55.779Z"
     }
   ],
-  "fetched_at": "2026-08-29T17:31:25.449Z"
+  "fetched_at": "2026-08-29T20:24:47.823Z"
 }
