@@ -167,126 +167,126 @@
   ],
   "recently_played": [
     {
-      "id": "4xDwCYhobDehSBGUmd5H6Y",
-      "name": "FEEL NOTHING",
+      "id": "2vPZ4Lklyu75zBR3SgbFNI",
+      "name": "Snuff",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
+      "url": "https://open.spotify.com/track/2vPZ4Lklyu75zBR3SgbFNI",
+      "duration_ms": 276146,
+      "played_at": "2026-08-29T21:28:57.973Z"
+    },
+    {
+      "id": "7CAbF0By0Fpnbiu6Xn5ZF7",
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "artists": [
+        "Bring Me The Horizon",
+        "BABYMETAL"
+      ],
+      "album": "POST HUMAN: SURVIVAL HORROR",
+      "image": "https://i.scdn.co/image/ab67616d00001e025149c948fde506624246a684",
+      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+      "duration_ms": 220041,
+      "played_at": "2026-08-29T21:24:21.367Z"
+    },
+    {
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-08-29T21:20:20.809Z"
+    },
+    {
+      "id": "6Zj3YsYfj8YTY9aGMDnpn8",
+      "name": "Hot Dog",
+      "artists": [
+        "Limp Bizkit"
+      ],
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
+      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8",
+      "duration_ms": 230240,
+      "played_at": "2026-08-29T21:11:24.050Z"
+    },
+    {
+      "id": "3RAFcUBrCNaboRXoP3S5t1",
+      "name": "Psychosocial",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120,
+      "played_at": "2026-08-29T21:07:12.930Z"
+    },
+    {
+      "id": "5W8YXBz9MTIDyrpYaCg2Ky",
+      "name": "Last Resort",
+      "artists": [
+        "Papa Roach"
+      ],
+      "album": "Infest",
+      "image": "https://i.scdn.co/image/ab67616d00001e02985bf5ede2fe4a048ee85f28",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky",
+      "duration_ms": 199906,
+      "played_at": "2026-08-29T21:02:28.475Z"
+    },
+    {
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-08-29T20:59:08.228Z"
+    },
+    {
+      "id": "0Zfh4uDmJz3D44Qy9nYMqu",
+      "name": "Rammstein",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Herzeleid (Remastered 2020)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
+      "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
+      "duration_ms": 267743,
+      "played_at": "2026-08-29T20:53:57.879Z"
+    },
+    {
+      "id": "4eGHEHqoDMMejzPhRFTc7p",
+      "name": "I Don't Wanna Be Me",
+      "artists": [
+        "Type O Negative"
+      ],
+      "album": "Life Is Killing Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d736b2c5f252f84ad45d5be6",
+      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p",
+      "duration_ms": 308826,
+      "played_at": "2026-08-29T20:49:29.776Z"
+    },
+    {
+      "id": "79R5tIbEjTogRppyJsbff1",
+      "name": "Forgotten",
       "artists": [
         "The Plot In You"
       ],
-      "album": "DISPOSE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
-      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
-      "duration_ms": 216826,
-      "played_at": "2026-08-29T20:20:38.547Z"
-    },
-    {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "duration_ms": 201960,
-      "played_at": "2026-08-29T20:17:01.298Z"
-    },
-    {
-      "id": "6ocbgoVGwYJhOv1GgI9NsF",
-      "name": "7 rings",
-      "artists": [
-        "Ariana Grande"
-      ],
-      "album": "thank u, next",
-      "image": "https://i.scdn.co/image/ab67616d00001e0256ac7b86e090f307e218e9c8",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
-      "duration_ms": 178626,
-      "played_at": "2026-08-29T14:18:31.835Z"
-    },
-    {
-      "id": "0CPLnPUUHh44vAzDSM5ZlR",
-      "name": "Naughty Girl",
-      "artists": [
-        "Beyoncé"
-      ],
-      "album": "Dangerously In Love",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a9fd4a0405945cd51e8de130",
-      "url": "https://open.spotify.com/track/0CPLnPUUHh44vAzDSM5ZlR",
-      "duration_ms": 208600,
-      "played_at": "2026-08-29T14:18:11.050Z"
-    },
-    {
-      "id": "1rIKgCH4H52lrvDcz50hS8",
-      "name": "Lush Life",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "So Good",
-      "image": "https://i.scdn.co/image/ab67616d00001e02401bf6103d4b7f5230a21582",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
-      "duration_ms": 200646,
-      "played_at": "2026-08-29T14:14:41.970Z"
-    },
-    {
-      "id": "49ou9vBZLTCi4TYoYzR3F9",
-      "name": "Calabria 2007 - Radio Edit",
-      "artists": [
-        "Enur",
-        "Natasja"
-      ],
-      "album": "Calabria 2007",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c9ee2d29e5034875b9548a77",
-      "url": "https://open.spotify.com/track/49ou9vBZLTCi4TYoYzR3F9",
-      "duration_ms": 233480,
-      "played_at": "2026-08-29T14:11:20.702Z"
-    },
-    {
-      "id": "1i4JlWqVDl8nG8lL6ybjuN",
-      "name": "Ramalama (Bang Bang)",
-      "artists": [
-        "Róisín Murphy"
-      ],
-      "album": "Ruby Blue",
-      "image": "https://i.scdn.co/image/ab67616d00001e02083f593a29f7160f40cac96e",
-      "url": "https://open.spotify.com/track/1i4JlWqVDl8nG8lL6ybjuN",
-      "duration_ms": 215386,
-      "played_at": "2026-08-29T14:02:05.921Z"
-    },
-    {
-      "id": "4TsmezEQVSZNNPv5RJ65Ov",
-      "name": "Pon de Replay",
-      "artists": [
-        "Rihanna"
-      ],
-      "album": "Music Of The Sun",
-      "image": "https://i.scdn.co/image/ab67616d00001e02b21609e1a2d7c1b7ba8efae2",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov",
-      "duration_ms": 246960,
-      "played_at": "2026-08-29T14:00:30.851Z"
-    },
-    {
-      "id": "1j15Ar0qGDzIR0v3CQv3JL",
-      "name": "Gnarly",
-      "artists": [
-        "KATSEYE"
-      ],
-      "album": "Gnarly",
-      "image": "https://i.scdn.co/image/ab67616d00001e022ca769bb73374b00d09a1c82",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL",
-      "duration_ms": 137316,
-      "played_at": "2026-08-29T13:56:18.182Z"
-    },
-    {
-      "id": "5eqiMMbaeUZ32Q7sS00H35",
-      "name": "Anaconda",
-      "artists": [
-        "Nicki Minaj"
-      ],
-      "album": "The Pinkprint (International Deluxe Explicit)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0205d647d0e976e7fb2460492e",
-      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35",
-      "duration_ms": 260239,
-      "played_at": "2026-08-29T13:53:46.734Z"
+      "album": "The Plot In You",
+      "image": "https://i.scdn.co/image/ab67616d00001e023ab8599d4f601be6663d061e",
+      "url": "https://open.spotify.com/track/79R5tIbEjTogRppyJsbff1",
+      "duration_ms": 175249,
+      "played_at": "2026-08-29T20:44:20.581Z"
     }
   ],
-  "fetched_at": "2026-08-29T20:24:47.823Z"
+  "fetched_at": "2026-08-29T22:43:26.033Z"
 }
