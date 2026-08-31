@@ -167,6 +167,102 @@
   ],
   "recently_played": [
     {
+      "id": "0Zfh4uDmJz3D44Qy9nYMqu",
+      "name": "Rammstein",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Herzeleid (Remastered 2020)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
+      "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
+      "duration_ms": 267743,
+      "played_at": "2026-08-31T18:37:36.890Z"
+    },
+    {
+      "id": "0snQkGI5qnAmohLE7jTsTn",
+      "name": "Toxicity",
+      "artists": [
+        "System Of A Down"
+      ],
+      "album": "Toxicity",
+      "image": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
+      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
+      "duration_ms": 218933,
+      "played_at": "2026-08-31T18:32:07.710Z"
+    },
+    {
+      "id": "3fWibgdtgIie6LKTZ2rUoI",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d00001e022846907b5152fb7dc38e450a",
+      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160,
+      "played_at": "2026-08-31T18:28:28.461Z"
+    },
+    {
+      "id": "3o7TMr6RmIusYH7Kkg7ujR",
+      "name": "Coming Undone",
+      "artists": [
+        "Korn"
+      ],
+      "album": "See You On the Other Side",
+      "image": "https://i.scdn.co/image/ab67616d00001e0274c1560b64750a1774495144",
+      "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR",
+      "duration_ms": 199773,
+      "played_at": "2026-08-31T18:24:31.980Z"
+    },
+    {
+      "id": "5eFxwmqKrHpSQDOEIFYlgY",
+      "name": "Animal I Have Become",
+      "artists": [
+        "Three Days Grace"
+      ],
+      "album": "One-X",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fa4c18fdbd1bf1a39b7b794f",
+      "url": "https://open.spotify.com/track/5eFxwmqKrHpSQDOEIFYlgY",
+      "duration_ms": 231400,
+      "played_at": "2026-08-31T18:21:11.825Z"
+    },
+    {
+      "id": "3gVhsZtseYtY1fMuyYq06F",
+      "name": "Sonne",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "duration_ms": 272440,
+      "played_at": "2026-08-31T18:04:02.346Z"
+    },
+    {
+      "id": "3gVhsZtseYtY1fMuyYq06F",
+      "name": "Sonne",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "duration_ms": 272440,
+      "played_at": "2026-08-31T17:27:16.448Z"
+    },
+    {
+      "id": "5MhNgheI9IjDxQS5XQ3Ojo",
+      "name": "She-Wolf - Remastered 2004 / Remixed",
+      "artists": [
+        "Megadeth"
+      ],
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0276eff96fd2e3f9df3e71b276",
+      "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo",
+      "duration_ms": 217800,
+      "played_at": "2026-08-31T17:18:11.314Z"
+    },
+    {
       "id": "5MhNgheI9IjDxQS5XQ3Ojo",
       "name": "She-Wolf - Remastered 2004 / Remixed",
       "artists": [
@@ -189,105 +285,7 @@
       "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
       "duration_ms": 218933,
       "played_at": "2026-08-30T15:05:58.568Z"
-    },
-    {
-      "id": "3gVhsZtseYtY1fMuyYq06F",
-      "name": "Sonne",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
-      "duration_ms": 272440,
-      "played_at": "2026-08-30T14:53:31.952Z"
-    },
-    {
-      "id": "1VNWaY3uNfoeWqb5U8x2QX",
-      "name": "Lonely Day",
-      "artists": [
-        "System Of A Down"
-      ],
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f5e7b2e5adaa87430a3eccff",
-      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX",
-      "duration_ms": 167906,
-      "played_at": "2026-08-30T09:18:04.183Z"
-    },
-    {
-      "id": "2bPGTMB5sFfFYQ2YvSmup0",
-      "name": "Deutschland",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Rammstein",
-      "image": "https://i.scdn.co/image/ab67616d00001e0202add2c77fb6999e311a3248",
-      "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0",
-      "duration_ms": 322339,
-      "played_at": "2026-08-30T09:17:30.064Z"
-    },
-    {
-      "id": "02xhLoVqpGmOqvolgrwM8w",
-      "name": "One",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "…And Justice for All (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fe896727e3db1027ed72d885",
-      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
-      "duration_ms": 446145,
-      "played_at": "2026-08-30T09:12:07.314Z"
-    },
-    {
-      "id": "0AOmbw8AwDnwXhHC3OhdVB",
-      "name": "Courtesy Call",
-      "artists": [
-        "Thousand Foot Krutch"
-      ],
-      "album": "The End Is Where We Begin",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
-      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
-      "duration_ms": 236898,
-      "played_at": "2026-08-30T09:04:19.267Z"
-    },
-    {
-      "id": "5euO4JVKk6EZJDT2qn8nw3",
-      "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
-      "artists": [
-        "IC3PEAK",
-        "Oli Sykes",
-        "Bring Me The Horizon"
-      ],
-      "album": "KISS OF DEATH",
-      "image": "https://i.scdn.co/image/ab67616d00001e02116ef3dcec29365f8255dbf0",
-      "url": "https://open.spotify.com/track/5euO4JVKk6EZJDT2qn8nw3",
-      "duration_ms": 142250,
-      "played_at": "2026-08-30T09:00:21.908Z"
-    },
-    {
-      "id": "79R5tIbEjTogRppyJsbff1",
-      "name": "Forgotten",
-      "artists": [
-        "The Plot In You"
-      ],
-      "album": "The Plot In You",
-      "image": "https://i.scdn.co/image/ab67616d00001e023ab8599d4f601be6663d061e",
-      "url": "https://open.spotify.com/track/79R5tIbEjTogRppyJsbff1",
-      "duration_ms": 175249,
-      "played_at": "2026-08-30T08:57:59.344Z"
-    },
-    {
-      "id": "4Uiw0Sl9yskBaC6P4DcdVD",
-      "name": "Be Quiet and Drive (Far Away)",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Around the Fur",
-      "image": "https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6",
-      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD",
-      "duration_ms": 299866,
-      "played_at": "2026-08-30T08:55:03.686Z"
     }
   ],
-  "fetched_at": "2026-08-30T17:40:11.321Z"
+  "fetched_at": "2026-08-31T20:57:40.155Z"
 }
