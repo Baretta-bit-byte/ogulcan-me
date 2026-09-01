@@ -19,19 +19,6 @@
       "genres": []
     },
     {
-      "id": "4EuaDcxHmHKS6gZ5iuGba0",
-      "name": "Joy Of My Life",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Starting Over",
-      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
-      "preview_url": null,
-      "duration_ms": 274520,
-      "genres": []
-    },
-    {
       "id": "5JXV2YMrXBHZfzf7cXLIPd",
       "name": "İstanbul Beyefendisi",
       "artists": [
@@ -42,6 +29,19 @@
       "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
       "preview_url": null,
       "duration_ms": 233352,
+      "genres": []
+    },
+    {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "preview_url": null,
+      "duration_ms": 274520,
       "genres": []
     },
     {
@@ -97,6 +97,19 @@
       "genres": []
     },
     {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "preview_url": null,
+      "duration_ms": 231317,
+      "genres": []
+    },
+    {
       "id": "1kBN0n05DpAbOkbNZ63XA0",
       "name": "I Giorni",
       "artists": [
@@ -120,19 +133,6 @@
       "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
       "preview_url": null,
       "duration_ms": 314984,
-      "genres": []
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "preview_url": null,
-      "duration_ms": 231317,
       "genres": []
     },
     {
@@ -166,6 +166,90 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "2ivI6X6NmJykhjMTD0cITa",
+      "name": "Sadece Senin Olmak",
+      "artists": [
+        "Yavuz Çetin"
+      ],
+      "album": "Satılık",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c68a45c9af42df849ad8d7e5",
+      "url": "https://open.spotify.com/track/2ivI6X6NmJykhjMTD0cITa",
+      "duration_ms": 274506,
+      "played_at": "2026-09-01T10:13:32.344Z"
+    },
+    {
+      "id": "69QnkvrvdrIf81NhNPF6Ca",
+      "name": "Benimle Oynarmısın",
+      "artists": [
+        "Bülent Ortaçgil"
+      ],
+      "album": "Benimle Oynar Mısın",
+      "image": "https://i.scdn.co/image/ab67616d00001e021e2894867258adc2a562384f",
+      "url": "https://open.spotify.com/track/69QnkvrvdrIf81NhNPF6Ca",
+      "duration_ms": 144240,
+      "played_at": "2026-09-01T10:08:57.412Z"
+    },
+    {
+      "id": "3r1Mavl6pZfmJr4I6Gwziv",
+      "name": "Tencere Kapak",
+      "artists": [
+        "Kenan Doğulu"
+      ],
+      "album": "Aşka Türlü Şeyler",
+      "image": "https://i.scdn.co/image/ab67616d00001e020288919bb5582eaee60fe937",
+      "url": "https://open.spotify.com/track/3r1Mavl6pZfmJr4I6Gwziv",
+      "duration_ms": 254438,
+      "played_at": "2026-09-01T10:06:32.861Z"
+    },
+    {
+      "id": "48uVgUu7IWXqBOrCqpmUmu",
+      "name": "Bütün İstanbul Biliyo",
+      "artists": [
+        "İkiye On Kala"
+      ],
+      "album": "Bütün İstanbul Biliyo",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
+      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
+      "duration_ms": 150000,
+      "played_at": "2026-09-01T10:02:18.032Z"
+    },
+    {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "duration_ms": 231317,
+      "played_at": "2026-09-01T09:59:47.659Z"
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "duration_ms": 233352,
+      "played_at": "2026-09-01T09:55:55.957Z"
+    },
+    {
+      "id": "3fjmSxt0PskST13CSdBUFx",
+      "name": "Somewhere I Belong",
+      "artists": [
+        "Linkin Park"
+      ],
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b5b6fa1326d996181e71dd7",
+      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx",
+      "duration_ms": 213933,
+      "played_at": "2026-08-31T18:39:06.931Z"
+    },
     {
       "id": "0Zfh4uDmJz3D44Qy9nYMqu",
       "name": "Rammstein",
@@ -201,91 +285,7 @@
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
       "duration_ms": 236160,
       "played_at": "2026-08-31T18:28:28.461Z"
-    },
-    {
-      "id": "3o7TMr6RmIusYH7Kkg7ujR",
-      "name": "Coming Undone",
-      "artists": [
-        "Korn"
-      ],
-      "album": "See You On the Other Side",
-      "image": "https://i.scdn.co/image/ab67616d00001e0274c1560b64750a1774495144",
-      "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR",
-      "duration_ms": 199773,
-      "played_at": "2026-08-31T18:24:31.980Z"
-    },
-    {
-      "id": "5eFxwmqKrHpSQDOEIFYlgY",
-      "name": "Animal I Have Become",
-      "artists": [
-        "Three Days Grace"
-      ],
-      "album": "One-X",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fa4c18fdbd1bf1a39b7b794f",
-      "url": "https://open.spotify.com/track/5eFxwmqKrHpSQDOEIFYlgY",
-      "duration_ms": 231400,
-      "played_at": "2026-08-31T18:21:11.825Z"
-    },
-    {
-      "id": "3gVhsZtseYtY1fMuyYq06F",
-      "name": "Sonne",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
-      "duration_ms": 272440,
-      "played_at": "2026-08-31T18:04:02.346Z"
-    },
-    {
-      "id": "3gVhsZtseYtY1fMuyYq06F",
-      "name": "Sonne",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
-      "duration_ms": 272440,
-      "played_at": "2026-08-31T17:27:16.448Z"
-    },
-    {
-      "id": "5MhNgheI9IjDxQS5XQ3Ojo",
-      "name": "She-Wolf - Remastered 2004 / Remixed",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276eff96fd2e3f9df3e71b276",
-      "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo",
-      "duration_ms": 217800,
-      "played_at": "2026-08-31T17:18:11.314Z"
-    },
-    {
-      "id": "5MhNgheI9IjDxQS5XQ3Ojo",
-      "name": "She-Wolf - Remastered 2004 / Remixed",
-      "artists": [
-        "Megadeth"
-      ],
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0276eff96fd2e3f9df3e71b276",
-      "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo",
-      "duration_ms": 217800,
-      "played_at": "2026-08-30T17:25:52.002Z"
-    },
-    {
-      "id": "0snQkGI5qnAmohLE7jTsTn",
-      "name": "Toxicity",
-      "artists": [
-        "System Of A Down"
-      ],
-      "album": "Toxicity",
-      "image": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-      "duration_ms": 218933,
-      "played_at": "2026-08-30T15:05:58.568Z"
     }
   ],
-  "fetched_at": "2026-08-31T20:57:40.155Z"
+  "fetched_at": "2026-09-01T11:06:27.661Z"
 }
