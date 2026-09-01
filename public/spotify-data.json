@@ -149,23 +149,116 @@
       "genres": []
     },
     {
-      "id": "6M47gaKejso9772SKTa3yH",
-      "name": "Face Off",
+      "id": "5EicljVZKVOo2LZHREtWmQ",
+      "name": "Coming Home",
       "artists": [
-        "Tech N9ne",
-        "Joey Cool",
-        "King Iso",
-        "Dwayne Johnson"
+        "Cinderella"
       ],
-      "album": "ASIN9NE",
-      "image": "https://i.scdn.co/image/ab67616d00001e025ee0a1dafbbf6d8d430821a3",
-      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH",
+      "album": "Long Cold Winter",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f6c21a13a1fff5174fe35ed1",
+      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
       "preview_url": null,
-      "duration_ms": 219802,
+      "duration_ms": 295066,
       "genres": []
     }
   ],
   "recently_played": [
+    {
+      "id": "0gucTLf7trAf37Ua1uAyAu",
+      "name": "Smells Like Teen Spirit - Remastered",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (30th Anniversary Super Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02444f118a9126af9e1483dcc0",
+      "url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu",
+      "duration_ms": 300893,
+      "played_at": "2026-09-01T13:48:15.363Z"
+    },
+    {
+      "id": "56fiFTRrSiHHH3gBeaTg2P",
+      "name": "Nero Forte",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "We Are Not Your Kind",
+      "image": "https://i.scdn.co/image/ab67616d00001e026272409a1daa589d5626ba9d",
+      "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P",
+      "duration_ms": 315177,
+      "played_at": "2026-09-01T13:45:16.946Z"
+    },
+    {
+      "id": "5ltXoDLlI0rFZAmOXbAp5T",
+      "name": "Sad But True - Remastered 2021",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Metallica (Remastered Deluxe Box Set)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c1a13209dfe146aef3296e34",
+      "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T",
+      "duration_ms": 324600,
+      "played_at": "2026-09-01T13:40:01.412Z"
+    },
+    {
+      "id": "4UEo1b0wWrtHMC8bVqPiH8",
+      "name": "Nightmare",
+      "artists": [
+        "Avenged Sevenfold"
+      ],
+      "album": "Nightmare",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c34064a3c5e4a25892a091f3",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8",
+      "duration_ms": 374453,
+      "played_at": "2026-09-01T13:34:36.483Z"
+    },
+    {
+      "id": "2302lUwfZ4S4dVyPOCDFnQ",
+      "name": "Sweet Dreams (Are Made Of This)",
+      "artists": [
+        "Marilyn Manson"
+      ],
+      "album": "Smells Like Children",
+      "image": "https://i.scdn.co/image/ab67616d00001e0254585a427218bf9bddbd6a3f",
+      "url": "https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ",
+      "duration_ms": 293293,
+      "played_at": "2026-09-01T13:28:21.631Z"
+    },
+    {
+      "id": "2Gt7fjNlx901pPRkvBiNBZ",
+      "name": "Take Me Back To Eden",
+      "artists": [
+        "Sleep Token"
+      ],
+      "album": "Take Me Back To Eden",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b73608b678f169d3c8f35f0",
+      "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ",
+      "duration_ms": 500116,
+      "played_at": "2026-09-01T13:23:28Z"
+    },
+    {
+      "id": "0Zfh4uDmJz3D44Qy9nYMqu",
+      "name": "Rammstein",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Herzeleid (Remastered 2020)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
+      "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
+      "duration_ms": 267743,
+      "played_at": "2026-09-01T13:15:07.515Z"
+    },
+    {
+      "id": "5aNH8inF5BsbThDeOLs7zs",
+      "name": "Feuer frei!",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs",
+      "duration_ms": 188600,
+      "played_at": "2026-09-01T13:04:14.258Z"
+    },
     {
       "id": "2ivI6X6NmJykhjMTD0cITa",
       "name": "Sadece Senin Olmak",
@@ -189,103 +282,7 @@
       "url": "https://open.spotify.com/track/69QnkvrvdrIf81NhNPF6Ca",
       "duration_ms": 144240,
       "played_at": "2026-09-01T10:08:57.412Z"
-    },
-    {
-      "id": "3r1Mavl6pZfmJr4I6Gwziv",
-      "name": "Tencere Kapak",
-      "artists": [
-        "Kenan Doğulu"
-      ],
-      "album": "Aşka Türlü Şeyler",
-      "image": "https://i.scdn.co/image/ab67616d00001e020288919bb5582eaee60fe937",
-      "url": "https://open.spotify.com/track/3r1Mavl6pZfmJr4I6Gwziv",
-      "duration_ms": 254438,
-      "played_at": "2026-09-01T10:06:32.861Z"
-    },
-    {
-      "id": "48uVgUu7IWXqBOrCqpmUmu",
-      "name": "Bütün İstanbul Biliyo",
-      "artists": [
-        "İkiye On Kala"
-      ],
-      "album": "Bütün İstanbul Biliyo",
-      "image": "https://i.scdn.co/image/ab67616d00001e02ef1508dbeb66382110a07836",
-      "url": "https://open.spotify.com/track/48uVgUu7IWXqBOrCqpmUmu",
-      "duration_ms": 150000,
-      "played_at": "2026-09-01T10:02:18.032Z"
-    },
-    {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "duration_ms": 231317,
-      "played_at": "2026-09-01T09:59:47.659Z"
-    },
-    {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "duration_ms": 233352,
-      "played_at": "2026-09-01T09:55:55.957Z"
-    },
-    {
-      "id": "3fjmSxt0PskST13CSdBUFx",
-      "name": "Somewhere I Belong",
-      "artists": [
-        "Linkin Park"
-      ],
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b5b6fa1326d996181e71dd7",
-      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx",
-      "duration_ms": 213933,
-      "played_at": "2026-08-31T18:39:06.931Z"
-    },
-    {
-      "id": "0Zfh4uDmJz3D44Qy9nYMqu",
-      "name": "Rammstein",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Herzeleid (Remastered 2020)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
-      "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
-      "duration_ms": 267743,
-      "played_at": "2026-08-31T18:37:36.890Z"
-    },
-    {
-      "id": "0snQkGI5qnAmohLE7jTsTn",
-      "name": "Toxicity",
-      "artists": [
-        "System Of A Down"
-      ],
-      "album": "Toxicity",
-      "image": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-      "duration_ms": 218933,
-      "played_at": "2026-08-31T18:32:07.710Z"
-    },
-    {
-      "id": "3fWibgdtgIie6LKTZ2rUoI",
-      "name": "So Far So Fake",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d00001e022846907b5152fb7dc38e450a",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
-      "duration_ms": 236160,
-      "played_at": "2026-08-31T18:28:28.461Z"
     }
   ],
-  "fetched_at": "2026-09-01T11:06:27.661Z"
+  "fetched_at": "2026-09-01T19:11:41.536Z"
 }
