@@ -164,6 +164,67 @@
   ],
   "recently_played": [
     {
+      "id": "5SlxykqNSR8fnLIjlgNBFq",
+      "name": "V.A.N",
+      "artists": [
+        "Bad Omens",
+        "Poppy"
+      ],
+      "album": "CONCRETE JUNGLE [THE OST]",
+      "image": "https://i.scdn.co/image/ab67616d00001e027400362388ac9ab2a807e597",
+      "url": "https://open.spotify.com/track/5SlxykqNSR8fnLIjlgNBFq",
+      "duration_ms": 274098,
+      "played_at": "2026-09-02T12:31:10.048Z"
+    },
+    {
+      "id": "7fcfNW0XxTWlwVlftzfDOR",
+      "name": "Walk",
+      "artists": [
+        "Pantera"
+      ],
+      "album": "Vulgar Display of Power",
+      "image": "https://i.scdn.co/image/ab67616d00001e02347c0a40c1e3f0c890a6d9d6",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "duration_ms": 315120,
+      "played_at": "2026-09-02T12:25:42.497Z"
+    },
+    {
+      "id": "3gVhsZtseYtY1fMuyYq06F",
+      "name": "Sonne",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "duration_ms": 272440,
+      "played_at": "2026-09-02T12:20:27.048Z"
+    },
+    {
+      "id": "5W8YXBz9MTIDyrpYaCg2Ky",
+      "name": "Last Resort",
+      "artists": [
+        "Papa Roach"
+      ],
+      "album": "Infest",
+      "image": "https://i.scdn.co/image/ab67616d00001e02985bf5ede2fe4a048ee85f28",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky",
+      "duration_ms": 199906,
+      "played_at": "2026-09-02T12:15:54.310Z"
+    },
+    {
+      "id": "6FUwPb4mGlUDbx42uspXaZ",
+      "name": "Fuel",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Reload",
+      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
+      "duration_ms": 269800,
+      "played_at": "2026-09-02T12:12:34.051Z"
+    },
+    {
       "id": "0gucTLf7trAf37Ua1uAyAu",
       "name": "Smells Like Teen Spirit - Remastered",
       "artists": [
@@ -222,67 +283,7 @@
       "url": "https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ",
       "duration_ms": 293293,
       "played_at": "2026-09-01T13:28:21.631Z"
-    },
-    {
-      "id": "2Gt7fjNlx901pPRkvBiNBZ",
-      "name": "Take Me Back To Eden",
-      "artists": [
-        "Sleep Token"
-      ],
-      "album": "Take Me Back To Eden",
-      "image": "https://i.scdn.co/image/ab67616d00001e020b73608b678f169d3c8f35f0",
-      "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ",
-      "duration_ms": 500116,
-      "played_at": "2026-09-01T13:23:28Z"
-    },
-    {
-      "id": "0Zfh4uDmJz3D44Qy9nYMqu",
-      "name": "Rammstein",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Herzeleid (Remastered 2020)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
-      "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
-      "duration_ms": 267743,
-      "played_at": "2026-09-01T13:15:07.515Z"
-    },
-    {
-      "id": "5aNH8inF5BsbThDeOLs7zs",
-      "name": "Feuer frei!",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs",
-      "duration_ms": 188600,
-      "played_at": "2026-09-01T13:04:14.258Z"
-    },
-    {
-      "id": "2ivI6X6NmJykhjMTD0cITa",
-      "name": "Sadece Senin Olmak",
-      "artists": [
-        "Yavuz Çetin"
-      ],
-      "album": "Satılık",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c68a45c9af42df849ad8d7e5",
-      "url": "https://open.spotify.com/track/2ivI6X6NmJykhjMTD0cITa",
-      "duration_ms": 274506,
-      "played_at": "2026-09-01T10:13:32.344Z"
-    },
-    {
-      "id": "69QnkvrvdrIf81NhNPF6Ca",
-      "name": "Benimle Oynarmısın",
-      "artists": [
-        "Bülent Ortaçgil"
-      ],
-      "album": "Benimle Oynar Mısın",
-      "image": "https://i.scdn.co/image/ab67616d00001e021e2894867258adc2a562384f",
-      "url": "https://open.spotify.com/track/69QnkvrvdrIf81NhNPF6Ca",
-      "duration_ms": 144240,
-      "played_at": "2026-09-01T10:08:57.412Z"
     }
   ],
-  "fetched_at": "2026-09-01T19:11:41.536Z"
+  "fetched_at": "2026-09-02T12:32:26.933Z"
 }
