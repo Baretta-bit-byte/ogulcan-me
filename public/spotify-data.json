@@ -164,6 +164,90 @@
   ],
   "recently_played": [
     {
+      "id": "4myFsmx2v6znDOJfn3IkbD",
+      "name": "Popular Monster",
+      "artists": [
+        "Falling In Reverse"
+      ],
+      "album": "Popular Monster",
+      "image": "https://i.scdn.co/image/ab67616d00001e02cd850819595472eae0c06f66",
+      "url": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
+      "duration_ms": 220537,
+      "played_at": "2026-09-02T13:08:14.122Z"
+    },
+    {
+      "id": "79R5tIbEjTogRppyJsbff1",
+      "name": "Forgotten",
+      "artists": [
+        "The Plot In You"
+      ],
+      "album": "The Plot In You",
+      "image": "https://i.scdn.co/image/ab67616d00001e023ab8599d4f601be6663d061e",
+      "url": "https://open.spotify.com/track/79R5tIbEjTogRppyJsbff1",
+      "duration_ms": 175249,
+      "played_at": "2026-09-02T13:04:33.207Z"
+    },
+    {
+      "id": "6W21LNLz9Sw7sUSNWMSHRu",
+      "name": "Freak On a Leash",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Follow The Leader",
+      "image": "https://i.scdn.co/image/ab67616d00001e024e492e787ed64de43c3a3a21",
+      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu",
+      "duration_ms": 255729,
+      "played_at": "2026-09-02T13:01:37.551Z"
+    },
+    {
+      "id": "6Zj3YsYfj8YTY9aGMDnpn8",
+      "name": "Hot Dog",
+      "artists": [
+        "Limp Bizkit"
+      ],
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
+      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8",
+      "duration_ms": 230240,
+      "played_at": "2026-09-02T12:51:46.105Z"
+    },
+    {
+      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
+      "name": "Du hast",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Sehnsucht (Remastered 2023)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
+      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
+      "duration_ms": 235600,
+      "played_at": "2026-09-02T12:47:55.562Z"
+    },
+    {
+      "id": "2F6FfZ4w8z3eJpSxPotVO5",
+      "name": "Falling Away from Me",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Issues",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e19ecb8de414a0294bd0bf13",
+      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5",
+      "duration_ms": 270920,
+      "played_at": "2026-09-02T12:39:38.622Z"
+    },
+    {
+      "id": "0AOmbw8AwDnwXhHC3OhdVB",
+      "name": "Courtesy Call",
+      "artists": [
+        "Thousand Foot Krutch"
+      ],
+      "album": "The End Is Where We Begin",
+      "image": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
+      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
+      "duration_ms": 236898,
+      "played_at": "2026-09-02T12:35:07.362Z"
+    },
+    {
       "id": "5SlxykqNSR8fnLIjlgNBFq",
       "name": "V.A.N",
       "artists": [
@@ -199,91 +283,7 @@
       "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
       "duration_ms": 272440,
       "played_at": "2026-09-02T12:20:27.048Z"
-    },
-    {
-      "id": "5W8YXBz9MTIDyrpYaCg2Ky",
-      "name": "Last Resort",
-      "artists": [
-        "Papa Roach"
-      ],
-      "album": "Infest",
-      "image": "https://i.scdn.co/image/ab67616d00001e02985bf5ede2fe4a048ee85f28",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky",
-      "duration_ms": 199906,
-      "played_at": "2026-09-02T12:15:54.310Z"
-    },
-    {
-      "id": "6FUwPb4mGlUDbx42uspXaZ",
-      "name": "Fuel",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Reload",
-      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
-      "duration_ms": 269800,
-      "played_at": "2026-09-02T12:12:34.051Z"
-    },
-    {
-      "id": "0gucTLf7trAf37Ua1uAyAu",
-      "name": "Smells Like Teen Spirit - Remastered",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (30th Anniversary Super Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02444f118a9126af9e1483dcc0",
-      "url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu",
-      "duration_ms": 300893,
-      "played_at": "2026-09-01T13:48:15.363Z"
-    },
-    {
-      "id": "56fiFTRrSiHHH3gBeaTg2P",
-      "name": "Nero Forte",
-      "artists": [
-        "Slipknot"
-      ],
-      "album": "We Are Not Your Kind",
-      "image": "https://i.scdn.co/image/ab67616d00001e026272409a1daa589d5626ba9d",
-      "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P",
-      "duration_ms": 315177,
-      "played_at": "2026-09-01T13:45:16.946Z"
-    },
-    {
-      "id": "5ltXoDLlI0rFZAmOXbAp5T",
-      "name": "Sad But True - Remastered 2021",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Metallica (Remastered Deluxe Box Set)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c1a13209dfe146aef3296e34",
-      "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T",
-      "duration_ms": 324600,
-      "played_at": "2026-09-01T13:40:01.412Z"
-    },
-    {
-      "id": "4UEo1b0wWrtHMC8bVqPiH8",
-      "name": "Nightmare",
-      "artists": [
-        "Avenged Sevenfold"
-      ],
-      "album": "Nightmare",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c34064a3c5e4a25892a091f3",
-      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8",
-      "duration_ms": 374453,
-      "played_at": "2026-09-01T13:34:36.483Z"
-    },
-    {
-      "id": "2302lUwfZ4S4dVyPOCDFnQ",
-      "name": "Sweet Dreams (Are Made Of This)",
-      "artists": [
-        "Marilyn Manson"
-      ],
-      "album": "Smells Like Children",
-      "image": "https://i.scdn.co/image/ab67616d00001e0254585a427218bf9bddbd6a3f",
-      "url": "https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ",
-      "duration_ms": 293293,
-      "played_at": "2026-09-01T13:28:21.631Z"
     }
   ],
-  "fetched_at": "2026-09-02T12:32:26.933Z"
+  "fetched_at": "2026-09-02T16:58:59.267Z"
 }
