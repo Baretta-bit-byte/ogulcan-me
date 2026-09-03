@@ -32,19 +32,6 @@
       "genres": []
     },
     {
-      "id": "4EuaDcxHmHKS6gZ5iuGba0",
-      "name": "Joy Of My Life",
-      "artists": [
-        "Chris Stapleton"
-      ],
-      "album": "Starting Over",
-      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
-      "preview_url": null,
-      "duration_ms": 274520,
-      "genres": []
-    },
-    {
       "id": "0UuNO0yYvsMPlyLF7RfQlg",
       "name": "Angst",
       "artists": [
@@ -71,6 +58,19 @@
       "genres": []
     },
     {
+      "id": "4EuaDcxHmHKS6gZ5iuGba0",
+      "name": "Joy Of My Life",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Starting Over",
+      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "preview_url": null,
+      "duration_ms": 274520,
+      "genres": []
+    },
+    {
       "id": "4xDwCYhobDehSBGUmd5H6Y",
       "name": "FEEL NOTHING",
       "artists": [
@@ -81,19 +81,6 @@
       "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
       "preview_url": null,
       "duration_ms": 216826,
-      "genres": []
-    },
-    {
-      "id": "7CpbhqKUedOIrcvc94p60Y",
-      "name": "Bodies",
-      "artists": [
-        "Drowning Pool"
-      ],
-      "album": "Sinner",
-      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "preview_url": null,
-      "duration_ms": 201960,
       "genres": []
     },
     {
@@ -110,29 +97,16 @@
       "genres": []
     },
     {
-      "id": "1kBN0n05DpAbOkbNZ63XA0",
-      "name": "I Giorni",
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
       "artists": [
-        "Ludovico Einaudi"
+        "Drowning Pool"
       ],
-      "album": "Midsummer Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
-      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
       "preview_url": null,
-      "duration_ms": 410017,
-      "genres": []
-    },
-    {
-      "id": "5miRcNaII78yJMucHKulkD",
-      "name": "Love and War",
-      "artists": [
-        "Fleurie"
-      ],
-      "album": "Love and War",
-      "image": "https://i.scdn.co/image/ab67616d00001e027d9c9c6fc4f3bf4f54df749a",
-      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD",
-      "preview_url": null,
-      "duration_ms": 314984,
+      "duration_ms": 201960,
       "genres": []
     },
     {
@@ -149,141 +123,167 @@
       "genres": []
     },
     {
-      "id": "5EicljVZKVOo2LZHREtWmQ",
-      "name": "Coming Home",
+      "id": "1PxpxhYlUIPc6WUW18bnN0",
+      "name": "Angst",
       "artists": [
-        "Cinderella"
+        "Rammstein"
       ],
-      "album": "Long Cold Winter",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f6c21a13a1fff5174fe35ed1",
-      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ",
+      "album": "Angst",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7df4a3be63bcbb2b87d267e21",
+      "url": "https://open.spotify.com/track/1PxpxhYlUIPc6WUW18bnN0",
       "preview_url": null,
-      "duration_ms": 295066,
+      "duration_ms": 337650,
+      "genres": []
+    },
+    {
+      "id": "1iQjCnVSELPrbmzjuH62mo",
+      "name": "Tonight the Streets Are Ours",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Tonight the Streets Are Ours",
+      "image": "https://i.scdn.co/image/ab67616d00001e0205474df9015daa987d575cc7",
+      "url": "https://open.spotify.com/track/1iQjCnVSELPrbmzjuH62mo",
+      "preview_url": null,
+      "duration_ms": 222506,
+      "genres": []
+    },
+    {
+      "id": "4GUaG3df9nbrj77GKEB76j",
+      "name": "Forever You and Me",
+      "artists": [
+        "The Teskey Brothers"
+      ],
+      "album": "Forever You and Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02958fdcc3cffcbeac8ccbc818",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j",
+      "preview_url": null,
+      "duration_ms": 175592,
       "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "0EYOdF5FCkgOJJla8DI2Md",
-      "name": "B.Y.O.B.",
+      "id": "1Vej0qeQ3ioKwpI6FUbRv1",
+      "name": "Papercut",
       "artists": [
-        "System Of A Down"
+        "Linkin Park"
       ],
-      "album": "Mezmerize",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md",
-      "duration_ms": 255466,
-      "played_at": "2026-09-02T13:21:04.350Z"
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1",
+      "duration_ms": 184866,
+      "played_at": "2026-09-02T23:39:25.987Z"
     },
     {
-      "id": "4myFsmx2v6znDOJfn3IkbD",
-      "name": "Popular Monster",
+      "id": "4fiOTntQKr24p07FvQDHZE",
+      "name": "Raining Blood",
       "artists": [
-        "Falling In Reverse"
+        "Slayer"
       ],
-      "album": "Popular Monster",
-      "image": "https://i.scdn.co/image/ab67616d00001e02cd850819595472eae0c06f66",
-      "url": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
-      "duration_ms": 220537,
-      "played_at": "2026-09-02T13:08:14.122Z"
+      "album": "Reign In Blood (Expanded)",
+      "image": "https://i.scdn.co/image/ab67616d00001e021530f31c8d4197777b70ee5d",
+      "url": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE",
+      "duration_ms": 255186,
+      "played_at": "2026-09-02T23:36:20.743Z"
     },
     {
-      "id": "79R5tIbEjTogRppyJsbff1",
-      "name": "Forgotten",
+      "id": "5krhWYmWIKJhI96deUujm8",
+      "name": "Specter",
       "artists": [
-        "The Plot In You"
+        "Bad Omens"
       ],
-      "album": "The Plot In You",
-      "image": "https://i.scdn.co/image/ab67616d00001e023ab8599d4f601be6663d061e",
-      "url": "https://open.spotify.com/track/79R5tIbEjTogRppyJsbff1",
-      "duration_ms": 175249,
-      "played_at": "2026-09-02T13:04:33.207Z"
+      "album": "Specter",
+      "image": "https://i.scdn.co/image/ab67616d00001e02291facfe6e704c2a78d36782",
+      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8",
+      "duration_ms": 274408,
+      "played_at": "2026-09-02T23:32:05.137Z"
     },
     {
-      "id": "6W21LNLz9Sw7sUSNWMSHRu",
-      "name": "Freak On a Leash",
+      "id": "6LHhaWs0HzuPhflDWiVtp1",
+      "name": "I duckinf hatw you",
       "artists": [
-        "Korn"
+        "Ghostemane",
+        "Parv0"
       ],
-      "album": "Follow The Leader",
-      "image": "https://i.scdn.co/image/ab67616d00001e024e492e787ed64de43c3a3a21",
-      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu",
-      "duration_ms": 255729,
-      "played_at": "2026-09-02T13:01:37.551Z"
+      "album": "HUMAN ERR0R",
+      "image": "https://i.scdn.co/image/ab67616d00001e025abcea911bfb4b25200f770f",
+      "url": "https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1",
+      "duration_ms": 117894,
+      "played_at": "2026-09-02T23:27:30.341Z"
     },
     {
-      "id": "6Zj3YsYfj8YTY9aGMDnpn8",
-      "name": "Hot Dog",
+      "id": "2UREu1Y8CO4jXkbvqAtP7g",
+      "name": "Monster",
+      "artists": [
+        "Skillet"
+      ],
+      "album": "Awake",
+      "image": "https://i.scdn.co/image/ab67616d00001e0289f8d16ffe15fccfa0a7e31d",
+      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
+      "duration_ms": 178013,
+      "played_at": "2026-09-02T23:25:32.028Z"
+    },
+    {
+      "id": "3RAFcUBrCNaboRXoP3S5t1",
+      "name": "Psychosocial",
+      "artists": [
+        "Slipknot"
+      ],
+      "album": "All Hope Is Gone (10th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
+      "duration_ms": 284120,
+      "played_at": "2026-09-02T23:22:33.672Z"
+    },
+    {
+      "id": "4UEo1b0wWrtHMC8bVqPiH8",
+      "name": "Nightmare",
+      "artists": [
+        "Avenged Sevenfold"
+      ],
+      "album": "Nightmare",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c34064a3c5e4a25892a091f3",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8",
+      "duration_ms": 374453,
+      "played_at": "2026-09-02T23:17:49.227Z"
+    },
+    {
+      "id": "5cZqsjVs6MevCnAkasbEOX",
+      "name": "Break Stuff",
       "artists": [
         "Limp Bizkit"
       ],
-      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
-      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
-      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8",
-      "duration_ms": 230240,
-      "played_at": "2026-09-02T12:51:46.105Z"
+      "album": "Significant Other",
+      "image": "https://i.scdn.co/image/ab67616d00001e023783782de74f61e36795bf9c",
+      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "duration_ms": 166706,
+      "played_at": "2026-09-02T23:11:34.395Z"
     },
     {
-      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
-      "name": "Du hast",
+      "id": "0UuNO0yYvsMPlyLF7RfQlg",
+      "name": "Angst",
       "artists": [
         "Rammstein"
       ],
-      "album": "Sehnsucht (Remastered 2023)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
-      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
-      "duration_ms": 235600,
-      "played_at": "2026-09-02T12:47:55.562Z"
+      "album": "Zeit",
+      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
+      "duration_ms": 224801,
+      "played_at": "2026-09-02T23:08:47.282Z"
     },
     {
-      "id": "2F6FfZ4w8z3eJpSxPotVO5",
-      "name": "Falling Away from Me",
+      "id": "2Gt7fjNlx901pPRkvBiNBZ",
+      "name": "Take Me Back To Eden",
       "artists": [
-        "Korn"
+        "Sleep Token"
       ],
-      "album": "Issues",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e19ecb8de414a0294bd0bf13",
-      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5",
-      "duration_ms": 270920,
-      "played_at": "2026-09-02T12:39:38.622Z"
-    },
-    {
-      "id": "0AOmbw8AwDnwXhHC3OhdVB",
-      "name": "Courtesy Call",
-      "artists": [
-        "Thousand Foot Krutch"
-      ],
-      "album": "The End Is Where We Begin",
-      "image": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
-      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB",
-      "duration_ms": 236898,
-      "played_at": "2026-09-02T12:35:07.362Z"
-    },
-    {
-      "id": "5SlxykqNSR8fnLIjlgNBFq",
-      "name": "V.A.N",
-      "artists": [
-        "Bad Omens",
-        "Poppy"
-      ],
-      "album": "CONCRETE JUNGLE [THE OST]",
-      "image": "https://i.scdn.co/image/ab67616d00001e027400362388ac9ab2a807e597",
-      "url": "https://open.spotify.com/track/5SlxykqNSR8fnLIjlgNBFq",
-      "duration_ms": 274098,
-      "played_at": "2026-09-02T12:31:10.048Z"
-    },
-    {
-      "id": "7fcfNW0XxTWlwVlftzfDOR",
-      "name": "Walk",
-      "artists": [
-        "Pantera"
-      ],
-      "album": "Vulgar Display of Power",
-      "image": "https://i.scdn.co/image/ab67616d00001e02347c0a40c1e3f0c890a6d9d6",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
-      "duration_ms": 315120,
-      "played_at": "2026-09-02T12:25:42.497Z"
+      "album": "Take Me Back To Eden",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b73608b678f169d3c8f35f0",
+      "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ",
+      "duration_ms": 500116,
+      "played_at": "2026-09-02T23:03:33.540Z"
     }
   ],
-  "fetched_at": "2026-09-02T22:21:55.186Z"
+  "fetched_at": "2026-09-03T00:29:38.697Z"
 }
