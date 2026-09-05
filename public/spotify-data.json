@@ -136,19 +136,6 @@
       "genres": []
     },
     {
-      "id": "1kBN0n05DpAbOkbNZ63XA0",
-      "name": "I Giorni",
-      "artists": [
-        "Ludovico Einaudi"
-      ],
-      "album": "Midsummer Echoes",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dfa7093a7b694688f8ececcc",
-      "url": "https://open.spotify.com/track/1kBN0n05DpAbOkbNZ63XA0",
-      "preview_url": null,
-      "duration_ms": 410017,
-      "genres": []
-    },
-    {
       "id": "3RAFcUBrCNaboRXoP3S5t1",
       "name": "Psychosocial",
       "artists": [
@@ -159,6 +146,19 @@
       "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
       "preview_url": null,
       "duration_ms": 284120,
+      "genres": []
+    },
+    {
+      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
+      "name": "The Ocean",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
+      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
+      "preview_url": null,
+      "duration_ms": 336560,
       "genres": []
     }
   ],
@@ -284,5 +284,5 @@
       "played_at": "2026-09-02T23:42:39.975Z"
     }
   ],
-  "fetched_at": "2026-09-05T19:56:19.019Z"
+  "fetched_at": "2026-09-05T21:57:11.770Z"
 }
