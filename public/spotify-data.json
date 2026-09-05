@@ -164,77 +164,28 @@
   ],
   "recently_played": [
     {
-      "id": "02xhLoVqpGmOqvolgrwM8w",
-      "name": "One",
+      "id": "2dXsILW8gzkosqleHAvl0v",
+      "name": "For Whom The Bell Tolls - Remastered",
       "artists": [
         "Metallica"
       ],
-      "album": "…And Justice for All (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fe896727e3db1027ed72d885",
-      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
-      "duration_ms": 446145,
-      "played_at": "2026-09-02T23:42:39.975Z"
+      "album": "Ride The Lightning (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "duration_ms": 309973,
+      "played_at": "2026-09-05T19:38:38.737Z"
     },
     {
-      "id": "1Vej0qeQ3ioKwpI6FUbRv1",
-      "name": "Papercut",
+      "id": "1VNWaY3uNfoeWqb5U8x2QX",
+      "name": "Lonely Day",
       "artists": [
-        "Linkin Park"
+        "System Of A Down"
       ],
-      "album": "Hybrid Theory (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1",
-      "duration_ms": 184866,
-      "played_at": "2026-09-02T23:39:25.987Z"
-    },
-    {
-      "id": "4fiOTntQKr24p07FvQDHZE",
-      "name": "Raining Blood",
-      "artists": [
-        "Slayer"
-      ],
-      "album": "Reign In Blood (Expanded)",
-      "image": "https://i.scdn.co/image/ab67616d00001e021530f31c8d4197777b70ee5d",
-      "url": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE",
-      "duration_ms": 255186,
-      "played_at": "2026-09-02T23:36:20.743Z"
-    },
-    {
-      "id": "5krhWYmWIKJhI96deUujm8",
-      "name": "Specter",
-      "artists": [
-        "Bad Omens"
-      ],
-      "album": "Specter",
-      "image": "https://i.scdn.co/image/ab67616d00001e02291facfe6e704c2a78d36782",
-      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8",
-      "duration_ms": 274408,
-      "played_at": "2026-09-02T23:32:05.137Z"
-    },
-    {
-      "id": "6LHhaWs0HzuPhflDWiVtp1",
-      "name": "I duckinf hatw you",
-      "artists": [
-        "Ghostemane",
-        "Parv0"
-      ],
-      "album": "HUMAN ERR0R",
-      "image": "https://i.scdn.co/image/ab67616d00001e025abcea911bfb4b25200f770f",
-      "url": "https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1",
-      "duration_ms": 117894,
-      "played_at": "2026-09-02T23:27:30.341Z"
-    },
-    {
-      "id": "2UREu1Y8CO4jXkbvqAtP7g",
-      "name": "Monster",
-      "artists": [
-        "Skillet"
-      ],
-      "album": "Awake",
-      "image": "https://i.scdn.co/image/ab67616d00001e0289f8d16ffe15fccfa0a7e31d",
-      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
-      "duration_ms": 178013,
-      "played_at": "2026-09-02T23:25:32.028Z"
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f5e7b2e5adaa87430a3eccff",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX",
+      "duration_ms": 167906,
+      "played_at": "2026-09-05T19:33:28.426Z"
     },
     {
       "id": "3RAFcUBrCNaboRXoP3S5t1",
@@ -246,44 +197,92 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
       "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
       "duration_ms": 284120,
-      "played_at": "2026-09-02T23:22:33.672Z"
+      "played_at": "2026-09-05T19:30:40.191Z"
     },
     {
-      "id": "4UEo1b0wWrtHMC8bVqPiH8",
-      "name": "Nightmare",
-      "artists": [
-        "Avenged Sevenfold"
-      ],
-      "album": "Nightmare",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c34064a3c5e4a25892a091f3",
-      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8",
-      "duration_ms": 374453,
-      "played_at": "2026-09-02T23:17:49.227Z"
-    },
-    {
-      "id": "5cZqsjVs6MevCnAkasbEOX",
-      "name": "Break Stuff",
-      "artists": [
-        "Limp Bizkit"
-      ],
-      "album": "Significant Other",
-      "image": "https://i.scdn.co/image/ab67616d00001e023783782de74f61e36795bf9c",
-      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
-      "duration_ms": 166706,
-      "played_at": "2026-09-02T23:11:34.395Z"
-    },
-    {
-      "id": "0UuNO0yYvsMPlyLF7RfQlg",
-      "name": "Angst",
+      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
+      "name": "Du hast",
       "artists": [
         "Rammstein"
       ],
-      "album": "Zeit",
-      "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
-      "duration_ms": 224801,
-      "played_at": "2026-09-02T23:08:47.282Z"
+      "album": "Sehnsucht (Remastered 2023)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
+      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
+      "duration_ms": 235600,
+      "played_at": "2026-09-05T19:21:27.290Z"
+    },
+    {
+      "id": "3gVhsZtseYtY1fMuyYq06F",
+      "name": "Sonne",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "duration_ms": 272440,
+      "played_at": "2026-09-05T19:17:31.309Z"
+    },
+    {
+      "id": "2bPGTMB5sFfFYQ2YvSmup0",
+      "name": "Deutschland",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Rammstein",
+      "image": "https://i.scdn.co/image/ab67616d00001e0202add2c77fb6999e311a3248",
+      "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0",
+      "duration_ms": 322339,
+      "played_at": "2026-09-05T19:11:51.266Z"
+    },
+    {
+      "id": "0Zfh4uDmJz3D44Qy9nYMqu",
+      "name": "Rammstein",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Herzeleid (Remastered 2020)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
+      "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
+      "duration_ms": 267743,
+      "played_at": "2026-09-05T19:06:14.261Z"
+    },
+    {
+      "id": "6FUwPb4mGlUDbx42uspXaZ",
+      "name": "Fuel",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "Reload",
+      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
+      "duration_ms": 269800,
+      "played_at": "2026-09-05T19:01:46.177Z"
+    },
+    {
+      "id": "0snQkGI5qnAmohLE7jTsTn",
+      "name": "Toxicity",
+      "artists": [
+        "System Of A Down"
+      ],
+      "album": "Toxicity",
+      "image": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
+      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
+      "duration_ms": 218933,
+      "played_at": "2026-09-05T18:57:16.086Z"
+    },
+    {
+      "id": "02xhLoVqpGmOqvolgrwM8w",
+      "name": "One",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "…And Justice for All (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fe896727e3db1027ed72d885",
+      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
+      "duration_ms": 446145,
+      "played_at": "2026-09-02T23:42:39.975Z"
     }
   ],
-  "fetched_at": "2026-09-04T20:54:47.926Z"
+  "fetched_at": "2026-09-05T19:56:19.019Z"
 }
