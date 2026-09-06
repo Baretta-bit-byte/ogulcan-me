@@ -164,6 +164,18 @@
   ],
   "recently_played": [
     {
+      "id": "3gVhsZtseYtY1fMuyYq06F",
+      "name": "Sonne",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "duration_ms": 272440,
+      "played_at": "2026-09-05T19:40:46.171Z"
+    },
+    {
       "id": "2dXsILW8gzkosqleHAvl0v",
       "name": "For Whom The Bell Tolls - Remastered",
       "artists": [
@@ -270,19 +282,7 @@
       "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
       "duration_ms": 218933,
       "played_at": "2026-09-05T18:57:16.086Z"
-    },
-    {
-      "id": "02xhLoVqpGmOqvolgrwM8w",
-      "name": "One",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "…And Justice for All (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fe896727e3db1027ed72d885",
-      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
-      "duration_ms": 446145,
-      "played_at": "2026-09-02T23:42:39.975Z"
     }
   ],
-  "fetched_at": "2026-09-05T21:57:11.770Z"
+  "fetched_at": "2026-09-06T15:11:54.724Z"
 }
