@@ -164,6 +164,30 @@
   ],
   "recently_played": [
     {
+      "id": "2F6FfZ4w8z3eJpSxPotVO5",
+      "name": "Falling Away from Me",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Issues",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e19ecb8de414a0294bd0bf13",
+      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5",
+      "duration_ms": 270920,
+      "played_at": "2026-09-07T20:02:23.129Z"
+    },
+    {
+      "id": "3gVhsZtseYtY1fMuyYq06F",
+      "name": "Sonne",
+      "artists": [
+        "Rammstein"
+      ],
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "duration_ms": 272440,
+      "played_at": "2026-09-07T19:55:05.796Z"
+    },
+    {
       "id": "3gVhsZtseYtY1fMuyYq06F",
       "name": "Sonne",
       "artists": [
@@ -258,31 +282,7 @@
       "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
       "duration_ms": 267743,
       "played_at": "2026-09-05T19:06:14.261Z"
-    },
-    {
-      "id": "6FUwPb4mGlUDbx42uspXaZ",
-      "name": "Fuel",
-      "artists": [
-        "Metallica"
-      ],
-      "album": "Reload",
-      "image": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ",
-      "duration_ms": 269800,
-      "played_at": "2026-09-05T19:01:46.177Z"
-    },
-    {
-      "id": "0snQkGI5qnAmohLE7jTsTn",
-      "name": "Toxicity",
-      "artists": [
-        "System Of A Down"
-      ],
-      "album": "Toxicity",
-      "image": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-      "duration_ms": 218933,
-      "played_at": "2026-09-05T18:57:16.086Z"
     }
   ],
-  "fetched_at": "2026-09-06T15:11:54.724Z"
+  "fetched_at": "2026-09-07T20:04:24.129Z"
 }
