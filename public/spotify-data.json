@@ -164,6 +164,18 @@
   ],
   "recently_played": [
     {
+      "id": "6Zj3YsYfj8YTY9aGMDnpn8",
+      "name": "Hot Dog",
+      "artists": [
+        "Limp Bizkit"
+      ],
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
+      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8",
+      "duration_ms": 230240,
+      "played_at": "2026-09-07T20:04:27.935Z"
+    },
+    {
       "id": "2F6FfZ4w8z3eJpSxPotVO5",
       "name": "Falling Away from Me",
       "artists": [
@@ -270,19 +282,7 @@
       "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0",
       "duration_ms": 322339,
       "played_at": "2026-09-05T19:11:51.266Z"
-    },
-    {
-      "id": "0Zfh4uDmJz3D44Qy9nYMqu",
-      "name": "Rammstein",
-      "artists": [
-        "Rammstein"
-      ],
-      "album": "Herzeleid (Remastered 2020)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
-      "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu",
-      "duration_ms": 267743,
-      "played_at": "2026-09-05T19:06:14.261Z"
     }
   ],
-  "fetched_at": "2026-09-07T20:04:24.129Z"
+  "fetched_at": "2026-09-08T18:18:08.113Z"
 }
