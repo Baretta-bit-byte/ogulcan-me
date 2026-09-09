@@ -71,19 +71,6 @@
       "genres": []
     },
     {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "preview_url": null,
-      "duration_ms": 231317,
-      "genres": []
-    },
-    {
       "id": "7CpbhqKUedOIrcvc94p60Y",
       "name": "Bodies",
       "artists": [
@@ -94,6 +81,19 @@
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
       "preview_url": null,
       "duration_ms": 201960,
+      "genres": []
+    },
+    {
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
+      "artists": [
+        "Pinhani"
+      ],
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
+      "preview_url": null,
+      "duration_ms": 231317,
       "genres": []
     },
     {
@@ -149,140 +149,140 @@
       "genres": []
     },
     {
-      "id": "7zbGF3nDwYpDcS1Yjcaxt2",
-      "name": "The Ocean",
+      "id": "1IquNFg2RRH1CLRAHNVgQ9",
+      "name": "Yara",
       "artists": [
-        "Richard Hawley"
+        "Kalben"
       ],
-      "album": "Coles Corner (20th Anniversary Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d00001e0210ef6456658e018da9906b35",
-      "url": "https://open.spotify.com/track/7zbGF3nDwYpDcS1Yjcaxt2",
+      "album": "Sonsuza Kadar",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a55bde3a9ca9c2c68912956",
+      "url": "https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9",
       "preview_url": null,
-      "duration_ms": 336560,
+      "duration_ms": 213812,
       "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "6Zj3YsYfj8YTY9aGMDnpn8",
-      "name": "Hot Dog",
+      "id": "7srtV4NCdSZYV4hD5ypdnN",
+      "name": "Al Beni",
       "artists": [
-        "Limp Bizkit"
+        "Kalben"
       ],
-      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
-      "image": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe",
-      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8",
-      "duration_ms": 230240,
-      "played_at": "2026-09-07T20:04:27.935Z"
+      "album": "Sonsuza Kadar",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a55bde3a9ca9c2c68912956",
+      "url": "https://open.spotify.com/track/7srtV4NCdSZYV4hD5ypdnN",
+      "duration_ms": 256493,
+      "played_at": "2026-09-09T13:03:14.568Z"
     },
     {
-      "id": "2F6FfZ4w8z3eJpSxPotVO5",
-      "name": "Falling Away from Me",
+      "id": "0n58XwNzXko6gxJiQZyp3J",
+      "name": "Sana Ne Oldu",
       "artists": [
-        "Korn"
+        "Kalben"
       ],
-      "album": "Issues",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e19ecb8de414a0294bd0bf13",
-      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5",
-      "duration_ms": 270920,
-      "played_at": "2026-09-07T20:02:23.129Z"
+      "album": "Kalben",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e0606d2814f3b2a77be19a45",
+      "url": "https://open.spotify.com/track/0n58XwNzXko6gxJiQZyp3J",
+      "duration_ms": 182129,
+      "played_at": "2026-09-09T12:58:57.740Z"
     },
     {
-      "id": "3gVhsZtseYtY1fMuyYq06F",
-      "name": "Sonne",
+      "id": "42daqul97gC1rK3kwqczwa",
+      "name": "Kemiklerim Bile Mutlu",
       "artists": [
-        "Rammstein"
+        "Kalben"
       ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
-      "duration_ms": 272440,
-      "played_at": "2026-09-07T19:55:05.796Z"
+      "album": "Kayıp Aşıklar Ülkesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255bd60dd6ee8b78878307638",
+      "url": "https://open.spotify.com/track/42daqul97gC1rK3kwqczwa",
+      "duration_ms": 165550,
+      "played_at": "2026-09-09T12:55:55.260Z"
     },
     {
-      "id": "3gVhsZtseYtY1fMuyYq06F",
-      "name": "Sonne",
+      "id": "0pOcmKlTKCGbXsWTZCVvjU",
+      "name": "Çünkü Başka Sen Yok",
       "artists": [
-        "Rammstein"
+        "Kalben"
       ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
-      "duration_ms": 272440,
-      "played_at": "2026-09-05T19:40:46.171Z"
+      "album": "Çünkü Başka Sen Yok",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b65ebdf87e41eda1984fcc3",
+      "url": "https://open.spotify.com/track/0pOcmKlTKCGbXsWTZCVvjU",
+      "duration_ms": 59360,
+      "played_at": "2026-09-09T12:53:09.344Z"
     },
     {
-      "id": "2dXsILW8gzkosqleHAvl0v",
-      "name": "For Whom The Bell Tolls - Remastered",
+      "id": "1cDvFWYfap0eQ3c86jPcRG",
+      "name": "Yalakanım Bebeğim",
       "artists": [
-        "Metallica"
+        "Kalben"
       ],
-      "album": "Ride The Lightning (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "duration_ms": 309973,
-      "played_at": "2026-09-05T19:38:38.737Z"
+      "album": "Sonsuza Kadar",
+      "image": "https://i.scdn.co/image/ab67616d00001e024a55bde3a9ca9c2c68912956",
+      "url": "https://open.spotify.com/track/1cDvFWYfap0eQ3c86jPcRG",
+      "duration_ms": 152671,
+      "played_at": "2026-09-09T12:52:09.681Z"
     },
     {
-      "id": "1VNWaY3uNfoeWqb5U8x2QX",
-      "name": "Lonely Day",
+      "id": "0qh9PuRWMKQ6rSvtz9KtVd",
+      "name": "Fırtınalar",
       "artists": [
-        "System Of A Down"
+        "Kalben"
       ],
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f5e7b2e5adaa87430a3eccff",
-      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX",
-      "duration_ms": 167906,
-      "played_at": "2026-09-05T19:33:28.426Z"
+      "album": "Kalben",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e0606d2814f3b2a77be19a45",
+      "url": "https://open.spotify.com/track/0qh9PuRWMKQ6rSvtz9KtVd",
+      "duration_ms": 209274,
+      "played_at": "2026-09-09T12:49:36.685Z"
     },
     {
-      "id": "3RAFcUBrCNaboRXoP3S5t1",
-      "name": "Psychosocial",
+      "id": "4taoSQRPWgz3B3NfiWSwyU",
+      "name": "Düşer Ellerimden",
       "artists": [
-        "Slipknot"
+        "Kalben"
       ],
-      "album": "All Hope Is Gone (10th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e7fbc0883149094912559f2c",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1",
-      "duration_ms": 284120,
-      "played_at": "2026-09-05T19:30:40.191Z"
+      "album": "Kayıp Aşıklar Ülkesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255bd60dd6ee8b78878307638",
+      "url": "https://open.spotify.com/track/4taoSQRPWgz3B3NfiWSwyU",
+      "duration_ms": 204221,
+      "played_at": "2026-09-09T12:46:07.091Z"
     },
     {
-      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
-      "name": "Du hast",
+      "id": "72Y5511zhaBlKuZx0RwcTk",
+      "name": "Yeşil Gözlerin",
       "artists": [
-        "Rammstein"
+        "Kalben"
       ],
-      "album": "Sehnsucht (Remastered 2023)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
-      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
-      "duration_ms": 235600,
-      "played_at": "2026-09-05T19:21:27.290Z"
+      "album": "Kayıp Aşıklar Ülkesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255bd60dd6ee8b78878307638",
+      "url": "https://open.spotify.com/track/72Y5511zhaBlKuZx0RwcTk",
+      "duration_ms": 234884,
+      "played_at": "2026-09-09T12:42:42.494Z"
     },
     {
-      "id": "3gVhsZtseYtY1fMuyYq06F",
-      "name": "Sonne",
+      "id": "6ekZQgLfo35AVWkMSrfXGT",
+      "name": "Çek",
       "artists": [
-        "Rammstein"
+        "Kalben"
       ],
-      "album": "Mutter",
-      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
-      "duration_ms": 272440,
-      "played_at": "2026-09-05T19:17:31.309Z"
+      "album": "Aşk Çeşmesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0203f61d299ee8b7b4112595be",
+      "url": "https://open.spotify.com/track/6ekZQgLfo35AVWkMSrfXGT",
+      "duration_ms": 154282,
+      "played_at": "2026-09-09T12:38:47.297Z"
     },
     {
-      "id": "2bPGTMB5sFfFYQ2YvSmup0",
-      "name": "Deutschland",
+      "id": "0tom1WX1gawe6bYmZvVlTT",
+      "name": "Aşığım Sana",
       "artists": [
-        "Rammstein"
+        "Kalben"
       ],
-      "album": "Rammstein",
-      "image": "https://i.scdn.co/image/ab67616d00001e0202add2c77fb6999e311a3248",
-      "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0",
-      "duration_ms": 322339,
-      "played_at": "2026-09-05T19:11:51.266Z"
+      "album": "Kayıp Aşıklar Ülkesi",
+      "image": "https://i.scdn.co/image/ab67616d00001e0255bd60dd6ee8b78878307638",
+      "url": "https://open.spotify.com/track/0tom1WX1gawe6bYmZvVlTT",
+      "duration_ms": 186213,
+      "played_at": "2026-09-09T12:36:12.691Z"
     }
   ],
-  "fetched_at": "2026-09-08T18:18:08.113Z"
+  "fetched_at": "2026-09-09T13:03:51.439Z"
 }
