@@ -19,19 +19,6 @@
       "genres": []
     },
     {
-      "id": "5JXV2YMrXBHZfzf7cXLIPd",
-      "name": "İstanbul Beyefendisi",
-      "artists": [
-        "Yaşlı Amca"
-      ],
-      "album": "Akşamüstü",
-      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
-      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
-      "preview_url": null,
-      "duration_ms": 233352,
-      "genres": []
-    },
-    {
       "id": "0UuNO0yYvsMPlyLF7RfQlg",
       "name": "Angst",
       "artists": [
@@ -42,6 +29,19 @@
       "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg",
       "preview_url": null,
       "duration_ms": 224801,
+      "genres": []
+    },
+    {
+      "id": "5JXV2YMrXBHZfzf7cXLIPd",
+      "name": "İstanbul Beyefendisi",
+      "artists": [
+        "Yaşlı Amca"
+      ],
+      "album": "Akşamüstü",
+      "image": "https://i.scdn.co/image/ab67616d00001e026979f46f0767f0aa85672d19",
+      "url": "https://open.spotify.com/track/5JXV2YMrXBHZfzf7cXLIPd",
+      "preview_url": null,
+      "duration_ms": 233352,
       "genres": []
     },
     {
@@ -84,19 +84,6 @@
       "genres": []
     },
     {
-      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
-      "name": "Hele Bi Gel",
-      "artists": [
-        "Pinhani"
-      ],
-      "album": "İnandığın Masallar",
-      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
-      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
-      "preview_url": null,
-      "duration_ms": 231317,
-      "genres": []
-    },
-    {
       "id": "6UZhSOSEmZvxb1tua7IYJx",
       "name": "Sakinleştim",
       "artists": [
@@ -110,16 +97,16 @@
       "genres": []
     },
     {
-      "id": "4EuaDcxHmHKS6gZ5iuGba0",
-      "name": "Joy Of My Life",
+      "id": "5nuGiGWV1tGsLYqi0Y8RmZ",
+      "name": "Hele Bi Gel",
       "artists": [
-        "Chris Stapleton"
+        "Pinhani"
       ],
-      "album": "Starting Over",
-      "image": "https://i.scdn.co/image/ab67616d00001e029408342067e2ff50d69a3c98",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0",
+      "album": "İnandığın Masallar",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c3d902df0fa095aa87fd94db",
+      "url": "https://open.spotify.com/track/5nuGiGWV1tGsLYqi0Y8RmZ",
       "preview_url": null,
-      "duration_ms": 274520,
+      "duration_ms": 231317,
       "genres": []
     },
     {
@@ -160,132 +147,144 @@
       "preview_url": null,
       "duration_ms": 284120,
       "genres": []
+    },
+    {
+      "id": "2FmjsyeJW9oin68Sl4CiC8",
+      "name": "Bodies",
+      "artists": [
+        "Drowning Pool"
+      ],
+      "album": "Bodies",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7520c38ff53a2008a8af976ca",
+      "url": "https://open.spotify.com/track/2FmjsyeJW9oin68Sl4CiC8",
+      "preview_url": null,
+      "duration_ms": 209884,
+      "genres": []
     }
   ],
   "recently_played": [
     {
-      "id": "3mRLHiSHYtC8Hk7bzZdUs1",
-      "name": "River",
+      "id": "4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING",
       "artists": [
-        "Bishop Briggs"
+        "The Plot In You"
       ],
-      "album": "Church Of Scars",
-      "image": "https://i.scdn.co/image/ab67616d00001e028cae5034066af45cdfbc4266",
-      "url": "https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1",
-      "duration_ms": 216133,
-      "played_at": "2026-09-09T17:21:11.218Z"
+      "album": "DISPOSE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02197f778e9f68a8ab1d7da3f8",
+      "url": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "duration_ms": 216826,
+      "played_at": "2026-09-10T17:40:13.882Z"
     },
     {
-      "id": "75c2zaSdDBSX0A8Jyvm4fO",
-      "name": "older",
+      "id": "6xeMsEEUC7lhZc9xLty606",
+      "name": "Pink Rover",
       "artists": [
-        "Isabel LaRosa"
+        "Scene Queen"
       ],
-      "album": "older",
-      "image": "https://i.scdn.co/image/ab67616d00001e02d6c9bdfb73fdb90a26c94b7a",
-      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO",
-      "duration_ms": 137778,
-      "played_at": "2026-09-09T17:17:34.726Z"
+      "album": "Bimbocore",
+      "image": "https://i.scdn.co/image/ab67616d00001e02805ff7f930c8e755692ce00e",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606",
+      "duration_ms": 118863,
+      "played_at": "2026-09-10T17:25:54.745Z"
     },
     {
-      "id": "21qg0IBZf8R12qHd9A3AA4",
-      "name": "Salvatore",
+      "id": "5ltXoDLlI0rFZAmOXbAp5T",
+      "name": "Sad But True - Remastered 2021",
       "artists": [
-        "Lana Del Rey"
+        "Metallica"
       ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a3b3f48ca81acacb3ad4ec8a",
-      "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
-      "duration_ms": 281093,
-      "played_at": "2026-09-09T17:15:16.640Z"
+      "album": "Metallica (Remastered Deluxe Box Set)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c1a13209dfe146aef3296e34",
+      "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T",
+      "duration_ms": 324600,
+      "played_at": "2026-09-10T17:23:55.591Z"
     },
     {
-      "id": "6EE9BEYBu6j3nyjssGGlgk",
-      "name": "drowning (rap version)",
+      "id": "5euO4JVKk6EZJDT2qn8nw3",
+      "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "artists": [
-        "Vague003",
-        "Sadistik"
+        "IC3PEAK",
+        "Oli Sykes",
+        "Bring Me The Horizon"
       ],
-      "album": "drowning (rap version)",
-      "image": "https://i.scdn.co/image/ab67616d00001e02371452c2f131ee2150b7cdb8",
-      "url": "https://open.spotify.com/track/6EE9BEYBu6j3nyjssGGlgk",
-      "duration_ms": 124250,
-      "played_at": "2026-09-09T17:10:35.208Z"
+      "album": "KISS OF DEATH",
+      "image": "https://i.scdn.co/image/ab67616d00001e02116ef3dcec29365f8255dbf0",
+      "url": "https://open.spotify.com/track/5euO4JVKk6EZJDT2qn8nw3",
+      "duration_ms": 142250,
+      "played_at": "2026-09-10T17:18:30.594Z"
     },
     {
-      "id": "4lkkXblAVwDhkpt40DySVf",
-      "name": "Idea 22 - Anya Nami Remix",
+      "id": "2Gt7fjNlx901pPRkvBiNBZ",
+      "name": "Take Me Back To Eden",
       "artists": [
-        "Gibran Alcocer",
-        "Anya Nami"
+        "Sleep Token"
       ],
-      "album": "Idea 22 (Anya Nami Remix)",
-      "image": "https://i.scdn.co/image/ab67616d00001e022ad61e911972d4c60c276819",
-      "url": "https://open.spotify.com/track/4lkkXblAVwDhkpt40DySVf",
-      "duration_ms": 149173,
-      "played_at": "2026-09-09T17:08:30.653Z"
+      "album": "Take Me Back To Eden",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b73608b678f169d3c8f35f0",
+      "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ",
+      "duration_ms": 500116,
+      "played_at": "2026-09-10T17:16:07.949Z"
     },
     {
-      "id": "08wnOyN1wyMaNrup3m353f",
-      "name": "My Tears Are Becoming a Sea",
+      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
+      "name": "Du hast",
       "artists": [
-        "M83"
+        "Rammstein"
       ],
-      "album": "Hurry up, We're Dreaming",
-      "image": "https://i.scdn.co/image/ab67616d00001e0262100064780b1d919a95fcf4",
-      "url": "https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f",
-      "duration_ms": 151826,
-      "played_at": "2026-09-09T17:06:01.106Z"
+      "album": "Sehnsucht (Remastered 2023)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
+      "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
+      "duration_ms": 235600,
+      "played_at": "2026-09-10T17:07:47.445Z"
     },
     {
-      "id": "5YlK0KSI41aGhnAZRmfGfV",
-      "name": "i walk this earth all by myself",
+      "id": "2302lUwfZ4S4dVyPOCDFnQ",
+      "name": "Sweet Dreams (Are Made Of This)",
       "artists": [
-        "EKKSTACY"
+        "Marilyn Manson"
       ],
-      "album": "NEGATIVE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0265c14a7e9f8a3466834a4bef",
-      "url": "https://open.spotify.com/track/5YlK0KSI41aGhnAZRmfGfV",
-      "duration_ms": 145634,
-      "played_at": "2026-09-09T17:03:28.882Z"
+      "album": "Smells Like Children",
+      "image": "https://i.scdn.co/image/ab67616d00001e0254585a427218bf9bddbd6a3f",
+      "url": "https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ",
+      "duration_ms": 293293,
+      "played_at": "2026-09-10T16:44:58.885Z"
     },
     {
-      "id": "3EaJDYHA0KnX88JvDhL9oa",
-      "name": "Dark Red",
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
       "artists": [
-        "Steve Lacy"
+        "Drowning Pool"
       ],
-      "album": "Dark Red",
-      "image": "https://i.scdn.co/image/ab67616d00001e023d2dfa42f771cd458b194979",
-      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa",
-      "duration_ms": 173104,
-      "played_at": "2026-09-09T16:59:42.137Z"
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "duration_ms": 201960,
+      "played_at": "2026-09-10T16:25:40.342Z"
     },
     {
-      "id": "5cNSZZqj20NVTnzNUgWmZ4",
-      "name": "O Ben Olurum",
+      "id": "7CpbhqKUedOIrcvc94p60Y",
+      "name": "Bodies",
       "artists": [
-        "Kalben",
-        "Güneş Özgeç"
+        "Drowning Pool"
       ],
-      "album": "O Ben Olurum",
-      "image": "https://i.scdn.co/image/ab6742d3000053b740129b4d7eeef2ed51da1e4c",
-      "url": "https://open.spotify.com/track/5cNSZZqj20NVTnzNUgWmZ4",
-      "duration_ms": 229120,
-      "played_at": "2026-09-09T14:01:13.626Z"
+      "album": "Sinner",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "duration_ms": 201960,
+      "played_at": "2026-09-10T16:20:38.726Z"
     },
     {
-      "id": "4341I8qgSJAiIYxScMLsyV",
-      "name": "İçimde Sen",
+      "id": "3gVhsZtseYtY1fMuyYq06F",
+      "name": "Sonne",
       "artists": [
-        "Kalben"
+        "Rammstein"
       ],
-      "album": "İçimde Sen",
-      "image": "https://i.scdn.co/image/ab67616d00001e0229952f6cf14d6270833069f9",
-      "url": "https://open.spotify.com/track/4341I8qgSJAiIYxScMLsyV",
-      "duration_ms": 213458,
-      "played_at": "2026-09-09T13:52:03.747Z"
+      "album": "Mutter",
+      "image": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "duration_ms": 272440,
+      "played_at": "2026-09-10T15:53:30.456Z"
     }
   ],
-  "fetched_at": "2026-09-09T19:56:09.669Z"
+  "fetched_at": "2026-09-10T17:46:36.581Z"
 }
