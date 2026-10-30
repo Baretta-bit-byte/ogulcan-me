@@ -1,6 +1,6 @@
 {
   "user": {
-    "followers": 57,
+    "followers": 58,
     "following": 129,
     "public_repos": 3,
     "html_url": "https://github.com/Baretta-bit-byte"
@@ -11,7 +11,7 @@
       "name": "ogulcan-me",
       "description": "Personal Digital Garden & Portfolio — Next.js 16, Tailwind, Framer Motion, react-force-graph-2d",
       "html_url": "https://github.com/Baretta-bit-byte/ogulcan-me",
-      "pushed_at": "2026-10-30T12:09:23Z",
+      "pushed_at": "2026-10-30T21:56:22Z",
       "stargazers_count": 4,
       "forks_count": 0,
       "language": "TypeScript"
@@ -1895,5 +1895,5 @@
       }
     ]
   },
-  "fetched_at": "2026-10-30T12:20:27.276Z"
+  "fetched_at": "2026-10-30T22:00:42.264Z"
 }
