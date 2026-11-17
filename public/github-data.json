@@ -2,7 +2,7 @@
   "user": {
     "followers": 60,
     "following": 129,
-    "public_repos": 3,
+    "public_repos": 5,
     "html_url": "https://github.com/Baretta-bit-byte"
   },
   "repos": [
@@ -11,10 +11,30 @@
       "name": "ogulcan-me",
       "description": "Personal Digital Garden & Portfolio — Next.js 16, Tailwind, Framer Motion, react-force-graph-2d",
       "html_url": "https://github.com/Baretta-bit-byte/ogulcan-me",
-      "pushed_at": "2026-11-17T01:35:11Z",
+      "pushed_at": "2026-11-17T15:30:23Z",
       "stargazers_count": 4,
       "forks_count": 0,
       "language": "TypeScript"
+    },
+    {
+      "id": 1461432304,
+      "name": "proje",
+      "description": "Açıklamalar ve proje adı sade bırakılmak istenildiği için geçici olarak böyle ilan edilmiştir.",
+      "html_url": "https://github.com/Baretta-bit-byte/proje",
+      "pushed_at": "2026-11-17T13:34:02Z",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "language": null
+    },
+    {
+      "id": 1461415347,
+      "name": "polinomMotoru",
+      "description": null,
+      "html_url": "https://github.com/Baretta-bit-byte/polinomMotoru",
+      "pushed_at": "2026-11-17T12:59:45Z",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "language": "C"
     },
     {
       "id": 973456943,
@@ -40,7 +60,7 @@
   "lastPR": null,
   "contributions": {
     "total": {
-      "lastYear": 194
+      "lastYear": 197
     },
     "contributions": [
       {
@@ -1875,10 +1895,10 @@
       },
       {
         "date": "2026-11-17",
-        "count": 0,
-        "level": 0
+        "count": 3,
+        "level": 1
       }
     ]
   },
-  "fetched_at": "2026-11-17T01:42:02.838Z"
+  "fetched_at": "2026-11-17T15:39:23.391Z"
 }
