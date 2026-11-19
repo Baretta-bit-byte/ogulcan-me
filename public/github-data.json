@@ -2,7 +2,7 @@
   "user": {
     "followers": 60,
     "following": 129,
-    "public_repos": 5,
+    "public_repos": 6,
     "html_url": "https://github.com/Baretta-bit-byte"
   },
   "repos": [
@@ -11,10 +11,20 @@
       "name": "ogulcan-me",
       "description": "Personal Digital Garden & Portfolio — Next.js 16, Tailwind, Framer Motion, react-force-graph-2d",
       "html_url": "https://github.com/Baretta-bit-byte/ogulcan-me",
-      "pushed_at": "2026-11-19T05:57:36Z",
+      "pushed_at": "2026-11-19T15:30:28Z",
       "stargazers_count": 4,
       "forks_count": 0,
       "language": "TypeScript"
+    },
+    {
+      "id": 1464007223,
+      "name": "C-dilini--zerine-kar--k--al--malar",
+      "description": null,
+      "html_url": "https://github.com/Baretta-bit-byte/C-dilini--zerine-kar--k--al--malar",
+      "pushed_at": "2026-11-19T10:43:30Z",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "language": null
     },
     {
       "id": 1461432304,
@@ -60,7 +70,7 @@
   "lastPR": null,
   "contributions": {
     "total": {
-      "lastYear": 197
+      "lastYear": 198
     },
     "contributions": [
       {
@@ -1905,10 +1915,10 @@
       },
       {
         "date": "2026-11-19",
-        "count": 0,
-        "level": 0
+        "count": 1,
+        "level": 1
       }
     ]
   },
-  "fetched_at": "2026-11-19T07:09:54.650Z"
+  "fetched_at": "2026-11-19T20:07:48.198Z"
 }
